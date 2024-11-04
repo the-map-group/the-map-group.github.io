@@ -1,2 +1,0 @@
-countries_dict = {
-}
