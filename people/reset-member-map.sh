@@ -9,7 +9,7 @@ if [ -z $1 ];
     exit 1
 fi
 
-git pull origin master
+git pull origin main
 
 cd $REPO_DIR/people/$1
 rm last_total.py
@@ -23,7 +23,7 @@ git add countries.py
 git add locations.py
 git add user.py
 git commit -m "Reset map for member '$1'"
-git push origin master
+git push origin main
 
 rm countries.py
 rm locations.py

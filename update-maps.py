@@ -155,7 +155,7 @@ for page_number in range(number_of_pages, 0, -1):
             if is_new_member:
                 topic_subject = "[MAP] {}".format(member_name)
                 member_map = "{0}/people/{1}/".format(map_group_url, member_alias)
-                topic_message = "[{0}/{1}/] Map link: <a href=\"{3}\"><b>{3}</b></a>\n\nClick on the markers to see the photos taken on the corresponding location.".format(photos_url, member_alias, member_name, member_map)
+                topic_message = "[{0}/{1}/] Your map has been created! If you can not see it yet, please, wait some minutes and try again.\n\nMap link: <a href=\"{3}\"><b>{3}</b></a>\n\nClick on the markers to see the photos taken on the corresponding location.".format(photos_url, member_alias, member_name, member_map)
                 flickr.groups.discuss.topics.add(api_key=api_key, group_id=group_id, subject=topic_subject, message=topic_message)
                 print('Created discussion topic for new member')
         except:
@@ -282,11 +282,11 @@ for member in members_dirs:
     if member not in current_members:
         # remove member directory
         os.system("git rm -fr {0}/{1}".format(people_path, member))
-        os.system("git commit -m \"Removed member \'{}\'\"".format(member))
+        os.system("git commit -m \"[auto] Removed member \'{}\'\"".format(member))
         os.system("rm -fr {0}/{1}".format(people_path, member))
         print("Removed member: {}".format(member))
         removed += 1
         for topic in topics:
             if member in topic[1]:
-                reply_message = "[https://www.flickr.com/photos/{}/] Your map was removed. Feel free to come back anytime and a new map will be created for you.".format(member)
+                reply_message = "[https://www.flickr.com/photos/{}/] Your map has been removed. Feel free to come back anytime and a new map will be created for you.".format(member)
                 flickr.groups.discuss.replies.add(api_key=api_key, group_id=group_id, topic_id=topic[0], message=reply_message)
