@@ -42,6 +42,12 @@ def memberFilesExist(member_path):
         return True
     return False
 
+def sendEmail(member_name):
+    try:
+        os.system("echo \"Member \'" + member_name + "\' has joined the group but has no geotagged photos.\" | mail -s \"The Map Group: New member with no photos\" admin@the-map-group.top")
+    except:
+        pass
+
 
 #===== MAIN CODE ==============================================================#
 
@@ -131,7 +137,8 @@ for page_number in range(number_of_pages, 0, -1):
             os.system(command)
 
             if memberFilesExist(member_path):
-                loc_fsize_diff = os.stat("{}/locations.py".format(member_path)).st_size - prev_loc_fsize
+                loc_fsize = os.stat("{}/locations.py".format(member_path)).st_size
+                loc_fsize_diff = loc_fsize - prev_loc_fsize
             else:
                 loc_fsize_diff = 0
 
@@ -141,7 +148,7 @@ for page_number in range(number_of_pages, 0, -1):
                 os.system(command)
 
             # commit map
-            if (loc_fsize_diff != 0 or is_new_member) and memberFilesExist(member_path):
+            if (loc_fsize_diff != 0 or (is_new_member and loc_fsize > 21)) and memberFilesExist(member_path):
                 print('Commiting map data...')
                 os.system("git add -f {}/index.html".format(member_path))
                 os.system("git add -f {}/locations.py".format(member_path))
@@ -152,12 +159,18 @@ for page_number in range(number_of_pages, 0, -1):
             else:
                 print("Everything is up-to-date. Nothing to commit!")
 
-            if is_new_member:
+            # create discussion topic for new member
+            if is_new_member and loc_fsize > 21:
                 topic_subject = "[MAP] {}".format(member_name)
                 member_map = "{0}/people/{1}/".format(map_group_url, member_alias)
                 topic_message = "[{0}/{1}/] Your map has been created! If you can not see it yet, please, wait some minutes and try again.\n\nMap link: <a href=\"{3}\"><b>{3}</b></a>\n\nClick on the markers to see the photos taken on the corresponding location.".format(photos_url, member_alias, member_name, member_map)
                 flickr.groups.discuss.topics.add(api_key=api_key, group_id=group_id, subject=topic_subject, message=topic_message)
                 print('Created discussion topic for new member')
+
+            if loc_fsize <= 21:
+                print('Member has no geottaged photos. Sending e-mail...')
+                sendEmail(member_name)
+
         except:
             pass
 
