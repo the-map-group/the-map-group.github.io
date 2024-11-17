@@ -4,6 +4,6 @@ user_info = {
   'name': 'I saw_that',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/88196436@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/saw_that/',
-  'markers': 1184,
-  'photos': 2246
+  'markers': 1185,
+  'photos': 2247
 }
