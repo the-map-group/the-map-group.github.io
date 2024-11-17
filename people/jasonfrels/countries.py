@@ -1,8 +1,8 @@
 countries_dict = {
+  'NO': ['Norway', 19, 19],
+  'SG': ['Singapore', 1, 1],
+  'AR': ['Argentina', 1, 1],
   'CA': ['Canada', 4, 5],
-  'SG': ['Singapore', 1, 2],
-  'US': ['United States', 118, 138],
-  'NO': ['Norway', 19, 20],
   'CL': ['Chile', 9, 10],
-  'AR': ['Argentina', 1, 1]
+  'US': ['United States', 114, 134]
 }
