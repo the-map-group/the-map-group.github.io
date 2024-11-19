@@ -4,6 +4,6 @@ user_info = {
   'name': 'zimwizdotcom',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/14461370@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/zimwiz/',
-  'markers': 651,
-  'photos': 920
+  'markers': 652,
+  'photos': 921
 }
