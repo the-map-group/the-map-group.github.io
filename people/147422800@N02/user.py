@@ -4,6 +4,6 @@ user_info = {
   'name': 'Marion Kaminski',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/147422800@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/147422800@N02/',
-  'markers': 177,
-  'photos': 302
+  'markers': 178,
+  'photos': 304
 }
