@@ -4,6 +4,6 @@ user_info = {
   'name': 'gsegelken',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/100209004@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/oldboyscout/',
-  'markers': 2081,
-  'photos': 2293
+  'markers': 2103,
+  'photos': 2315
 }
