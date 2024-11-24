@@ -103,6 +103,7 @@
   color: lightgrey;
   text-align: left;
   padding-left: 3px;
+  cursor: pointer;
 }
 
 .n-markers {

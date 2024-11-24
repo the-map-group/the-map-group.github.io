@@ -2,15 +2,6 @@ function custom() {
 
   document.title = user_info["name"].concat(" | Photos Map");
 
-  countries = []
-
-  for (var country_code in countries_dict) {
-    countries.push([country_code,
-      countries_dict[country_code][0],
-      countries_dict[country_code][1],
-      countries_dict[country_code][2]])
-  }
-
   addFavicon();
   addFooter();
   addAttribution();
@@ -45,23 +36,73 @@ function custom() {
   document.getElementById("user-name").appendChild(member_link);
   document.getElementById("member_link").innerText = member_name;
 
+  countries = []
+
+  for (var country_code in countries_dict) {
+    countries.push([country_code,
+      countries_dict[country_code][0],
+      countries_dict[country_code][1],
+      countries_dict[country_code][2]])
+  }
+
   if (countries.length > 1) {
     document.getElementById("n-countries").innerText = countries.length.toString().concat(" countries");
   } else {
     document.getElementById("n-countries").innerText = countries.length.toString().concat(" country");
   }
 
+  document.getElementById("n-countries").addEventListener('click', handleClickCountries);
+
   document.getElementById("n-markers").addEventListener('click', function() { fitInitialBoundingBox(initial_bbox); addMarkersToMap(add_markers_increment); });
   document.getElementById("n-markers").innerText = user_info["markers"];
   document.getElementById("n-photos").innerText = user_info["photos"];
 
-  countries.sort(function(a,b) {
-    var delta = (b[2]-a[2]);
-    if (delta == 0) {
-      return (b[3]-a[3]);
-    }
-    return delta;
-   });
+  loadCountries();
+
+  updateTotalMarkersCount();
+
+  customized = true;
+
+}
+
+function loadCountries() {
+
+  switch (countries_list_state) {
+    case 1:
+      // sort by n_markers
+      countries.sort(function(a,b) {
+        var delta = (b[2]-a[2]);
+        if (delta == 0) {
+          return (b[3]-a[3]);
+        }
+        return delta;
+      });
+      document.getElementById("n-countries").setAttribute("title", "Click to sort by number of photos");
+      break;
+    case 2:
+      // sort by n_photos
+      countries.sort(function(a,b) {
+        var delta = (b[3]-a[3]);
+        if (delta == 0) {
+          return (b[4]-a[4]);
+        }
+        return delta;
+      });
+      document.getElementById("n-countries").setAttribute("title", "Click to sort alphabetically");
+      break;
+    case 3:
+      // sort alphabetically
+      countries.sort(function(a,b) {
+        var in_order = (b[1]<a[1]);
+        if (in_order) {
+          return 1;
+        } else {
+          return -1;
+        }
+      });
+      document.getElementById("n-countries").setAttribute("title", "Click to sort by number of markers");
+      break;
+  }
 
   for (var i = 0; i < countries.length; i++) {
 
@@ -133,10 +174,44 @@ function custom() {
 
   countries.forEach(addListener);
 
-  updateTotalMarkersCount();
+}
 
-  customized = true;
+function handleClickCountries() {
+  switch (countries_list_state) {
+    case 1:
+      // sort n_photos
+      countries_list_state = 2;
+      emptyList(countries.length);
+      break;
+    case 2:
+      // sort alphabetically
+      countries_list_state = 3;
+      emptyList(countries.length);
+      break;
+    case 3:
+      // sort by n_markers
+      countries_list_state = 1;
+      emptyList(countries.length);
+      break;
+  }
+  loadCountries();
+}
 
+function emptyList(list_size) {
+  for (var i = list_size-1; i >= 0; i--) {
+    var flags_list = document.getElementById("flags");
+    flags_list.removeChild(flags_list.childNodes[i]);
+    var countries_list = document.getElementById("countries");
+    countries_list.removeChild(countries_list.childNodes[i]);
+    var places_list = document.getElementById("places");
+    places_list.removeChild(places_list.childNodes[i]);
+    var place_icon_list = document.getElementById("place-icon");
+    place_icon_list.removeChild(place_icon_list.childNodes[i]);
+    var photos_list = document.getElementById("photos");
+    photos_list.removeChild(photos_list.childNodes[i]);
+    var photo_icon_list = document.getElementById("photo-icon");
+    photo_icon_list.removeChild(photo_icon_list.childNodes[i]);
+  }
 }
 
 
@@ -183,30 +258,30 @@ function fitInitialBoundingBox(initial_bbox) {
 };
 
 function addMarkersToCountry(country_code, start_index) {
-    var country_array = locations_dict[country_code];
-    var end_index = start_index + add_markers_increment;
+  var country_array = locations_dict[country_code];
+  var end_index = start_index + add_markers_increment;
 
-    if (end_index > country_array.length) {
-      end_index = country_array.length;
-    }
+  if (end_index > country_array.length) {
+    end_index = country_array.length;
+  }
 
-    for (var i = start_index; i < end_index; i++) {
-      addMarker(country_array[i]);
-      markers_added[country_code]++;
-      current_n_markers++;
-    }
+  for (var i = start_index; i < end_index; i++) {
+    addMarker(country_array[i]);
+    markers_added[country_code]++;
+    current_n_markers++;
+  }
 
-    if (markers_added[country_code] < countries_dict[country_code][1]) {
-      document.getElementById(country_code.concat("_markers")).setAttribute("title", "Showing " + markers_added[country_code] + " markers, click here to show more");
-    } else {
-      document.getElementById(country_code.concat("_markers")).setAttribute("title", "Showing all markers");
-    }
+  if (markers_added[country_code] < countries_dict[country_code][1]) {
+    document.getElementById(country_code.concat("_markers")).setAttribute("title", "Showing " + markers_added[country_code] + " markers, click here to show more");
+  } else {
+    document.getElementById(country_code.concat("_markers")).setAttribute("title", "Showing all markers");
+  }
 
-    if (current_n_markers < user_info["markers"]) {
-      document.getElementById("n-markers").setAttribute("title", "Showing " + current_n_markers + " markers, click here to show more");
-    } else {
-      document.getElementById("n-markers").setAttribute("title", "Showing all markers");
-    }
+  if (current_n_markers < user_info["markers"]) {
+    document.getElementById("n-markers").setAttribute("title", "Showing " + current_n_markers + " markers, click here to show more");
+  } else {
+    document.getElementById("n-markers").setAttribute("title", "Showing all markers");
+  }
 
 }
 
