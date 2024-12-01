@@ -4,6 +4,6 @@ user_info = {
   'name': 'Urban Florida Photographer',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/126251698@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/miamiboy/',
-  'markers': 7733,
-  'photos': 13237
+  'markers': 7736,
+  'photos': 13240
 }
