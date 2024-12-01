@@ -68,7 +68,7 @@ function loadMembers() {
     case 2:
       // sort by name
       members_list.sort(function(a,b) {
-        var in_order = (b[2]<a[2]);
+        var in_order = (b[2].toLowerCase() < a[2].toLowerCase());
         if (in_order) {
           return 1;
         } else {
