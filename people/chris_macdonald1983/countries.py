@@ -1,6 +1,6 @@
 countries_dict = {
-  'CA': ['Canada', 4, 4],
+  'SG': ['Singapore', 14, 24],
   'US': ['United States of America', 25, 31],
-  'CN': ['South China Sea Islands (disputed)', 31, 42],
-  'SG': ['Singapore', 14, 24]
+  'CN': ['China', 31, 42],
+  'CA': ['Canada', 4, 4]
 }
