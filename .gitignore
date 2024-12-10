@@ -15,4 +15,5 @@ update-maps.sh
 run-update-maps.sh
 backup-data.sh
 maps.log
+mapbox_calls.log
 
