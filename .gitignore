@@ -1,4 +1,3 @@
-*.log
 __pycache__
 api_credentials.py
 authenticate.py
@@ -15,3 +14,5 @@ update-repos.sh
 update-maps.sh
 run-update-maps.sh
 backup-data.sh
+maps.log
+
