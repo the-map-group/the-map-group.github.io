@@ -57,17 +57,17 @@ def getInfoFromGeoNames(latlong):
 def getCountryInfo(lat, long):
 
     # control if MapBox geocoder will be used on territories
-    use_mapbox = True
+    use_mapbox = False
 
     # exclusion lists
     nominatim_exclude = ['MA']
     geonames_exclude = []
 
     # control if report and errors files will be generated
-    gen_rep_file = True
-    gen_err_file = True
+    gen_rep_file = False
+    gen_err_file = False
 
-    ### DO NOT CHANGE! ###
+    ### DO NOT MODIFY! ###
     is_territory = False
 
     run_dir = "/home/pi/github/the-map-group.github.io"
