@@ -243,10 +243,13 @@ def getCountryInfo(lat, long):
                         htm_file.write("<a href=\"https://www.google.com.br/maps/place/@{0},{1},8z\" target=\"_blank\">[{0}, {1}]</a> added to not found list<br>\n".format(latitude, longitude))
                         log_file.write("[{}, {}] added to not found list\n".format(latitude, longitude))
                     else:
+                        htm_file.write("[{}, {}] not added to not found list, it is not in an isolated place<br>\n".format(latitude, longitude))
                         log_file.write("[{}, {}] not added to not found list, it is not in an isolated place\n".format(latitude, longitude))
                 except:
+                    htm_file.write("[{}, {}] not added to not found list, exception ocurred<br>\n".format(latitude, longitude))
                     log_file.write("[{}, {}] not added to not found list, exception ocurred\n".format(latitude, longitude))
             else:
+                htm_file.write("[{}, {}] not added to not found list, it is at not found excludes<br>\n".format(latitude, longitude))
                 log_file.write("[{}, {}] not added to not found list, it is at not found excludes\n".format(latitude, longitude))
 
         htm_file.close()
@@ -509,7 +512,9 @@ codes_dict = {
   'Saint Lucia': 'LC',
   'Saint Vincent and the Grenadines': 'VC',
   'Svalbard and Jan Mayen': 'SJ',
-  'Réunion': 'RE'
+  'Réunion': 'RE',
+  'Czechia': 'CZ',
+  'Northern Cyprus': 'CY'
 }
 
 latitude_dict = {
