@@ -6,5 +6,5 @@ user_info = {
   'url': 'https://www.flickr.com/photos/mosesharold/',
   'markers': 3351,
   'photos': 4667,
-  'countries': 77
+  'countries': 70
 }
