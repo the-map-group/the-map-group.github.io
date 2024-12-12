@@ -7,6 +7,7 @@ people/*/generate-map-data.py
 people/*/update-countries-map-data.py
 people/*/countries_info.py
 people/*/countries_members.py
+people/*/not_found_places.py
 people/members_list
 last_total.py
 update-initial-code.sh
