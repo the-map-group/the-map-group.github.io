@@ -3559,3 +3559,10 @@
 (38.690232, -9.177403) skipped: [38, -9] is at not found list
 (50.922298, -1.395263) skipped: [50, -1] is at not found list
 (50.970589, -1.350116) skipped: [50, -1] is at not found list
+(79.775406, 20.493364) not found by any of the geocoders
+[79, 20] added to not found list
+(79.780067, 20.448818) skipped: [79, 20] is at not found list
+(80.067192, 31.522564) not found by any of the geocoders
+[80, 31] added to not found list
+(80.066999, 31.525504) skipped: [80, 31] is at not found list
+(79.339745, 20.619964) skipped: [79, 20] is at not found list
