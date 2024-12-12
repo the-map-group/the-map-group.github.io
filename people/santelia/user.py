@@ -4,6 +4,7 @@ user_info = {
   'name': 'Alfonso Santelia',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/32557441@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/santelia/',
-  'markers': 714,
-  'photos': 1042
+  'markers': 715,
+  'photos': 1043,
+  'countries': 34
 }
