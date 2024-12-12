@@ -19,6 +19,7 @@ mkdir $REPO_DIR/people/$1
 cd $REPO_DIR/people/$1
 ln -s ../../api_credentials.py .
 ln -s ../../countries_info.py .
+ln -s ../../not_found_places.py .
 ln -s ../../countries/members.py countries_members.py
 ln $GEN_MAP_DIR/generate-map-data.py .
 ln ../index.html .

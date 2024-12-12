@@ -51,6 +51,12 @@ def sendEmail(member_name):
 
 #===== MAIN CODE ==============================================================#
 
+reset = True
+
+if reset:
+    command = "rm {}/countries/members.py".format(repo_path)
+    os.system(command)
+
 current_members = []
 members_list = []
 
@@ -108,22 +114,24 @@ for page_number in range(number_of_pages, 0, -1):
                 print('##### Generating map for new member: {}...'.format(member_name[0:16]))
             else:
                 print('##### Updating map for member: {}...'.format(member_name[0:20]))
-                # get 'locations.py', 'countries.py' and 'user.js' from github
-                print('Getting locations and countries from remote...')
-                try:
-                    if not os.path.exists("{}/locations.py".format(member_path)):
-                        command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/locations.py".format(member_path, member_alias)
-                        os.system(command)
-                    if not os.path.exists("{}/countries.py".format(member_path)):
-                        command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/countries.py".format(member_path, member_alias)
-                        os.system(command)
-                    if not os.path.exists("{}/user.py".format(member_path)):
-                        command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/user.py".format(member_path, member_alias)
-                        os.system(command)
-                except:
-                    pass
 
-            if not is_new_member and not memberFilesExist(member_path):
+                if not reset:
+                    # get 'locations.py', 'countries.py' and 'user.js' from github
+                    print('Getting locations and countries from remote...')
+                    try:
+                        if not os.path.exists("{}/locations.py".format(member_path)):
+                            command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/locations.py".format(member_path, member_alias)
+                            os.system(command)
+                        if not os.path.exists("{}/countries.py".format(member_path)):
+                            command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/countries.py".format(member_path, member_alias)
+                            os.system(command)
+                        if not os.path.exists("{}/user.py".format(member_path)):
+                            command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/user.py".format(member_path, member_alias)
+                            os.system(command)
+                    except:
+                        pass
+
+            if not reset and not is_new_member and not memberFilesExist(member_path):
                 continue
 
             if memberFilesExist(member_path):
@@ -148,13 +156,16 @@ for page_number in range(number_of_pages, 0, -1):
                 os.system(command)
 
             # commit map
-            if (loc_fsize_diff != 0 or (is_new_member and loc_fsize > 21)) and memberFilesExist(member_path):
+            if reset or ((loc_fsize_diff != 0 or (is_new_member and loc_fsize > 21)) and memberFilesExist(member_path)):
                 print('Commiting map data...')
                 os.system("git add -f {}/index.html".format(member_path))
                 os.system("git add -f {}/locations.py".format(member_path))
                 os.system("git add -f {}/countries.py".format(member_path))
                 os.system("git add -f {}/user.py".format(member_path))
+                os.system("git add -f {}/not_found_places.py".format(repo_path))
+                os.system("git add -f {}/log/*".format(repo_path))
                 os.system("git commit -m \"[auto] Updated map for member \'{}\'\"".format(member_name))
+                os.system("git push origin main")
                 print('Done!')
             else:
                 print("Everything is up-to-date. Nothing to commit!")
@@ -246,6 +257,7 @@ print('Commiting map data...')
 os.system("git add -f {}/locations.py".format(repo_path))
 os.system("git add -f {}/members.py".format(repo_path))
 os.system("git add -f {}/countries/*".format(repo_path))
+os.system("git add -f {}/log/*".format(repo_path))
 os.system("git commit -m \"[auto] Updated group map\"")
 print('Done!')
 
