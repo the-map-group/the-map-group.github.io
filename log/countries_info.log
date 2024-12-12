@@ -3553,3 +3553,7 @@
 (-3.834848, -32.400456) not skipped: [-3, -32] is at not found excludes
 (-3.834767, -32.400259) not skipped: [-3, -32] is at not found excludes
 (-3.8422, -32.416862) not skipped: [-3, -32] is at not found excludes
+(36.739064, -5.167211) skipped: [36, -5] is at not found list
+(38.781872, -9.497337) skipped: [38, -9] is at not found list
+(38.690701, -9.431022) skipped: [38, -9] is at not found list
+(38.690232, -9.177403) skipped: [38, -9] is at not found list
