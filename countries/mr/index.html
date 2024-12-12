@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+
+  <!-- change path if needed -->
+  <script src="../../locations.py"></script>
+  <script src="../../mapbox_token.js"></script>
+  <script src="../custom.js"></script>
+
+  <style>
+  body { margin: 0; padding: 0; }
+  #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+  #menu { position: absolute; background: #fff; padding: 10px 15px 10px 10px; font-family: 'Open Sans', sans-serif; cursor: default; }
+  </style>
+
+  <!-- Begin of customization includes -->
+  <link href="../style.css" rel="stylesheet" />
+  <script src="country_code.js"></script>
+  <script src="../members.py"></script>
+  <script src="../../members.py"></script>
+  <script src="../../countries_bbox.js"></script>
+  <!-- End of customization includes -->
+
+</head>
+
+<body onresize="setSelectorPosition()">
+
+  <div id="map" onclick="closeOverlay()"></div>
+  <div id="menu">
+    <input id="streets-v11" type="radio" name="rtoggle" value="streets" checked="checked" />
+    <label for="streets-v11">streets</label>
+    <input id="outdoors-v11" type="radio" name="rtoggle" value="outdoors" />
+    <label for="outdoors-v11">outdoors</label>
+    <input id="satellite-v9" type="radio" name="rtoggle" value="satellite" />
+    <label for="satellite-v9">satellite</label>
+  </div>
+
+  <div id="selector" class="selector">
+    <input id="checkbox-members" type="checkbox" checked="checked" />
+    <img id="members-icon" src="../../icons/member.svg" height="20px" style="margin-bottom:-3px"/>
+    members
+    <input id="checkbox-non-members" type="checkbox" checked="checked" />
+    <img id="members-icon" src="../../icons/non-member.svg" height="20px" style="margin-bottom:-3px"/>
+    non-members
+  </div>
+
+  <script>
+
+  mapboxgl.accessToken = mapbox_token;
+
+  var current_map_style = 'mapbox://styles/mapbox/streets-v11';
+
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: current_map_style
+  });
+
+  map.addControl(new mapboxgl.FullscreenControl({container: document.querySelector('body')}));
+  map.addControl(new mapboxgl.NavigationControl());
+
+  var layerList = document.getElementById('menu');
+  var inputs = layerList.getElementsByTagName('input');
+
+  for (var i = 0; i < inputs.length; i++) {
+    inputs[i].onclick = switchLayer;
+  }
+
+  var initial_bbox = [];
+  var current_bbox = [];
+
+  var west = countries_bbox[country_code][1][0];
+  var south = countries_bbox[country_code][1][1];
+  var east = countries_bbox[country_code][1][2];
+  var north = countries_bbox[country_code][1][3];
+
+  locations.forEach(addMarker);
+
+  initial_bbox = current_bbox;
+
+  map.fitBounds([
+    [west, south],
+    [east, north]],
+    {padding: 150}
+  );
+
+  map.on('dragend', function() {
+    current_bbox = [];
+  });
+
+  map.on('wheel', function() {
+    current_bbox = [];
+  });
+
+  document.getElementById("checkbox-members").addEventListener('click', function() { refreshMap() });
+  document.getElementById("checkbox-non-members").addEventListener('click', function() { refreshMap() });
+
+  custom();
+
+
+  // Functions
+
+  function refreshMap(){
+    map.remove();
+    map = new mapboxgl.Map({
+      container: 'map',
+      style: current_map_style
+    });
+    map.addControl(new mapboxgl.FullscreenControl({container: document.querySelector('body')}));
+    map.addControl(new mapboxgl.NavigationControl());
+    locations.forEach(addMarker)
+    fitBoundingBox(current_bbox);
+  }
+
+  function switchLayer(layer) {
+    var layerId = layer.target.id;
+    current_map_style = 'mapbox://styles/mapbox/' + layerId;
+    map.setStyle(current_map_style);
+  }
+
+  function addMarker(value) {
+
+    var htmlText = "<div style=\"max-height:490px;overflow:auto;\">";
+
+    for (var i = 0; i < value[3].length; i++) {
+      htmlText = htmlText.concat("<a href=\"https://flickr.com/photos/")
+      .concat(value[2]).concat("/").concat(value[3][i][0])
+      .concat("/in/pool-the-map-group/\" target=\"_blank\"><img src=\"")
+      .concat(value[3][i][1]).concat("\"/></a> ");
+    }
+    htmlText = htmlText.concat("</div>");
+
+    var member = false;
+    var markerColor = '#999999';
+
+    for (var i = 0; i < members_list.length; i++) {
+      if (value[2] == members_list[i][0]) {
+        markerColor = '#C2185B';
+        member = true;
+        break;
+      }
+    }
+
+    var marker;
+
+    if (value[4] <= 35) {
+      marker = new mapboxgl.Marker({color:markerColor,scale:0.7,draggable:false})
+      .setLngLat(value[0])
+      .setPopup(new mapboxgl.Popup({closeButton:false,maxWidth:'566px',anchor:'bottom'}).setHTML(htmlText));
+    } else {
+      marker = new mapboxgl.Marker({color:markerColor,scale:0.7,draggable:false})
+      .setLngLat(value[0])
+      .setPopup(new mapboxgl.Popup({closeButton:false,maxWidth:'592px',anchor:'bottom'}).setHTML(htmlText));
+    }
+
+    var members_checked = document.getElementById("checkbox-members").checked;
+    var non_members_checked = document.getElementById("checkbox-non-members").checked;
+
+    if ((member && members_checked) || (!member && non_members_checked)) {
+      marker.addTo(map);
+    }
+
+    current_bbox = [west, south, east, north];
+
+  }
+
+  </script>
+
+
+  <!-- Default Statcounter code for the map group
+  https://the-map-group.github.io/ -->
+  <script type="text/javascript">
+  var sc_project=12369344;
+  var sc_invisible=1;
+  var sc_security="e25c0508";
+  </script>
+  <script type="text/javascript"
+  src="https://www.statcounter.com/counter/counter.js"
+  async></script>
+  <noscript><div class="statcounter"><a title="Web Analytics"
+  href="https://statcounter.com/" target="_blank"><img
+  class="statcounter"
+  src="https://c.statcounter.com/12369344/0/e25c0508/1/"
+  alt="Web Analytics"></a></div></noscript>
+  <!-- End of Statcounter Code -->
+
+  </body>
+  </html>
