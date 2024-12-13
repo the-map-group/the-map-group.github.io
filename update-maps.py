@@ -139,10 +139,14 @@ for page_number in range(number_of_pages, 0, -1):
             else:
                 prev_loc_fsize = 0
 
-            # generate/update member's map
             htm_file = open("{}/log/index.html".format(repo_path), "a")
             htm_file.write("<br>##### {}:<br>\n".format(member_name))
             htm_file.close()
+            log_file = open("{}/log/countries_info.log".format(repo_path), "a")
+            log_file.write("\n##### {}:\n".format(member_name))
+            log_file.close()
+
+            # generate/update member's map
             print('Starting \'Flickr Map\' script...')
             command = "{}/generate-map-data.py".format(member_path)
             os.system(command)
