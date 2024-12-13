@@ -1907,3 +1907,7 @@ GeoNames: (-53.87844, -36.85913) => 'GS: South Georgia and South Sandwich Island
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
 GeoNames: (28.09924, -112.288513) => 'MX: Mexico'
 GeoNames: (26.117219, -110.841751) => 'MX: Mexico'
+GeoNames: (41.794491, 9.259605) => 'FR: France'
+GeoNames: (42.028225, 9.19475) => 'FR: France'
+GeoNames: (30.417452, -8.673681) => 'MA: Morocco'
+GeoNames: (30.46773, -8.884003) => 'MA: Morocco'
