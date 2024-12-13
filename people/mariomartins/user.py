@@ -5,5 +5,6 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/188218905@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/mariomartins/',
   'markers': 102,
-  'photos': 160
+  'photos': 160,
+  'countries': 4
 }
