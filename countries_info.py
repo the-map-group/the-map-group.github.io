@@ -4,6 +4,7 @@ from geopy.geocoders import Nominatim
 from geopy.geocoders import GeoNames
 from geopy.geocoders import MapBox
 
+import os
 import api_credentials
 import not_found_places
 
@@ -99,6 +100,11 @@ def getCountryInfo(lat, long):
     log_dir = "{}/log".format(run_dir)
     htm_file = open("{}/index.html".format(log_dir), "a")
     log_file = open("{}/countries_info.log".format(log_dir), "a")
+
+    if not gen_err_file and os.path.isfile("{}/countries_info.err".format(log_dir)):
+        os.system("rm {}/countries_info.err".format(log_dir))
+    if not gen_rep_file and os.path.isfile("{}/countries_info.rep".format(log_dir)):
+        os.system("rm {}/countries_info.rep".format(log_dir))
 
     latlong = (lat, long)
     latitude = int(lat)
@@ -512,7 +518,7 @@ countries_dict = {
     'PW': ['Palau', [[130.85241878355825, 2.276788844461931, 135.76330741590354, 8.605929299211784]]],
     'GU': ['Guam', [[144.37910069285803, 13.074077183069257, 145.2219837083251, 13.871093966229127]]],
     'NF': ['Norfolk Island', [[167.88255366736797, -29.154067146012604, 168.04076064851756, -28.96378963203278]]],
-#    'AX': ['Åland', [[19.41546265377435, 59.89282758281474, 21.155608234093492, 60.61358224907711]]],
+    'AX': ['Åland', [[19.41546265377435, 59.89282758281474, 21.155608234093492, 60.61358224907711]]],
     'WW': ['Worldwide', [[-160, -20, 180, 60]]]
 }
 

@@ -145,6 +145,12 @@ for page_number in range(number_of_pages, 0, -1):
             log_file = open("{}/log/countries_info.log".format(repo_path), "a")
             log_file.write("\n##### {}:\n".format(member_name))
             log_file.close()
+            rep_file = open("{}/log/countries_info.rep".format(repo_path), "a")
+            rep_file.write("\n##### {}:\n".format(member_name))
+            rep_file.close()
+            err_file = open("{}/log/countries_info.err".format(repo_path), "a")
+            err_file.write("\n##### {}:\n".format(member_name))
+            err_file.close()
 
             # generate/update member's map
             print('Starting \'Flickr Map\' script...')
