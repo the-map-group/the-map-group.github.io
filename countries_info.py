@@ -227,7 +227,7 @@ def getCountryInfo(lat, long):
         if code == '':
             htm_file.write("(<a href=\"https://www.google.com.br/maps/place/@{0},{1},8z\" target=\"_blank\">{0}, {1}</a>) not found by any of the geocoders<br>\n".format(lat, long))
             log_file.write("{} not found by any of the geocoders\n".format(latlong))
-            if lat_long not in not_found_places_list and not in not_found_places_excludes:
+            if lat_long not in not_found_places_excludes:
                 try:
                     coord_01 = (latitude, longitude + 1)
                     coord_10 = (latitude + 1, longitude)
