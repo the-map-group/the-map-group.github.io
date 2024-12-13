@@ -224,7 +224,9 @@ function loadCountries() {
   for (var i = 0; i < countries.length; i++) {
 
     var country_code = countries[i][0];
+    console.log(country_code)
     var country_name = countries_bbox[country_code][0];
+    console.log(country_name)
 
     var i_countries_avatar = document.createElement("IMG");
     var icon_src = getIconSrc(country_name);
