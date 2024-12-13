@@ -187,7 +187,8 @@ def getCountryInfo(lat, long):
                     if gen_rep_file:
                         rep_file.write("\n")
         except:
-            rep_file.write("\'{}: {}\' = NOT FOUND\n".format(code, name))
+            if code != '':
+                rep_file.write("\'{}: {}\' = NOT FOUND AT DICTIONARY\n".format(code, name))
 
         # check if location is in a territory of another country
         try:
