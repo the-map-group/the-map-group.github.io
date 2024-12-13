@@ -226,32 +226,42 @@ def getCountryInfo(lat, long):
                     coord_01 = (latitude, longitude + 1)
                     coord_10 = (latitude + 1, longitude)
                     coord_11 = (latitude + 1, longitude + 1)
-                    code_01 = getInfoFromGeoNames(coord_01)[0]
-                    code_10 = getInfoFromGeoNames(coord_10)[0]
-                    code_11 = getInfoFromGeoNames(coord_11)[0]
+                    if use_mapbox:
+                        code_01 = getInfoFromMapBox(coord_01)[0]
+                        code_10 = getInfoFromMapBox(coord_10)[0]
+                        code_11 = getInfoFromMapBox(coord_11)[0]
+                    else:
+                        code_01 = getInfoFromGeoNames(coord_01)[0]
+                        code_10 = getInfoFromGeoNames(coord_10)[0]
+                        code_11 = getInfoFromGeoNames(coord_11)[0]
+                        # count as MapBox calls as if 'use_mapbox = True'
+                        updateMapboxCallsCount(log_dir)
+                        updateMapboxCallsCount(log_dir)
+                        updateMapboxCallsCount(log_dir)
                     if code_01 == '' and code_10 == '' and code_11 == '':
                         not_found_places_list.append(lat_long)
-                        not_found_file = open("{}/not_found_places.py".format(run_dir), "w")
-                        not_found_file.write("coords = [\n")
-                        for coord in not_found_places_list:
-                            not_found_file.write("  [{}, {}],\n".format(coord[0], coord[1]))
-                        not_found_file.write("]\n\n")
-                        not_found_file.write("excludes = [\n")
-                        for exclude in not_found_places_excludes:
-                            not_found_file.write("  [{}, {}],\n".format(exclude[0], exclude[1]))
-                        not_found_file.write("]\n")
-                        not_found_file.close()
                         htm_file.write("<a href=\"https://www.google.com.br/maps/place/@{0},{1},8z\" target=\"_blank\">[{0}, {1}]</a> added to not found list<br>\n".format(latitude, longitude))
                         log_file.write("[{}, {}] added to not found list\n".format(latitude, longitude))
                     else:
-                        htm_file.write("[{}, {}] not added to not found list, it is not in an isolated place<br>\n".format(latitude, longitude))
-                        log_file.write("[{}, {}] not added to not found list, it is not in an isolated place\n".format(latitude, longitude))
+                        not_found_places_excludes.append(lat_long)
+                        htm_file.write("[{}, {}] not found but it is not at an isolated place, added to not found excludes<br>\n".format(latitude, longitude))
+                        log_file.write("[{}, {}] not found but it is not at an isolated place, added to not found excludes\n".format(latitude, longitude))
+                    not_found_file = open("{}/not_found_places.py".format(run_dir), "w")
+                    not_found_file.write("coords = [\n")
+                    for coord in not_found_places_list:
+                        not_found_file.write("  [{}, {}],\n".format(coord[0], coord[1]))
+                    not_found_file.write("]\n\n")
+                    not_found_file.write("excludes = [\n")
+                    for exclude in not_found_places_excludes:
+                        not_found_file.write("  [{}, {}],\n".format(exclude[0], exclude[1]))
+                    not_found_file.write("]\n")
+                    not_found_file.close()
                 except:
                     htm_file.write("[{}, {}] not added to not found list, exception ocurred<br>\n".format(latitude, longitude))
                     log_file.write("[{}, {}] not added to not found list, exception ocurred\n".format(latitude, longitude))
             else:
-                htm_file.write("[{}, {}] not added to not found list, it is at not found excludes<br>\n".format(latitude, longitude))
-                log_file.write("[{}, {}] not added to not found list, it is at not found excludes\n".format(latitude, longitude))
+                htm_file.write("[{}, {}] not found but it is in not found excludes<br>\n".format(latitude, longitude))
+                log_file.write("[{}, {}] not found but it is in not found excludes\n".format(latitude, longitude))
 
         htm_file.close()
         log_file.close()
@@ -502,7 +512,7 @@ countries_dict = {
     'PW': ['Palau', [[130.85241878355825, 2.276788844461931, 135.76330741590354, 8.605929299211784]]],
     'GU': ['Guam', [[144.37910069285803, 13.074077183069257, 145.2219837083251, 13.871093966229127]]],
     'NF': ['Norfolk Island', [[167.88255366736797, -29.154067146012604, 168.04076064851756, -28.96378963203278]]],
-    'AX': ['Åland', [[19.41546265377435, 59.89282758281474, 21.155608234093492, 60.61358224907711]]],
+#    'AX': ['Åland', [[19.41546265377435, 59.89282758281474, 21.155608234093492, 60.61358224907711]]],
     'WW': ['Worldwide', [[-160, -20, 180, 60]]]
 }
 
