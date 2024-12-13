@@ -4,6 +4,7 @@ user_info = {
   'name': 'Liam Cheasty',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/43413480@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/liamcheasty/',
-  'markers': 3380,
-  'photos': 17573
+  'markers': 3381,
+  'photos': 17574,
+  'countries': 29
 }
