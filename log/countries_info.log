@@ -8422,3 +8422,5 @@
 (36.862794, -5.180703) skipped: [36, -5] is at not found list
 (36.86358, -5.181903) skipped: [36, -5] is at not found list
 (38.725619, -9.470665) skipped: [38, -9] is at not found list
+(19.574905, -82.375289) not found by any of the geocoders
+[19, -82] not added to not found list, it is not in an isolated place
