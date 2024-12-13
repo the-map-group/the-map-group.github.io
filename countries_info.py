@@ -24,13 +24,13 @@ def isTerritory(lat, long, code):
 
 def updateMapboxCallsCount(log_dir):
     try:
-        mbx_file = open("{}/mapbox_calls.log".format(log_dir), "r")
+        mbx_file = open("{}/mapbox_calls".format(log_dir), "r")
         mapbox_calls = int(mbx_file.read().strip())
         mapbox_calls += 1
         mbx_file.close()
     except:
         mapbox_calls = 1
-    mbx_file = open("{}/mapbox_calls.log".format(log_dir), "w")
+    mbx_file = open("{}/mapbox_calls".format(log_dir), "w")
     mbx_file.write(str(mapbox_calls))
     mbx_file.close()
 
@@ -102,9 +102,9 @@ def getCountryInfo(lat, long):
     log_file = open("{}/countries_info.log".format(log_dir), "a")
 
     if not gen_err_file and os.path.isfile("{}/countries_info.err".format(log_dir)):
-        os.system("rm {}/countries_info.err".format(log_dir))
+        os.system("git rm {}/countries_info.err".format(log_dir))
     if not gen_rep_file and os.path.isfile("{}/countries_info.rep".format(log_dir)):
-        os.system("rm {}/countries_info.rep".format(log_dir))
+        os.system("git rm {}/countries_info.rep".format(log_dir))
 
     latlong = (lat, long)
     latitude = int(lat)
@@ -241,9 +241,8 @@ def getCountryInfo(lat, long):
                         code_10 = getInfoFromGeoNames(coord_10)[0]
                         code_11 = getInfoFromGeoNames(coord_11)[0]
                         # count as MapBox calls as if 'use_mapbox = True'
-                        updateMapboxCallsCount(log_dir)
-                        updateMapboxCallsCount(log_dir)
-                        updateMapboxCallsCount(log_dir)
+                        for i in range(3):
+                            updateMapboxCallsCount(log_dir)
                     if code_01 == '' and code_10 == '' and code_11 == '':
                         not_found_places_list.append(lat_long)
                         htm_file.write("<a href=\"https://www.google.com.br/maps/place/@{0},{1},8z\" target=\"_blank\">[{0}, {1}]</a> added to not found list<br>\n".format(latitude, longitude))
@@ -266,8 +265,8 @@ def getCountryInfo(lat, long):
                     htm_file.write("[{}, {}] not added to not found list, exception ocurred<br>\n".format(latitude, longitude))
                     log_file.write("[{}, {}] not added to not found list, exception ocurred\n".format(latitude, longitude))
             else:
-                htm_file.write("[{}, {}] not found but it is in not found list or excludes<br>\n".format(latitude, longitude))
-                log_file.write("[{}, {}] not found but it is in not found list or excludes\n".format(latitude, longitude))
+                htm_file.write("[{}, {}] not found but it is at not found excludes<br>\n".format(latitude, longitude))
+                log_file.write("[{}, {}] not found but it is at not found excludes\n".format(latitude, longitude))
 
         htm_file.close()
         log_file.close()
