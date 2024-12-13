@@ -250,8 +250,8 @@ def getCountryInfo(lat, long):
                         log_file.write("[{}, {}] added to not found list\n".format(latitude, longitude))
                     else:
                         not_found_places_excludes.append(lat_long)
-                        htm_file.write("[{}, {}] not found but it is not at an isolated place, added to not found excludes<br>\n".format(latitude, longitude))
-                        log_file.write("[{}, {}] not found but it is not at an isolated place, added to not found excludes\n".format(latitude, longitude))
+                        htm_file.write("[{}, {}] not found but it is not in an isolated place, added to not found excludes<br>\n".format(latitude, longitude))
+                        log_file.write("[{}, {}] not found but it is not in an isolated place, added to not found excludes\n".format(latitude, longitude))
                     not_found_file = open("{}/not_found_places.py".format(run_dir), "w")
                     not_found_file.write("coords = [\n")
                     for coord in not_found_places_list:
@@ -518,7 +518,7 @@ countries_dict = {
     'PW': ['Palau', [[130.85241878355825, 2.276788844461931, 135.76330741590354, 8.605929299211784]]],
     'GU': ['Guam', [[144.37910069285803, 13.074077183069257, 145.2219837083251, 13.871093966229127]]],
     'NF': ['Norfolk Island', [[167.88255366736797, -29.154067146012604, 168.04076064851756, -28.96378963203278]]],
-    'AX': ['Åland', [[19.41546265377435, 59.89282758281474, 21.155608234093492, 60.61358224907711]]],
+    'AX': ['Aland Islands', [[19.41546265377435, 59.89282758281474, 21.155608234093492, 60.61358224907711]]],
     'WW': ['Worldwide', [[-160, -20, 180, 60]]]
 }
 
@@ -539,7 +539,8 @@ codes_dict = {
   'Eswatini': 'SZ',
   'The Netherlands': 'NL',
   'Palestinian Territory': 'PS',
-  'Abkhazia': 'GE'
+  'Abkhazia': 'GE',
+  'Åland': 'AX'
 }
 
 latitude_dict = {
