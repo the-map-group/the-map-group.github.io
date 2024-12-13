@@ -101,11 +101,6 @@ def getCountryInfo(lat, long):
     htm_file = open("{}/index.html".format(log_dir), "a")
     log_file = open("{}/countries_info.log".format(log_dir), "a")
 
-    if not gen_err_file and os.path.isfile("{}/countries_info.err".format(log_dir)):
-        os.system("git rm {}/countries_info.err".format(log_dir))
-    if not gen_rep_file and os.path.isfile("{}/countries_info.rep".format(log_dir)):
-        os.system("git rm {}/countries_info.rep".format(log_dir))
-
     latlong = (lat, long)
     latitude = int(lat)
     longitude = int(long)
