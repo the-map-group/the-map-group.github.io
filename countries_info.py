@@ -227,7 +227,7 @@ def getCountryInfo(lat, long):
         if code == '':
             htm_file.write("(<a href=\"https://www.google.com.br/maps/place/@{0},{1},8z\" target=\"_blank\">{0}, {1}</a>) not found by any of the geocoders<br>\n".format(lat, long))
             log_file.write("{} not found by any of the geocoders\n".format(latlong))
-            if lat_long not in not_found_places_excludes:
+            if lat_long not in not_found_places_list and not in not_found_places_excludes:
                 try:
                     coord_01 = (latitude, longitude + 1)
                     coord_10 = (latitude + 1, longitude)
@@ -266,8 +266,8 @@ def getCountryInfo(lat, long):
                     htm_file.write("[{}, {}] not added to not found list, exception ocurred<br>\n".format(latitude, longitude))
                     log_file.write("[{}, {}] not added to not found list, exception ocurred\n".format(latitude, longitude))
             else:
-                htm_file.write("[{}, {}] not found but it is in not found excludes<br>\n".format(latitude, longitude))
-                log_file.write("[{}, {}] not found but it is in not found excludes\n".format(latitude, longitude))
+                htm_file.write("[{}, {}] not found but it is in not found list or excludes<br>\n".format(latitude, longitude))
+                log_file.write("[{}, {}] not found but it is in not found list or excludes\n".format(latitude, longitude))
 
         htm_file.close()
         log_file.close()
