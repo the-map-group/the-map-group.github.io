@@ -1,1 +1,0 @@
-../clear-log.sh

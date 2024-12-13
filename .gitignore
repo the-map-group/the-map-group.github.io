@@ -16,7 +16,6 @@ update-maps.sh
 run-update-maps.sh
 backup-data.sh
 clear-log.sh
-log/clear-log.sh
 clear-members.sh
 maps.log
 mapbox_calls.log
