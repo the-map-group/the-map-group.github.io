@@ -6,5 +6,5 @@ user_info = {
   'url': 'https://www.flickr.com/photos/santelia/',
   'markers': 715,
   'photos': 1043,
-  'countries': 34
+  'countries': 33
 }
