@@ -2042,3 +2042,6 @@
 
 ##### m01229:
 (36.99442, -8.949522) not skipped: [36, -8] is at not found excludes
+
+##### xray_jets:
+(45.875886, 6.689577) skipped: [45, 6] is at not found list
