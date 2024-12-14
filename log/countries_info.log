@@ -604,3 +604,69 @@
 ##### Dmitry Djouce:
 (49.968585, -5.206832) not skipped: [49, -5] is at not found excludes
 (49.979219, -5.245067) not skipped: [49, -5] is at not found excludes
+
+##### Joseph Hollick:
+(78.480838, -145.130809) not found by any of the geocoders
+[78, -145] added to not found list
+(5.484768, 104.095458) not found by any of the geocoders
+[5, 104] added to not found list
+(28.280679, -117.46582) not found by any of the geocoders
+[28, -117] not found but it is not in an isolated place, added to not found excludes
+(15.205217, -67.510986) not found by any of the geocoders
+[15, -67] added to not found list
+(3.699818, 104.501953) not found by any of the geocoders
+[3, 104] not found but it is not in an isolated place, added to not found excludes
+(7.776308, 102.502441) not found by any of the geocoders
+[7, 102] added to not found list
+(14.43468, -65.126953) not found by any of the geocoders
+[14, -65] added to not found list
+(55.429013, 3.823242) not found by any of the geocoders
+[55, 3] added to not found list
+(-58.309488, -55.986328) not found by any of the geocoders
+[-58, -55] added to not found list
+(-51.508742, -67.368164) not found by any of the geocoders
+[-51, -67] added to not found list
+(15.305379, -75.717773) not found by any of the geocoders
+[15, -75] added to not found list
+(14.902321, -95.262451) not found by any of the geocoders
+[14, -95] added to not found list
+(30.297017, -117.707519) not found by any of the geocoders
+[30, -117] not found but it is not in an isolated place, added to not found excludes
+(36.509636, 124.057617) not found by any of the geocoders
+[36, 124] added to not found list
+(36.447799, 123.848876) not found by any of the geocoders
+[36, 123] not found but it is not in an isolated place, added to not found excludes
+(8.64103, 102.641494) not found by any of the geocoders
+[8, 102] added to not found list
+(11.135287, 100.810546) not found by any of the geocoders
+[11, 100] not found but it is not in an isolated place, added to not found excludes
+(-43.758019, 157.719476) not found by any of the geocoders
+[-43, 157] added to not found list
+(-46.065608, 166.245117) not found by any of the geocoders
+[-46, 166] not found but it is not in an isolated place, added to not found excludes
+(57.360003, 3.031976) not found by any of the geocoders
+[57, 3] added to not found list
+(64.593952, -5.229741) not found by any of the geocoders
+[64, -5] added to not found list
+(56.239049, -37.178233) not found by any of the geocoders
+[56, -37] added to not found list
+(51.202035, -37.002452) skipped: [51, -37] is at not found list
+(48.131602, -39.46339) not found by any of the geocoders
+[48, -39] added to not found list
+(42.709046, -47.285655) not found by any of the geocoders
+[42, -47] added to not found list
+(43.223556, -46.58253) not found by any of the geocoders
+[43, -46] added to not found list
+(42.255321, -48.164562) not found by any of the geocoders
+[42, -48] added to not found list
+(42.267747, -67.236453) not found by any of the geocoders
+[42, -67] not found but it is not in an isolated place, added to not found excludes
+(15.471128, -72.290288) not found by any of the geocoders
+[15, -72] added to not found list
+(81.078976, -164.533248) not found by any of the geocoders
+[81, -164] added to not found list
+(44.944066, -8.850319) not found by any of the geocoders
+[44, -8] not found but it is not in an isolated place, added to not found excludes
+(40.321419, -9.814453) not skipped: [40, -9] is at not found excludes
+(38.685509, 5.771484) not found by any of the geocoders
+[38, 5] added to not found list
