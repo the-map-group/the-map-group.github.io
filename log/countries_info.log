@@ -600,3 +600,7 @@
 (45.465066, 13.511381) skipped: [45, 13] is at not found list
 (45.465508, 13.508987) skipped: [45, 13] is at not found list
 (45.440376, 13.524038) skipped: [45, 13] is at not found list
+
+##### Dmitry Djouce:
+(49.968585, -5.206832) not skipped: [49, -5] is at not found excludes
+(49.979219, -5.245067) not skipped: [49, -5] is at not found excludes
