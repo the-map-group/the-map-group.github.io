@@ -535,6 +535,7 @@ codes_dict = {
   'American Samoa': 'AS',
   'Saint Lucia': 'LC',
   'Saint Vincent and the Grenadines': 'VC',
+  'St Vincent and Grenadines': 'VC',
   'Svalbard and Jan Mayen': 'SJ',
   'Réunion': 'RE',
   'Czechia': 'CZ',
