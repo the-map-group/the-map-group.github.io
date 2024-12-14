@@ -2087,3 +2087,6 @@
 ##### tquist24:
 (19.574905, -82.375289) not found by any of the geocoders
 [19, -82] not found but it is not in an isolated place, added to not found excludes
+
+##### panoround hutter:
+(45.704558, 13.469422) skipped: [45, 13] is at not found list
