@@ -1,0 +1,20 @@
+countries_dict = {
+  'TH': ['Thailand', 12, 82],
+  'CA': ['Canada', 563, 1133],
+  'AT': ['Austria', 17, 18],
+  'GL': ['Greenland', 32, 120],
+  'CH': ['Switzerland', 270, 647],
+  'NL': ['Netherlands', 15, 37],
+  'IN': ['India', 142, 731],
+  'US': ['United States', 8954, 28791],
+  'TZ': ['Tanzania', 163, 492],
+  'KE': ['Kenya', 412, 861],
+  'ES': ['Spain', 14, 42],
+  'UG': ['Uganda', 114, 239],
+  'PK': ['Pakistan', 2, 7],
+  'PT': ['Portugal', 121, 489],
+  'MV': ['Maldives', 16, 58],
+  'FR': ['France', 13, 47],
+  'IS': ['Iceland', 383, 1059],
+  'LK': ['Sri Lanka', 21, 109]
+}
