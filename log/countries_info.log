@@ -7956,3 +7956,8 @@
 (45.218002, 6.028472) skipped: [45, 6] is at not found list
 (45.21838, 6.026569) skipped: [45, 6] is at not found list
 (45.217722, 6.030363) skipped: [45, 6] is at not found list
+
+##### Stratman2:
+(3.93276, 104.024047) not skipped: [3, 104] is at not found excludes
+(4.083452, 104.589843) not found by any of the geocoders: [4, 104] not found but it is not in an isolated place, added to not found excludes
+(4.729726, 110.769653) not found by any of the geocoders: [4, 110] added to not found list
