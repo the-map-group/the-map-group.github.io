@@ -7095,3 +7095,73 @@
 (45.878427, 6.887411) skipped: [45, 6] is at not found list
 (45.879169, 6.887216) skipped: [45, 6] is at not found list
 (45.878155, 6.887169) skipped: [45, 6] is at not found list
+
+##### ForceMajeureMontenegro:
+(41.779504, 12.274475) skipped: [41, 12] is at not found list
+(41.885921, 12.510681) skipped: [41, 12] is at not found list
+(41.898044, 12.49787) skipped: [41, 12] is at not found list
+(35.249366, -8.569398) not skipped: [35, -8] is at not found excludes
+(35.249366, -8.569398) not found by any of the geocoders: [35, -8] not found but it is at not found excludes
+(41.902303, 12.500638) skipped: [41, 12] is at not found list
+(36.137874, -4.932861) not found by any of the geocoders: [36, -4] not found but it is not in an isolated place, added to not found excludes
+(36.714668, -4.428777) not skipped: [36, -4] is at not found excludes
+(36.720752, -4.422426) not skipped: [36, -4] is at not found excludes
+(41.908345, 12.477722) skipped: [41, 12] is at not found list
+(41.902213, 12.486391) skipped: [41, 12] is at not found list
+(36.722237, -4.42131) not skipped: [36, -4] is at not found excludes
+(41.89542, 12.483655) skipped: [41, 12] is at not found list
+(29.056169, -16.699218) not found by any of the geocoders: [29, -16] not found but it is not in an isolated place, added to not found excludes
+(41.8967, 12.48742) skipped: [41, 12] is at not found list
+(41.794966, 12.255249) skipped: [41, 12] is at not found list
+(41.903906, 12.451672) skipped: [41, 12] is at not found list
+(36.720929, -4.421567) not skipped: [36, -4] is at not found excludes
+(36.721755, -4.423112) not skipped: [36, -4] is at not found excludes
+(41.898627, 12.47682) skipped: [41, 12] is at not found list
+(41.898619, 12.476724) skipped: [41, 12] is at not found list
+(41.898284, 12.475404) skipped: [41, 12] is at not found list
+(41.898428, 12.479363) skipped: [41, 12] is at not found list
+(43.622966, 13.507261) skipped: [43, 13] is at not found list
+(45.646868, 13.77119) skipped: [45, 13] is at not found list
+(41.895121, 12.472035) skipped: [41, 12] is at not found list
+(41.897381, 12.472014) skipped: [41, 12] is at not found list
+(36.71504, -4.413328) not skipped: [36, -4] is at not found excludes
+(41.898971, 12.497634) skipped: [41, 12] is at not found list
+(41.904065, 12.489824) skipped: [41, 12] is at not found list
+(41.895473, 12.483376) skipped: [41, 12] is at not found list
+(41.897996, 12.496497) skipped: [41, 12] is at not found list
+(41.902867, 12.496454) skipped: [41, 12] is at not found list
+(41.904047, 12.45253) skipped: [41, 12] is at not found list
+(41.902851, 12.496401) skipped: [41, 12] is at not found list
+(41.902356, 12.456264) skipped: [41, 12] is at not found list
+(41.89974, 12.482496) skipped: [41, 12] is at not found list
+(34.900985, -7.998296) not found by any of the geocoders: [34, -7] not found but it is not in an isolated place, added to not found excludes
+(34.322303, -8.657476) not found by any of the geocoders: [34, -8] not found but it is not in an isolated place, added to not found excludes
+(36.718963, -4.422598) not skipped: [36, -4] is at not found excludes
+(36.721322, -4.421139) not skipped: [36, -4] is at not found excludes
+(36.72177, -4.422383) not skipped: [36, -4] is at not found excludes
+(36.721907, -4.421868) not skipped: [36, -4] is at not found excludes
+(36.72115, -4.422426) not skipped: [36, -4] is at not found excludes
+(36.720806, -4.421825) not skipped: [36, -4] is at not found excludes
+(36.708134, -4.414101) not skipped: [36, -4] is at not found excludes
+(43.617263, 13.514213) skipped: [43, 13] is at not found list
+(43.617356, 13.514513) skipped: [43, 13] is at not found list
+(41.903568, 12.450814) skipped: [41, 12] is at not found list
+(45.655728, 13.767234) skipped: [45, 13] is at not found list
+(43.618723, 13.510436) skipped: [43, 13] is at not found list
+(41.899008, 12.478579) skipped: [41, 12] is at not found list
+(41.905889, 12.482206) skipped: [41, 12] is at not found list
+(41.902299, 12.453474) skipped: [41, 12] is at not found list
+(41.899607, 12.500552) skipped: [41, 12] is at not found list
+(41.793035, 12.253274) skipped: [41, 12] is at not found list
+(41.899322, 12.476692) skipped: [41, 12] is at not found list
+(36.721096, -4.423628) not skipped: [36, -4] is at not found excludes
+(36.721569, -4.42234) not skipped: [36, -4] is at not found excludes
+(36.71997, -4.420151) not skipped: [36, -4] is at not found excludes
+(36.721045, -4.419293) not skipped: [36, -4] is at not found excludes
+(36.721492, -4.418821) not skipped: [36, -4] is at not found excludes
+(43.618407, 13.51329) skipped: [43, 13] is at not found list
+(45.650373, 13.769946) skipped: [45, 13] is at not found list
+(41.903605, 12.494448) skipped: [41, 12] is at not found list
+(41.903161, 12.500119) skipped: [41, 12] is at not found list
+(36.722216, -4.424151) not skipped: [36, -4] is at not found excludes
+(36.7215, -4.419853) not skipped: [36, -4] is at not found excludes
