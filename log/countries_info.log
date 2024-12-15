@@ -10161,3 +10161,6 @@
 (42.448224, 13.551871) skipped: [42, 13] is at not found list
 (42.427717, 13.624355) skipped: [42, 13] is at not found list
 (45.763017, 13.16809) skipped: [45, 13] is at not found list
+
+##### Mister Oy:
+(49.987236, -5.179098) not skipped: [49, -5] is at not found excludes
