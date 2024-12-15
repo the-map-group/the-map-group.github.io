@@ -7816,3 +7816,12 @@
 (41.895466, 12.485277) skipped: [41, 12] is at not found list
 (41.906169, 12.483127) skipped: [41, 12] is at not found list
 (36.994319, -8.946756) not skipped: [36, -8] is at not found excludes
+
+##### suntrana3:
+(29.851364, -88.363037) not found by any of the geocoders: [29, -88] added to not found list
+(29.524475, -88.262786) skipped: [29, -88] is at not found list
+(36.711761, -4.432071) not skipped: [36, -4] is at not found excludes
+(36.749063, -4.606447) not skipped: [36, -4] is at not found excludes
+(36.506686, -4.883916) not skipped: [36, -4] is at not found excludes
+(36.711796, -4.432146) not skipped: [36, -4] is at not found excludes
+(20.231274, -73.410644) not found by any of the geocoders: [20, -73] not found but it is not in an isolated place, added to not found excludes
