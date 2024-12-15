@@ -2269,3 +2269,10 @@
 
 ##### Kevin Povenz:
 (16.509832, -64.259033) not found by any of the geocoders: [16, -64] not found but it is not in an isolated place, added to not found excludes
+
+##### Hugo von Schreck:
+(45.426889, 13.543395) skipped: [45, 13] is at not found list
+(45.413273, 13.529663) skipped: [45, 13] is at not found list
+(45.410743, 13.522109) skipped: [45, 13] is at not found list
+(45.082248, 13.638153) skipped: [45, 13] is at not found list
+(45.316305, 13.561592) skipped: [45, 13] is at not found list
