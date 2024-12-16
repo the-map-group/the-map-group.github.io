@@ -10365,3 +10365,14 @@
 (45.649957, 13.767469) skipped: [45, 13] is at not found list
 
 ##### Yabba Link:
+
+##### Thad Roan - Bridgepix:
+(41.90169, 12.466413) skipped: [41, 12] is at not found list
+(41.890154, 12.492238) skipped: [41, 12] is at not found list
+(36.709882, -4.42028) not skipped: [36, -4] is at not found excludes
+(30.4722, -8.883132) not skipped: [30, -8] is at not found excludes
+(41.901175, 12.464316) skipped: [41, 12] is at not found list
+(30.48766, -8.775329) not skipped: [30, -8] is at not found excludes
+(36.700339, -4.414889) not skipped: [36, -4] is at not found excludes
+(30.488305, -8.775899) not skipped: [30, -8] is at not found excludes
+(14.637844, 144.48213) not found by any of the geocoders: [14, 144] not found but it is not in an isolated place, added to not found excludes
