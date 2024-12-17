@@ -1,8 +1,8 @@
 countries_dict = {
-  'SJ': ['Svalbard', 14, 14],
-  'US': ['United States', 115, 136],
   'AR': ['Argentina', 1, 1],
-  'SG': ['Singapore', 1, 1],
+  'CA': ['Canada', 4, 5],
+  'US': ['United States', 116, 137],
   'CL': ['Chile', 9, 10],
-  'CA': ['Canada', 4, 5]
+  'SG': ['Singapore', 1, 1],
+  'SJ': ['Svalbard', 17, 17]
 }
