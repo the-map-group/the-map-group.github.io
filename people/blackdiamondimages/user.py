@@ -4,7 +4,7 @@ user_info = {
   'name': 'Black Diamond Images',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/97974874@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/blackdiamondimages/',
-  'markers': 16371,
-  'photos': 21195,
+  'markers': 16374,
+  'photos': 21199,
   'countries': 35
 }
