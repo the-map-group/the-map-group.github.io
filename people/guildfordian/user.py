@@ -6,5 +6,5 @@ user_info = {
   'url': 'https://www.flickr.com/photos/guildfordian/',
   'markers': 1142,
   'photos': 1766,
-  'countries': 26
+  'countries': 27
 }
