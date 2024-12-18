@@ -6,5 +6,5 @@ user_info = {
   'url': 'https://www.flickr.com/photos/atila_y/',
   'markers': 1348,
   'photos': 1517,
-  'countries': 21
+  'countries': 22
 }
