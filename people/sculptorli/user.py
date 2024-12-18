@@ -6,5 +6,5 @@ user_info = {
   'url': 'https://www.flickr.com/photos/sculptorli/',
   'markers': 200,
   'photos': 206,
-  'countries': 38
+  'countries': 39
 }
