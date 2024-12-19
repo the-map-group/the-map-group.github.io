@@ -6,5 +6,5 @@ user_info = {
   'url': 'https://www.flickr.com/photos/montenegrina/',
   'markers': 1349,
   'photos': 1532,
-  'countries': 12
+  'countries': 13
 }
