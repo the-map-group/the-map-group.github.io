@@ -1569,3 +1569,6 @@
 ##### suntrana3:
 (29.524475, -88.262786) not found by any of the geocoders: [29, -88] is not in an isolated place, added to not found excludes
 (35.928536, -5.671005) is in a territory of 'Spain': unable to find the name of the location
+
+##### enrico sprea:
+[30, -6] not added to not found list or excludes, unable to get location
