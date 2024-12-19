@@ -5,6 +5,6 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/38795342@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/rubempjr/',
   'markers': 7980,
-  'photos': 20428,
-  'countries': 11
+  'photos': 20430,
+  'countries': 12
 }
