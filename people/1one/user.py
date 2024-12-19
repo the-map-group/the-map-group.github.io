@@ -4,7 +4,7 @@ user_info = {
   'name': 'Shichifuku Jin',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/52009851@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/1one/',
-  'markers': 3203,
-  'photos': 37206,
-  'countries': 7
+  'markers': 3204,
+  'photos': 37207,
+  'countries': 8
 }
