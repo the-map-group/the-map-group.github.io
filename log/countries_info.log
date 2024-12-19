@@ -1585,3 +1585,7 @@
 (4.729726, 110.769653) not found by any of the geocoders: [4, 110] added to not found list
 
 ##### mstraus52:
+
+##### OMNIBUS DUBITANDUM:
+(33.358061, 32.958984) not found by any of the geocoders: [33, 32] is not in an isolated place, added to not found excludes
+(19.993998, 66.972656) not found by any of the geocoders: [19, 66] added to not found list
