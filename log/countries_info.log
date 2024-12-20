@@ -1708,3 +1708,5 @@
 
 ##### sarahstierch:
 [0, 0] not added to not found list or excludes, unable to get location
+(49.974834, -5.229749) not skipped: [49, -5] is at not found excludes
+(44.653024, -25.664062) skipped: [44, -25] is at not found list
