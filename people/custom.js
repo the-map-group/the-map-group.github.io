@@ -22,6 +22,7 @@ function custom() {
   document.getElementById("avatar").appendChild(avatar);
 
   var member_name = user_info["name"];
+  var member_location = user_info["location"];
   var member_link = document.createElement("A");
 
   if (member_name.length > 17) {
@@ -45,15 +46,16 @@ function custom() {
       countries_dict[country_code][2]])
   }
 
-  if (countries.length > 1) {
-    document.getElementById("n-countries").innerText = countries.length.toString().concat(" countries");
+  if (member_location != '' && member_location != null) {
+    document.getElementById("user-location").innerText = member_location;
   } else {
-    document.getElementById("n-countries").innerText = countries.length.toString().concat(" country");
+    document.getElementById("user-location").innerText = "Somewhere, The World";
   }
 
   document.getElementById("n-countries").addEventListener('click', handleClickCountries);
-
   document.getElementById("n-markers").addEventListener('click', function() { fitInitialBoundingBox(initial_bbox); addMarkersToMap(add_markers_increment); });
+
+  document.getElementById("n-countries").innerText = user_info["countries"];
   document.getElementById("n-markers").innerText = user_info["markers"];
   document.getElementById("n-photos").innerText = user_info["photos"];
 
@@ -334,6 +336,12 @@ function createOverlay() {
   var div_user_name = document.createElement("DIV");
   div_user_name.setAttribute("id", "user-name");
   div_user_name.setAttribute("class", "user-name");
+  var div_user_location = document.createElement("DIV");
+  div_user_location.setAttribute("id", "user-location");
+  div_user_location.setAttribute("class", "user-location");
+  var div_u_countries_icon = document.createElement("IMG");
+  div_u_countries_icon.setAttribute("class", "tiny-icon");
+  div_u_countries_icon.setAttribute("src", "../../icons/flag.svg");
   var div_n_countries = document.createElement("DIV");
   div_n_countries.setAttribute("id", "n-countries");
   div_n_countries.setAttribute("class", "n-countries");
@@ -354,6 +362,8 @@ function createOverlay() {
   div_user_container.setAttribute("class", "user-container");
   div_user_container.appendChild(div_avatar);
   div_user_container.appendChild(div_user_name);
+  div_user_container.appendChild(div_user_location);
+  div_user_container.appendChild(div_u_countries_icon);
   div_user_container.appendChild(div_n_countries);
   div_user_container.appendChild(div_u_place_icon);
   div_user_container.appendChild(div_n_markers);

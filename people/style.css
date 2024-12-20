@@ -90,43 +90,58 @@
   font-family: arial;
   font-weight: bold;
   font-size: 21px;
+  margin-top: 3px;
   color: lightgrey;
-  padding-left: 3px;
+}
+
+.user-location {
+  display: grid;
+  grid-area: user-location;
+  width: 200px;
+  font-family: arial;
+  font-size: 13px;
+  color: lightgrey;
+  margin-top: 3px;
+  margin-bottom: 7px;
+  text-align: left;
 }
 
 .n-countries {
   display: grid;
   grid-area: n-countries;
-  width: 200px;
+  width: 38px;
   font-family: arial;
-  font-size: 16px;
+  font-size: 15px;
   color: lightgrey;
   text-align: left;
-  padding-left: 3px;
+  padding-top: 7px;
+  padding-left: 5px;
   cursor: pointer;
 }
 
 .n-markers {
   display: grid;
   grid-area: n-markers;
-  width: 70px;
+  width: 50px;
   font-family: arial;
-  font-size: 14px;
+  font-size: 15px;
   color: lightgrey;
   text-align: left;
   padding-top: 7px;
+  padding-left: 5px;
   cursor: pointer;
 }
 
 .n-photos {
   display: grid;
   grid-area: n-photos;
-  width: 70px;
+  width: 60px;
   font-family: arial;
-  font-size: 14px;
+  font-size: 15px;
   color: lightgrey;
   text-align: left;
   padding-top: 7px;
+  padding-left: 5px;
 }
 
 .flags {
@@ -156,18 +171,25 @@
   text-align: right;
 }
 
+.flag-icon {
+  display: grid;
+  grid-area: flag-icon;
+  width: 20px;
+  text-align: left;
+}
+
 .place-icon {
   display: grid;
   grid-area: place-icon;
   width: 20px;
-  text-align: right;
+  text-align: left;
 }
 
 .photo-icon {
   display: grid;
   grid-area: photo-icon;
   width: 20px;
-  text-align: right;
+  text-align: left;
 }
 
 p.country {
@@ -238,9 +260,9 @@ a:hover {
   top: 0;
   grid-area: user-container;
   grid-template-areas:
-  'avatar user-name user-name user-name user-name'
-  'avatar n-countries n-countries n-countries n-countries'
-  'avatar place-icon n-markers photo-icon n-photos';
+  'avatar user-name user-name user-name user-name user-name user-name'
+  'avatar user-location user-location user-location user-location user-location user-location'
+  'avatar flag-icon n-countries place-icon n-markers photo-icon n-photos';
   justify-content: left;
   padding: 25px 50px 25px 50px;
   cursor: default;
@@ -253,9 +275,9 @@ a:hover {
   top: 0;
   grid-area: user-container;
   grid-template-areas:
-  'avatar user-name user-name user-name user-name'
-  'avatar n-countries n-countries n-countries n-countries'
-  'avatar place-icon n-markers photo-icon n-photos';
+  'avatar user-name user-name user-name user-name user-name user-name'
+  'avatar user-location user-location user-location user-location user-location user-location'
+  'avatar flag-icon n-countries place-icon n-markers photo-icon n-photos';
   justify-content: left;
   padding: 25px 50px 25px 50px;
   cursor: default;

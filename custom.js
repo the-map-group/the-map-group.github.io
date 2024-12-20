@@ -97,6 +97,17 @@ function loadMembers() {
         }
         return delta;
       });
+      document.getElementById("menu-members").setAttribute("title", "Click to sort by number of countries");
+      break;
+    case 5:
+      // sort by n_countries
+      members_list.sort(function(a,b) {
+        var delta = (b[6]-a[6]);
+        if (delta == 0) {
+          return (b[4]-a[4]);
+        }
+        return delta;
+      });
       document.getElementById("menu-members").setAttribute("title", "Click to sort by joining date");
       break;
   }
@@ -306,6 +317,11 @@ function handleClickMembers() {
       emptyList(members_list.length);
       break;
     case 4:
+      // sort by n_photos
+      members_list_state = 5;
+      emptyList(members_list.length);
+      break;
+    case 5:
       // original sorting (joining date)
       members_list_state = 1;
       emptyList(members_list.length);
