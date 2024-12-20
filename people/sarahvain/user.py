@@ -4,7 +4,7 @@ user_info = {
   'name': 'Sarah Stierch',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/7633518@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/sarahvain/',
-  'markers': 12623,
-  'photos': 17711,
+  'markers': 12638,
+  'photos': 17705,
   'countries': 15
 }
