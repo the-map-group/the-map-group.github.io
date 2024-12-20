@@ -121,6 +121,7 @@ function loadMembers() {
   for (var i = 0; i < members_list.length; i++) {
 
     var member_name = members_list[i][2];
+    var member_n_countries = members_list[i][6];
 
     var i_members_avatar = document.createElement("IMG");
     var icon_src = members_list[i][3];
@@ -135,9 +136,19 @@ function loadMembers() {
     i_members.setAttribute("class", "member");
     i_members.setAttribute("id", members_list[i][0]);
 
+    var countries_string = " countr";
+
+    if (member_n_countries > 1) {
+      countries_string = countries_string.concat("ies");
+    } else {
+      countries_string = countries_string.concat("y");
+    }
+
     if (member_name.length > 12) {
-      i_members.setAttribute("title", member_name);
+      i_members.setAttribute("title", member_name.concat(", ").concat(member_n_countries).concat(countries_string));
       member_name = member_name.substring(0, 10).concat("...");
+    } else {
+      i_members.setAttribute("title", member_n_countries.toString().concat(countries_string));
     }
 
     i_members.innerText = member_name;
