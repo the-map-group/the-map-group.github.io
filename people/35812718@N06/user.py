@@ -4,7 +4,8 @@ user_info = {
   'name': 'Mars Ryan Hartdegen',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/35812718@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/35812718@N06/',
+  'location': '',
+  'countries': 1,
   'markers': 1,
-  'photos': 1,
-  'countries': 1
+  'photos': 1
 }
