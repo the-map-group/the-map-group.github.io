@@ -4,7 +4,8 @@ user_info = {
   'name': 'Frederic Hutter',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/35555507@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/hutterdesign/',
+  'location': 'Austria',
+  'countries': 26,
   'markers': 141,
-  'photos': 168,
-  'countries': 26
+  'photos': 168
 }
