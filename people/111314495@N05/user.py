@@ -4,7 +4,8 @@ user_info = {
   'name': 'Mike X-d',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/111314495@N05_r.jpg',
   'url': 'https://www.flickr.com/photos/111314495@N05/',
+  'location': 'Beachwood, US',
+  'countries': 57,
   'markers': 5444,
-  'photos': 9806,
-  'countries': 57
+  'photos': 9806
 }
