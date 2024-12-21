@@ -4,7 +4,8 @@ user_info = {
   'name': 'Dimitri Verledens',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/138182637@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/138182637@N08/',
+  'location': 'Gent, België',
+  'countries': 27,
   'markers': 998,
-  'photos': 1298,
-  'countries': 27
+  'photos': 1298
 }
