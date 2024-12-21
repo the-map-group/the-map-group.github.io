@@ -4,7 +4,8 @@ user_info = {
   'name': 'Manfred Hermann',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/165713115@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/manfred_h/',
-  'markers': 726,
-  'photos': 1365,
-  'countries': 8
+  'location': '',
+  'countries': 8,
+  'markers': 727,
+  'photos': 1367
 }
