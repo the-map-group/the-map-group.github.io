@@ -4,7 +4,8 @@ user_info = {
   'name': 'Fernando Vega',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/158292715@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/fvega/',
-  'markers': 3454,
-  'photos': 5236,
-  'countries': 10
+  'location': 'Sa Rapita, Spain',
+  'countries': 10,
+  'markers': 3455,
+  'photos': 5242
 }
