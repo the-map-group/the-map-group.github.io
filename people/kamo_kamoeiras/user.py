@@ -4,7 +4,8 @@ user_info = {
   'name': 'KAMO KAMOEIRAS',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/163799240@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/kamo_kamoeiras/',
-  'markers': 1864,
-  'photos': 2480,
-  'countries': 5
+  'location': 'Salamanca, ESPAÑA',
+  'countries': 5,
+  'markers': 1866,
+  'photos': 2482
 }
