@@ -4,7 +4,8 @@ user_info = {
   'name': 'CJphoto83',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/32770136@N05_r.jpg',
   'url': 'https://www.flickr.com/photos/chris_macdonald1983/',
+  'location': 'Tempe, USA',
+  'countries': 4,
   'markers': 74,
-  'photos': 101,
-  'countries': 4
+  'photos': 101
 }
