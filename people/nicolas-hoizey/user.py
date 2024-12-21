@@ -4,7 +4,8 @@ user_info = {
   'name': 'Nicolas Hoizey',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/38608514@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/nicolas-hoizey/',
-  'markers': 363,
-  'photos': 407,
-  'countries': 19
+  'location': 'Paris, France',
+  'countries': 19,
+  'markers': 364,
+  'photos': 408
 }
