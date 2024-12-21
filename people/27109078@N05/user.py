@@ -4,7 +4,8 @@ user_info = {
   'name': 'Norma Fincher',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/27109078@N05_r.jpg',
   'url': 'https://www.flickr.com/photos/27109078@N05/',
+  'location': '',
+  'countries': 26,
   'markers': 150,
-  'photos': 37839,
-  'countries': 26
+  'photos': 37839
 }
