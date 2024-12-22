@@ -4,7 +4,8 @@ user_info = {
   'name': 'Ben Abel',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/52559257@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/benbobjr/',
+  'location': '',
+  'countries': 16,
   'markers': 38381,
-  'photos': 50988,
-  'countries': 16
+  'photos': 50988
 }
