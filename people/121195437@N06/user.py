@@ -4,7 +4,8 @@ user_info = {
   'name': 'Harri Schulz',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/121195437@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/121195437@N06/',
-  'markers': 4155,
-  'photos': 6168,
-  'countries': 23
+  'location': '',
+  'countries': 23,
+  'markers': 4160,
+  'photos': 6175
 }
