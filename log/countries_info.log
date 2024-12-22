@@ -318,3 +318,18 @@
 (51.921986, -37.118267) skipped: [51, -37] is at not found list
 (51.995094, -36.903262) skipped: [51, -36] is at not found list
 (47.103991, -7.433245) skipped: [47, -7] is at not found list
+
+##### Lemmo2009:
+(53.228044, 2.693419) skipped: [53, 2] is at not found list
+(49.974516, -5.227953) not skipped: [49, -5] is at not found excludes
+(49.974633, -5.229114) not skipped: [49, -5] is at not found excludes
+(49.959019, -5.206856) not skipped: [49, -5] is at not found excludes
+(49.975108, -5.229803) not skipped: [49, -5] is at not found excludes
+(49.959491, -5.206457) not skipped: [49, -5] is at not found excludes
+(49.959298, -5.206822) not skipped: [49, -5] is at not found excludes
+(49.987572, -5.179312) not skipped: [49, -5] is at not found excludes
+(49.987809, -5.17927) not skipped: [49, -5] is at not found excludes
+(49.987561, -5.179506) not skipped: [49, -5] is at not found excludes
+(49.98752, -5.179377) not skipped: [49, -5] is at not found excludes
+(49.987685, -5.179506) not skipped: [49, -5] is at not found excludes
+(49.987409, -5.180622) not skipped: [49, -5] is at not found excludes
