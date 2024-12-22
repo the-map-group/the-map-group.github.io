@@ -34,3 +34,6 @@
 (37.978845, -10.195312) skipped: [37, -10] is at not found list
 (65.83582, 24.135707) not skipped: [65, 24] is at not found excludes
 (65.839908, 24.137542) not skipped: [65, 24] is at not found excludes
+
+##### michael_jeddah:
+(-18.519655, -173.943099) not skipped: [-18, -173] is at not found excludes
