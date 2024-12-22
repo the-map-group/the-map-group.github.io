@@ -4,7 +4,8 @@ user_info = {
   'name': 'Jed Jedd',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/152560664@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/152560664@N07/',
+  'location': 'Moscow, Russia',
+  'countries': 13,
   'markers': 155,
-  'photos': 184,
-  'countries': 13
+  'photos': 184
 }
