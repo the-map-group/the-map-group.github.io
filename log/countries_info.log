@@ -345,3 +345,47 @@
 ##### Dmitry Djouce:
 (49.968585, -5.206832) not skipped: [49, -5] is at not found excludes
 (49.979219, -5.245067) not skipped: [49, -5] is at not found excludes
+
+##### Joseph Hollick:
+(78.480838, -145.130809) skipped: [78, -145] is at not found list
+(5.484768, 104.095458) skipped: [5, 104] is at not found list
+(28.280679, -117.46582) not skipped: [28, -117] is at not found excludes
+(28.280679, -117.46582) not found by any of the geocoders: [28, -117] is at not found excludes
+(15.205217, -67.510986) skipped: [15, -67] is at not found list
+(3.699818, 104.501953) not skipped: [3, 104] is at not found excludes
+(3.699818, 104.501953) not found by any of the geocoders: [3, 104] is at not found excludes
+(7.776308, 102.502441) skipped: [7, 102] is at not found list
+(20.577283, -74.160477) is in a territory of 'Cuba': unable to find the name of the location
+(14.43468, -65.126953) skipped: [14, -65] is at not found list
+(55.429013, 3.823242) skipped: [55, 3] is at not found list
+(-58.309488, -55.986328) skipped: [-58, -55] is at not found list
+(-51.508742, -67.368164) not skipped: [-51, -67] is at not found excludes
+(-51.508742, -67.368164) not found by any of the geocoders: [-51, -67] is at not found excludes
+(15.305379, -75.717773) skipped: [15, -75] is at not found list
+(14.902321, -95.262451) skipped: [14, -95] is at not found list
+(30.297017, -117.707519) not skipped: [30, -117] is at not found excludes
+(30.297017, -117.707519) not found by any of the geocoders: [30, -117] is at not found excludes
+(36.509636, 124.057617) skipped: [36, 124] is at not found list
+(36.447799, 123.848876) not skipped: [36, 123] is at not found excludes
+(36.447799, 123.848876) not found by any of the geocoders: [36, 123] is at not found excludes
+(8.64103, 102.641494) skipped: [8, 102] is at not found list
+(11.135287, 100.810546) not skipped: [11, 100] is at not found excludes
+(11.135287, 100.810546) not found by any of the geocoders: [11, 100] is at not found excludes
+(-43.758019, 157.719476) skipped: [-43, 157] is at not found list
+(-46.065608, 166.245117) not skipped: [-46, 166] is at not found excludes
+(-46.065608, 166.245117) not found by any of the geocoders: [-46, 166] is at not found excludes
+(57.360003, 3.031976) skipped: [57, 3] is at not found list
+(64.593952, -5.229741) skipped: [64, -5] is at not found list
+(56.239049, -37.178233) skipped: [56, -37] is at not found list
+(51.202035, -37.002452) skipped: [51, -37] is at not found list
+(48.131602, -39.46339) skipped: [48, -39] is at not found list
+(42.709046, -47.285655) skipped: [42, -47] is at not found list
+(43.223556, -46.58253) skipped: [43, -46] is at not found list
+(42.255321, -48.164562) skipped: [42, -48] is at not found list
+(42.267747, -67.236453) skipped: [42, -67] is at not found list
+(15.471128, -72.290288) skipped: [15, -72] is at not found list
+(81.078976, -164.533248) skipped: [81, -164] is at not found list
+(44.944066, -8.850319) not skipped: [44, -8] is at not found excludes
+(44.944066, -8.850319) not found by any of the geocoders: [44, -8] is at not found excludes
+(40.321419, -9.814453) not skipped: [40, -9] is at not found excludes
+(38.685509, 5.771484) skipped: [38, 5] is at not found list
