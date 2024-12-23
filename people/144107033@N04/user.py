@@ -4,7 +4,8 @@ user_info = {
   'name': 'Sebastián Aguilar',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/144107033@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/144107033@N04/',
+  'location': 'Cádiz, España',
+  'countries': 3,
   'markers': 15396,
-  'photos': 20107,
-  'countries': 3
+  'photos': 20107
 }
