@@ -7,5 +7,5 @@ user_info = {
   'location': 'Nogent sur Marne, FRANCE',
   'countries': 51,
   'markers': 5155,
-  'photos': 30999
+  'photos': 31010
 }
