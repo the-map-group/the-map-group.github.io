@@ -4,7 +4,8 @@ user_info = {
   'name': 'dominique FILLION',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/153072396@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/153072396@N07/',
+  'location': 'France',
+  'countries': 11,
   'markers': 282,
-  'photos': 636,
-  'countries': 11
+  'photos': 637
 }
