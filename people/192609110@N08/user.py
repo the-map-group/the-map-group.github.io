@@ -4,7 +4,8 @@ user_info = {
   'name': 'driver04',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/192609110@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/192609110@N08/',
+  'location': '',
+  'countries': 3,
   'markers': 20,
-  'photos': 22,
-  'countries': 3
+  'photos': 22
 }
