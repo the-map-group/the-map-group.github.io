@@ -4,7 +4,8 @@ user_info = {
   'name': 'gsegelken',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/100209004@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/oldboyscout/',
-  'markers': 2229,
-  'photos': 2472,
-  'countries': 25
+  'location': '',
+  'countries': 25,
+  'markers': 2269,
+  'photos': 2517
 }
