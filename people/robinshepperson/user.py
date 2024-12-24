@@ -4,7 +4,8 @@ user_info = {
   'name': 'Robin Shepperson',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/156210536@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/robinshepperson/',
+  'location': 'Storkow, Germany',
+  'countries': 1,
   'markers': 57,
-  'photos': 106,
-  'countries': 1
+  'photos': 106
 }
