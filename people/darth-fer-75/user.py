@@ -4,7 +4,8 @@ user_info = {
   'name': 'Fernando Forniés Revuelta',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/30148069@N05_r.jpg',
   'url': 'https://www.flickr.com/photos/darth-fer-75/',
+  'location': 'Zaragoza, España',
+  'countries': 12,
   'markers': 1874,
-  'photos': 11828,
-  'countries': 12
+  'photos': 11828
 }
