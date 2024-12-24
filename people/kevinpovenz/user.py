@@ -4,7 +4,8 @@ user_info = {
   'name': 'Kevin Povenz',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/19613665@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/kevinpovenz/',
+  'location': 'Jenison Michigan, United States',
+  'countries': 8,
   'markers': 855,
-  'photos': 2886,
-  'countries': 8
+  'photos': 2887
 }
