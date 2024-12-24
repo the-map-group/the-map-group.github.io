@@ -1,12 +1,12 @@
 countries_dict = {
-  'LU': ['Luxembourg', 85, 85],
-  'VN': ['Vietnam', 385, 427],
-  'DO': ['Dominican Republic', 12, 12],
-  'NL': ['Netherlands', 51, 51],
-  'TH': ['Thailand', 627, 722],
   'FR': ['France', 25, 25],
-  'BE': ['Belgium', 2311, 2548],
-  'DE': ['Germany', 396, 441],
+  'VN': ['Vietnam', 385, 427],
   'US': ['United States', 81, 85],
-  'KH': ['Cambodia', 432, 448]
+  'DE': ['Germany', 373, 413],
+  'KH': ['Cambodia', 432, 448],
+  'BE': ['Belgium', 2334, 2576],
+  'LU': ['Luxembourg', 85, 85],
+  'TH': ['Thailand', 627, 722],
+  'NL': ['Netherlands', 51, 51],
+  'DO': ['Dominican Republic', 12, 12]
 }
