@@ -4,7 +4,8 @@ user_info = {
   'name': 'Steve Weston',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/58435673@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/ultimax_1964/',
+  'location': 'Sydney, Australia',
+  'countries': 13,
   'markers': 258,
-  'photos': 666,
-  'countries': 13
+  'photos': 666
 }
