@@ -4,7 +4,8 @@ user_info = {
   'name': 'sculptorli',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/23631104@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/sculptorli/',
+  'location': '',
+  'countries': 39,
   'markers': 200,
-  'photos': 206,
-  'countries': 39
+  'photos': 206
 }
