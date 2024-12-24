@@ -4,7 +4,8 @@ user_info = {
   'name': 'Mark  PARADOX',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/98488245@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/paradox_m/',
+  'location': '',
+  'countries': 2,
   'markers': 2,
-  'photos': 4,
-  'countries': 2
+  'photos': 4
 }
