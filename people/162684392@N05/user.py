@@ -4,7 +4,8 @@ user_info = {
   'name': 'Bernhard Niedermeier',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/162684392@N05_r.jpg',
   'url': 'https://www.flickr.com/photos/162684392@N05/',
-  'markers': 460,
-  'photos': 564,
-  'countries': 7
+  'location': 'Germany',
+  'countries': 7,
+  'markers': 463,
+  'photos': 567
 }
