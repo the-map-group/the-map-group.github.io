@@ -4,7 +4,8 @@ user_info = {
   'name': 'thunderbird-72',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/112196494@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/112196494@N02/',
+  'location': '',
+  'countries': 13,
   'markers': 1426,
-  'photos': 2743,
-  'countries': 13
+  'photos': 2743
 }
