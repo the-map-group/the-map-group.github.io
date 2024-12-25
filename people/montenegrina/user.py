@@ -4,7 +4,8 @@ user_info = {
   'name': 'ForceMajeureMontenegro',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/92496593@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/montenegrina/',
+  'location': 'Podgorica, Montenegro',
+  'countries': 13,
   'markers': 1349,
-  'photos': 1532,
-  'countries': 13
+  'photos': 1532
 }
