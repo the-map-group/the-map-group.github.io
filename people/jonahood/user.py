@@ -4,7 +4,8 @@ user_info = {
   'name': 'jonathan hood',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/10363199@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/jonahood/',
+  'location': 'U.K.',
+  'countries': 19,
   'markers': 176,
-  'photos': 899,
-  'countries': 19
+  'photos': 899
 }
