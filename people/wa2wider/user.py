@@ -4,7 +4,8 @@ user_info = {
   'name': 'wa2wider',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/15360731@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/wa2wider/',
+  'location': 'canada',
+  'countries': 2,
   'markers': 217,
-  'photos': 240,
-  'countries': 2
+  'photos': 240
 }
