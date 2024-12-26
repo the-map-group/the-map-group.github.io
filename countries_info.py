@@ -585,7 +585,8 @@ codes_dict = {
   'Åland': 'AX',
   'Türkiye': 'TR',
   'Côte d\'Ivoire': 'CI',
-  'South Georgia and the South Sandwich Islands': 'GS'
+  'South Georgia and the South Sandwich Islands': 'GS',
+  'Federated States of Micronesia': 'FM'
 }
 
 latitude_dict = {
