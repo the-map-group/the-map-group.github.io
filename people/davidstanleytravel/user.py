@@ -4,7 +4,8 @@ user_info = {
   'name': 'David Stanley',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/79721788@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/davidstanleytravel/',
-  'markers': 7495,
-  'photos': 8700,
-  'countries': 110
+  'location': 'Nanaimo, Canada',
+  'countries': 110,
+  'markers': 7516,
+  'photos': 8725
 }
