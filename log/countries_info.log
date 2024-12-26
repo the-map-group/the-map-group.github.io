@@ -304,3 +304,8 @@
 (36.995369, -8.950864) not skipped: [36, -8] is at not found excludes
 (36.999272, -8.947589) not skipped: [36, -8] is at not found excludes
 (36.994319, -8.946756) not skipped: [36, -8] is at not found excludes
+
+##### suntrana3:
+(29.851364, -88.363037) not skipped: [29, -88] is at not found excludes
+(29.524475, -88.262786) not skipped: [29, -88] is at not found excludes
+(29.524475, -88.262786) not found by any of the geocoders: [29, -88] is at not found excludes
