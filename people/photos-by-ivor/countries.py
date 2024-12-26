@@ -1,11 +1,11 @@
 countries_dict = {
-  'CA': ['Canada', 26, 818],
-  'US': ['United States', 2, 157],
-  'NZ': ['New Zealand', 38, 1904],
-  'NF': ['Norfolk Island', 21, 367],
-  'GB': ['United Kingdom', 1, 1],
   'VU': ['Vanuatu', 5, 174],
+  'NZ': ['New Zealand', 38, 1904],
+  'FJ': ['Fiji', 5, 172],
+  'US': ['United States', 2, 157],
+  'AU': ['Australia', 1549, 26316],
   'NC': ['New Caledonia', 5, 107],
-  'AU': ['Australia', 1547, 26314],
-  'FJ': ['Fiji', 5, 172]
+  'NF': ['Norfolk Island', 22, 368],
+  'GB': ['United Kingdom', 1, 1],
+  'CA': ['Canada', 26, 818]
 }
