@@ -4,7 +4,8 @@ user_info = {
   'name': 'Alex Premoli',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/154861655@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/alex_premoli/',
+  'location': '',
+  'countries': 1,
   'markers': 9,
-  'photos': 9,
-  'countries': 1
+  'photos': 9
 }
