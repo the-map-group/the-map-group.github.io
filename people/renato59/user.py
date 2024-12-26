@@ -4,7 +4,8 @@ user_info = {
   'name': 'ReNato \'59',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/87940223@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/renato59/',
+  'location': 'Barcelona, Spain',
+  'countries': 5,
   'markers': 479,
-  'photos': 1636,
-  'countries': 5
+  'photos': 1636
 }
