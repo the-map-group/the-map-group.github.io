@@ -4,7 +4,8 @@ user_info = {
   'name': 'Rubem Porto Jr',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/38795342@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/rubempjr/',
-  'markers': 7980,
-  'photos': 20430,
-  'countries': 12
+  'location': 'Rio de Janeiro, Brasil',
+  'countries': 12,
+  'markers': 8018,
+  'photos': 20513
 }
