@@ -4,7 +4,8 @@ user_info = {
   'name': 'Imbella  Ecos',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/196450815@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/196450815@N04/',
+  'location': 'Australia',
+  'countries': 3,
   'markers': 43,
-  'photos': 45,
-  'countries': 3
+  'photos': 45
 }
