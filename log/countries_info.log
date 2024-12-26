@@ -325,3 +325,8 @@
 (4.729726, 110.769653) skipped: [4, 110] is at not found list
 
 ##### mstraus52:
+
+##### OMNIBUS DUBITANDUM:
+(33.358061, 32.958984) not skipped: [33, 32] is at not found excludes
+(33.358061, 32.958984) not found by any of the geocoders: [33, 32] is at not found excludes
+(19.993998, 66.972656) skipped: [19, 66] is at not found list
