@@ -4,7 +4,8 @@ user_info = {
   'name': 'Joe (José)  Garcia',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/23349126@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/joeinpenticton/',
-  'markers': 715,
-  'photos': 725,
-  'countries': 7
+  'location': 'Penticton, British Columbia, Canada',
+  'countries': 7,
+  'markers': 716,
+  'photos': 727
 }
