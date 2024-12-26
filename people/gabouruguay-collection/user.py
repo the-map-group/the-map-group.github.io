@@ -4,7 +4,8 @@ user_info = {
   'name': 'Gabriel Paladino Ibáñez',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/93293461@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/gabouruguay-collection/',
-  'markers': 842,
-  'photos': 2884,
-  'countries': 11
+  'location': '',
+  'countries': 11,
+  'markers': 845,
+  'photos': 2889
 }
