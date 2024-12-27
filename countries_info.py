@@ -108,6 +108,9 @@ def getCountryInfo(lat, long):
     run_dir = os.path.dirname(os.path.realpath(__file__))
 
     log_dir = "{}/log".format(run_dir)
+    if not os.path.isdir(log_dir):
+        os.system("mkdir {}".format(log_dir))
+
     htm_file = open("{}/index.html".format(log_dir), "a")
     log_file = open("{}/countries_info.log".format(log_dir), "a")
 
