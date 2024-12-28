@@ -6,7 +6,7 @@ from geopy.geocoders import MapBox
 
 import os
 import api_credentials
-import not_found_places
+import not_found
 
 try:
     geolocator1 = Nominatim(user_agent=api_credentials.nominatim_agent)
@@ -97,9 +97,9 @@ def getCountryInfo(lat, long):
     # control if report and errors files will be generated
     gen_err_file = True
     gen_rep_file = True
-    rep_matrix = False
-    rep_nominatim = False
-    rep_geonames = False
+    rep_matrix = True
+    rep_nominatim = True
+    rep_geonames = True
     rep_mapbox = True
 
     ### DO NOT MODIFY! ###
@@ -128,8 +128,8 @@ def getCountryInfo(lat, long):
     lat_long = [latitude, longitude]
 
     try:
-        not_found_places_list = not_found_places.coords
-        not_found_places_excludes = not_found_places.excludes
+        not_found_places_list = not_found.coords
+        not_found_places_excludes = not_found.excludes
         if lat_long in not_found_places_list and lat_long not in not_found_places_excludes:
             log_file.write("{} skipped: [{}, {}] is at not found list\n".format(latlong, latitude, longitude))
             code = ''
@@ -138,7 +138,7 @@ def getCountryInfo(lat, long):
         elif lat_long in not_found_places_excludes:
             log_file.write("{} not skipped: [{}, {}] is at not found excludes\n".format(latlong, latitude, longitude))
     except:
-        print("ERROR: FATAL: Unable to load the not found places list. File not_found_places.py doesn\'t exist.")
+        print("ERROR: FATAL: Unable to load the not found places list. File not_found.py doesn\'t exist.")
         sys.exit()
 
     if gen_err_file:
@@ -286,7 +286,7 @@ def getCountryInfo(lat, long):
                     else:
                         htm_file.write("<a href=\"https://the-map-group.top/log/map/?lat={0}&long={1}\" target=\"_blank\">[{0}, {1}]</a> not added to not found list or excludes, an exception ocurred<br>\n".format(latitude, longitude))
                         log_file.write("[{}, {}] not added to not found list or excludes, an exception ocurred\n".format(latitude, longitude))
-                    not_found_file = open("{}/not_found_places.py".format(run_dir), "w")
+                    not_found_file = open("{}/not_found.py".format(run_dir), "w")
                     not_found_file.write("coords = [\n")
                     for coord in not_found_places_list:
                         not_found_file.write("  [{}, {}],\n".format(coord[0], coord[1]))

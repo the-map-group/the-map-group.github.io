@@ -25,9 +25,9 @@ function custom() {
   var member_location = user_info["location"];
   var member_link = document.createElement("A");
 
-  if (member_name.length > 17) {
+  if (member_name.length > 16) {
     member_link.setAttribute("title", member_name);
-    member_name = member_name.substring(0, 14).concat("...");
+    member_name = member_name.substring(0, 13).concat("...");
   }
 
   member_link.setAttribute("id", "member_link");

@@ -134,8 +134,10 @@ for page_number in range(number_of_pages, 0, -1):
                     except:
                         pass
 
-            if not reset and not is_new_member and not memberFilesExist(member_path):
-                continue
+                    if not memberFilesExist(member_path):
+                        print('Unable to locate at least one of the member\'s files. Resetting member...')
+                        command = "{0}/setup-member.sh {1}".format(people_path, member_alias)
+                        os.system(command)
 
             if memberFilesExist(member_path):
                 prev_loc_fsize = os.stat("{}/locations.py".format(member_path)).st_size
@@ -181,7 +183,7 @@ for page_number in range(number_of_pages, 0, -1):
                 os.system("git add -f {}/countries.py".format(member_path))
                 os.system("git add -f {}/user.py".format(member_path))
                 os.system("git add -f {}/countries/*".format(repo_path))
-                os.system("git add -f {}/not_found_places.py".format(repo_path))
+                os.system("git add -f {}/not_found.py".format(repo_path))
                 os.system("git add -f {}/log/*".format(repo_path))
                 os.system("git commit -m \"[auto] Updated map for member \'{}\'\"".format(member_name))
                 os.system("git push origin main")
@@ -278,7 +280,7 @@ print('Commiting map data...')
 os.system("git add -f {}/locations.py".format(repo_path))
 os.system("git add -f {}/members.py".format(repo_path))
 os.system("git add -f {}/countries/*".format(repo_path))
-os.system("git add -f {}/not_found_places.py".format(repo_path))
+os.system("git add -f {}/not_found.py".format(repo_path))
 os.system("git add -f {}/log/*".format(repo_path))
 os.system("git commit -m \"[auto] Updated group map\"")
 print('Done!')
