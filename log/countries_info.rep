@@ -2851,3 +2851,10 @@ Matrix: (52.126022, 11.635185) = [52, 11] => 'DE: Germany'
 
 ##### malioli:
 Nominatim: (45.496135, 15.532929) = 'HR: Croatia'
+
+##### fam_nordstrom:
+Nominatim: (-15.671139, -70.374565) = 'PE: Peru'
+Nominatim: (-15.675746, -70.386173) = 'PE: Peru'
+Nominatim: (-15.678804, -70.405807) = 'PE: Peru'
+Nominatim: (-15.678577, -70.407974) = 'PE: Peru'
+Nominatim: (-15.67995, -70.424797) = 'PE: Peru'
