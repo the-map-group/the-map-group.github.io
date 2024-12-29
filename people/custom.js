@@ -52,7 +52,6 @@ function custom() {
     document.getElementById("user-location").innerText = "Somewhere, The World";
   }
 
-  document.getElementById("n-countries").addEventListener('click', handleClickCountries);
   document.getElementById("n-markers").addEventListener('click', function() { fitInitialBoundingBox(initial_bbox); addMarkersToMap(add_markers_increment); });
 
   document.getElementById("n-countries").innerText = user_info["countries"];
@@ -69,8 +68,18 @@ function custom() {
 
 function loadCountries() {
 
+  var flag_icon = document.getElementById("flag-icon");
+  var place_icon = document.getElementById("place-icon");
+  var photo_icon = document.getElementById("photo-icon");
+
   switch (countries_list_state) {
     case 1:
+      flag_icon.setAttribute("title", "Click to sort alphabetically");
+      flag_icon.setAttribute("style", "cursor: pointer");
+      place_icon.setAttribute("title", "Sorted by number of markers");
+      place_icon.setAttribute("style", "cursor: default");
+      photo_icon.setAttribute("title", "Click to sort by number of photos");
+      photo_icon.setAttribute("style", "cursor: pointer");
       // sort by n_markers
       countries.sort(function(a,b) {
         var delta = (b[2]-a[2]);
@@ -79,9 +88,14 @@ function loadCountries() {
         }
         return delta;
       });
-      document.getElementById("n-countries").setAttribute("title", "Click to sort by number of photos");
       break;
     case 2:
+      flag_icon.setAttribute("title", "Click to sort alphabetically");
+      flag_icon.setAttribute("style", "cursor: pointer");
+      place_icon.setAttribute("title", "Click to sort by number of markers");
+      place_icon.setAttribute("style", "cursor: pointer");
+      photo_icon.setAttribute("title", "Sorted by number of photos");
+      photo_icon.setAttribute("style", "cursor: default");
       // sort by n_photos
       countries.sort(function(a,b) {
         var delta = (b[3]-a[3]);
@@ -90,9 +104,14 @@ function loadCountries() {
         }
         return delta;
       });
-      document.getElementById("n-countries").setAttribute("title", "Click to sort alphabetically");
       break;
     case 3:
+      flag_icon.setAttribute("title", "Alphabetically sorted");
+      flag_icon.setAttribute("style", "cursor: default");
+      place_icon.setAttribute("title", "Click to sort by number of markers");
+      place_icon.setAttribute("style", "cursor: pointer");
+      photo_icon.setAttribute("title", "Click to sort by number of photos");
+      photo_icon.setAttribute("style", "cursor: pointer");
       // sort alphabetically
       countries.sort(function(a,b) {
         var in_order = (b[1]<a[1]);
@@ -102,7 +121,6 @@ function loadCountries() {
           return -1;
         }
       });
-      document.getElementById("n-countries").setAttribute("title", "Click to sort by number of markers");
       break;
   }
 
@@ -178,24 +196,9 @@ function loadCountries() {
 
 }
 
-function handleClickCountries() {
-  switch (countries_list_state) {
-    case 1:
-      // sort n_photos
-      countries_list_state = 2;
-      emptyList(countries.length);
-      break;
-    case 2:
-      // sort alphabetically
-      countries_list_state = 3;
-      emptyList(countries.length);
-      break;
-    case 3:
-      // sort by n_markers
-      countries_list_state = 1;
-      emptyList(countries.length);
-      break;
-  }
+function handleClickCountries(state) {
+  countries_list_state = state;
+  emptyList(countries.length);
   loadCountries();
 }
 
@@ -340,20 +343,26 @@ function createOverlay() {
   div_user_location.setAttribute("id", "user-location");
   div_user_location.setAttribute("class", "user-location");
   var div_u_countries_icon = document.createElement("IMG");
+  div_u_countries_icon.setAttribute("id", "flag-icon");
   div_u_countries_icon.setAttribute("class", "tiny-icon");
   div_u_countries_icon.setAttribute("src", "../../icons/flag.svg");
+  div_u_countries_icon.addEventListener('click', function() { handleClickCountries(3) });
   var div_n_countries = document.createElement("DIV");
   div_n_countries.setAttribute("id", "n-countries");
   div_n_countries.setAttribute("class", "n-countries");
   var div_u_place_icon = document.createElement("IMG");
+  div_u_place_icon.setAttribute("id", "place-icon");
   div_u_place_icon.setAttribute("class", "tiny-icon");
   div_u_place_icon.setAttribute("src", "../../icons/place.svg");
+  div_u_place_icon.addEventListener('click', function() { handleClickCountries(1) });
   var div_n_markers = document.createElement("DIV");
   div_n_markers.setAttribute("id", "n-markers");
   div_n_markers.setAttribute("class", "n-markers");
   var div_u_photo_icon = document.createElement("IMG");
+  div_u_photo_icon.setAttribute("id", "photo-icon");
   div_u_photo_icon.setAttribute("class", "tiny-icon");
   div_u_photo_icon.setAttribute("src", "../../icons/photo.svg");
+  div_u_photo_icon.addEventListener('click', function() { handleClickCountries(2) });
   var div_n_photos = document.createElement("DIV");
   div_n_photos.setAttribute("id", "n-photos");
   div_n_photos.setAttribute("class", "n-photos");
