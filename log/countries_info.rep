@@ -2736,3 +2736,6 @@ Matrix: (54.502369, -3.209967) = [54, -3] => 'GB: United Kingdom'
 Matrix: (54.528552, -3.208334) = [54, -3] => 'GB: United Kingdom'
 Matrix: (54.456738, -3.28357) = [54, -3] => 'GB: United Kingdom'
 Matrix: (54.554491, -3.004289) = [54, -3] => 'GB: United Kingdom'
+
+##### Joseph Hollick:
+Nominatim: (43.295207, -79.874567) = 'CA: Canada'
