@@ -15,6 +15,7 @@ update-repos.sh
 update-maps.sh
 run-update-maps.sh
 backup-data.sh
+show-repo-size.sh
 clear-log.sh
 clear-members.sh
 maps.log

@@ -68,9 +68,9 @@ function custom() {
 
 function loadCountries() {
 
-  var flag_icon = document.getElementById("flag-icon");
-  var place_icon = document.getElementById("place-icon");
-  var photo_icon = document.getElementById("photo-icon");
+  var flag_icon = document.getElementById("head-flag-icon");
+  var place_icon = document.getElementById("head-place-icon");
+  var photo_icon = document.getElementById("head-photo-icon");
 
   switch (countries_list_state) {
     case 1:
@@ -343,7 +343,7 @@ function createOverlay() {
   div_user_location.setAttribute("id", "user-location");
   div_user_location.setAttribute("class", "user-location");
   var div_u_countries_icon = document.createElement("IMG");
-  div_u_countries_icon.setAttribute("id", "flag-icon");
+  div_u_countries_icon.setAttribute("id", "head-flag-icon");
   div_u_countries_icon.setAttribute("class", "tiny-icon");
   div_u_countries_icon.setAttribute("src", "../../icons/flag.svg");
   div_u_countries_icon.addEventListener('click', function() { handleClickCountries(3) });
@@ -351,7 +351,7 @@ function createOverlay() {
   div_n_countries.setAttribute("id", "n-countries");
   div_n_countries.setAttribute("class", "n-countries");
   var div_u_place_icon = document.createElement("IMG");
-  div_u_place_icon.setAttribute("id", "place-icon");
+  div_u_place_icon.setAttribute("id", "head-place-icon");
   div_u_place_icon.setAttribute("class", "tiny-icon");
   div_u_place_icon.setAttribute("src", "../../icons/place.svg");
   div_u_place_icon.addEventListener('click', function() { handleClickCountries(1) });
@@ -359,7 +359,7 @@ function createOverlay() {
   div_n_markers.setAttribute("id", "n-markers");
   div_n_markers.setAttribute("class", "n-markers");
   var div_u_photo_icon = document.createElement("IMG");
-  div_u_photo_icon.setAttribute("id", "photo-icon");
+  div_u_photo_icon.setAttribute("id", "head-photo-icon");
   div_u_photo_icon.setAttribute("class", "tiny-icon");
   div_u_photo_icon.setAttribute("src", "../../icons/photo.svg");
   div_u_photo_icon.addEventListener('click', function() { handleClickCountries(2) });
