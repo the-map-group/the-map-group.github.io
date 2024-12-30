@@ -225,3 +225,9 @@ Nominatim: (54.851932, -5.797476) = 'GB: United Kingdom'
 ##### giorgiorodano46:
 Nominatim: (41.89041, 12.474834) = 'IT: Italy'
 Matrix: (43.963292, 10.508973) = [43, 10] => 'IT: Italy'
+
+##### Atila Yumusakkaya:
+Matrix: (41.242521, 36.267204) = [41, 36] => 'TR: Turkey'
+Matrix: (41.29548, 36.331672) = [41, 36] => 'TR: Turkey'
+Matrix: (41.287737, 36.334029) = [41, 36] => 'TR: Turkey'
+Matrix: (41.289253, 36.334198) = [41, 36] => 'TR: Turkey'
