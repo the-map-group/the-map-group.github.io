@@ -299,3 +299,6 @@ Nominatim: (50.63698, 3.063705) = 'FR: France'
 
 ##### Ron Fisher:
 Nominatim: (46.660389, 8.670377) = 'CH: Switzerland'
+
+##### khrawlings:
+Matrix: (52.536703, -1.982806) = [52, -1] => 'GB: United Kingdom'
