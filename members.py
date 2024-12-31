@@ -139,7 +139,7 @@ members_list = [
   ['39904644@N05', '39904644@N05', 'Martin Thum', "https://live.staticflickr.com/5674/buddyicons/39904644@N05_r.jpg", 1726, 2014, 19],
   ['146445851@N04', '146445851@N04', 'Giosuè Bolis', "https://live.staticflickr.com/5674/buddyicons/146445851@N04_r.jpg", 224, 279, 11],
   ['194251599@N02', '194251599@N02', 'Regard  Photo', "https://live.staticflickr.com/5674/buddyicons/194251599@N02_r.jpg", 6, 6, 2],
-  ['99949037@N00', 'alestaleiro', 'Alejandro David Olivera', "https://live.staticflickr.com/5674/buddyicons/99949037@N00_r.jpg", 3754, 5059, 26],
+  ['99949037@N00', 'alestaleiro', 'Alejandro David Olivera', "https://live.staticflickr.com/5674/buddyicons/99949037@N00_r.jpg", 3754, 5061, 26],
   ['43499552@N03', 'adam_swaine', 'Adam Swaine', "https://live.staticflickr.com/5674/buddyicons/43499552@N03_r.jpg", 16953, 25223, 5],
   ['140907479@N08', '140907479@N08', 'Dmitry Ivanov', "https://live.staticflickr.com/5674/buddyicons/140907479@N08_r.jpg", 924, 1186, 10],
   ['59150926@N02', 'miguelanxo57', 'Miguel RC', "https://live.staticflickr.com/5674/buddyicons/59150926@N02_r.jpg", 395, 443, 9],
@@ -147,7 +147,7 @@ members_list = [
   ['143593890@N07', 'valkamch', 'ValKamch', "https://live.staticflickr.com/5674/buddyicons/143593890@N07_r.jpg", 4798, 5556, 12],
   ['186479257@N03', '186479257@N03', 'SeaLord 50+', "https://live.staticflickr.com/5674/buddyicons/186479257@N03_r.jpg", 88, 99, 11],
   ['14461370@N03', 'zimwiz', 'zimwizdotcom', "https://live.staticflickr.com/5674/buddyicons/14461370@N03_r.jpg", 665, 937, 6],
-  ['123864860@N07', '123864860@N07', 'Luigibalza', "https://live.staticflickr.com/5674/buddyicons/123864860@N07_r.jpg", 6460, 9740, 48],
+  ['123864860@N07', '123864860@N07', 'Luigibalza', "https://live.staticflickr.com/5674/buddyicons/123864860@N07_r.jpg", 6465, 9754, 49],
   ['38315261@N00', 'clairity', 'Sharon Mollerus', "https://live.staticflickr.com/5674/buddyicons/38315261@N00_r.jpg", 3583, 14168, 7],
   ['28018306@N08', 'ggphoto36', 'Gary Giddens', "https://live.staticflickr.com/5674/buddyicons/28018306@N08_r.jpg", 926, 971, 5],
   ['38795342@N06', 'rubempjr', 'Rubem Porto Jr', "https://live.staticflickr.com/5674/buddyicons/38795342@N06_r.jpg", 8133, 20990, 12],
@@ -167,9 +167,9 @@ members_list = [
   ['147422800@N02', '147422800@N02', 'Marion Kaminski', "https://live.staticflickr.com/5674/buddyicons/147422800@N02_r.jpg", 176, 304, 16],
   ['154861655@N08', 'alex_premoli', 'Alex Premoli', "https://live.staticflickr.com/5674/buddyicons/154861655@N08_r.jpg", 9, 9, 1],
   ['93293461@N03', 'gabouruguay-collection', 'Gabriel Paladino Ibáñez', "https://live.staticflickr.com/5674/buddyicons/93293461@N03_r.jpg", 847, 2895, 11],
-  ['138177073@N04', 'archstanton', '- Ozymandias -', "https://live.staticflickr.com/5674/buddyicons/138177073@N04_r.jpg", 29837, 36188, 29],
+  ['138177073@N04', 'archstanton', '- Ozymandias -', "https://live.staticflickr.com/5674/buddyicons/138177073@N04_r.jpg", 29857, 36209, 29],
   ['197276323@N06', '197276323@N06', 'Dwight Carr', "icons/photographer.svg", 1, 1, 1],
-  ['79721788@N00', 'davidstanleytravel', 'David Stanley', "https://live.staticflickr.com/5674/buddyicons/79721788@N00_r.jpg", 7534, 8745, 110],
+  ['79721788@N00', 'davidstanleytravel', 'David Stanley', "https://live.staticflickr.com/5674/buddyicons/79721788@N00_r.jpg", 7536, 8747, 110],
   ['22875671@N04', '22875671@N04', 'Steve', "https://live.staticflickr.com/5674/buddyicons/22875671@N04_r.jpg", 285, 311, 5],
   ['23349126@N08', 'joeinpenticton', 'Joe (José)  Garcia', "https://live.staticflickr.com/5674/buddyicons/23349126@N08_r.jpg", 717, 728, 7],
   ['193758259@N04', 'enricoveneruso', 'Enrico Veneruso', "https://live.staticflickr.com/5674/buddyicons/193758259@N04_r.jpg", 317, 320, 11],
@@ -196,5 +196,5 @@ members_list = [
   ['67878469@N00', 'zemzem', 'mouzhik', "https://live.staticflickr.com/5674/buddyicons/67878469@N00_r.jpg", 290, 424, 10],
   ['62425933@N04', '62425933@N04', 'Wes Iversen', "https://live.staticflickr.com/5674/buddyicons/62425933@N04_r.jpg", 2240, 3421, 2],
   ['10096006@N07', '10096006@N07', 'ceri1965', "icons/photographer.svg", 101, 124, 1],
-  ['7633518@N08', 'sarahvain', 'Sarah Stierch', "https://live.staticflickr.com/5674/buddyicons/7633518@N08_r.jpg", 12750, 17815, 15]
+  ['7633518@N08', 'sarahvain', 'Sarah Stierch', "https://live.staticflickr.com/5674/buddyicons/7633518@N08_r.jpg", 12752, 17817, 15]
 ]
