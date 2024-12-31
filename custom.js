@@ -136,13 +136,13 @@ function loadMembers() {
     i_members.setAttribute("class", "member");
     i_members.setAttribute("id", members_list[i][0]);
 
-    var countries_string = " countr";
+    var countries_string = " ⚑";
 
-    if (member_n_countries > 1) {
-      countries_string = countries_string.concat("ies");
-    } else {
-      countries_string = countries_string.concat("y");
-    }
+    // if (member_n_countries > 1) {
+    //   countries_string = countries_string.concat("ies");
+    // } else {
+    //   countries_string = countries_string.concat("y");
+    // }
 
     if (member_name.length > 12) {
       i_members.setAttribute("title", member_name.concat(", ").concat(member_n_countries).concat(countries_string));
