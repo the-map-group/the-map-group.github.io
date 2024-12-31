@@ -527,3 +527,7 @@ Nominatim: (50.425574, 2.77776) = 'FR: France'
 ##### kimbar/Thanks for 6.7 million views!:
 Matrix: (37.469811, -122.310806) = [37, -122] => 'US: United States'
 Matrix: (37.469705, -122.311006) = [37, -122] => 'US: United States'
+
+##### Urban Florida Photographer:
+Nominatim: (26.123675, -80.146645) = 'US: United States'
+Nominatim: (26.118744, -80.143539) = 'US: United States'
