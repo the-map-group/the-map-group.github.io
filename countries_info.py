@@ -17,9 +17,12 @@ except:
     sys.exit()
 
 def isTerritory(lat, long, code):
-    for coords in countries_dict[code][1]:
-        if long > coords[0] and lat > coords[1] and long < coords[2] and lat < coords[3]:
-            return False
+    try:
+        for coords in countries_dict[code][1]:
+            if long > coords[0] and lat > coords[1] and long < coords[2] and lat < coords[3]:
+                return False
+    except:
+        pass
     return True
 
 def updateMapboxCallsCount(log_dir):
@@ -33,6 +36,16 @@ def updateMapboxCallsCount(log_dir):
     mbx_file = open("{}/mapbox_calls".format(log_dir), "w")
     mbx_file.write(str(mapbox_calls))
     mbx_file.close()
+
+
+def getInfoFromCoordsDict(latlong, coords_dict):
+    country_info = ['', '']
+    key = "{},{}".format(latlong[0], latlong[1])
+    try:
+        country_info = coords_dict[key]
+    except:
+        pass
+    return country_info
 
 def getInfoFromNominatim(latlong):
     code = ''
@@ -85,7 +98,7 @@ def getInfoFromMapBox(latlong):
         name = ''
     return [code, name]
 
-def getCountryInfo(lat, long):
+def getCountryInfo(lat, long, coords_dict):
 
     # control if MapBox geocoder will be used on territories
     use_mapbox = False
@@ -98,6 +111,7 @@ def getCountryInfo(lat, long):
     gen_err_file = True
     gen_rep_file = True
     rep_matrix = True
+    rep_dictionary = True
     rep_nominatim = True
     rep_geonames = True
     rep_mapbox = True
@@ -113,6 +127,12 @@ def getCountryInfo(lat, long):
 
     htm_file = open("{}/index.html".format(log_dir), "a")
     log_file = open("{}/countries_info.log".format(log_dir), "a")
+
+    if gen_err_file:
+        err_file = open("{}/countries_info.err".format(log_dir), "a")
+
+    if gen_rep_file:
+        rep_file = open("{}/countries_info.rep".format(log_dir), "a")
 
     try:
         if not gen_err_file and os.path.isfile("{}/countries_info.err".format(log_dir)):
@@ -130,22 +150,23 @@ def getCountryInfo(lat, long):
     try:
         not_found_places_list = not_found.coords
         not_found_places_excludes = not_found.excludes
-        if lat_long in not_found_places_list and lat_long not in not_found_places_excludes:
-            log_file.write("{} skipped: [{}, {}] is at not found list\n".format(latlong, latitude, longitude))
-            code = ''
-            name = ''
-            return [code, name]
-        elif lat_long in not_found_places_excludes:
-            log_file.write("{} not skipped: [{}, {}] is at not found excludes\n".format(latlong, latitude, longitude))
     except:
         print("ERROR: FATAL: Unable to load the not found places list. File not_found.py doesn\'t exist.")
         sys.exit()
 
-    if gen_err_file:
-        err_file = open("{}/countries_info.err".format(log_dir), "a")
-
-    if gen_rep_file:
-        rep_file = open("{}/countries_info.rep".format(log_dir), "a")
+    if lat_long in not_found_places_list and lat_long not in not_found_places_excludes:
+        log_file.write("{} skipped: [{}, {}] is at not found list\n".format(latlong, latitude, longitude))
+        log_file.close()
+        htm_file.close()
+        if gen_rep_file:
+            rep_file.close()
+        if gen_err_file:
+            err_file.close()
+        code = ''
+        name = ''
+        return [code, name, coords_dict]
+    elif lat_long in not_found_places_excludes:
+            log_file.write("{} not skipped: [{}, {}] is at not found excludes\n".format(latlong, latitude, longitude))
 
     lat_codes = latitude_dict[latitude]
     long_codes = longitude_dict[longitude]
@@ -158,27 +179,46 @@ def getCountryInfo(lat, long):
             rep_file.write("Matrix: {} = [{}, {}] => '{}: {}'\n".format(latlong, latitude, longitude, code, name))
     else:
 
-        # get info from Nominatim
-        info = getInfoFromNominatim(latlong)
+        # get info from coordinates dictionary
+        info = getInfoFromCoordsDict(latlong, coords_dict)
         code = info[0]
         name = info[1]
 
-        if code == '*' or code in nominatim_exclude:
-            code = ''
-            name = ''
+        if code != '':
+            if gen_rep_file:
+                if rep_dictionary:
+                    rep_file.write("Dictionary: {} = '{}: {}'\n".format(latlong, code, name))
+                rep_file.close()
+            if gen_err_file:
+                err_file.close()
+            log_file.close()
+            htm_file.close()
 
-        try:
+            return [code, name, coords_dict]
+
+        elif gen_err_file:
+            err_file.write("Dictionary: {} = NOT FOUND\n".format(latlong))
+
+        # get info from Nominatim if not found in dictionary
+        if code == '':
+
+            info = getInfoFromNominatim(latlong)
+            code = info[0]
+            name = info[1]
+
+            if code == '*' or code in nominatim_exclude:
+                code = ''
+                name = ''
+
             if isTerritory(lat, long, code):
                 code = ''
                 name = ''
-        except:
-            pass
 
-        if code != '':
-            if gen_rep_file and rep_nominatim:
-                rep_file.write("Nominatim: {} = '{}: {}'\n".format(latlong, code, name))
-        elif gen_err_file:
-            err_file.write("Nominatim: {} = NOT FOUND\n".format(latlong))
+            if code != '':
+                if gen_rep_file and rep_nominatim:
+                    rep_file.write("-> Nominatim: {} = '{}: {}'\n".format(latlong, code, name))
+            elif gen_err_file:
+                err_file.write("-> Nominatim: {} = NOT FOUND\n".format(latlong))
 
         # get info from GeoNames if not found by Nominatim
         if code == '':
@@ -193,9 +233,9 @@ def getCountryInfo(lat, long):
 
             if code != '' and code != '*':
                 if gen_rep_file and rep_geonames:
-                    rep_file.write("-> GeoNames: {} = '{}: {}'\n".format(latlong, code, name))
+                    rep_file.write("--> GeoNames: {} = '{}: {}'\n".format(latlong, code, name))
             elif gen_err_file:
-                err_file.write("-> GeoNames: {} = NOT FOUND\n".format(latlong))
+                err_file.write("--> GeoNames: {} = NOT FOUND\n".format(latlong))
 
         # assign correct code and name to some countries using the dictionaries
         try:
@@ -231,23 +271,27 @@ def getCountryInfo(lat, long):
             name = info[1]
 
             if gen_err_file and (code == '' or code == '*'):
-                err_file.write("--> MapBox: {} = NOT FOUND\n".format(latlong))
+                err_file.write("---> MapBox: {} = NOT FOUND\n".format(latlong))
 
             if gen_err_file and code == '**':
                 if gen_err_file:
-                    err_file.write("--> MapBox: ERROR: Unable to get geolocator\n")
+                    err_file.write("---> MapBox: ERROR: Unable to get geolocator\n")
 
             if code != '' and code != '*' and code != '**':
                 if is_territory:
                     htm_file.write("\'{}: {}\' found by MapBox geocoder<br>\n".format(code, name))
                 if gen_rep_file and rep_mapbox:
-                    rep_file.write("--> MapBox: {} => \'{}: {}\'\n".format(latlong, code, name))
+                    rep_file.write("---> MapBox: {} => \'{}: {}\'\n".format(latlong, code, name))
 
         if not use_mapbox and (code == '' or is_territory):
             updateMapboxCallsCount(log_dir)
             if is_territory:
                 htm_file.write("unable to find the name of the location<br>\n".format(code, name))
                 log_file.write("unable to find the name of the location\n".format(code, name))
+
+        if code != '':
+            latlong_key = "{},{}".format(latlong[0], latlong[1])
+            coords_dict[latlong_key] = [code, name]
 
         if code == '':
             htm_file.write("(<a href=\"https://the-map-group.top/log/map/?lat={0}&long={1}&marker=1\" target=\"_blank\">{0}, {1}</a>) not found by any of the geocoders: ".format(lat, long))
@@ -320,7 +364,7 @@ def getCountryInfo(lat, long):
             code = ''
             name = ''
 
-    return [code, name]
+    return [code, name, coords_dict]
 
 
 # dictionaries
@@ -623,7 +667,7 @@ latitude_dict = {
   -63: {'AQ'},
   -62: {'AQ'},
   -61: {'AQ'},
-  -60: {},
+  -60: {''},
   -59: {'GS'},
   -58: {'GS'},
   -57: {'GS', 'CL'},
