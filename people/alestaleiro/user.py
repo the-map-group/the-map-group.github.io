@@ -7,5 +7,5 @@ user_info = {
   'location': 'Praia do Estaleiro - B. Camboriú, BRASIL',
   'countries': 26,
   'markers': 3754,
-  'photos': 5061
+  'photos': 5063
 }
