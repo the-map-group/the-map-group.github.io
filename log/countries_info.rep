@@ -248,3 +248,8 @@
 --> GeoNames: (13.491319, 144.800233) = 'GU: Guam'
 --> GeoNames: (13.521175, 144.808731) = 'GU: Guam'
 --> GeoNames: (13.542204, 144.822463) = 'GU: Guam'
+
+##### haroldmoses:
+--> GeoNames: (14.328259, -61.864013) = 'MQ: Martinique'
+--> GeoNames: (12.150186, -68.273334) = 'BQ: Bonaire, Sint Eustatius, and Saba'
+'BQ: Bonaire, Sint Eustatius, and Saba' = 'Bonaire' => 'BQ: Bonaire'
