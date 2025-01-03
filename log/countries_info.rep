@@ -3799,3 +3799,7 @@
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+
+##### Jason Frels:
+---> MapBox: (80.067192, 31.522564) => 'SJ: Svalbard and Jan Mayen'
+---> MapBox: (80.066999, 31.525504) => 'SJ: Svalbard and Jan Mayen'
