@@ -4267,3 +4267,12 @@
 
 ##### jamesgreig@dr.com:
 --> GeoNames: (51.957807, 2.592773) = 'GB: United Kingdom'
+
+##### Howard Somerville (10 million views):
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+--> GeoNames: (35.169644, -5.261163) = 'MA: Morocco'
+--> GeoNames: (34.063041, -4.972429) = 'MA: Morocco'
+--> GeoNames: (34.063432, -4.975991) = 'MA: Morocco'
+--> GeoNames: (34.066539, -4.975776) = 'MA: Morocco'
+--> GeoNames: (34.061284, -4.978265) = 'MA: Morocco'
