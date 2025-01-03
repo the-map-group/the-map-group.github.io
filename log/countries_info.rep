@@ -3803,3 +3803,11 @@
 ##### Jason Frels:
 ---> MapBox: (80.067192, 31.522564) => 'SJ: Svalbard and Jan Mayen'
 ---> MapBox: (80.066999, 31.525504) => 'SJ: Svalbard and Jan Mayen'
+
+##### 7 mil views - Thank you all.:
+
+##### Jason Frels:
+---> MapBox: (80.067192, 31.522564) => 'SJ: Svalbard and Jan Mayen'
+'SJ: Svalbard and Jan Mayen' = 'Svalbard' => 'SJ: Svalbard'
+---> MapBox: (80.066999, 31.525504) => 'SJ: Svalbard and Jan Mayen'
+'SJ: Svalbard and Jan Mayen' = 'Svalbard' => 'SJ: Svalbard'
