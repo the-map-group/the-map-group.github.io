@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/158292715@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/fvega/',
   'location': 'Sa Rapita, Spain',
-  'countries': 10,
-  'markers': 3472,
-  'photos': 5265
+  'countries': 11,
+  'markers': 3476,
+  'photos': 5270
 }
