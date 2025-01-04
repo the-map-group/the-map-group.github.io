@@ -7,7 +7,6 @@ people/*/generate-map-data.py
 people/*/update-countries-map-data.py
 people/*/countries_info.py
 people/*/countries_members.py
-people/*/coordinates.py
 people/*/not_found.py
 people/members_list
 last_total.py
@@ -20,5 +19,4 @@ show-repo-size.sh
 clear-log.sh
 clear-members.sh
 maps.log
-mapbox_calls.log
 
