@@ -7,5 +7,5 @@ user_info = {
   'location': 'Kirk Michael, Isle of Man',
   'countries': 3,
   'markers': 2487,
-  'photos': 3322
+  'photos': 3323
 }
