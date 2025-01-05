@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/ultimax_1964/',
   'location': 'Sydney, Australia',
   'countries': 13,
-  'markers': 258,
-  'photos': 666
+  'markers': 260,
+  'photos': 668
 }
