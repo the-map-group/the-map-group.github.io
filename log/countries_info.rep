@@ -4894,3 +4894,17 @@
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+
+##### Robert.Pittman:
+'VC: Saint Vincent and the Grenadines' = 'St Vincent and the Grenadines' => 'VC: St Vincent and the Grenadines'
+--> GeoNames: (49.31993, -4.509887) = 'FR: France'
+'LC: Saint Lucia' = 'St Lucia' => 'LC: St Lucia'
+'LC: Saint Lucia' = 'St Lucia' => 'LC: St Lucia'
+'LC: Saint Lucia' = 'St Lucia' => 'LC: St Lucia'
+--> GeoNames: (20.500093, -73.059082) = 'HT: Haiti'
+--> GeoNames: (20.061607, -73.553466) = 'HT: Haiti'
+--> GeoNames: (23.556685, -83.012695) = 'CU: Cuba'
+--> GeoNames: (23.584126, -82.628173) = 'CU: Cuba'
+--> GeoNames: (23.714953, -82.10083) = 'CU: Cuba'
+--> GeoNames: (28.985718, -17.29248) = 'ES: Spain'
+--> GeoNames: (25.102512, -80.041992) = 'US: United States'
