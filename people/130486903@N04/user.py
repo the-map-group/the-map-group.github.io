@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/130486903@N04/',
   'location': 'Maribor, Slovenia',
   'countries': 4,
-  'markers': 346,
-  'photos': 364
+  'markers': 349,
+  'photos': 368
 }
