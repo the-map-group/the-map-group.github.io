@@ -4,7 +4,8 @@ user_info = {
   'name': 'Tino Kaartovuori',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/99502057@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/tinokaartovuori/',
+  'location': 'Tampere, Finland',
+  'countries': 4,
   'markers': 53,
-  'photos': 55,
-  'countries': 4
+  'photos': 55
 }
