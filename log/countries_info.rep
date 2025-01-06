@@ -4974,3 +4974,25 @@
 ##### MountMan Photo temp. OFF/ON:
 
 ##### giorgiorodano46:
+
+##### Atila Yumusakkaya:
+--> GeoNames: (40.195659, 26.109008) = 'TR: Türkiye'
+'TR: Türkiye' = 'Turkey' => 'TR: Turkey'
+--> GeoNames: (40.286859, 26.070556) = 'TR: Türkiye'
+'TR: Türkiye' = 'Turkey' => 'TR: Turkey'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+--> GeoNames: (40.191463, 26.113128) = 'TR: Türkiye'
+'TR: Türkiye' = 'Turkey' => 'TR: Turkey'
+'CY: Northern Cyprus' = 'Cyprus' => 'TY: Northern Cyprus'
+'CY: Northern Cyprus' = 'Cyprus' => 'TY: Northern Cyprus'
+'CY: Northern Cyprus' = 'Cyprus' => 'TY: Northern Cyprus'
+--> GeoNames: (40.216609, 26.137573) = 'TR: Türkiye'
+'TR: Türkiye' = 'Turkey' => 'TR: Turkey'
+--> GeoNames: (40.221543, 26.082394) = 'TR: Türkiye'
+'TR: Türkiye' = 'Turkey' => 'TR: Turkey'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
