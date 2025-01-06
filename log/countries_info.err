@@ -3399,3 +3399,7 @@
 -> Nominatim: (29.22889, -30.9375) = NOT FOUND
 --> GeoNames: (29.22889, -30.9375) = NOT FOUND
 ---> MapBox: (29.22889, -30.9375) = NOT FOUND
+
+##### Adam Swaine:
+-> Nominatim: (51.694267, 2.095475) = NOT FOUND
+-> Nominatim: (51.279594, 0.189685) = NOT FOUND
