@@ -5391,3 +5391,11 @@
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+
+##### ValKamch:
+--> GeoNames: (51.641119, 39.203472) = 'RU: Russia'
+--> GeoNames: (45.987336, 9.261583) = 'IT: Italy'
+--> GeoNames: (45.986756, 9.261901) = 'IT: Italy'
+--> GeoNames: (46.017545, 9.243373) = 'IT: Italy'
+--> GeoNames: (45.475325, 9.17445) = 'IT: Italy'
+--> GeoNames: (57.251383, 32.469044) = 'RU: Russia'
