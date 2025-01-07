@@ -4261,3 +4261,17 @@
 -> Nominatim: (12.312309, -68.389731) = NOT FOUND
 -> Nominatim: (12.155577, -68.279342) = NOT FOUND
 -> Nominatim: (12.125715, -68.287485) = NOT FOUND
+
+##### ReNato '59:
+-> Nominatim: (50.429517, -35.947265) = NOT FOUND
+--> GeoNames: (50.429517, -35.947265) = NOT FOUND
+---> MapBox: (50.429517, -35.947265) = NOT FOUND
+-> Nominatim: (-21.943045, 79.453125) = NOT FOUND
+--> GeoNames: (-21.943045, 79.453125) = NOT FOUND
+---> MapBox: (-21.943045, 79.453125) = NOT FOUND
+-> Nominatim: (41.013065, -12.875976) = NOT FOUND
+--> GeoNames: (41.013065, -12.875976) = NOT FOUND
+---> MapBox: (41.013065, -12.875976) = NOT FOUND
+-> Nominatim: (42.163403, -36.386717) = NOT FOUND
+--> GeoNames: (42.163403, -36.386717) = NOT FOUND
+---> MapBox: (42.163403, -36.386717) = NOT FOUND
