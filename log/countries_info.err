@@ -3673,3 +3673,12 @@
 ##### alcides OTA:
 
 ##### Patrice Dardoize:
+
+##### Stratman2:
+-> Nominatim: (4.083452, 104.589843) = NOT FOUND
+--> GeoNames: (4.083452, 104.589843) = NOT FOUND
+---> MapBox: (4.083452, 104.589843) = NOT FOUND
+-> Nominatim: (4.729726, 110.769653) = NOT FOUND
+--> GeoNames: (4.729726, 110.769653) = NOT FOUND
+---> MapBox: (4.729726, 110.769653) = NOT FOUND
+-> Nominatim: (5.123772, 114.016113) = NOT FOUND
