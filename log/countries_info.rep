@@ -5734,3 +5734,8 @@
 
 ##### Stratman2:
 --> GeoNames: (5.123772, 114.016113) = 'MY: Malaysia'
+
+##### mstraus52:
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
