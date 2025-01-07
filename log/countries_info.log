@@ -1051,3 +1051,14 @@
 (37.978845, -10.195312) skipped: [37, -10] is at not found list
 
 ##### dwightcarr_77:
+
+##### D-Stanley:
+(-16.853423, -165.574092) not found by any of the geocoders: [-16, -165] added to not found list
+(-53.218086, -44.153281) not found by any of the geocoders: [-53, -44] added to not found list
+(-53.216878, -44.118604) skipped: [-53, -44] is at not found list
+(-59.082081, -47.785595) not found by any of the geocoders: [-59, -47] added to not found list
+(-59.083363, -47.801006) skipped: [-59, -47] is at not found list
+[-60, -54] not added to not found list or excludes, unable to get location
+(72.861473, -59.717926) not found by any of the geocoders: [72, -59] added to not found list
+[72, -66] not added to not found list or excludes, unable to get location
+(66.188799, -58.849749) skipped: [66, -58] is at not found list
