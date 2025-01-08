@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/barbaraelaw/',
   'location': 'Kirk Michael, Isle of Man',
   'countries': 3,
-  'markers': 2487,
-  'photos': 3323
+  'markers': 2490,
+  'photos': 3327
 }
