@@ -273,7 +273,8 @@ for marker_info in coordinates:
         country_code = country_info[0]
         country_name = country_info[1]
     except:
-        pass
+        country_code = ''
+        country_name = ''
 
     # write it to locations file
     locations_file.write("    [[{0}, {1}], \'{2}\', \'{3}\', [".format(longitude, latitude, country_code, photo_owner))
