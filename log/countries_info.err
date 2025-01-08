@@ -136,3 +136,8 @@
 -> Nominatim: (-60.152442, -57.561034) = NOT FOUND
 --> GeoNames: (-60.152442, -57.561034) = NOT FOUND
 ---> MapBox: (-60.152442, -57.561034) = NOT FOUND
+
+##### Nicolas Hoizey:
+-> Nominatim: (-22.290723, 166.70368) = NOT FOUND
+-> Nominatim: (-22.32035, 166.822919) = NOT FOUND
+-> Nominatim: (-22.320323, 166.823522) = NOT FOUND
