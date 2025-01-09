@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/rubempjr/',
   'location': 'Rio de Janeiro, Brasil',
   'countries': 12,
-  'markers': 8133,
-  'photos': 20998
+  'markers': 8134,
+  'photos': 20999
 }
