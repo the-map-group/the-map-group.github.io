@@ -1058,3 +1058,8 @@
 (17.566007, -86.176757) skipped: [17, -86] is at not found list
 
 ##### Yabba Link:
+
+##### Thad Roan - Bridgepix:
+(21.578273, -84.992294) not skipped: [21, -84] is at not found excludes
+(14.637844, 144.48213) not skipped: [14, 144] is at not found excludes
+(14.637844, 144.48213) not found by any of the geocoders: [14, 144] is at not found excludes
