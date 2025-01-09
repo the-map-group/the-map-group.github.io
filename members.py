@@ -80,7 +80,7 @@ members_list = [
   ['19239093@N03', '19239093@N03', 'Edouard', "https://live.staticflickr.com/5674/buddyicons/19239093@N03_r.jpg", 8031, 10424, 3],
   ['124072682@N04', 'ludomichel', 'Lцdо\/іс M', "https://live.staticflickr.com/5674/buddyicons/124072682@N04_r.jpg", 4405, 4844, 10],
   ['23402613@N03', '23402613@N03', 'Joao de Mio', "https://live.staticflickr.com/5674/buddyicons/23402613@N03_r.jpg", 131, 184, 4],
-  ['188624701@N08', '188624701@N08', 'Vedran Peruničić', "https://live.staticflickr.com/5674/buddyicons/188624701@N08_r.jpg", 55, 83, 2],
+  ['188624701@N08', '188624701@N08', 'Joao de Mio', "https://live.staticflickr.com/5674/buddyicons/23402613@N03_r.jpg", 131, 184, 4],
   ['37775553@N06', 'aroubin', 'aroubin - Yay! 5 MILLION views', "https://live.staticflickr.com/5674/buddyicons/37775553@N06_r.jpg", 1931, 7583, 7],
   ['120177649@N03', '120177649@N03', 'Michael Pfau', "https://live.staticflickr.com/5674/buddyicons/120177649@N03_r.jpg", 1553, 9488, 9],
   ['35130206@N03', 'mikaelsoederberg', 'mikaelsoderberg', "https://live.staticflickr.com/5674/buddyicons/35130206@N03_r.jpg", 281, 348, 5],
