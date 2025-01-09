@@ -129,7 +129,7 @@ members_list = [
   ['78498223@N06', '78498223@N06', 'LFDV1960', "https://live.staticflickr.com/5674/buddyicons/78498223@N06_r.jpg", 361, 1308, 46],
   ['9060404@N06', 'fraginal', 'PINOY PHOTOGRAPHER', "https://live.staticflickr.com/5674/buddyicons/9060404@N06_r.jpg", 26808, 57043, 23],
   ['39777440@N03', 'fraganda', 'fraganda.photo', "https://live.staticflickr.com/5674/buddyicons/39777440@N03_r.jpg", 331, 332, 16],
-  ['112196494@N02', '112196494@N02', 'thunderbird-72', "https://live.staticflickr.com/5674/buddyicons/112196494@N02_r.jpg", 1426, 2743, 13],
+  ['112196494@N02', '112196494@N02', 'fraganda.photo', "https://live.staticflickr.com/5674/buddyicons/39777440@N03_r.jpg", 331, 332, 16],
   ['63558969@N08', 'massimo_francesconi', 'Massimo Francesconi', "https://live.staticflickr.com/5674/buddyicons/63558969@N08_r.jpg", 64, 69, 2],
   ['88321829@N03', 'airscan', 'Alexander Sand Halvorsen', "https://live.staticflickr.com/5674/buddyicons/88321829@N03_r.jpg", 358, 483, 12],
   ['92496593@N08', 'montenegrina', 'ForceMajeureMontenegro', "https://live.staticflickr.com/5674/buddyicons/92496593@N08_r.jpg", 1349, 1532, 13],
