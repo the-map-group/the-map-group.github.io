@@ -57,7 +57,7 @@ try:
 except:
     sys.exit()
 
-# stores the coordinates fo the markers
+# stores the coordinates of the markers
 coordinates = []
 
 # get the total number of photos
@@ -269,7 +269,7 @@ for marker_info in coordinates:
     latitude = float(marker_info[0][1])
     photo_owner = marker_info[1]
     try:
-        country_info = getCountryInfo(latitude, longitude)
+        country_info = getCountryInfo(latitude, longitude, dict())
         country_code = country_info[0]
         country_name = country_info[1]
     except:
