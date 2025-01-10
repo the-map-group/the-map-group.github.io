@@ -7,6 +7,7 @@
 
 import flickrapi
 import api_credentials
+import config
 import aliases
 import importlib
 import json
@@ -54,19 +55,14 @@ def sendEmail(member_name):
 
 #===== MAIN CODE ==============================================================#
 
-reset = True
-rebuild_members = True
-rebuild_countries = True
+reset = config.reset
+rebuild_countries = config.rebuild_countries
 
 current_members = []
 members_list = []
 
 if reset and os.path.exists("{}/members.py".format(repo_path)):
     os.system("rm {}/members.py".format(repo_path))
-
-if not rebuild_members and os.path.exists("{}/members.py".format(repo_path)):
-    import members
-    members_list = members.members_list
 
 # get group id and name from group url
 try:
@@ -135,14 +131,37 @@ for page_number in range(number_of_pages, 0, -1):
             if not os.path.exists(member_path):
                 os.system("mv {}/{} {}".format(people_path, member_id, member_path))
                 os.system("git add {}/*".format(member_path))
-                os.system("git rm -r {}/{}".format(people_path, member_id))
+                os.system("git rm -fr {}/{}".format(people_path, member_id))
                 print('Renamed member directory: {} -> {}'.format(member_id, member_alias))
             else:
-                os.system("git rm -r {}/{}".format(people_path, member_id))
+                os.system("git rm -fr {}/{}".format(people_path, member_id))
                 print('Removed old member directory: {}'.format(member_id))
 
         if reset and os.path.exists("{}/last_total.py".format(member_path)):
-            print('WARNING: Map has already been generated for member: {}. Skipped.'.format(member_name[0:20]))
+            print('WARNING: Map has already been generated for member: {}'.format(member_name[0:20]))
+            # get member information
+            print("Getting member information...")
+
+            os.system("cp {0}/user.py {1}/".format(member_path, repo_path))
+            import user
+            importlib.reload(user)
+            from user import user_info
+            os.system("rm {}/user.py".format(repo_path))
+
+            member_name = user_info['name']
+            if len(member_name) > 30:
+                member_name = member_name[:30]
+
+            member_avatar = "{}".format(user_info['avatar'].replace('../../', ''))
+
+            member_n_places = user_info['markers']
+            member_n_photos = user_info['photos']
+            member_n_countries = user_info['countries']
+
+            if member_n_places > 0:
+                members_list.append([member_id, member_alias, member_name, member_avatar, member_n_places, member_n_photos, member_n_countries])
+
+            print("Finished!\n")
             continue
 
         # create member directory and topic if doesn't exist yet
@@ -286,25 +305,12 @@ for page_number in range(number_of_pages, 0, -1):
         member_n_photos = user_info['photos']
         member_n_countries = user_info['countries']
 
-        already_in_list = False
-        for i in range(len(members_list)):
-            if members_list[i][0] == member_id:
-                members_list[i][4] = member_n_places
-                members_list[i][5] = member_n_photos
-                members_list[i][6] = member_n_countries
-                already_in_list = True
-
-        if not already_in_list and member_n_places > 0:
+        if member_n_places > 0:
             members_list.append([member_id, member_alias, member_name, member_avatar, member_n_places, member_n_photos, member_n_countries])
 
         print("Finished!\n")
 
         os.system("rm -fr {}/__pycache__".format(member_path))
-
-# remove from the list members who left the group
-for i in range(len(members_list)-1, -1, -1):
-    if members_list[i][1] not in current_members:
-        members_list.pop(i)
 
 # write new members.py file
 members_file = open("{}/members.py".format(repo_path), 'w')
@@ -347,6 +353,7 @@ os.system("git add -f {}/countries/*".format(repo_path))
 os.system("git add -f {}/not_found.py".format(repo_path))
 os.system("git add -f {}/log/*".format(repo_path))
 os.system("git commit -m \"[auto] Updated group map\"")
+os.system("git push origin main")
 print('Done!')
 
 os.system("rm -fr {}/__pycache__".format(repo_path))
@@ -394,6 +401,7 @@ for member in members_dirs:
         # remove member directory
         os.system("git rm -fr {0}/{1}".format(people_path, member))
         os.system("git commit -m \"[auto] Removed member \'{}\'\"".format(member))
+        os.system("git push origin main")
         os.system("rm -fr {0}/{1}".format(people_path, member))
         print("Removed member: {}".format(member))
         removed += 1
@@ -401,3 +409,4 @@ for member in members_dirs:
             if member in topic[1]:
                 reply_message = "[https://www.flickr.com/photos/{}/] Your map has been removed. Feel free to come back anytime and a new map will be created for you.".format(member)
                 flickr.groups.discuss.replies.add(api_key=api_key, group_id=group_id, topic_id=topic[0], message=reply_message)
+

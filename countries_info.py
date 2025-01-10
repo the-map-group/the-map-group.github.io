@@ -6,6 +6,7 @@ from geopy.geocoders import MapBox
 
 import os
 import api_credentials
+import countries_config
 import not_found
 
 try:
@@ -84,23 +85,17 @@ def getInfoFromMapBox(latlong):
 
 def getCountryInfo(lat, long, coords_dict):
 
-    # control if MapBox geocoder will be used on territories
-    use_mapbox = True
+    use_mapbox = countries_config.use_mapbox
+    nominatim_exclude = countries_config.nominatim_exclude
+    geonames_exclude = countries_config.geonames_exclude
+    gen_err_file = countries_config.gen_err_file
+    gen_rep_file = countries_config.gen_rep_file
+    rep_matrix = countries_config.rep_matrix
+    rep_dictionary = countries_config.rep_dictionary
+    rep_nominatim = countries_config.rep_nominatim
+    rep_geonames = countries_config.rep_geonames
+    rep_mapbox = countries_config.rep_mapbox
 
-    # exclusion lists
-    nominatim_exclude = ['MA']
-    geonames_exclude = []
-
-    # control if report and errors files will be generated
-    gen_err_file = True
-    gen_rep_file = True
-    rep_matrix = False
-    rep_dictionary = False
-    rep_nominatim = False
-    rep_geonames = True
-    rep_mapbox = True
-
-    ### DO NOT MODIFY! ###
     is_territory = False
 
     run_dir = os.path.dirname(os.path.realpath(__file__))

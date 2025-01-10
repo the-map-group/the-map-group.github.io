@@ -21,6 +21,11 @@ if [[ ! -e countries_info.py ]];
     ln -s ../../countries_info.py .
 fi
 
+if [[ ! -e countries_config.py ]];
+  then
+    ln -s ../../config.py countries_config.py
+fi
+
 if [[ ! -e not_found.py ]];
   then
     ln -s ../../not_found.py .
@@ -46,25 +51,25 @@ if [[ ! -e update-countries-map-data.py ]];
     ln ../update-countries-map-data.py .
 fi
 
-if [[ -e last_total.py ]];
-  then
-    rm last_total.py
-fi
+#if [[ -e last_total.py ]];
+#  then
+#    rm last_total.py
+#fi
 
-if [[ -e user.py ]];
-  then
-    rm user.py
-fi
+#if [[ -e user.py ]];
+#  then
+#    rm user.py
+#fi
 
-if [[ -e countries.py ]];
-  then
-    rm countries.py
-fi
+#if [[ -e countries.py ]];
+#  then
+#    rm countries.py
+#fi
 
-if [[ -e locations.py ]];
-  then
-    rm locations.py
-fi
+#if [[ -e locations.py ]];
+#  then
+#    rm locations.py
+#fi
 
 if [[ -e __pycache__ ]];
   then

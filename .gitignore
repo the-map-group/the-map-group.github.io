@@ -2,6 +2,7 @@ __pycache__
 api_credentials.py
 authenticate.py
 mapbox_token.py
+countries_config.py
 people/*/config.py
 people/*/generate-map-data.py
 people/*/update-countries-map-data.py
