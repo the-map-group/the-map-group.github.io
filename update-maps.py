@@ -37,6 +37,22 @@ people_path = repo_path + "/people"
 
 #===== FUNCTIONS ==============================================================#
 
+def getMemberInfo(member_path, repo_path):
+    os.system("cp {0}/user.py {1}/".format(member_path, repo_path))
+    import user
+    importlib.reload(user)
+    from user import user_info
+    os.system("rm {}/user.py".format(repo_path))
+    member_name = user_info['name']
+    if len(member_name) > 30:
+        member_name = member_name[:30]
+    member_avatar = "{}".format(user_info['avatar'].replace('../../', ''))
+    member_n_places = user_info['markers']
+    member_n_photos = user_info['photos']
+    member_n_countries = user_info['countries']
+    return [member_id, member_alias, member_name, member_avatar, member_n_places, member_n_photos, member_n_countries]
+
+
 def memberFilesExist(member_path):
     locations_exists = os.path.exists("{}/locations.py".format(member_path))
     coords_exists = os.path.exists("{}/coords.py".format(member_path))
@@ -56,7 +72,6 @@ def sendEmail(member_name):
 #===== MAIN CODE ==============================================================#
 
 reset = config.reset
-rebuild_countries = config.rebuild_countries
 
 current_members = []
 members_list = []
@@ -81,13 +96,6 @@ try:
 except:
     print('ERROR: FATAL: Unable to get members list\n')
     sys.exit()
-
-if reset and rebuild_countries and os.path.exists("{}/countries/members.py".format(repo_path)):
-    os.system("rm {}/countries/members.py".format(repo_path))
-    members_file = open("{}/countries/members.py".format(repo_path), 'w')
-    members_file.write("members_dict = {\n")
-    members_file.write("}\n")
-    members_file.close()
 
 # iterate over each members page
 for page_number in range(number_of_pages, 0, -1):
@@ -134,32 +142,19 @@ for page_number in range(number_of_pages, 0, -1):
                 os.system("git rm -fr {}/{}".format(people_path, member_id))
                 print('Renamed member directory: {} -> {}'.format(member_id, member_alias))
             else:
-                os.system("git rm -fr {}/{}".format(people_path, member_id))
                 print('Removed old member directory: {}'.format(member_id))
 
         if reset and os.path.exists("{}/last_total.py".format(member_path)):
             print('WARNING: Map has already been generated for member: {}'.format(member_name[0:20]))
+
             # get member information
             print("Getting member information...")
 
-            os.system("cp {0}/user.py {1}/".format(member_path, repo_path))
-            import user
-            importlib.reload(user)
-            from user import user_info
-            os.system("rm {}/user.py".format(repo_path))
-
-            member_name = user_info['name']
-            if len(member_name) > 30:
-                member_name = member_name[:30]
-
-            member_avatar = "{}".format(user_info['avatar'].replace('../../', ''))
-
-            member_n_places = user_info['markers']
-            member_n_photos = user_info['photos']
-            member_n_countries = user_info['countries']
+            member_info = getMemberInfo(member_path, repo_path)
+            member_n_places = member_info[4]
 
             if member_n_places > 0:
-                members_list.append([member_id, member_alias, member_name, member_avatar, member_n_places, member_n_photos, member_n_countries])
+                members_list.append(member_info)
 
             print("Finished!\n")
             continue
@@ -248,11 +243,6 @@ for page_number in range(number_of_pages, 0, -1):
         else:
             loc_fsize_diff = 0
 
-        # updates countries members file
-        if memberFilesExist(member_path):
-            command = "{}/update-countries-map-data.py".format(member_path)
-            os.system(command)
-
         # commit map
         if memberFilesExist(member_path):
             if reset or ((loc_fsize_diff != 0 or (is_new_member and loc_fsize > 21))):
@@ -270,6 +260,7 @@ for page_number in range(number_of_pages, 0, -1):
                 print('Done!')
             else:
                 print("Everything is up-to-date. Nothing to commit!")
+                os.system("git checkout -- {}/".format(member_path))
         else:
             print("ERROR: Missing member files. Aborted.\n")
             continue
@@ -312,7 +303,11 @@ for page_number in range(number_of_pages, 0, -1):
 
         os.system("rm -fr {}/__pycache__".format(member_path))
 
-# write new members.py file
+# remove countries members file
+if os.path.exists("{}/countries/members.py".format(repo_path)):
+    os.system("rm {}/countries/members.py".format(repo_path))
+
+# write new members.py files
 members_file = open("{}/members.py".format(repo_path), 'w')
 members_file.write("members_list = [\n")
 
@@ -322,6 +317,12 @@ for i in range(len(members_list)):
         members_file.write("],\n")
     else:
         members_file.write("]\n")
+
+    # updates countries members file
+    member_path = people_path + "/" + members_list[i][1]
+    if memberFilesExist(member_path):
+        command = "{}/update-countries-map-data.py".format(member_path)
+        os.system(command)
 
 members_file.write("]\n")
 members_file.close()

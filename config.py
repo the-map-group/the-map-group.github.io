@@ -3,9 +3,6 @@
 # reset all members maps
 reset = False
 
-# rebuild countries list
-rebuild_countries = False
-
 
 ### COUNTRIES INFO
 
