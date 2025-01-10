@@ -823,3 +823,6 @@ Matrix: (-43.947953, 169.864291) = [-43, 169] => 'NZ: New Zealand'
 
 ##### wa2wider:
 -> Nominatim: (47.940117, -84.708984) = 'CA: Canada'
+
+##### Julian Munilla Rio:
+Matrix: (40.32829, -3.802556) = [40, -3] => 'ES: Spain'
