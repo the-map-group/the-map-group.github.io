@@ -12,7 +12,7 @@ people/*/not_found.py
 people/members_list
 last_total.py
 update-initial-code.sh
-update-repos.sh
+update-repo.sh
 update-maps.sh
 run-update-maps.sh
 backup-data.sh
