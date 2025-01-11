@@ -13213,3 +13213,6 @@ Matrix: (47.015521, -52.890415) = [47, -52] => 'FR: France'
 -> Nominatim: (49.049141, -1.443361) = 'FR: France'
 Matrix: (-21.231272, 55.469756) = [-21, 55] => 'RE: Reunion'
 -> Nominatim: (49.222649, -0.784524) = 'FR: France'
+
+##### Brit 70013 fan:
+-> Nominatim: (9.234239, -79.93412) = 'PA: Panama'
