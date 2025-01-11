@@ -13588,3 +13588,8 @@ Matrix: (-43.955864, 169.847272) = [-43, 169] => 'NZ: New Zealand'
 
 ##### kimbar/Thanks for 6.7 million views!:
 Matrix: (37.863472, -122.318145) = [37, -122] => 'US: United States'
+
+##### Urban Florida Photographer:
+-> Nominatim: (26.022286, -80.116609) = 'US: United States'
+-> Nominatim: (27.901933, -81.589478) = 'US: United States'
+-> Nominatim: (26.118797, -80.143562) = 'US: United States'
