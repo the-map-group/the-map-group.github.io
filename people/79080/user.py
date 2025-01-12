@@ -7,5 +7,5 @@ user_info = {
   'location': 'Halifax, Nova Scotia, Canada',
   'countries': 15,
   'markers': 244,
-  'photos': 270
+  'photos': 271
 }
