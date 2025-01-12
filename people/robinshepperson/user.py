@@ -7,5 +7,5 @@ user_info = {
   'location': 'Storkow, Germany',
   'countries': 1,
   'markers': 57,
-  'photos': 107
+  'photos': 108
 }
