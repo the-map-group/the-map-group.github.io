@@ -143,3 +143,6 @@ Matrix: (-21.250412, 55.469402) = [-21, 55] => 'RE: Reunion'
 ##### fam_nordstrom:
 -> Nominatim: (-15.824193, -70.008035) = 'PE: Peru'
 -> Nominatim: (-15.822996, -69.995021) = 'PE: Peru'
+
+##### Harald Schulz:
+-> Nominatim: (50.108941, 8.676158) = 'DE: Germany'
