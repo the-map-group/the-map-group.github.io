@@ -589,3 +589,13 @@ Matrix: (31.326668, 120.623971) = [31, 120] => 'CN: China'
 
 ##### ceri1965:
 Matrix: (53.106606, -4.310771) = [53, -4] => 'GB: United Kingdom'
+
+##### sarahstierch:
+-> Nominatim: (44.413993, -68.296744) = 'US: United States'
+-> Nominatim: (-34.906403, -56.199548) = 'UY: Uruguay'
+-> Nominatim: (49.049141, -1.443361) = 'FR: France'
+-> Nominatim: (49.207013, -0.687965) = 'FR: France'
+-> Nominatim: (49.222649, -0.784524) = 'FR: France'
+Matrix: (-21.229922, 55.469959) = [-21, 55] => 'RE: Reunion'
+-> Nominatim: (51.906722, 4.483263) = 'NL: Netherlands'
+-> Nominatim: (51.488855, 7.032113) = 'DE: Germany'
