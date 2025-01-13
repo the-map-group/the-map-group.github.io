@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/ggphoto36/',
   'location': 'Monmouth, Oregon, United States',
   'countries': 5,
-  'markers': 932,
-  'photos': 977
+  'markers': 933,
+  'photos': 978
 }
