@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/fam_nordstrom/',
   'location': 'Sanlúcar de Barrameda, Spain',
   'countries': 26,
-  'markers': 6243,
-  'photos': 18727
+  'markers': 6244,
+  'photos': 18737
 }
