@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/photos-by-ivor/',
   'location': '',
   'countries': 9,
-  'markers': 1665,
-  'photos': 30034
+  'markers': 1667,
+  'photos': 30036
 }
