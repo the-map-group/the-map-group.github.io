@@ -417,3 +417,35 @@ Matrix: (49.163108, -118.623004) = [49, -118] => 'CA: Canada'
 
 ##### Urban Florida Photographer:
 Matrix: (30.8383, -83.981981) = [30, -83] => 'US: United States'
+
+##### Yabba Link:
+
+##### Thad Roan - Bridgepix:
+
+##### I saw_that:
+
+##### Willie Ng:
+
+##### glancingshots.uk:
+
+##### Al Case:
+
+##### mouzhik:
+
+##### Wes Iversen:
+
+##### ceri1965:
+
+##### sarahstierch:
+Matrix: (-7.918696, 156.640567) = [-7, 156] => 'SB: Solomon Islands'
+Matrix: (-7.918059, 156.641297) = [-7, 156] => 'SB: Solomon Islands'
+Matrix: (-7.918409, 156.642777) = [-7, 156] => 'SB: Solomon Islands'
+Matrix: (-7.920024, 156.647852) = [-7, 156] => 'SB: Solomon Islands'
+Matrix: (-7.918749, 156.643754) = [-7, 156] => 'SB: Solomon Islands'
+-> Nominatim: (49.206985, -0.687621) = 'FR: France'
+Matrix: (-21.343756, 55.474573) = [-21, 55] => 'RE: Reunion'
+--> GeoNames: (-20.89095, 55.467749) = 'RE: Réunion'
+'RE: Réunion' = 'Reunion' => 'RE: Reunion'
+-> Nominatim: (45.8728, 6.46388) = 'FR: France'
+Matrix: (58.165919, -4.990992) = [58, -4] => 'GB: United Kingdom'
+-> Nominatim: (50.646201, 5.573683) = 'BE: Belgium'
