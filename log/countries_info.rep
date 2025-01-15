@@ -141,3 +141,6 @@ Matrix: (34.141505, -119.194194) = [34, -119] => 'US: United States'
 
 ##### malioli:
 -> Nominatim: (45.147905, 14.665203) = 'HR: Croatia'
+
+##### fam_nordstrom:
+-> Nominatim: (-15.835124, -70.014687) = 'PE: Peru'
