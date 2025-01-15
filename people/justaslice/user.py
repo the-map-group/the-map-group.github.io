@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/justaslice/',
   'location': '',
   'countries': 30,
-  'markers': 3098,
-  'photos': 4784
+  'markers': 3099,
+  'photos': 4785
 }
