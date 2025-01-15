@@ -15,7 +15,7 @@ update-initial-code.sh
 update-repo.sh
 update-maps.sh
 run-update-maps.sh
-backup-data.sh
+backup-repo.sh
 show-repo-size.sh
 clear-log.sh
 clear-members.sh
