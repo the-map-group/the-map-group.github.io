@@ -248,3 +248,8 @@ Matrix: (52.130723, 11.624928) = [52, 11] => 'DE: Germany'
 
 ##### Robin Shepperson Photography:
 Matrix: (52.250446, 13.929548) = [52, 13] => 'DE: Germany'
+
+##### Ron Fisher:
+-> Nominatim: (47.784509, 15.898502) = 'AT: Austria'
+-> Nominatim: (47.790615, 15.910572) = 'AT: Austria'
+-> Nominatim: (47.4451, 15.290413) = 'AT: Austria'
