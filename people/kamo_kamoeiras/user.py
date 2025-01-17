@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/kamo_kamoeiras/',
   'location': 'Salamanca, ESPAÑA',
   'countries': 5,
-  'markers': 1891,
-  'photos': 2509
+  'markers': 1893,
+  'photos': 2511
 }
