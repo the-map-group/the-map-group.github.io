@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/38795342@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/rubempjr/',
   'location': 'Rio de Janeiro, Brasil',
-  'countries': 12,
-  'markers': 8134,
-  'photos': 20999
+  'countries': 13,
+  'markers': 8136,
+  'photos': 21004
 }
