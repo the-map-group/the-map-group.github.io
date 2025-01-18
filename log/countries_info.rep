@@ -442,3 +442,6 @@ Matrix: (43.878847, 11.098002) = [43, 11] => 'IT: Italy'
 -> Nominatim: (21.0171, -101.25357) = 'MX: Mexico'
 -> Nominatim: (20.913963, -100.744409) = 'MX: Mexico'
 -> Nominatim: (20.913897, -100.744523) = 'MX: Mexico'
+
+##### Urban Florida Photographer:
+Matrix: (30.438152, -84.282045) = [30, -84] => 'US: United States'
