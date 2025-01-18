@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/134205948@N02/',
   'location': 'Roma, Italy',
   'countries': 8,
-  'markers': 6824,
-  'photos': 7539
+  'markers': 6826,
+  'photos': 7541
 }
