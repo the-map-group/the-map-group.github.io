@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/marcostetter/',
   'location': '',
   'countries': 54,
-  'markers': 1770,
-  'photos': 3556
+  'markers': 1771,
+  'photos': 3558
 }
