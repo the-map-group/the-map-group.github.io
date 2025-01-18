@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/sarahvain/',
   'location': 'Sonoma, CA, USA',
   'countries': 15,
-  'markers': 12858,
-  'photos': 17918
+  'markers': 12861,
+  'photos': 17921
 }
