@@ -32,3 +32,18 @@ Matrix: (48.635702, -53.044191) = [48, -53] => 'FR: France'
 Matrix: (48.625916, -53.020116) = [48, -53] => 'FR: France'
 Matrix: (48.6331, -53.03343) = [48, -53] => 'FR: France'
 Matrix: (48.63144, -53.034471) = [48, -53] => 'FR: France'
+
+##### CJphoto83:
+
+##### ManxieB- sorry, struggling!:
+
+##### philippeguillot21:
+-> Nominatim: (49.013385, -1.470998) = 'FR: France'
+-> Nominatim: (49.013449, -1.470215) = 'FR: France'
+Matrix: (-21.226641, 55.469809) = [-21, 55] => 'RE: Reunion'
+Matrix: (-21.226971, 55.469788) = [-21, 55] => 'RE: Reunion'
+Matrix: (-21.226081, 55.470196) = [-21, 55] => 'RE: Reunion'
+Matrix: (-21.226251, 55.470507) = [-21, 55] => 'RE: Reunion'
+Matrix: (-21.225671, 55.470099) = [-21, 55] => 'RE: Reunion'
+--> GeoNames: (-20.968823, 55.328339) = 'RE: Réunion'
+'RE: Réunion' = 'Reunion' => 'RE: Reunion'
