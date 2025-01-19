@@ -570,3 +570,13 @@ Matrix: (49.453255, -119.5826) = [49, -119] => 'CA: Canada'
 ##### mouzhik:
 
 ##### Wes Iversen:
+
+##### ceri1965:
+
+##### sarahstierch:
+Matrix: (-33.730907, 150.999548) = [-33, 150] => 'AU: Australia'
+Matrix: (40.960135, -5.667059) = [40, -5] => 'ES: Spain'
+-> Nominatim: (50.668362, -4.758582) = 'GB: United Kingdom'
+-> Nominatim: (44.550226, -110.806077) = 'US: United States'
+-> Nominatim: (44.436374, -68.308525) = 'US: United States'
+-> Nominatim: (53.341219, -6.252894) = 'IE: Ireland'
