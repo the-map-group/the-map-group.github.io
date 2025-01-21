@@ -255,3 +255,18 @@ Matrix: (52.127092, 11.637112) = [52, 11] => 'DE: Germany'
 
 ##### khrawlings:
 -> Nominatim: (41.899886, 12.487588) = 'IT: Italy'
+
+##### Ignacio M. Jiménez:
+
+##### Kart5a:
+
+##### Jens Koschitzki:
+Matrix: (45.496319, 10.910377) = [45, 10] => 'IT: Italy'
+Matrix: (45.496419, 10.91033) = [45, 10] => 'IT: Italy'
+Matrix: (45.496883, 10.910222) = [45, 10] => 'IT: Italy'
+Matrix: (45.496977, 10.910213) = [45, 10] => 'IT: Italy'
+Matrix: (45.496794, 10.908647) = [45, 10] => 'IT: Italy'
+Matrix: (45.496705, 10.906297) = [45, 10] => 'IT: Italy'
+Matrix: (45.496541, 10.907216) = [45, 10] => 'IT: Italy'
+-> Nominatim: (47.719111, 11.971483) = 'DE: Germany'
+-> Nominatim: (47.724636, 11.976652) = 'DE: Germany'
