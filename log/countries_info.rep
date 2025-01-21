@@ -310,3 +310,9 @@ Matrix: (45.496541, 10.907216) = [45, 10] => 'IT: Italy'
 ##### Adam Swaine:
 -> Nominatim: (51.458225, -0.060886) = 'GB: United Kingdom'
 -> Nominatim: (51.457476, -0.06021) = 'GB: United Kingdom'
+
+##### Crystal.Rain:
+Matrix: (58.206964, 45.50685) = [58, 45] => 'RU: Russia'
+Matrix: (58.215928, 45.496979) = [58, 45] => 'RU: Russia'
+Matrix: (58.215295, 45.501378) = [58, 45] => 'RU: Russia'
+Matrix: (58.211565, 45.508974) = [58, 45] => 'RU: Russia'
