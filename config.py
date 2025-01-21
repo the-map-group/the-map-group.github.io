@@ -3,8 +3,10 @@
 # reset all members maps
 reset = False
 
-
 ### COUNTRIES INFO
+
+# control if countries matrix will be used
+use_matrix = True
 
 # control if MapBox geocoder will be used on territories
 use_mapbox = True

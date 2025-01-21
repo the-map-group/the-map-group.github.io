@@ -85,6 +85,7 @@ def getInfoFromMapBox(latlong):
 
 def getCountryInfo(lat, long, coords_dict):
 
+    use_matrix = countries_config.use_matrix
     use_mapbox = countries_config.use_mapbox
     nominatim_exclude = countries_config.nominatim_exclude
     geonames_exclude = countries_config.geonames_exclude
@@ -147,16 +148,17 @@ def getCountryInfo(lat, long, coords_dict):
     elif lat_long in not_found_places_excludes:
             log_file.write("{} not skipped: [{}, {}] is at not found excludes\n".format(latlong, latitude, longitude))
 
-    try:
-        lat_codes = latitude_dict[latitude]
-        long_codes = longitude_dict[longitude]
-        codes = lat_codes.intersection(long_codes)
-    except:
-        if gen_err_file:
-            err_file.write("Matrix: ERROR: Key error at [{}, {}]\n".format(latitude, longitude))
-        codes = []
+    if use_matrix:
+        try:
+            lat_codes = latitude_dict[latitude]
+            long_codes = longitude_dict[longitude]
+            codes = lat_codes.intersection(long_codes)
+        except:
+            if gen_err_file:
+                err_file.write("Matrix: ERROR: Key error at [{}, {}]\n".format(latitude, longitude))
+            codes = []
 
-    if len(codes) == 1:
+    if use_matrix and len(codes) == 1:
         code = codes.pop()
         name = countries_dict[code][0]
         if gen_rep_file and rep_matrix:
