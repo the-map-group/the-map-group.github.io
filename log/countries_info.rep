@@ -317,3 +317,7 @@
 -> Nominatim: (51.457643, -0.062323) = 'GB: United Kingdom'
 -> Nominatim: (51.457777, -0.059212) = 'GB: United Kingdom'
 -> Nominatim: (51.458018, -0.062474) = 'GB: United Kingdom'
+
+##### Crystal.Rain:
+Matrix: (52.521288, 13.292347) = [52, 13] => 'DE: Germany'
+Matrix: (52.506302, 13.449594) = [52, 13] => 'DE: Germany'
