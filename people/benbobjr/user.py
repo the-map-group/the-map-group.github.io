@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/benbobjr/',
   'location': '',
   'countries': 16,
-  'markers': 38422,
-  'photos': 51170
+  'markers': 38454,
+  'photos': 51262
 }
