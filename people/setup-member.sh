@@ -31,4 +31,6 @@ echo "geo_privacy = 1" >> config.py
 echo "dont_map_tag = 'DontMap'" >> config.py
 echo "coords_dict = {" > coords.py
 echo "}" >> coords.py
-
+mkdir $REPO_DIR/people/$1/photos
+cd $REPO_DIR/people/$1/photos
+ln ../../photos.html index.html
