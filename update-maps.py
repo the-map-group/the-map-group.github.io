@@ -247,6 +247,7 @@ for page_number in range(number_of_pages, 0, -1):
         if memberFilesExist(member_path):
             if reset or ((loc_fsize_diff != 0 or (is_new_member and loc_fsize > 21))):
                 print('Commiting map data...')
+                os.system("git add -f {}/photos/index.html".format(member_path))
                 os.system("git add -f {}/index.html".format(member_path))
                 os.system("git add -f {}/locations.py".format(member_path))
                 os.system("git add -f {}/countries.py".format(member_path))
