@@ -1505,3 +1505,15 @@ Matrix: (43.878847, 11.098002) = [43, 11] => 'IT: Italy'
 
 ##### enrico377:
 -> Nominatim: (36.856136, 10.328521) = 'TN: Tunisia'
+
+##### cnmark:
+
+##### diffendale:
+
+##### PeterThoeny:
+
+##### CravingEscape:
+
+##### Gérard Cachon:
+--> GeoNames: (12.215185, -68.337106) = 'BQ: Bonaire, Sint Eustatius, and Saba'
+'BQ: Bonaire, Sint Eustatius, and Saba' = 'Bonaire' => 'BQ: Bonaire'
