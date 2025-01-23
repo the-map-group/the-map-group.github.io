@@ -1,51 +1,49 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-    <script src="../user.py"></script>
-    <script src="../locations.py"></script>
-    <script src="../countries.py"></script>
-  </head>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <script src="../user.py"></script>
+  <script src="../locations.py"></script>
+  <script src="../countries.py"></script>
+</head>
 
-  <body id="body">
+<body id="body">
 
-    <script>
+  <script>
 
-      var body = document.getElementById('body');
+  var body = document.getElementById('body');
 
-      var header1 = document.createElement('H1');
-      header1.innerHTML = user_info['name'];
-      body.appendChild(header1);
+  var header1 = document.createElement('H1');
+  header1.innerHTML = user_info['name'];
+  body.appendChild(header1);
 
-      for (var country_code in locations_dict) {
-
-        var header2 = document.createElement('H2');
-        header2.innerHTML = countries_dict[country_code][0]
-        .concat(" (").concat(countries_dict[country_code][2]).concat(")");
-        body.appendChild(header2);
-
-        var country_locations = locations_dict[country_code];
-
-        for (var i = 0; i < country_locations.length; i++) {
-          var photos = country_locations[i][1];
-          for (var j = 0; j < photos.length; j++ ) {
-            var img = document.createElement('IMG');
-            img.setAttribute('src', photos[j][1]);
-            var link = document.createElement('A');
-            link.setAttribute('href', 'https:\/\/www.flickr.com\/photos\/'
-              .concat(user_info['alias']).concat('\/')
-              .concat(photos[j][0]).concat('\/'));
-            link.setAttribute('target', '_blank');
-            link.appendChild(img);
-            body.appendChild(link);
-            body.append(' ');
-          }
+  for (var country_code in locations_dict) {
+    if (country_code != '') {
+      var header2 = document.createElement('H2');
+      header2.innerHTML = countries_dict[country_code][0]
+      .concat(" (").concat(countries_dict[country_code][2]).concat(")");
+      body.appendChild(header2);
+      var country_locations = locations_dict[country_code];
+      for (var i = 0; i < country_locations.length; i++) {
+        var photos = country_locations[i][1];
+        for (var j = 0; j < photos.length; j++ ) {
+          var img = document.createElement('IMG');
+          img.setAttribute('src', photos[j][1]);
+          var link = document.createElement('A');
+          link.setAttribute('href', 'https:\/\/www.flickr.com\/photos\/'
+          .concat(user_info['alias']).concat('\/')
+          .concat(photos[j][0]).concat('\/'));
+          link.setAttribute('target', '_blank');
+          link.appendChild(img);
+          body.appendChild(link);
+          body.append(' ');
         }
-
       }
+    }
+  }
 
-    </script>
+</script>
 
-  </body>
+</body>
 </html>
