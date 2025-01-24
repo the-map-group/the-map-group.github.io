@@ -210,7 +210,7 @@ def getCountryInfo(lat, long, coords_dict):
             code = info[0]
             name = info[1]
 
-            if (code == '*' and use_mapbox) or code in geonames_exclude:
+            if (code == '*' and use_mapbox) or (code in geonames_exclude and use_mapbox):
                 code = ''
                 name = ''
 

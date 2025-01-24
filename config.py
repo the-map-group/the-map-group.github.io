@@ -12,8 +12,8 @@ use_matrix = True
 use_mapbox = True
 
 # exclusion lists
-nominatim_exclude = ['MA']
-geonames_exclude = []
+nominatim_exclude = ['MA', 'BR', 'PY', 'AR']
+geonames_exclude = ['PY', 'AR']
 
 # control if report and errors files will be generated
 gen_err_file = True
