@@ -3986,3 +3986,8 @@ Matrix: (-43.999413, 170.470266) = [-43, 170] => 'NZ: New Zealand'
 -> Nominatim: (48.11193, 11.551869) = 'DE: Germany'
 -> Nominatim: (48.11655, 11.58103) = 'DE: Germany'
 -> Nominatim: (48.11943, 11.583404) = 'DE: Germany'
+
+##### xd_travel:
+
+##### Nicolas Hoizey:
+Matrix: (48.701005, 2.450938) = [48, 2] => 'FR: France'
