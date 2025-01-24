@@ -4017,3 +4017,6 @@ Matrix: (48.701005, 2.450938) = [48, 2] => 'FR: France'
 -> Nominatim: (37.876809, -4.783128) = 'ES: Spain'
 -> Nominatim: (37.876758, -4.783504) = 'ES: Spain'
 -> Nominatim: (59.29364, 18.083143) = 'SE: Sweden'
+
+##### Harald Schulz:
+-> Nominatim: (50.947783, 6.944472) = 'DE: Germany'
