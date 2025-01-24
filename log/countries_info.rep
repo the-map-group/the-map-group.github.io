@@ -84,3 +84,93 @@ Matrix: (56.137958, 8.994305) = [56, 8] => 'DK: Denmark'
 Matrix: (56.139954, 9.007329) = [56, 9] => 'DK: Denmark'
 ---> MapBox: (-50.136084, -73.105387) => 'AR: Argentina'
 ---> MapBox: (-50.134212, -73.230431) => 'AR: Argentina'
+---> MapBox: (-50.135598, -73.231828) => 'AR: Argentina'
+---> MapBox: (-50.169228, -73.261925) => 'AR: Argentina'
+---> MapBox: (-50.169164, -73.261703) => 'AR: Argentina'
+
+##### michael_jeddah:
+---> MapBox: (-50.223048, -73.317604) => 'AR: Argentina'
+---> MapBox: (-50.231285, -73.315887) => 'AR: Argentina'
+---> MapBox: (-50.242859, -73.328978) => 'AR: Argentina'
+---> MapBox: (-50.242748, -73.329148) => 'AR: Argentina'
+---> MapBox: (-50.198124, -73.223265) => 'AR: Argentina'
+---> MapBox: (-50.069481, -73.235467) => 'AR: Argentina'
+---> MapBox: (-50.442474, -73.050842) => 'AR: Argentina'
+---> MapBox: (-50.445043, -73.051614) => 'AR: Argentina'
+---> MapBox: (-50.460837, -73.046851) => 'AR: Argentina'
+---> MapBox: (-50.452695, -73.035736) => 'AR: Argentina'
+---> MapBox: (-50.449962, -73.047237) => 'AR: Argentina'
+---> MapBox: (-50.45335, -73.055992) => 'AR: Argentina'
+-> Nominatim: (-52.851531, -70.961873) = 'CL: Chile'
+-> Nominatim: (-53.169748, -70.907573) = 'CL: Chile'
+
+##### haroldmoses:
+-> Nominatim: (-53.106364, -70.828217) = 'CL: Chile'
+-> Nominatim: (-52.918545, -70.569984) = 'CL: Chile'
+-> Nominatim: (-52.918553, -70.570039) = 'CL: Chile'
+-> Nominatim: (-52.918617, -70.570328) = 'CL: Chile'
+
+##### Lemmo2009:
+-> Nominatim: (-52.918973, -70.575448) = 'CL: Chile'
+-> Nominatim: (-52.917142, -70.571739) = 'CL: Chile'
+-> Nominatim: (-52.917047, -70.56953) = 'CL: Chile'
+-> Nominatim: (-51.565114, -72.619462) = 'CL: Chile'
+-> Nominatim: (-51.565339, -72.618352) = 'CL: Chile'
+
+##### Northern Tony:
+-> Nominatim: (-51.565339, -72.618942) = 'CL: Chile'
+-> Nominatim: (-51.565179, -72.619189) = 'CL: Chile'
+-> Nominatim: (-51.580212, -72.814828) = 'CL: Chile'
+-> Nominatim: (-51.041089, -72.910089) = 'CL: Chile'
+
+##### normafincher:
+-> Nominatim: (-51.093092, -72.987273) = 'CL: Chile'
+-> Nominatim: (-51.470904, -73.0941) = 'CL: Chile'
+-> Nominatim: (-51.008517, -72.591378) = 'CL: Chile'
+-> Nominatim: (-50.977453, -72.742345) = 'CL: Chile'
+
+##### Andy.Gocher:
+-> Nominatim: (-50.943439, -72.791917) = 'CL: Chile'
+-> Nominatim: (-51.232498, -72.968278) = 'CL: Chile'
+-> Nominatim: (-34.895639, -55.038392) = 'UY: Uruguay'
+-> Nominatim: (-34.910974, -55.043199) = 'UY: Uruguay'
+
+##### alfsan:
+-> Nominatim: (-34.911255, -55.043284) = 'UY: Uruguay'
+-> Nominatim: (-34.91049, -55.04248) = 'UY: Uruguay'
+-> Nominatim: (-34.908484, -55.044812) = 'UY: Uruguay'
+-> Nominatim: (-34.908664, -55.044831) = 'UY: Uruguay'
+
+##### Dmitry Djouce:
+-> Nominatim: (-34.908553, -55.044753) = 'UY: Uruguay'
+-> Nominatim: (-34.961776, -54.94607) = 'UY: Uruguay'
+-> Nominatim: (-34.95344, -54.970479) = 'UY: Uruguay'
+-> Nominatim: (-34.952886, -54.970597) = 'UY: Uruguay'
+
+##### Joseph Hollick:
+-> Nominatim: (-34.951233, -54.970779) = 'UY: Uruguay'
+-> Nominatim: (-34.951285, -54.969373) = 'UY: Uruguay'
+-> Nominatim: (-34.948682, -54.97404) = 'UY: Uruguay'
+-> Nominatim: (-34.963839, -54.951162) = 'UY: Uruguay'
+-> Nominatim: (-34.957757, -54.937402) = 'UY: Uruguay'
+-> Nominatim: (-34.957968, -54.937337) = 'UY: Uruguay'
+-> Nominatim: (-34.958001, -54.937573) = 'UY: Uruguay'
+-> Nominatim: (-34.47305, -57.851836) = 'UY: Uruguay'
+-> Nominatim: (-34.470963, -57.851353) = 'UY: Uruguay'
+-> Nominatim: (-34.472475, -57.853714) = 'UY: Uruguay'
+-> Nominatim: (-34.472245, -57.853789) = 'UY: Uruguay'
+-> Nominatim: (-34.472864, -57.853885) = 'UY: Uruguay'
+-> Nominatim: (-34.471209, -57.851075) = 'UY: Uruguay'
+--> GeoNames: (43.268572, -79.955848) = 'CA: Canada'
+-> Nominatim: (-34.471423, -57.851246) = 'UY: Uruguay'
+--> GeoNames: (49.720178, -54.162554) = 'CA: Canada'
+--> GeoNames: (-34.471732, -57.853156) = 'UY: Uruguay'
+-> Nominatim: (-34.472272, -57.853145) = 'UY: Uruguay'
+-> Nominatim: (-34.472024, -57.852373) = 'UY: Uruguay'
+-> Nominatim: (-34.471476, -57.853113) = 'UY: Uruguay'
+--> GeoNames: (49.703237, -54.063259) = 'CA: Canada'
+-> Nominatim: (-34.471591, -57.851933) = 'UY: Uruguay'
+-> Nominatim: (-34.471617, -57.851665) = 'UY: Uruguay'
+-> Nominatim: (-34.472917, -57.851209) = 'UY: Uruguay'
+-> Nominatim: (-34.472737, -57.851117) = 'UY: Uruguay'
+-> Nominatim: (-34.469592, -57.850881) = 'UY: Uruguay'
