@@ -31517,3 +31517,48 @@ Matrix: (-20.057584, 57.520809) = [-20, 57] => 'MU: Mauritius'
 Matrix: (-20.009705, 57.577972) = [-20, 57] => 'MU: Mauritius'
 -> Nominatim: (-19.986487, 57.622218) = 'MU: Mauritius'
 -> Nominatim: (-19.985982, 57.622046) = 'MU: Mauritius'
+
+##### Brit 70013 fan:
+
+##### Fernando Sa Rapita:
+
+##### Susie_D52:
+
+##### Eugenio GV Costa:
+
+##### Quel.R.R:
+---> MapBox: (-25.6849, -54.446003) => 'AR: Argentina'
+---> MapBox: (-25.684314, -54.439714) => 'BR: Brazil'
+---> MapBox: (-25.695475, -54.437406) => 'AR: Argentina'
+---> MapBox: (-25.696645, -54.4393) => 'AR: Argentina'
+--> GeoNames: (-25.614792, -54.483192) = 'BR: Brazil'
+Matrix: (37.747244, -119.593917) = [37, -119] => 'US: United States'
+Matrix: (37.807859, -122.475242) = [37, -122] => 'US: United States'
+Matrix: (37.728391, -119.573038) = [37, -119] => 'US: United States'
+--> GeoNames: (-3.852023, -32.442373) = 'BR: Brazil'
+--> GeoNames: (-3.853831, -32.442295) = 'BR: Brazil'
+--> GeoNames: (-3.835456, -32.3983) = 'BR: Brazil'
+--> GeoNames: (-3.85042, -32.440614) = 'BR: Brazil'
+--> GeoNames: (-3.850506, -32.440762) = 'BR: Brazil'
+--> GeoNames: (-3.848678, -32.435262) = 'BR: Brazil'
+--> GeoNames: (-3.858367, -32.446667) = 'BR: Brazil'
+--> GeoNames: (-3.855667, -32.446423) = 'BR: Brazil'
+--> GeoNames: (-3.855334, -32.442862) = 'BR: Brazil'
+--> GeoNames: (-3.841064, -32.410881) = 'BR: Brazil'
+--> GeoNames: (-3.840481, -32.410675) = 'BR: Brazil'
+--> GeoNames: (-3.842537, -32.408231) = 'BR: Brazil'
+--> GeoNames: (-3.839706, -32.410709) = 'BR: Brazil'
+--> GeoNames: (-3.858375, -32.446664) = 'BR: Brazil'
+--> GeoNames: (-3.846945, -32.431387) = 'BR: Brazil'
+--> GeoNames: (-3.858356, -32.446675) = 'BR: Brazil'
+--> GeoNames: (-3.8506, -32.440687) = 'BR: Brazil'
+--> GeoNames: (-3.834848, -32.400456) = 'BR: Brazil'
+--> GeoNames: (-3.834767, -32.400259) = 'BR: Brazil'
+--> GeoNames: (-3.8422, -32.416862) = 'BR: Brazil'
+Matrix: (37.826539, -122.421748) = [37, -122] => 'US: United States'
+-> Nominatim: (41.892078, 12.483172) = 'IT: Italy'
+Matrix: (40.632877, 14.601484) = [40, 14] => 'IT: Italy'
+-> Nominatim: (42.642182, 18.110103) = 'HR: Croatia'
+-> Nominatim: (41.904824, 12.454612) = 'VA: Vatican City'
+-> Nominatim: (42.643027, 18.108558) = 'HR: Croatia'
+Matrix: (40.627625, 14.49088) = [40, 14] => 'IT: Italy'
