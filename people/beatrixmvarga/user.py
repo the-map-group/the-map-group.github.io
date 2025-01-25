@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/beatrixmvarga/',
   'location': 'USA',
   'countries': 5,
-  'markers': 741,
-  'photos': 744
+  'markers': 742,
+  'photos': 745
 }
