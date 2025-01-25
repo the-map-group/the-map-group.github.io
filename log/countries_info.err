@@ -1792,3 +1792,15 @@
 -> Nominatim: (-3.834848, -32.400456) = NOT FOUND
 -> Nominatim: (-3.834767, -32.400259) = NOT FOUND
 -> Nominatim: (-3.8422, -32.416862) = NOT FOUND
+
+##### javiernoval:
+
+##### bobbyblack51:
+
+##### Jason Frels:
+-> Nominatim: (-50.471135, -73.033676) = NOT FOUND
+--> GeoNames: (-50.471135, -73.033676) = NOT FOUND
+-> Nominatim: (80.067192, 31.522564) = NOT FOUND
+--> GeoNames: (80.067192, 31.522564) = NOT FOUND
+-> Nominatim: (80.066999, 31.525504) = NOT FOUND
+--> GeoNames: (80.066999, 31.525504) = NOT FOUND
