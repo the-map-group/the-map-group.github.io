@@ -10,6 +10,7 @@ people/*/countries_info.py
 people/*/countries_members.py
 people/*/not_found.py
 people/members_list
+generate-reset-list.py
 last_total.py
 update-initial-code.sh
 update-repo.sh

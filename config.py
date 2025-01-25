@@ -1,7 +1,7 @@
 ### UPDATE MAPS
 
 # reset all members maps
-reset = False
+reset_all = False
 
 ### COUNTRIES INFO
 

@@ -210,7 +210,7 @@ def getCountryInfo(lat, long, coords_dict):
             code = info[0]
             name = info[1]
 
-            if (code == '*' and use_mapbox) or (code in geonames_exclude and use_mapbox):
+            if (code == '*' or code in geonames_exclude) and use_mapbox:
                 code = ''
                 name = ''
 
@@ -942,8 +942,8 @@ longitude_dict = {
   -60: {'FK', 'GL', 'GY', 'VE', 'AR', 'CA', 'BB', 'AQ', 'PY', 'BR', 'BO'},
   -59: {'FK', 'GY', 'GL', 'SR', 'AR', 'CA', 'PY', 'AQ', 'BR', 'BO', 'UY'},
   -58: {'FK', 'GY', 'GL', 'SR', 'AR', 'CA', 'PY', 'AQ', 'BR', 'BO', 'UY'},
-  -57: {'GY', 'GL', 'SR', 'AR', 'CA', 'PY', 'AQ', 'BR', 'UY'},
-  -56: {'GL', 'SR', 'AR', 'CA', 'AQ', 'PY', 'BR', 'UY'},
+  -57: {'FK', 'GY', 'GL', 'SR', 'AR', 'CA', 'PY', 'AQ', 'BR', 'UY'},
+  -56: {'FK', 'GL', 'SR', 'AR', 'CA', 'AQ', 'PY', 'BR', 'UY'},
   -55: {'GL', 'SR', 'AR', 'CA', 'AQ', 'PY', 'BR', 'FR', 'UY'},
   -54: {'GL', 'SR', 'AR', 'CA', 'AQ', 'BR', 'FR', 'UY'},
   -53: {'BR', 'FR', 'AQ', 'GL'},
