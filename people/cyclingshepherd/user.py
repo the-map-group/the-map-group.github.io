@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/cyclingshepherd/',
   'location': '',
   'countries': 18,
-  'markers': 801,
-  'photos': 991
+  'markers': 802,
+  'photos': 992
 }
