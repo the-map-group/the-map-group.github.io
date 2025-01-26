@@ -7,5 +7,5 @@ user_info = {
   'location': 'Vermont, USA',
   'countries': 4,
   'markers': 552,
-  'photos': 723
+  'photos': 724
 }
