@@ -33,3 +33,17 @@
 ##### alfsan:
 
 ##### Dmitry Djouce:
+
+##### Joseph Hollick:
+-> Nominatim: (-60.914601, -54.001483) = NOT FOUND
+--> GeoNames: (-60.914601, -54.001483) = NOT FOUND
+---> MapBox: (-60.914601, -54.001483) = NOT FOUND
+-> Nominatim: (-50.66339, -68.433837) = NOT FOUND
+--> GeoNames: (-50.66339, -68.433837) = NOT FOUND
+---> MapBox: (-50.66339, -68.433837) = NOT FOUND
+-> Nominatim: (-49.968889, -67.642822) = NOT FOUND
+--> GeoNames: (-49.968889, -67.642822) = NOT FOUND
+---> MapBox: (-49.968889, -67.642822) = NOT FOUND
+-> Nominatim: (-46.065608, 166.245117) = NOT FOUND
+--> GeoNames: (-46.065608, 166.245117) = NOT FOUND
+---> MapBox: (-46.065608, 166.245117) = NOT FOUND
