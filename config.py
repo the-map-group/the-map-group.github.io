@@ -2,6 +2,11 @@
 
 # reset all members maps
 reset_all = False
+force_reset = False
+
+# reset coords_dict
+reset_coords = False
+
 
 ### COUNTRIES INFO
 

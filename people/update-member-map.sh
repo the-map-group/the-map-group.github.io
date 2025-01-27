@@ -8,22 +8,15 @@ if [ -z $1 ];
     exit 1
 fi
 
-git pull origin master
+git pull origin main
 
 cd $REPO_DIR/people/$1
-
-git checkout -- countries.py
-git checkout -- locations.py
-git checkout -- user.py
 
 ./generate-map-data.py
 
 git add countries.py
 git add locations.py
+git add coords.py
 git add user.py
 git commit -m "Updated map for member '$1'"
-git push origin master
-
-rm countries.py
-rm locations.py
-rm user.py
+git push origin main

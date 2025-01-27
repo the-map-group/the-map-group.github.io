@@ -72,6 +72,8 @@ def sendEmail(member_name):
 #===== MAIN CODE ==============================================================#
 
 reset_all = config.reset_all
+reset_coords = config.reset_coords
+force_reset = config.force_reset
 from reset import reset_list
 
 current_members = []
@@ -146,19 +148,22 @@ for page_number in range(number_of_pages, 0, -1):
                 print('Removed old member directory: {}'.format(member_id))
 
         if reset_all and os.path.exists("{}/last_total.py".format(member_path)):
-            print('WARNING: Map has already been generated for member: {}'.format(member_name[0:20]))
+            if force_reset:
+                 os.system("rm {}/last_total.py".format(member_path))
+            else:
+                print('WARNING: Map has already been generated for member: {}'.format(member_name[0:20]))
 
-            # get member information
-            print("Getting member information...")
+                # get member information
+                print("Getting member information...")
 
-            member_info = getMemberInfo(member_path, repo_path)
-            member_n_places = member_info[4]
+                member_info = getMemberInfo(member_path, repo_path)
+                member_n_places = member_info[4]
 
-            if member_n_places > 0:
-                members_list.append(member_info)
+                if member_n_places > 0:
+                    members_list.append(member_info)
 
-            print("Finished!\n")
-            continue
+                print("Finished!\n")
+                continue
 
         # create member directory and topic if doesn't exist yet
         is_new_member = False
@@ -176,7 +181,11 @@ for page_number in range(number_of_pages, 0, -1):
                 command = "{0}/restart-member.sh {1}".format(people_path, member_alias)
                 os.system(command)
 
-            if reset_all:
+            if reset_all or member_alias in reset_list:
+                if not reset_all:
+                    print('\'{}\' is in reset list.'.format(member_alias))
+                if reset_coords and os.path.exists("{}/coords.py".format(member_path)):
+                    os.system("rm {}/coords.py".format(member_path))
                 if not os.path.exists("{}/coords.py".format(member_path)):
                     print('Resetting member...')
                     command = "{0}/setup-member.sh {1}".format(people_path, member_alias)
@@ -197,24 +206,15 @@ for page_number in range(number_of_pages, 0, -1):
                     if not os.path.exists("{}/user.py".format(member_path)):
                         command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/user.py".format(member_path, member_alias)
                         os.system(command)
+                    if not os.path.exists("{}/coords.py".format(member_path)):
+                        command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/coords.py".format(member_path, member_alias)
+                        os.system(command)
                 except:
                     pass
-
-            try:
-                if not os.path.exists("{}/coords.py".format(member_path)):
-                    command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/coords.py".format(member_path, member_alias)
-                    os.system(command)
-            except:
-                pass
 
             if not reset_all and not memberFilesExist(member_path):
                 print('Unable to locate at least one of the member\'s files. Restarting member...')
                 command = "{0}/restart-member.sh {1}".format(people_path, member_alias)
-                os.system(command)
-
-            if member_alias in reset_list:
-                print('\'{}\' is in reset list. Resetting member...'.format(member_alias))
-                command = "{0}/setup-member.sh {1}".format(people_path, member_alias)
                 os.system(command)
 
         if os.path.exists("{}/locations.py".format(member_path)):
@@ -309,6 +309,9 @@ for page_number in range(number_of_pages, 0, -1):
         print("Finished!\n")
 
         os.system("rm -fr {}/__pycache__".format(member_path))
+
+# restore original reset.py file
+os.system("git checkout -- {}/reset.py".format(repo_path))
 
 # remove countries members file
 if os.path.exists("{}/countries/members.py".format(repo_path)):

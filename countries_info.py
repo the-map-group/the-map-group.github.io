@@ -170,6 +170,12 @@ def getCountryInfo(lat, long, coords_dict):
         code = info[0]
         name = info[1]
 
+        try:
+            if name != countries_dict[code][0]:
+                name = countries_dict[code][0]
+        except:
+            pass
+
         if code != '':
             if gen_rep_file:
                 if rep_dictionary:
@@ -224,9 +230,12 @@ def getCountryInfo(lat, long, coords_dict):
         try:
             if name != countries_dict[code][0]:
                 if gen_rep_file:
-                    rep_file.write("\'{}: {}\' = \'{}\' ".format(code, name, countries_dict[code][0]))
+                    rep_file.write("--> \'{}: {}\' = \'{}\' ".format(code, name, countries_dict[code][0]))
                 try:
                     code = codes_dict[name]
+                except:
+                    pass
+                try:
                     name = countries_dict[code][0]
                     if gen_rep_file:
                         rep_file.write("=> \'{}: {}'\n".format(code, name))
@@ -234,8 +243,8 @@ def getCountryInfo(lat, long, coords_dict):
                     if gen_rep_file:
                         rep_file.write("\n")
         except:
-            if code != '' and code != '*':
-                rep_file.write("\'{}: {}\' = NOT FOUND AT DICTIONARY\n".format(code, name))
+            if gen_rep_file and code != '' and code != '*':
+                rep_file.write("--> \'{}: {}\' = NOT FOUND AT DICTIONARY\n".format(code, name))
 
         # check if location is in a territory of another country
         try:
@@ -267,7 +276,6 @@ def getCountryInfo(lat, long, coords_dict):
                     rep_file.write("---> MapBox: {} => \'{}: {}\'\n".format(latlong, code, name))
 
         if not use_mapbox and (code == '' or is_territory):
-
             if is_territory:
                 htm_file.write("unable to find the name of the location<br>\n".format(code, name))
                 log_file.write("unable to find the name of the location\n".format(code, name))
@@ -276,9 +284,12 @@ def getCountryInfo(lat, long, coords_dict):
         try:
             if name != countries_dict[code][0]:
                 if gen_rep_file:
-                    rep_file.write("\'{}: {}\' = \'{}\' ".format(code, name, countries_dict[code][0]))
+                    rep_file.write("---> \'{}: {}\' = \'{}\' ".format(code, name, countries_dict[code][0]))
                 try:
                     code = codes_dict[name]
+                except:
+                    pass
+                try:
                     name = countries_dict[code][0]
                     if gen_rep_file:
                         rep_file.write("=> \'{}: {}'\n".format(code, name))
@@ -287,7 +298,7 @@ def getCountryInfo(lat, long, coords_dict):
                         rep_file.write("\n")
         except:
             if code != '' and code != '*':
-                rep_file.write("\'{}: {}\' = NOT FOUND AT DICTIONARY\n".format(code, name))
+                rep_file.write("---> \'{}: {}\' = NOT FOUND AT DICTIONARY\n".format(code, name))
 
         # add coordinate to dicitionary
         if code != '' and code != '*' and code != '**':
