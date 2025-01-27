@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/al_case/',
   'location': 'Ashland, Oregon, USA',
   'countries': 20,
-  'markers': 735,
-  'photos': 850
+  'markers': 736,
+  'photos': 851
 }
