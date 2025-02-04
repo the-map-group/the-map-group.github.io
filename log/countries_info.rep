@@ -410,3 +410,11 @@ Matrix: (1.486399, 32.095667) = [1, 32] => 'UG: Uganda'
 -> Nominatim: (50.930233, 6.964508) = 'DE: Germany'
 -> Nominatim: (50.926752, 6.870016) = 'DE: Germany'
 -> Nominatim: (49.992408, 7.864133) = 'DE: Germany'
+
+##### VicColon:
+
+##### S LYNN LEE:
+-> Nominatim: (42.653349, -73.758678) = 'US: United States'
+Matrix: (40.439827, -80.003279) = [40, -80] => 'US: United States'
+Matrix: (40.806265, -81.39335) = [40, -81] => 'US: United States'
+Matrix: (40.80741, -81.393242) = [40, -81] => 'US: United States'
