@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/stratman2/',
   'location': 'Kuala Lumpur, Malaysia',
   'countries': 5,
-  'markers': 522,
-  'photos': 4645
+  'markers': 523,
+  'photos': 4646
 }
