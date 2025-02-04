@@ -11,3 +11,9 @@
 -> Nominatim: (38.463351, -9.192359) = 'PT: Portugal'
 -> Nominatim: (38.452269, -9.200727) = 'PT: Portugal'
 -> Nominatim: (36.738712, -5.165462) = 'ES: Spain'
+
+##### Steenjep:
+Matrix: (56.187639, 8.795628) = [56, 8] => 'DK: Denmark'
+Matrix: (56.109994, 9.018702) = [56, 9] => 'DK: Denmark'
+Matrix: (56.114447, 8.976552) = [56, 8] => 'DK: Denmark'
+Matrix: (56.289084, 8.825905) = [56, 8] => 'DK: Denmark'
