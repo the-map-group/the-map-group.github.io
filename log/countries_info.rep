@@ -545,3 +545,13 @@ Matrix: (43.056894, 11.520656) = [43, 11] => 'IT: Italy'
 -> Nominatim: (50.629263, 3.130833) = 'FR: France'
 -> Nominatim: (50.629213, 3.130963) = 'FR: France'
 -> Nominatim: (50.629525, 3.130816) = 'FR: France'
+
+##### Brunswick Forge:
+-> Nominatim: (-3.148891, 35.581226) = 'TZ: Tanzania'
+-> Nominatim: (-3.327945, 37.26603) = 'TZ: Tanzania'
+-> Nominatim: (-3.924345, 36.072864) = 'TZ: Tanzania'
+-> Nominatim: (-3.966622, 36.062507) = 'TZ: Tanzania'
+-> Nominatim: (-3.697814, 35.862872) = 'TZ: Tanzania'
+-> Nominatim: (-3.090762, 35.555763) = 'TZ: Tanzania'
+-> Nominatim: (-3.523609, 35.750656) = 'TZ: Tanzania'
+Matrix: (37.43514, -79.915464) = [37, -79] => 'US: United States'
