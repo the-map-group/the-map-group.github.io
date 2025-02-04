@@ -795,3 +795,13 @@ Matrix: (43.932177, 10.916441) = [43, 10] => 'IT: Italy'
 
 ##### Stratman2:
 -> Nominatim: (6.045138, 116.159813) = 'MY: Malaysia'
+
+##### mstraus52:
+Matrix: (78.223302, 15.618129) = [78, 15] => 'SJ: Svalbard'
+Matrix: (78.223947, 15.615539) = [78, 15] => 'SJ: Svalbard'
+Matrix: (78.219964, 15.625893) = [78, 15] => 'SJ: Svalbard'
+Matrix: (78.245906, 15.553012) = [78, 15] => 'SJ: Svalbard'
+Matrix: (78.23051, 15.63129) = [78, 15] => 'SJ: Svalbard'
+Matrix: (69.650608, 18.957806) = [69, 18] => 'NO: Norway'
+-> Nominatim: (68.232257, 14.567288) = 'NO: Norway'
+-> Nominatim: (68.231025, 14.564311) = 'NO: Norway'
