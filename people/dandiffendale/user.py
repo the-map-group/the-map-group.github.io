@@ -4,8 +4,8 @@ user_info = {
   'name': 'Dan Diffendale',
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/7945858@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/dandiffendale/',
-  'location': 'Naples, Italy',
+  'location': 'Pisa, Italy',
   'countries': 17,
-  'markers': 2119,
-  'photos': 15487
+  'markers': 2120,
+  'photos': 15492
 }
