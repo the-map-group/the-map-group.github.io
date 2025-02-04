@@ -785,3 +785,6 @@ Matrix: (35.925078, -83.995842) = [35, -83] => 'US: United States'
 
 ##### enrico sprea:
 Matrix: (43.932177, 10.916441) = [43, 10] => 'IT: Italy'
+
+##### karsaiag:
+-> Nominatim: (47.806802, 18.989794) = 'HU: Hungary'
