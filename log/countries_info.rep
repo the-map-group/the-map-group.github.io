@@ -1334,3 +1334,9 @@ Matrix: (29.746266, -83.342384) = [29, -83] => 'US: United States'
 ##### I saw_that:
 Matrix: (72.702769, -77.952933) = [72, -77] => 'CA: Canada'
 Matrix: (72.700663, -77.938427) = [72, -77] => 'CA: Canada'
+
+##### glancingshots.uk:
+
+##### Al Case:
+-> Nominatim: (42.193751, -122.718143) = 'US: United States'
+-> Nominatim: (42.592892, -124.402981) = 'US: United States'
