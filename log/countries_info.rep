@@ -559,3 +559,15 @@ Matrix: (37.43514, -79.915464) = [37, -79] => 'US: United States'
 ##### cyclingshepherd:
 
 ##### Robin Shepperson Photography:
+
+##### Ron Fisher:
+-> Nominatim: (54.14765, 11.75948) = 'DE: Germany'
+-> Nominatim: (54.147741, 11.759628) = 'DE: Germany'
+-> Nominatim: (50.727167, 2.301676) = 'FR: France'
+-> Nominatim: (50.577278, -3.467787) = 'GB: United Kingdom'
+-> Nominatim: (49.460672, 8.170392) = 'DE: Germany'
+-> Nominatim: (49.460749, 8.17066) = 'DE: Germany'
+Matrix: (52.712238, -4.051789) = [52, -4] => 'GB: United Kingdom'
+-> Nominatim: (49.461028, 8.170242) = 'DE: Germany'
+-> Nominatim: (49.4619, 8.171111) = 'DE: Germany'
+-> Nominatim: (49.46114, 8.170542) = 'DE: Germany'
