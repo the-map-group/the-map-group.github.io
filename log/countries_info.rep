@@ -1343,3 +1343,7 @@ Matrix: (72.700663, -77.938427) = [72, -77] => 'CA: Canada'
 
 ##### mouzhik:
 Matrix: (-37.808054, 144.948111) = [-37, 144] => 'AU: Australia'
+
+##### Wes Iversen:
+-> Nominatim: (42.305486, -88.243097) = 'US: United States'
+Matrix: (41.834151, -87.830461) = [41, -87] => 'US: United States'
