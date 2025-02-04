@@ -400,3 +400,13 @@ Matrix: (1.486399, 32.095667) = [1, 32] => 'UG: Uganda'
 -> Nominatim: (59.318712, 18.060827) = 'SE: Sweden'
 -> Nominatim: (59.3142, 18.068659) = 'SE: Sweden'
 -> Nominatim: (-15.818279, -69.97218) = 'PE: Peru'
+
+##### Harald Schulz:
+-> Nominatim: (46.418925, 12.295074) = 'IT: Italy'
+-> Nominatim: (49.915972, 7.067384) = 'DE: Germany'
+-> Nominatim: (50.933486, 6.874063) = 'DE: Germany'
+-> Nominatim: (51.488608, 7.030513) = 'DE: Germany'
+-> Nominatim: (50.94413, 6.908161) = 'DE: Germany'
+-> Nominatim: (50.930233, 6.964508) = 'DE: Germany'
+-> Nominatim: (50.926752, 6.870016) = 'DE: Germany'
+-> Nominatim: (49.992408, 7.864133) = 'DE: Germany'
