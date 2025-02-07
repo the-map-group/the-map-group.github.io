@@ -364,3 +364,6 @@ Matrix: (43.84105, 10.504655) = [43, 10] => 'IT: Italy'
 ##### Ron Fisher:
 -> Nominatim: (50.814289, -0.109886) = 'GB: United Kingdom'
 Matrix: (52.415491, 1.699027) = [52, 1] => 'GB: United Kingdom'
+
+##### khrawlings:
+-> Nominatim: (41.899494, 12.486611) = 'IT: Italy'
