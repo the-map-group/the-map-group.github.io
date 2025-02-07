@@ -132,3 +132,10 @@ Matrix: (37.178398, -121.689945) = [37, -121] => 'US: United States'
 Matrix: (34.189472, -118.603812) = [34, -118] => 'US: United States'
 Matrix: (33.941141, -118.410714) = [33, -118] => 'US: United States'
 -> Nominatim: (3.117758, 101.677286) = 'MY: Malaysia'
+
+##### Miguel - AF:
+
+##### Liam Cheasty:
+-> Nominatim: (36.294581, -6.093428) = 'ES: Spain'
+-> Nominatim: (36.293749, -6.092873) = 'ES: Spain'
+-> Nominatim: (36.276558, -6.080939) = 'ES: Spain'
