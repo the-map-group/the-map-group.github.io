@@ -52,3 +52,25 @@ Matrix: (49.235197, -57.367258) = [49, -57] => 'CA: Canada'
 -> Nominatim: (43.688682, -79.631052) = 'CA: Canada'
 -> Nominatim: (43.684554, -79.622726) = 'CA: Canada'
 -> Nominatim: (43.268635, -79.95557) = 'CA: Canada'
+
+##### CJphoto83:
+
+##### ManxieB- sorry, struggling!:
+
+##### philippeguillot21:
+Matrix: (-21.135204, 55.471848) = [-21, 55] => 'RE: Reunion'
+Matrix: (-21.18017, 55.287001) = [-21, 55] => 'RE: Reunion'
+Matrix: (-21.193354, 55.285037) = [-21, 55] => 'RE: Reunion'
+-> Nominatim: (49.001407, -1.574113) = 'FR: France'
+-> Nominatim: (48.654721, -2.011957) = 'FR: France'
+Matrix: (47.257563, 2.987937) = [47, 2] => 'FR: France'
+Matrix: (48.658392, -1.994705) = [48, -1] => 'FR: France'
+Matrix: (45.046177, 3.884632) = [45, 3] => 'FR: France'
+-> Nominatim: (49.716557, -1.946693) = 'FR: France'
+Matrix: (48.726076, 2.359056) = [48, 2] => 'FR: France'
+Matrix: (-21.134874, 55.47247) = [-21, 55] => 'RE: Reunion'
+-> Nominatim: (49.033021, -1.523033) = 'FR: France'
+Matrix: (-21.136936, 55.469799) = [-21, 55] => 'RE: Reunion'
+-> Nominatim: (49.033246, -1.523612) = 'FR: France'
+-> Nominatim: (49.033556, -1.524181) = 'FR: France'
+-> Nominatim: (49.033443, -1.523891) = 'FR: France'
