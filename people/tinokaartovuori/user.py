@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/tinokaartovuori/',
   'location': 'Tampere, Finland',
   'countries': 4,
-  'markers': 53,
-  'photos': 55
+  'markers': 54,
+  'photos': 56
 }
