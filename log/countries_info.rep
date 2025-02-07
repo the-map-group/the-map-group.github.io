@@ -233,3 +233,13 @@ Matrix: (38.914644, -119.904495) = [38, -119] => 'US: United States'
 -> Nominatim: (45.483258, 15.558271) = 'HR: Croatia'
 -> Nominatim: (45.48237, 15.552134) = 'HR: Croatia'
 -> Nominatim: (45.126442, 14.525685) = 'HR: Croatia'
+
+##### fam_nordstrom:
+-> Nominatim: (37.879569, -4.780328) = 'ES: Spain'
+-> Nominatim: (59.321421, 18.072532) = 'SE: Sweden'
+-> Nominatim: (-15.816369, -69.972083) = 'PE: Peru'
+-> Nominatim: (37.87896, -4.779566) = 'ES: Spain'
+-> Nominatim: (37.87951, -4.779909) = 'ES: Spain'
+-> Nominatim: (59.321728, 18.083475) = 'SE: Sweden'
+-> Nominatim: (59.324782, 18.061824) = 'SE: Sweden'
+-> Nominatim: (59.321389, 18.057404) = 'SE: Sweden'
