@@ -9,3 +9,8 @@ Matrix: (38.93444, -74.959641) = [38, -74] => 'US: United States'
 ##### hans pohl:
 -> Nominatim: (36.742873, -5.165033) = 'ES: Spain'
 -> Nominatim: (36.738213, -5.165312) = 'ES: Spain'
+
+##### Steenjep:
+-> Nominatim: (55.511526, 9.62943) = 'DK: Denmark'
+Matrix: (56.152266, 8.96921) = [56, 8] => 'DK: Denmark'
+Matrix: (56.424476, 8.995388) = [56, 8] => 'DK: Denmark'
