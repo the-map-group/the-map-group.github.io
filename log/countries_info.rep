@@ -492,3 +492,8 @@ Matrix: (40.750218, 14.484602) = [40, 14] => 'IT: Italy'
 -> Nominatim: (51.2248, 0.138852) = 'GB: United Kingdom'
 -> Nominatim: (51.224759, 0.139238) = 'GB: United Kingdom'
 -> Nominatim: (51.274279, 0.129668) = 'GB: United Kingdom'
+
+##### Crystal.Rain:
+Matrix: (55.608226, 37.686076) = [55, 37] => 'RU: Russia'
+Matrix: (55.608808, 37.68746) = [55, 37] => 'RU: Russia'
+Matrix: (55.609226, 37.68392) = [55, 37] => 'RU: Russia'
