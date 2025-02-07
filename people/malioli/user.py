@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/malioli/',
   'location': 'Karlovac, Hrvatska',
   'countries': 5,
-  'markers': 2328,
-  'photos': 4999
+  'markers': 2331,
+  'photos': 5004
 }
