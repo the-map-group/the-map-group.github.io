@@ -33,3 +33,17 @@ Matrix: (56.137964, 8.994315) = [56, 8] => 'DK: Denmark'
 Matrix: (56.159102, 8.116579) = [56, 8] => 'DK: Denmark'
 Matrix: (56.138035, 8.994594) = [56, 8] => 'DK: Denmark'
 Matrix: (56.000774, 8.126503) = [56, 8] => 'DK: Denmark'
+
+##### michael_jeddah:
+
+##### haroldmoses:
+Matrix: (-21.132092, -175.198793) = [-21, -175] => 'TO: Tonga'
+Matrix: (-21.130551, -175.196475) = [-21, -175] => 'TO: Tonga'
+Matrix: (-21.134654, -175.193975) = [-21, -175] => 'TO: Tonga'
+Matrix: (-37.628983, 176.166501) = [-37, 176] => 'NZ: New Zealand'
+Matrix: (-37.630649, 176.165449) = [-37, 176] => 'NZ: New Zealand'
+-> Nominatim: (-13.829339, -171.766413) = 'WS: Samoa'
+-> Nominatim: (-13.829454, -171.766348) = 'WS: Samoa'
+-> Nominatim: (-13.833131, -171.763248) = 'WS: Samoa'
+-> Nominatim: (-13.832194, -171.765115) = 'WS: Samoa'
+Matrix: (-34.364898, 173.49473) = [-34, 173] => 'NZ: New Zealand'
