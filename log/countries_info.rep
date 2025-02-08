@@ -22,3 +22,14 @@
 -> Nominatim: (36.741033, -5.16646) = 'ES: Spain'
 -> Nominatim: (36.739941, -5.168906) = 'ES: Spain'
 -> Nominatim: (36.740981, -5.167114) = 'ES: Spain'
+
+##### Steenjep:
+Matrix: (56.138149, 8.995388) = [56, 8] => 'DK: Denmark'
+Matrix: (56.00363, 8.969371) = [56, 8] => 'DK: Denmark'
+Matrix: (56.227733, 8.615834) = [56, 8] => 'DK: Denmark'
+Matrix: (56.132039, 8.981108) = [56, 8] => 'DK: Denmark'
+Matrix: (56.137964, 8.994315) = [56, 8] => 'DK: Denmark'
+-> Nominatim: (55.681607, 12.597123) = 'DK: Denmark'
+Matrix: (56.159102, 8.116579) = [56, 8] => 'DK: Denmark'
+Matrix: (56.138035, 8.994594) = [56, 8] => 'DK: Denmark'
+Matrix: (56.000774, 8.126503) = [56, 8] => 'DK: Denmark'
