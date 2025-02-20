@@ -5648,3 +5648,6 @@ Matrix: (39.311891, -77.627186) = [39, -77] => 'US: United States'
 -> Nominatim: (44.845133, -123.241353) = 'US: United States'
 -> Nominatim: (44.845533, -123.241498) = 'US: United States'
 -> Nominatim: (44.852563, -123.249223) = 'US: United States'
+
+##### Rubem Jr:
+-> Nominatim: (-34.944837, -54.942378) = 'UY: Uruguay'
