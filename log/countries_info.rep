@@ -6624,3 +6624,7 @@ Matrix: (44.648408, 10.928372) = [44, 10] => 'IT: Italy'
 Matrix: (43.932177, 10.916441) = [43, 10] => 'IT: Italy'
 -> Nominatim: (46.535872, 9.223563) = 'CH: Switzerland'
 -> Nominatim: (46.599136, 12.486866) = 'IT: Italy'
+
+##### karsaiag:
+-> Nominatim: (38.697863, -9.205662) = 'PT: Portugal'
+-> Nominatim: (39.606394, -9.084312) = 'PT: Portugal'
