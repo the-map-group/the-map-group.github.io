@@ -2,48 +2,4 @@
 ##### H. P. Filho:
 
 ##### Christopher Wallace:
--> Nominatim: (42.659398, -70.615589) = 'US: United States'
--> Nominatim: (42.661687, -70.681164) = 'US: United States'
--> Nominatim: (42.5807, -70.66477) = 'US: United States'
--> Nominatim: (42.527544, -70.866762) = 'US: United States'
--> Nominatim: (42.640333, -70.591181) = 'US: United States'
-
-##### Elena Lebedeva (IG: ellebedeva_):
-
-##### hans pohl:
--> Nominatim: (36.737955, -5.165419) = 'ES: Spain'
--> Nominatim: (36.737792, -5.16573) = 'ES: Spain'
--> Nominatim: (36.73737, -5.165945) = 'ES: Spain'
--> Nominatim: (36.737895, -5.166481) = 'ES: Spain'
--> Nominatim: (36.739038, -5.166739) = 'ES: Spain'
--> Nominatim: (36.739047, -5.166481) = 'ES: Spain'
--> Nominatim: (36.739365, -5.166202) = 'ES: Spain'
--> Nominatim: (36.737903, -5.164818) = 'ES: Spain'
--> Nominatim: (36.741033, -5.16646) = 'ES: Spain'
--> Nominatim: (36.739941, -5.168906) = 'ES: Spain'
--> Nominatim: (36.740981, -5.167114) = 'ES: Spain'
-
-##### Steenjep:
-Matrix: (56.138149, 8.995388) = [56, 8] => 'DK: Denmark'
-Matrix: (56.00363, 8.969371) = [56, 8] => 'DK: Denmark'
-Matrix: (56.227733, 8.615834) = [56, 8] => 'DK: Denmark'
-Matrix: (56.132039, 8.981108) = [56, 8] => 'DK: Denmark'
-Matrix: (56.137964, 8.994315) = [56, 8] => 'DK: Denmark'
--> Nominatim: (55.681607, 12.597123) = 'DK: Denmark'
-Matrix: (56.159102, 8.116579) = [56, 8] => 'DK: Denmark'
-Matrix: (56.138035, 8.994594) = [56, 8] => 'DK: Denmark'
-Matrix: (56.000774, 8.126503) = [56, 8] => 'DK: Denmark'
-
-##### michael_jeddah:
-
-##### haroldmoses:
-Matrix: (-21.132092, -175.198793) = [-21, -175] => 'TO: Tonga'
-Matrix: (-21.130551, -175.196475) = [-21, -175] => 'TO: Tonga'
-Matrix: (-21.134654, -175.193975) = [-21, -175] => 'TO: Tonga'
-Matrix: (-37.628983, 176.166501) = [-37, 176] => 'NZ: New Zealand'
-Matrix: (-37.630649, 176.165449) = [-37, 176] => 'NZ: New Zealand'
--> Nominatim: (-13.829339, -171.766413) = 'WS: Samoa'
--> Nominatim: (-13.829454, -171.766348) = 'WS: Samoa'
--> Nominatim: (-13.833131, -171.763248) = 'WS: Samoa'
--> Nominatim: (-13.832194, -171.765115) = 'WS: Samoa'
-Matrix: (-34.364898, 173.49473) = [-34, 173] => 'NZ: New Zealand'
+-> Nominatim: (44.200041, -69.055413) = 'US: United States'
