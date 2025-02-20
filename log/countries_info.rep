@@ -6646,3 +6646,8 @@ Matrix: (45.294511, 5.930061) = [45, 5] => 'FR: France'
 -> Nominatim: (68.071549, 13.551515) = 'NO: Norway'
 -> Nominatim: (68.073139, 13.54997) = 'NO: Norway'
 -> Nominatim: (68.072134, 13.550775) = 'NO: Norway'
+
+##### OMNIBUS DUBITANDUM:
+
+##### Faillace360:
+---> MapBox: (-54.711262, -68.120548) => 'AR: Argentina'
