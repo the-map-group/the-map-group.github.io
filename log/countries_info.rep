@@ -5456,3 +5456,9 @@ Matrix: (38.926469, -77.216293) = [38, -77] => 'US: United States'
 -> Nominatim: (49.349816, 8.150576) = 'DE: Germany'
 -> Nominatim: (49.349809, 8.150201) = 'DE: Germany'
 -> Nominatim: (49.349656, 8.150276) = 'DE: Germany'
+
+##### khrawlings:
+-> Nominatim: (41.902105, 12.490786) = 'IT: Italy'
+-> Nominatim: (41.88848, 12.498388) = 'IT: Italy'
+-> Nominatim: (41.889075, 12.496744) = 'IT: Italy'
+-> Nominatim: (41.894954, 12.497978) = 'IT: Italy'
