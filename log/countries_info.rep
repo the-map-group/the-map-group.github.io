@@ -4185,3 +4185,6 @@ Matrix: (42.232688, -8.744209) = [42, -8] => 'ES: Spain'
 -> Nominatim: (48.188111, 12.431005) = 'DE: Germany'
 -> Nominatim: (48.199008, 12.430761) = 'DE: Germany'
 -> Nominatim: (48.163821, 12.362703) = 'DE: Germany'
+
+##### xd_travel:
+-> Nominatim: (55.682402, 12.599582) = 'DK: Denmark'
