@@ -172,3 +172,11 @@ Dictionary: (-2.180459, -79.922465) = 'EC: Ecuador'
 Matrix: (-0.730939, -90.325427) = [0, -90] => 'EC: Ecuador'
 Dictionary: (-0.219407, -78.513405) = 'EC: Ecuador'
 Matrix: (39.044786, -74.959716) = [39, -74] => 'US: United States'
+
+##### Andy.Gocher:
+
+##### alfsan:
+
+##### Dmitry Djouce:
+Matrix: (54.374108, -3.101192) = [54, -3] => 'GB: United Kingdom'
+-> Nominatim: (50.711658, -3.875053) = 'GB: United Kingdom'
