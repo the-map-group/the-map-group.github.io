@@ -7075,3 +7075,13 @@ Matrix: (49.846261, -119.104589) = [49, -119] => 'CA: Canada'
 
 ##### enrico377:
 Matrix: (40.200903, 16.713981) = [40, 16] => 'IT: Italy'
+
+##### cnmark:
+
+##### diffendale:
+
+##### PeterThoeny:
+Matrix: (37.247024, -122.06627) = [37, -122] => 'US: United States'
+-> Nominatim: (43.645009, -79.381681) = 'CA: Canada'
+Matrix: (38.852966, -77.043374) = [38, -77] => 'US: United States'
+-> Nominatim: (43.082106, -79.07783) = 'CA: Canada'
