@@ -5381,3 +5381,7 @@ Matrix: (52.653611, -1.132359) = [52, -1] => 'GB: United Kingdom'
 -> Nominatim: (41.015034, 28.97537) = 'TR: Turkey'
 -> Nominatim: (41.058916, 28.864587) = 'TR: Turkey'
 -> Nominatim: (41.007991, 28.977661) = 'TR: Turkey'
+
+##### Gerald (Wayne) Prout:
+Matrix: (46.806287, -60.348501) = [46, -60] => 'CA: Canada'
+Matrix: (46.809657, -60.732432) = [46, -60] => 'CA: Canada'
