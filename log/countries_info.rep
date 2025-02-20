@@ -4142,3 +4142,27 @@ Matrix: (-45.042827, 168.648815) = [-45, 168] => 'NZ: New Zealand'
 ##### Mani_H.:
 -> Nominatim: (51.666806, 7.702746) = 'DE: Germany'
 -> Nominatim: (51.662127, 7.68765) = 'DE: Germany'
+
+##### Rosie Chilton:
+
+##### K@moeiras:
+Matrix: (40.959397, -5.666018) = [40, -5] => 'ES: Spain'
+-> Nominatim: (36.578251, -6.226267) = 'ES: Spain'
+Matrix: (39.452534, -5.327491) = [39, -5] => 'ES: Spain'
+-> Nominatim: (43.418919, -2.718325) = 'ES: Spain'
+Matrix: (40.956476, -5.72004) = [40, -5] => 'ES: Spain'
+-> Nominatim: (36.129005, -5.344443) = 'GI: Gibraltar'
+Matrix: (39.479279, -0.376058) = [39, 0] => 'ES: Spain'
+Matrix: (39.462248, -5.882384) = [39, -5] => 'ES: Spain'
+Matrix: (41.271955, -6.321507) = [41, -6] => 'ES: Spain'
+Matrix: (40.959333, -5.665632) = [40, -5] => 'ES: Spain'
+Matrix: (40.270102, -6.104273) = [40, -6] => 'ES: Spain'
+Matrix: (40.955511, -5.671198) = [40, -5] => 'ES: Spain'
+-> Nominatim: (42.762227, -3.294795) = 'ES: Spain'
+-> Nominatim: (41.147683, -5.845421) = 'ES: Spain'
+-> Nominatim: (43.448716, -2.78362) = 'ES: Spain'
+Matrix: (41.287774, -6.478802) = [41, -6] => 'ES: Spain'
+Matrix: (40.956464, -5.721271) = [40, -5] => 'ES: Spain'
+Matrix: (40.128518, -5.885262) = [40, -5] => 'ES: Spain'
+Matrix: (40.10833, -5.900134) = [40, -5] => 'ES: Spain'
+Matrix: (42.232688, -8.744209) = [42, -8] => 'ES: Spain'
