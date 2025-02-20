@@ -5556,3 +5556,7 @@ Matrix: (53.772605, -2.734374) = [53, -2] => 'GB: United Kingdom'
 Matrix: (43.456413, 11.871126) = [43, 11] => 'IT: Italy'
 -> Nominatim: (47.965981, 10.632053) = 'DE: Germany'
 -> Nominatim: (47.838836, 10.649983) = 'DE: Germany'
+
+##### giosuèbolis:
+-> Nominatim: (45.942144, 9.418544) = 'IT: Italy'
+-> Nominatim: (45.941458, 9.417557) = 'IT: Italy'
