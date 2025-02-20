@@ -452,3 +452,14 @@ Matrix: (24.817986, 103.32328) = [24, 103] => 'CN: China'
 -> Nominatim: (36.321141, -6.119699) = 'ES: Spain'
 -> Nominatim: (36.293694, -6.090837) = 'ES: Spain'
 -> Nominatim: (36.293727, -6.092898) = 'ES: Spain'
+
+##### karen_ds1101:
+
+##### m01229:
+Matrix: (32.213615, -111.068742) = [32, -111] => 'US: United States'
+-> Nominatim: (47.79843, 13.04637) = 'AT: Austria'
+-> Nominatim: (48.142692, 11.553453) = 'DE: Germany'
+-> Nominatim: (47.377718, 8.539852) = 'CH: Switzerland'
+-> Nominatim: (46.760111, 7.626924) = 'CH: Switzerland'
+-> Nominatim: (46.435888, 6.908757) = 'CH: Switzerland'
+-> Nominatim: (48.137638, 11.575983) = 'DE: Germany'
