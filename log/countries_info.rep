@@ -5374,3 +5374,10 @@ Matrix: (52.653611, -1.132359) = [52, -1] => 'GB: United Kingdom'
 -> Nominatim: (46.501383, 10.582267) = 'IT: Italy'
 -> Nominatim: (46.810686, 10.537624) = 'IT: Italy'
 -> Nominatim: (46.043182, 7.551993) = 'CH: Switzerland'
+
+##### Atila Yumusakkaya:
+-> Nominatim: (41.021593, 28.976648) = 'TR: Turkey'
+-> Nominatim: (41.016784, 28.973168) = 'TR: Turkey'
+-> Nominatim: (41.015034, 28.97537) = 'TR: Turkey'
+-> Nominatim: (41.058916, 28.864587) = 'TR: Turkey'
+-> Nominatim: (41.007991, 28.977661) = 'TR: Turkey'
