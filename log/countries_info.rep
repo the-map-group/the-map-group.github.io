@@ -319,3 +319,7 @@ Matrix: (-21.3381, 55.478307) = [-21, 55] => 'RE: Reunion'
 -> Nominatim: (50.785899, -1.101709) = 'GB: United Kingdom'
 -> Nominatim: (50.785383, -1.105367) = 'GB: United Kingdom'
 -> Nominatim: (50.735276, -1.063184) = 'GB: United Kingdom'
+
+##### pascalvu1:
+Matrix: (48.892561, 2.339113) = [48, 2] => 'FR: France'
+Matrix: (48.857819, 2.346188) = [48, 2] => 'FR: France'
