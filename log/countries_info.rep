@@ -5531,3 +5531,14 @@ Matrix: (27.9252, -15.239794) = [27, -15] => 'ES: Spain'
 Matrix: (27.7488, -15.570858) = [27, -15] => 'ES: Spain'
 Matrix: (27.748893, -15.570533) = [27, -15] => 'ES: Spain'
 -> Nominatim: (28.060363, -15.548529) = 'ES: Spain'
+
+##### thunderbird-72:
+
+##### Massimo Francesconi:
+
+##### Alexander Sand Halvorsen:
+
+##### ForceMajeureMontenegro:
+-> Nominatim: (42.138752, 19.050953) = 'ME: Montenegro'
+-> Nominatim: (42.137797, 19.050953) = 'ME: Montenegro'
+-> Nominatim: (42.136699, 19.055331) = 'ME: Montenegro'
