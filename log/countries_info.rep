@@ -7091,3 +7091,11 @@ Matrix: (38.852966, -77.043374) = [38, -77] => 'US: United States'
 ##### Gérard Cachon:
 --> GeoNames: (12.167617, -68.281424) = 'BQ: Bonaire, Sint Eustatius, and Saba'
 --> 'BQ: Bonaire, Sint Eustatius, and Saba' = 'Bonaire' => 'BQ: Bonaire'
+
+##### ReNato '59:
+
+##### Fabrizio Lucchese:
+-> Nominatim: (46.466004, 13.034677) = 'IT: Italy'
+-> Nominatim: (46.472477, 13.038239) = 'IT: Italy'
+-> Nominatim: (46.483552, 12.983243) = 'IT: Italy'
+-> Nominatim: (46.470711, 13.006771) = 'IT: Italy'
