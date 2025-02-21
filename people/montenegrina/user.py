@@ -7,5 +7,5 @@ user_info = {
   'location': 'Podgorica, Montenegro',
   'countries': 13,
   'markers': 1357,
-  'photos': 1540
+  'photos': 1541
 }
