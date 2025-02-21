@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/mosesharold/',
   'location': 'SPENNYMOOR, United Kingdom',
   'countries': 77,
-  'markers': 3387,
-  'photos': 4706
+  'markers': 3388,
+  'photos': 4707
 }
