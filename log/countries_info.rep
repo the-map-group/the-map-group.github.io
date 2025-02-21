@@ -1132,3 +1132,6 @@ Matrix: (38.914644, -119.904495) = [38, -119] => 'US: United States'
 -> Nominatim: (59.340318, 18.066202) = 'SE: Sweden'
 -> Nominatim: (59.339465, 18.067607) = 'SE: Sweden'
 -> Nominatim: (59.326851, 18.071674) = 'SE: Sweden'
+
+##### Harald Schulz:
+-> Nominatim: (50.947863, 6.944386) = 'DE: Germany'
