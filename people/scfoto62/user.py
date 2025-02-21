@@ -7,5 +7,5 @@ user_info = {
   'location': 'Métropole lilloise, FRANCE',
   'countries': 3,
   'markers': 2033,
-  'photos': 3163
+  'photos': 3164
 }
