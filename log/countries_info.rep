@@ -6562,3 +6562,6 @@ Dictionary: (59.326851, 18.071674) = 'SE: Sweden'
 -> Nominatim: (41.837916, 12.536551) = 'IT: Italy'
 -> Nominatim: (41.901846, 12.45726) = 'VA: Vatican City'
 -> Nominatim: (41.895465, 12.428517) = 'IT: Italy'
+
+##### Atila Yumusakkaya:
+Matrix: (41.002317, 29.06641) = [41, 29] => 'TR: Turkey'
