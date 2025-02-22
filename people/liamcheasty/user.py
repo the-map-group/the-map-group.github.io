@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/liamcheasty/',
   'location': 'Waterford, Ireland',
   'countries': 30,
-  'markers': 3435,
-  'photos': 17683
+  'markers': 3436,
+  'photos': 17684
 }
