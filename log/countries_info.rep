@@ -3829,3 +3829,7 @@ Matrix: (40.956659, -5.719523) = [40, -5] => 'ES: Spain'
 -> Nominatim: (45.491908, 15.555396) = 'HR: Croatia'
 
 ##### fam_nordstrom:
+
+##### Harald Schulz:
+-> Nominatim: (49.974116, 7.893286) = 'DE: Germany'
+-> Nominatim: (51.487716, 7.045711) = 'DE: Germany'
