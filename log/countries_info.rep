@@ -4108,3 +4108,12 @@ Matrix: (-24.989523, 147.906505) = [-24, 147] => 'AU: Australia'
 -> Nominatim: (49.447025, 11.081383) = 'DE: Germany'
 -> Nominatim: (49.448975, 11.075333) = 'DE: Germany'
 -> Nominatim: (49.453255, 11.071594) = 'DE: Germany'
+
+##### dwightcarr_77:
+
+##### D-Stanley:
+-> Nominatim: (42.091554, 11.792952) = 'IT: Italy'
+-> Nominatim: (42.093632, 11.791417) = 'IT: Italy'
+Matrix: (43.317461, 11.328554) = [43, 11] => 'IT: Italy'
+Matrix: (43.317461, 11.329198) = [43, 11] => 'IT: Italy'
+Matrix: (43.317843, 11.329047) = [43, 11] => 'IT: Italy'
