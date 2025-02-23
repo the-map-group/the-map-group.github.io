@@ -4050,3 +4050,8 @@ Matrix: (45.249447, 5.877636) = [45, 5] => 'FR: France'
 Matrix: (45.250522, 5.877477) = [45, 5] => 'FR: France'
 Matrix: (45.25028, 5.877666) = [45, 5] => 'FR: France'
 -> Nominatim: (45.237497, 6.000611) = 'FR: France'
+
+##### Stratman2:
+
+##### mstraus52:
+-> Nominatim: (68.034309, 13.350575) = 'NO: Norway'
