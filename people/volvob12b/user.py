@@ -7,5 +7,5 @@ user_info = {
   'location': 'Christchurch, New Zealand',
   'countries': 11,
   'markers': 3656,
-  'photos': 4887
+  'photos': 4886
 }
