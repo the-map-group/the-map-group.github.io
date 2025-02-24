@@ -37,3 +37,6 @@ Matrix: (56.227816, 8.620909) = [56, 8] => 'DK: Denmark'
 ##### philippeguillot21:
 --> GeoNames: (-20.982327, 55.290069) = 'RE: Réunion'
 --> 'RE: Réunion' = 'Reunion' => 'RE: Reunion'
+
+##### Brit 70013 fan:
+-> Nominatim: (48.424871, -123.321619) = 'CA: Canada'
