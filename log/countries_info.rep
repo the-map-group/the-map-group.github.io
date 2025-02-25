@@ -3207,3 +3207,8 @@ Matrix: (38.711922, -122.977692) = [38, -122] => 'US: United States'
 -> Nominatim: (20.912691, -100.742487) = 'MX: Mexico'
 -> Nominatim: (20.914305, -100.743523) = 'MX: Mexico'
 Matrix: (38.711188, -122.978164) = [38, -122] => 'US: United States'
+
+##### Urban Florida Photographer:
+-> Nominatim: (26.259188, -80.080773) = 'US: United States'
+-> Nominatim: (25.740997, -80.211359) = 'US: United States'
+-> Nominatim: (26.259227, -80.08075) = 'US: United States'
