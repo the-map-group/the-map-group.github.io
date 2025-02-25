@@ -2710,3 +2710,7 @@ Dictionary: (46.668266, 8.024441) = 'CH: Switzerland'
 Dictionary: (46.675025, 7.999808) = 'CH: Switzerland'
 Matrix: (54.374108, -3.101192) = [54, -3] => 'GB: United Kingdom'
 Dictionary: (50.711658, -3.875053) = 'GB: United Kingdom'
+
+##### Joseph Hollick:
+Matrix: (22.284112, 114.155845) = [22, 114] => 'CN: China'
+Matrix: (22.321177, 114.114131) = [22, 114] => 'CN: China'
