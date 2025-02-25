@@ -2722,3 +2722,11 @@ Matrix: (22.321177, 114.114131) = [22, 114] => 'CN: China'
 ##### philippeguillot21:
 --> GeoNames: (-20.982397, 55.290091) = 'RE: Réunion'
 --> 'RE: Réunion' = 'Reunion' => 'RE: Reunion'
+
+##### Brit 70013 fan:
+
+##### Fernando Sa Rapita:
+-> Nominatim: (63.994592, -19.060004) = 'IS: Iceland'
+-> Nominatim: (63.992607, -19.059822) = 'IS: Iceland'
+-> Nominatim: (63.990654, -19.069767) = 'IS: Iceland'
+-> Nominatim: (63.989544, -19.086075) = 'IS: Iceland'
