@@ -1,7 +1,7 @@
 countries_dict = {
-  'AD': ['Andorra', 2, 2],
-  'ES': ['Spain', 1934, 2551],
+  'ES': ['Spain', 1936, 2553],
   'GI': ['Gibraltar', 4, 4],
-  'FR': ['France', 2, 2],
-  'MX': ['Mexico', 1, 2]
+  'AD': ['Andorra', 2, 2],
+  'MX': ['Mexico', 1, 2],
+  'FR': ['France', 2, 2]
 }
