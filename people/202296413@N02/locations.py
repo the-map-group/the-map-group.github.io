@@ -1,2 +1,0 @@
-locations_dict = {
-}
