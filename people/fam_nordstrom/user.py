@@ -7,5 +7,5 @@ user_info = {
   'location': 'Sanlúcar de Barrameda, Spain',
   'countries': 26,
   'markers': 6359,
-  'photos': 19061
+  'photos': 19066
 }
