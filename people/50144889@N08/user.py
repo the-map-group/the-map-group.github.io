@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/50144889@N08/',
   'location': 'Shropham, Norfolk., England',
   'countries': 33,
-  'markers': 2408,
-  'photos': 2611
+  'markers': 2409,
+  'photos': 2612
 }
