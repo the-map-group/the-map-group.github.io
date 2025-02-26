@@ -6484,3 +6484,6 @@ Matrix: (-43.532128, 172.620691) = [-43, 172] => 'NZ: New Zealand'
 
 ##### malioli:
 -> Nominatim: (45.481347, 15.557627) = 'HR: Croatia'
+
+##### fam_nordstrom:
+-> Nominatim: (37.879951, -4.780318) = 'ES: Spain'
