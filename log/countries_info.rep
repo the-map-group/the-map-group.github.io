@@ -6643,3 +6643,6 @@ Matrix: (-43.532128, 172.620691) = [-43, 172] => 'NZ: New Zealand'
 ##### alestaleiro:
 -> Nominatim: (50.081622, 14.420944) = 'CZ: Czechia'
 --> 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+
+##### Adam Swaine:
+-> Nominatim: (51.224679, 0.138187) = 'GB: United Kingdom'
