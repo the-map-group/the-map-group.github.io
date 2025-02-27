@@ -165,3 +165,6 @@ Matrix: (41.26556, -6.464962) = [41, -6] => 'ES: Spain'
 ##### fam_nordstrom:
 -> Nominatim: (59.356607, 18.078733) = 'SE: Sweden'
 -> Nominatim: (59.348174, 18.071405) = 'SE: Sweden'
+
+##### Harald Schulz:
+-> Nominatim: (50.938386, 6.960055) = 'DE: Germany'
