@@ -41,3 +41,10 @@ Matrix: (22.27761, 114.158924) = [22, 114] => 'CN: China'
 -> Nominatim: (49.00387, -1.566066) = 'FR: France'
 Matrix: (48.999422, -1.564865) = [48, -1] => 'FR: France'
 -> Nominatim: (49.014061, -1.563234) = 'FR: France'
+
+##### Brit 70013 fan:
+
+##### Fernando Sa Rapita:
+-> Nominatim: (63.990626, -19.08453) = 'IS: Iceland'
+-> Nominatim: (63.978386, -19.09925) = 'IS: Iceland'
+-> Nominatim: (63.956597, -17.476412) = 'IS: Iceland'
