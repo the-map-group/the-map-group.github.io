@@ -497,3 +497,8 @@ Matrix: (40.761682, -110.52246) = [40, -110] => 'US: United States'
 -> Nominatim: (50.454061, 3.941988) = 'BE: Belgium'
 -> Nominatim: (50.454081, 3.942332) = 'BE: Belgium'
 -> Nominatim: (50.454143, 3.94172) = 'BE: Belgium'
+
+##### kimbar/Thanks for 6.7 million views!:
+Matrix: (38.053269, -122.211603) = [38, -122] => 'US: United States'
+Matrix: (38.227361, -122.638656) = [38, -122] => 'US: United States'
+-> Nominatim: (20.915069, -100.745659) = 'MX: Mexico'
