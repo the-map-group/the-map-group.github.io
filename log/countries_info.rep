@@ -455,3 +455,11 @@ Matrix: (45.879887, 10.849325) = [45, 10] => 'IT: Italy'
 -> Nominatim: (49.453491, 11.076702) = 'DE: Germany'
 -> Nominatim: (49.457763, 11.076461) = 'DE: Germany'
 -> Nominatim: (49.457863, 11.075922) = 'DE: Germany'
+
+##### dwightcarr_77:
+
+##### D-Stanley:
+Matrix: (43.319802, 11.326966) = [43, 11] => 'IT: Italy'
+Matrix: (43.317039, 11.330667) = [43, 11] => 'IT: Italy'
+-> Nominatim: (42.438006, 11.118183) = 'IT: Italy'
+-> Nominatim: (42.443613, 11.123906) = 'IT: Italy'
