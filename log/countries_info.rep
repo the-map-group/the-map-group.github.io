@@ -519,3 +519,34 @@ Matrix: (21.315883, -157.662284) = [21, -157] => 'US: United States'
 ##### mouzhik:
 
 ##### Wes Iversen:
+
+##### ceri1965:
+
+##### sarahstierch:
+
+##### Pieter Lommerse:
+Matrix: (52.684138, -1.81907) = [52, -1] => 'GB: United Kingdom'
+Matrix: (53.235702, -0.538987) = [53, 0] => 'GB: United Kingdom'
+-> Nominatim: (49.611361, 6.13715) = 'LU: Luxembourg'
+-> Nominatim: (36.273661, -6.090688) = 'ES: Spain'
+-> Nominatim: (36.285968, -6.099994) = 'ES: Spain'
+-> Nominatim: (42.513406, -121.303183) = 'US: United States'
+-> Nominatim: (-26.642769, 153.084402) = 'AU: Australia'
+Matrix: (43.319802, 11.326966) = [43, 11] => 'IT: Italy'
+Matrix: (43.317039, 11.330667) = [43, 11] => 'IT: Italy'
+-> Nominatim: (42.438006, 11.118183) = 'IT: Italy'
+Matrix: (37.903506, -75.334367) = [37, -75] => 'US: United States'
+-> Nominatim: (49.007692, -1.553031) = 'FR: France'
+-> Nominatim: (49.974116, 7.893286) = 'DE: Germany'
+-> Nominatim: (44.932251, -68.644069) = 'US: United States'
+Matrix: (38.916013, -6.337748) = [38, -6] => 'ES: Spain'
+-> Nominatim: (15.273397, 120.558085) = 'PH: Philippines'
+Matrix: (52.982588, 13.452695) = [52, 13] => 'DE: Germany'
+Matrix: (52.986974, 13.466331) = [52, 13] => 'DE: Germany'
+Matrix: (52.98441, 13.460451) = [52, 13] => 'DE: Germany'
+Matrix: (52.983215, 13.464851) = [52, 13] => 'DE: Germany'
+-> Nominatim: (41.140533, -8.611725) = 'PT: Portugal'
+--> GeoNames: (-20.872987, 55.447772) = 'RE: Réunion'
+--> 'RE: Réunion' = 'Reunion' => 'RE: Reunion'
+Matrix: (-21.257171, 55.390512) = [-21, 55] => 'RE: Reunion'
+-> Nominatim: (53.447781, -105.23912) = 'CA: Canada'
