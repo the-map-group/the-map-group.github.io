@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/7126815@N05_r.jpg',
   'url': 'https://www.flickr.com/photos/misteroy/',
   'location': '',
-  'countries': 1,
-  'markers': 4250,
-  'photos': 6077
+  'countries': 2,
+  'markers': 4251,
+  'photos': 6078
 }
