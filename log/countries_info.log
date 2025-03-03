@@ -57,3 +57,9 @@
 (37.978845, -10.195312) skipped: [37, -10] is at not found list
 (35.491983, 31.799926) is in a territory of 'Cyprus': (35.491983, 31.799926) not found by any of the geocoders: [35, 31] added to not found list
 (35.641673, 31.734008) skipped: [35, 31] is at not found list
+
+##### michael_jeddah:
+(-34.608557, -58.372206) not skipped: [-34, -58] is at not found excludes
+(-34.608557, -58.371348) not skipped: [-34, -58] is at not found excludes
+(-34.616892, -58.341779) not skipped: [-34, -58] is at not found excludes
+(-18.519655, -173.943099) skipped: [-18, -173] is at not found list
