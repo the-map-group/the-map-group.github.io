@@ -26,6 +26,11 @@ if [[ ! -e countries_config.py ]];
     ln -s ../../config.py countries_config.py
 fi
 
+if [[ ! -e matrix.py ]];
+  then
+    ln -s ../../matrix.py .
+fi
+
 if [[ ! -e not_found.py ]];
   then
     ln -s ../../not_found.py .

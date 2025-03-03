@@ -20,6 +20,7 @@ cd $REPO_DIR/people/$1
 ln -s ../../api_credentials.py .
 ln -s ../../countries_config.py .
 ln -s ../../countries_info.py .
+ln -s ../../matrix.py .
 ln -s ../../not_found.py .
 ln -s ../../countries/members.py countries_members.py
 ln $GEN_MAP_DIR/generate-map-data.py .

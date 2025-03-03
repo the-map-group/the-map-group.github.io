@@ -12,6 +12,7 @@ reset_coords = False
 
 # control if countries matrix will be used
 use_matrix = True
+update_matrix = False
 
 # control if MapBox geocoder will be used on territories
 use_mapbox = True
@@ -21,11 +22,11 @@ nominatim_exclude = ['MA', 'BR', 'PY', 'AR']
 geonames_exclude = ['PY', 'AR']
 
 # control if report and errors files will be generated
-gen_err_file = True
+gen_err_file = False
 gen_rep_file = True
 rep_matrix = True
-rep_dictionary = True
-rep_nominatim = True
-rep_geonames = True
+rep_dictionary = False
+rep_nominatim = False
+rep_geonames = False
 rep_mapbox = True
 
