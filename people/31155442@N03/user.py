@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/31155442@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/31155442@N03/',
   'location': 'Hamilton, Canada',
-  'countries': 63,
-  'markers': 13388,
-  'photos': 19590
+  'countries': 61,
+  'markers': 13407,
+  'photos': 19628
 }
