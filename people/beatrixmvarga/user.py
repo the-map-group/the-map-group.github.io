@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/33989856@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/beatrixmvarga/',
   'location': 'USA',
-  'countries': 5,
-  'markers': 744,
-  'photos': 747
+  'countries': 4,
+  'markers': 746,
+  'photos': 749
 }
