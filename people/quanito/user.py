@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/135298455@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/quanito/',
   'location': 'Nogent sur Marne, FRANCE',
-  'countries': 51,
-  'markers': 5204,
-  'photos': 31302
+  'countries': 52,
+  'markers': 5217,
+  'photos': 31336
 }
