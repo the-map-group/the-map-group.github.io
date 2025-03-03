@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/66031636@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/jnoval/',
   'location': 'München, Germany',
-  'countries': 13,
+  'countries': 12,
   'markers': 383,
   'photos': 617
 }
