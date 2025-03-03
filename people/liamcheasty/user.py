@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/43413480@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/liamcheasty/',
   'location': 'Waterford, Ireland',
-  'countries': 30,
-  'markers': 3441,
-  'photos': 17691
+  'countries': 29,
+  'markers': 3448,
+  'photos': 17781
 }
