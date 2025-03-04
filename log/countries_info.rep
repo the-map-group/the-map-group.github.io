@@ -694,3 +694,17 @@ Matrix: (43.359301, 11.102787) = [43, 11] => 'IT: Italy'
 ##### alestaleiro:
 --> 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
 --> 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+
+##### Adam Swaine:
+Matrix: (51.224302, 0.139925) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.224732, 0.139517) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.224302, 0.138702) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.457984, -0.062323) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.457971, -0.063267) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.457964, -0.063085) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.457904, -0.063364) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.458038, -0.062431) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.22402, 0.138702) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.224652, 0.138702) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.224316, 0.138423) = [51, 0] => 'GB: United Kingdom'
+Matrix: (51.224652, 0.13838) = [51, 0] => 'GB: United Kingdom'
