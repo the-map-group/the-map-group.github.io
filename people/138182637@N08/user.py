@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/138182637@N08/',
   'location': 'Gent, België',
   'countries': 27,
-  'markers': 1008,
-  'photos': 1311
+  'markers': 1009,
+  'photos': 1315
 }
