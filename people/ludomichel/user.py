@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/ludomichel/',
   'location': 'Belgique',
   'countries': 10,
-  'markers': 4405,
-  'photos': 4844
+  'markers': 4425,
+  'photos': 4866
 }
