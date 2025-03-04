@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/faun070/',
   'location': 'Amsterdam, The Netherlands',
   'countries': 59,
-  'markers': 17165,
-  'photos': 41950
+  'markers': 17166,
+  'photos': 41952
 }
