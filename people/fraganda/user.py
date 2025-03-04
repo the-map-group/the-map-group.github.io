@@ -7,5 +7,5 @@ user_info = {
   'location': 'Ghent, Belgium',
   'countries': 16,
   'markers': 339,
-  'photos': 362
+  'photos': 365
 }
