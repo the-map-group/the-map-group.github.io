@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/olegsokol/',
   'location': 'Philadelphia, USA',
   'countries': 28,
-  'markers': 732,
-  'photos': 895
+  'markers': 735,
+  'photos': 898
 }
