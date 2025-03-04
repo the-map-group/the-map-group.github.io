@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/60035031@N06/',
   'location': 'Ashland, United States',
   'countries': 15,
-  'markers': 1450,
-  'photos': 1649
+  'markers': 1451,
+  'photos': 1664
 }
