@@ -22,7 +22,7 @@ nominatim_exclude = ['MA', 'BR', 'PY', 'AR']
 geonames_exclude = ['PY', 'AR']
 
 # control if report and errors files will be generated
-gen_err_file = False
+gen_err_file = True
 gen_rep_file = True
 rep_matrix = True
 rep_dictionary = False
