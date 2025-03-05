@@ -1,0 +1,21 @@
+countries_dict = {
+  'GE': ['Georgia', 15, 15],
+  'NC': ['New Caledonia', 11, 11],
+  'SE': ['Sweden', 6, 8],
+  'IT': ['Italy', 13, 15],
+  'DO': ['Dominican Republic', 1, 1],
+  'VA': ['Vatican City', 2, 2],
+  'CN': ['China', 19, 20],
+  'GR': ['Greece', 40, 41],
+  'KE': ['Kenya', 73, 83],
+  'ES': ['Spain', 7, 8],
+  'MA': ['Morocco', 6, 6],
+  'CA': ['Canada', 1, 1],
+  'BE': ['Belgium', 2, 2],
+  'US': ['United States', 15, 16],
+  'PT': ['Portugal', 5, 5],
+  'EG': ['Egypt', 6, 7],
+  'GB': ['United Kingdom', 15, 15],
+  'FR': ['France', 126, 154],
+  'NL': ['Netherlands', 13, 16]
+}
