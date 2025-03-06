@@ -2261,3 +2261,6 @@
 (-34.599334, -58.365501) not skipped: [-34, -58] is at not found excludes
 (-34.60852, -58.373538) not skipped: [-34, -58] is at not found excludes
 [56, -156] not added to not found list or excludes, unable to get location
+
+##### Urban Florida Photographer:
+(17.566007, -86.176757) skipped: [17, -86] is at not found list
