@@ -451,3 +451,14 @@
 ##### - Ozymandias -:
 
 ##### dwightcarr_77:
+
+##### D-Stanley:
+-> Nominatim: (76.772186, 15.645947) = NOT FOUND
+--> GeoNames: (76.772186, 15.645947) = NOT FOUND
+---> MapBox: (76.772186, 15.645947) = NOT FOUND
+-> Nominatim: (76.942513, 15.401287) = NOT FOUND
+--> GeoNames: (76.942513, 15.401287) = NOT FOUND
+---> MapBox: (76.942513, 15.401287) = NOT FOUND
+-> Nominatim: (72.805999, -66.115254) = NOT FOUND
+--> GeoNames: (72.805999, -66.115254) = NOT FOUND
+---> MapBox: (72.805999, -66.115254) = NOT FOUND
