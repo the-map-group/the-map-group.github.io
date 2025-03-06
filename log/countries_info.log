@@ -2107,3 +2107,8 @@
 (43.112486, -9.219823) skipped: [43, -9] is at not found list
 (43.112777, -9.219578) skipped: [43, -9] is at not found list
 (43.112205, -9.219792) skipped: [43, -9] is at not found list
+
+##### suntrana3:
+(29.851364, -88.363037) not skipped: [29, -88] is at not found excludes
+(29.524475, -88.262786) not skipped: [29, -88] is at not found excludes
+(29.524475, -88.262786) not found by any of the geocoders: [29, -88] is at not found excludes
