@@ -71,10 +71,19 @@ def sendEmail(member_name):
 
 #===== MAIN CODE ==============================================================#
 
+if os.path.exists("{}/success".format(repo_path)):
+    os.system("rm {}/success".format(repo_path))
+
 reset_all = config.reset_all
 reset_coords = config.reset_coords
 force_reset = config.force_reset
-from reset import reset_list
+
+try:
+    from reset import reset_list
+except Exception as e:
+    print('ERROR: FATAL: Unable to read reset list file')
+    print(e)
+    sys.exit()
 
 current_members = []
 members_list = []
@@ -86,8 +95,9 @@ if reset_all and os.path.exists("{}/members.py".format(repo_path)):
 try:
     group_id = flickr.urls.lookupGroup(api_key=api_key, url=group_url)['group']['id']
     group_name = flickr.groups.getInfo(group_id=group_id)['group']['name']['_content']
-except:
-    print('ERROR: FATAL: Unable to get group information\n')
+except Exception as e:
+    print('ERROR: FATAL: Unable to get group information')
+    print(e)
     sys.exit()
 
 # get members from group
@@ -96,8 +106,9 @@ try:
     total_of_members = int(members['members']['total'])
     number_of_pages  = int(members['members']['pages'])
     members_per_page = int(members['members']['perpage'])
-except:
-    print('ERROR: FATAL: Unable to get members list\n')
+except Exception as e:
+    print('ERROR: FATAL: Unable to get members list')
+    print(e)
     sys.exit()
 
 # iterate over each members page
@@ -105,8 +116,9 @@ for page_number in range(number_of_pages, 0, -1):
 
     try:
         members = flickr.groups.members.getList(api_key=api_key, group_id=group_id, page=page_number, per_page=members_per_page)['members']['member']
-    except:
-        print('ERROR: FATAL: Unable to get members list page\n')
+    except Exception as e:
+        print('ERROR: FATAL: Unable to get members list page')
+        print(e)
         sys.exit()
 
     members_in_page = len(members)
@@ -421,3 +433,5 @@ for member in members_dirs:
                 reply_message = "[https://www.flickr.com/photos/{}/] Your map has been removed. Feel free to come back anytime and a new map will be created for you.".format(member)
                 flickr.groups.discuss.replies.add(api_key=api_key, group_id=group_id, topic_id=topic[0], message=reply_message)
 
+
+os.system("touch {}/success".format(repo_path))
