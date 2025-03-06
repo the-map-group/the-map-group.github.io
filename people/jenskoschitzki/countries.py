@@ -1,16 +1,16 @@
 countries_dict = {
+  'GE': ['Georgia', 155, 176],
+  'DE': ['Germany', 2024, 28479],
   'EE': ['Estonia', 170, 170],
-  'RU': ['Russia', 427, 509],
+  'AZ': ['Azerbaijan', 2, 2],
   'GB': ['United Kingdom', 147, 150],
-  'SM': ['San Marino', 34, 35],
+  'AM': ['Armenia', 159, 170],
+  'AT': ['Austria', 194, 260],
   'FI': ['Finland', 126, 127],
+  'RU': ['Russia', 427, 509],
   'LV': ['Latvia', 149, 149],
   'LT': ['Lithuania', 125, 136],
-  'AM': ['Armenia', 159, 170],
-  'AZ': ['Azerbaijan', 2, 2],
   'HR': ['Croatia', 214, 244],
   'IT': ['Italy', 2376, 3093],
-  'AT': ['Austria', 194, 260],
-  'DE': ['Germany', 2020, 28475],
-  'GE': ['Georgia', 155, 176]
+  'SM': ['San Marino', 34, 35]
 }
