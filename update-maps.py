@@ -395,6 +395,8 @@ if os.path.exists("{}/dirs".format(people_path)):
     for member in members_dirs_file_lines:
         members_dirs.append(member.replace(people_path, '').replace('/', '').replace('\n',''))
 
+os.system("touch success".format(repo_path))
+
 if len(current_members) == len(members_dirs):
     print("\nNo member has left the group!")
     sys.exit()
@@ -410,7 +412,9 @@ for page_number in range(topics_num_of_pages, 0, -1):
 
     try:
         topics_page = flickr.groups.discuss.topics.getList(api_key=api_key, group_id=group_id, page=page_number, per_page='500')['topics']['topic']
-    except:
+    except Exception as e:
+        print('ERROR: FATAL: Unable to get discussion topics')
+        print(e)
         sys.exit()
 
     # iterate over each member in page
@@ -433,5 +437,3 @@ for member in members_dirs:
                 reply_message = "[https://www.flickr.com/photos/{}/] Your map has been removed. Feel free to come back anytime and a new map will be created for you.".format(member)
                 flickr.groups.discuss.replies.add(api_key=api_key, group_id=group_id, topic_id=topic[0], message=reply_message)
 
-
-os.system("touch {}/success".format(repo_path))
