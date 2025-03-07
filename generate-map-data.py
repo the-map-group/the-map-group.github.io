@@ -31,11 +31,20 @@ max_number_of_markers = 2000
 # get full script's path
 run_path = os.path.dirname(os.path.realpath(__file__))
 
+# open log file
+try:
+    log_file = open('{}/log/update-maps.log'.format(run_path), 'a')
+except Exception as e:
+    print("ERROR: FATAL: Unable to open log file")
+    print(e)
+    sys.exit()
+
 # check if there is a api_credentials file and import it
 if os.path.exists("{}/api_credentials.py".format(run_path)):
     import api_credentials
 else:
     print("ERROR: File 'api_credentials.py' not found. Create one and try again.")
+    log_file.write("ERROR: File 'api_credentials.py' not found. Create one and try again.\n")
     sys.exit()
 
 # Credentials
@@ -67,7 +76,13 @@ try:
     total = int(photos['photos']['total'])
     print('Generating map for \'{}\''.format(group_name))
     print('{} photos in the pool'.format(total))
-except:
+    log_file.write('Generating map for \'{}\'\n'.format(group_name))
+    log_file.write('{} photos in the pool\n'.format(total))
+except Exception as e:
+    print('ERROR: FATAL: Unable to get photos from the pool')
+    print(e)
+    log_file.write('ERROR: FATAL: Unable to get photos from the pool\n')
+    log_file.write(e)
     sys.exit()
 
 # current number of photos on photostream
@@ -82,6 +97,7 @@ if os.path.exists("{}/last_total.py".format(run_path)):
     delta_total = int(current_total) - int(last_total.number)
     if delta_total == 0:
         print('No changes on number of photos since last run.\nAborted.')
+        log_file.write('No changes on number of photos since last run.\nAborted.\n')
         sys.exit()
 
 # if difference > 0, makes total = delta_total
@@ -92,14 +108,17 @@ if delta_total > 0:
     total = delta_total
     if total != delta_total:
         print('{} new photo(s)'.format(total))
+        log_file.write('{} new photo(s)\n'.format(total))
 else:
     n_deleted = abs(delta_total)
     if os.path.exists("{}/locations.py".format(run_path)):
         os.system("rm {}/locations.py".format(run_path))
     print('{} photo(s) deleted from photos pool.\nThe corresponding markers will also be deleted'.format(n_deleted))
+    log_file.write('{} photo(s) deleted from photos pool.\nThe corresponding markers will also be deleted\n'.format(n_deleted))
 
 
 print('Extracting photo coordinates and ids...')
+log_file.write('Extracting photo coordinates and ids...\n')
 
 # get number of pages to be processed
 npages = math.ceil(total/int(photos_per_page))
@@ -112,14 +131,19 @@ n_markers = 0 # counts number of markers
 if npages > max_number_of_pages:
     npages = max_number_of_pages
     total = max_number_of_pages * int(photos_per_page);
-    print("Extracting for the last {} photos".format(total))
+    print('Extracting for the last {} photos'.format(total))
+    log_file.write('Extracting for the last {} photos\n'.format(total))
 
 # process each page
 for pg in range(1, npages+1):
 
     try:
         page = flickr.groups.pools.getPhotos(api_key=api_key, group_id=group_id, privacy_filter='1', extras='geo,tags,url_sq', page=pg, per_page=photos_per_page)['photos']['photo']
-    except:
+    except Exception as e:
+        print('ERROR: FATAL: Unable to get photos from the pool')
+        print(e)
+        log_file.write('ERROR: FATAL: Unable to get photos from the pool\n')
+        log_file.write(e)
         sys.exit()
 
     photos_in_page = len(page)
@@ -158,18 +182,22 @@ for pg in range(1, npages+1):
             break
 
     print('Batch {0}/{1} | {2} photo(s) in {3} marker(s)'.format(pg, npages, n_photos, n_markers), end='\r')
+    log_file.write('Batch {0}/{1} | {2} photo(s) in {3} marker(s)\r'.format(pg, npages, n_photos, n_markers))
 
     # stop processing pages if any limit was reached
     if n_photos >= total:
         break
     if n_photos >= max_number_of_photos:
         print("\nMaximum number of photos on map reached!", end='')
+        log_file.write("Maximum number of photos on map reached!\n")
         break
     if n_markers >= max_number_of_markers:
         print("\nMaximum number of markers on map reached!", end='')
+        log_file.write("\nMaximum number of markers on map reached!\n")
         break
 
 print('\nAdding marker(s) to map...')
+log_file.write('Adding marker(s) to map...\n')
 
 # check if there is a file with the markers on map already
 # and import it otherwise created a new variable
@@ -188,6 +216,7 @@ locations_file.write("locations = [\n")
 n_locations = len(locations)
 if n_locations > 0:
     print('Map already has {} marker(s)'.format(n_locations))
+    log_file.write('Map already has {} marker(s)\n'.format(n_locations))
 
 # counts the number of new photos added to markers
 new_photos = 0
@@ -237,6 +266,7 @@ for loc in range(n_locations):
 
 if new_photos > 0:
     print('Added {} new photo(s) to existing markers'.format(new_photos))
+    log_file.write('Added {} new photo(s) to existing markers\n'.format(new_photos))
 
 # reverse the coordinates order so
 # the newest ones go to the end
@@ -246,6 +276,7 @@ coordinates.reverse()
 n_markers = len(coordinates)
 if n_markers > 0:
     print('{} new marker(s) will be added to the map'.format(n_markers))
+    log_file.write('{} new marker(s) will be added to the map\n'.format(n_markers))
 
 # remove the oldest locations to make
 # room for new markers without violate
@@ -254,6 +285,7 @@ new_locations_length = len(locations) + n_markers
 if new_locations_length >= max_number_of_markers:
     new_locations_length = max_number_of_markers - n_markers
     print('Max number of markers reached. Removing {} marker(s)...'.format(n_markers))
+    log_file.write('Max number of markers reached. Removing {} marker(s)...\n'.format(n_markers))
     while len(locations) > new_locations_length:
         locations.pop(0)
 
@@ -300,14 +332,18 @@ for marker_info in coordinates:
         locations_file.write("\n")
 
     print('Added marker {0}/{1}'.format(new_markers, n_markers), end='\r')
+    log_file.write('Added marker {0}/{1}\r'.format(new_markers, n_markers))
 
 # finish script
 if new_markers > 0:
     print('')
+    log_file.write('\n')
 else:
     print('No new markers were added to the map')
+    log_file.write('No new markers were added to the map\n')
 
 print('Finished!')
+log_file.write('Finished!\n')
 
 locations_file.write("]\n")
 locations_file.close()
@@ -315,3 +351,5 @@ locations_file.close()
 # update last_total file with the new value
 if os.path.exists("{}/locations.py".format(run_path)):
     os.system("echo \"number = {0}\" > {1}/last_total.py".format(current_total, run_path))
+
+log_file.close()

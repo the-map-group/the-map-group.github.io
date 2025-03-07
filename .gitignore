@@ -3,6 +3,7 @@ api_credentials.py
 authenticate.py
 mapbox_token.py
 countries_config.py
+people/*/log
 people/*/config.py
 people/*/generate-map-data.py
 people/*/update-countries-map-data.py
@@ -21,6 +22,5 @@ backup-repo.sh
 show-repo-size.sh
 clear-log.sh
 clear-members.sh
-maps.log
 success
 

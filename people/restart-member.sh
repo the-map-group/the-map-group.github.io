@@ -31,6 +31,11 @@ if [[ ! -e matrix.py ]];
     ln -s ../../matrix.py .
 fi
 
+if [[ ! -e log ]];
+  then
+    ln -s ../../log/update-maps.log log
+fi
+
 if [[ ! -e not_found.py ]];
   then
     ln -s ../../not_found.py .

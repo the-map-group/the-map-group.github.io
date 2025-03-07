@@ -34,6 +34,13 @@ flickr = flickrapi.FlickrAPI(api_key, api_secret, format='parsed-json')
 repo_path = os.path.dirname(os.path.realpath(__file__))
 people_path = repo_path + "/people"
 
+# open log file
+try:
+    log_file = open('{}/log/update-maps.log'.format(repo_path), 'a')
+except Exception as e:
+    print("ERROR: FATAL: Unable to open log file")
+    print(e)
+    sys.exit()
 
 #===== FUNCTIONS ==============================================================#
 
@@ -83,6 +90,8 @@ try:
 except Exception as e:
     print('ERROR: FATAL: Unable to read reset list file')
     print(e)
+    log_file.write('ERROR: FATAL: Unable to read reset list file\n')
+    log_file.write(e)
     sys.exit()
 
 current_members = []
@@ -98,6 +107,8 @@ try:
 except Exception as e:
     print('ERROR: FATAL: Unable to get group information')
     print(e)
+    log_file.write('ERROR: FATAL: Unable to get group information\n')
+    log_file.write(e)
     sys.exit()
 
 # get members from group
@@ -109,6 +120,8 @@ try:
 except Exception as e:
     print('ERROR: FATAL: Unable to get members list')
     print(e)
+    log_file.write('ERROR: FATAL: Unable to get members list\n')
+    log_file.write(e)
     sys.exit()
 
 # iterate over each members page
@@ -119,6 +132,8 @@ for page_number in range(number_of_pages, 0, -1):
     except Exception as e:
         print('ERROR: FATAL: Unable to get members list page')
         print(e)
+        log_file.write('ERROR: FATAL: Unable to get members list page\n')
+        log_file.write(e)
         sys.exit()
 
     members_in_page = len(members)
@@ -127,6 +142,7 @@ for page_number in range(number_of_pages, 0, -1):
 
     # iterate over each member in page
     for member_number in range(members_in_page-1, -1, -1):
+
         member_name = members[member_number]['username']
         member_id = members[member_number]['nsid']
 
@@ -156,17 +172,21 @@ for page_number in range(number_of_pages, 0, -1):
                 os.system("git add {}/*".format(member_path))
                 os.system("git rm -fr {}/{}".format(people_path, member_id))
                 print('Renamed member directory: {} -> {}'.format(member_id, member_alias))
+                log_file.write('Renamed member directory: {} -> {}\n'.format(member_id, member_alias))
             else:
                 print('Removed old member directory: {}'.format(member_id))
+                log_file.write('Removed old member directory: {}'.format(member_id))
 
         if reset_all and os.path.exists("{}/last_total.py".format(member_path)):
             if force_reset:
                  os.system("rm {}/last_total.py".format(member_path))
             else:
                 print('WARNING: Map has already been generated for member: {}'.format(member_name[0:20]))
+                log_file.write('WARNING: Map has already been generated for member: {}\n'.format(member_name[0:20]))
 
                 # get member information
                 print("Getting member information...")
+                log_file.write("Getting member information...\n")
 
                 member_info = getMemberInfo(member_path, repo_path)
                 member_n_places = member_info[4]
@@ -175,6 +195,7 @@ for page_number in range(number_of_pages, 0, -1):
                     members_list.append(member_info)
 
                 print("Finished!\n")
+                log_file.write("Finished!\n\n")
                 continue
 
         # create member directory and topic if doesn't exist yet
@@ -186,8 +207,10 @@ for page_number in range(number_of_pages, 0, -1):
 
         if is_new_member:
             print('##### Generating map for new member: {}...'.format(member_name[0:16]))
+            log_file.write('##### Generating map for new member: {}...\n'.format(member_name[0:16]))
         else:
             print('##### Updating map for member: {}...'.format(member_name[0:20]))
+            log_file.write('##### Updating map for member: {}...\n'.format(member_name[0:20]))
 
             if not reset_all and not os.path.exists("{}/generate-map-data.py".format(member_path)):
                 command = "{0}/restart-member.sh {1}".format(people_path, member_alias)
@@ -196,18 +219,22 @@ for page_number in range(number_of_pages, 0, -1):
             if reset_all or member_alias in reset_list:
                 if not reset_all:
                     print('\'{}\' is in reset list.'.format(member_alias))
+                    log_file.write('\'{}\' is in reset list.\n'.format(member_alias))
                 if reset_coords and os.path.exists("{}/coords.py".format(member_path)):
                     os.system("rm {}/coords.py".format(member_path))
                 if not os.path.exists("{}/coords.py".format(member_path)):
                     print('Resetting member...')
+                    log_file.write('Resetting member...\n')
                     command = "{0}/setup-member.sh {1}".format(people_path, member_alias)
                 else:
                     print('Restarting member...')
+                    log_file.write('Restarting member...\n')
                     command = "{0}/restart-member.sh {1}".format(people_path, member_alias)
                 os.system(command)
             else:
                 # get 'locations.py', 'countries.py' and 'user.js' from github
                 print('Getting locations and countries...')
+                log_file.write('Getting locations and countries...\n')
                 try:
                     if not os.path.exists("{}/locations.py".format(member_path)):
                         command = "wget -q -P {0} https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/master/people/{1}/locations.py".format(member_path, member_alias)
@@ -226,6 +253,7 @@ for page_number in range(number_of_pages, 0, -1):
 
             if not reset_all and not memberFilesExist(member_path):
                 print('Unable to locate at least one of the member\'s files. Restarting member...')
+                log_file.write('Unable to locate at least one of the member\'s files. Restarting member...\n')
                 command = "{0}/restart-member.sh {1}".format(people_path, member_alias)
                 os.system(command)
 
@@ -235,25 +263,31 @@ for page_number in range(number_of_pages, 0, -1):
             prev_loc_fsize = 0
 
         # write member header at log files
-        htm_file = open("{}/log/index.html".format(repo_path), "a")
-        log_file = open("{}/log/countries_info.log".format(repo_path), "a")
-        rep_file = open("{}/log/countries_info.rep".format(repo_path), "a")
-        err_file = open("{}/log/countries_info.err".format(repo_path), "a")
+        info_htm_file = open("{}/log/index.html".format(repo_path), "a")
+        info_log_file = open("{}/log/countries_info.log".format(repo_path), "a")
+        info_rep_file = open("{}/log/countries_info.rep".format(repo_path), "a")
+        info_err_file = open("{}/log/countries_info.err".format(repo_path), "a")
 
-        htm_file.write("<br>##### {}:<br>\n".format(member_name))
-        log_file.write("\n##### {}:\n".format(member_name))
-        rep_file.write("\n##### {}:\n".format(member_name))
-        err_file.write("\n##### {}:\n".format(member_name))
+        info_htm_file.write("<br>##### {}:<br>\n".format(member_name))
+        info_log_file.write("\n##### {}:\n".format(member_name))
+        info_rep_file.write("\n##### {}:\n".format(member_name))
+        info_err_file.write("\n##### {}:\n".format(member_name))
 
-        htm_file.close()
-        log_file.close()
-        rep_file.close()
-        err_file.close()
+        info_htm_file.close()
+        info_log_file.close()
+        info_rep_file.close()
+        info_err_file.close()
 
         # generate/update member's map
         print('Starting \'Flickr Map\' script...')
+        log_file.write('Starting \'Flickr Map\' script...\n')
+
+        log_file.close()
+
         command = "{}/generate-map-data.py".format(member_path)
         os.system(command)
+
+        log_file = open('{}/log/update-maps.log'.format(repo_path), 'a')
 
         if os.path.exists("{}/locations.py".format(member_path)):
             loc_fsize = os.stat("{}/locations.py".format(member_path)).st_size
@@ -265,6 +299,7 @@ for page_number in range(number_of_pages, 0, -1):
         if memberFilesExist(member_path):
             if reset_all or ((loc_fsize_diff != 0 or (is_new_member and loc_fsize > 21))):
                 print('Commiting map data...')
+                log_file.write('Commiting map data...\n')
                 os.system("git add -f {}/photos/index.html".format(member_path))
                 os.system("git add -f {}/index.html".format(member_path))
                 os.system("git add -f {}/locations.py".format(member_path))
@@ -277,11 +312,14 @@ for page_number in range(number_of_pages, 0, -1):
                 os.system("git commit -m \"[auto] Updated map for member \'{}\'\"".format(member_name))
                 os.system("git push origin main")
                 print('Done!')
+                log_file.write('Done!\n')
             else:
                 print("Everything is up-to-date. Nothing to commit!")
+                log_file.write("Everything is up-to-date. Nothing to commit!\n")
                 os.system("git checkout -- {}/".format(member_path))
         else:
             print("ERROR: Missing member files. Aborted.\n")
+            log_file.write("ERROR: Missing member files. Aborted.\n\n")
             continue
 
         # create discussion topic for new member
@@ -291,13 +329,16 @@ for page_number in range(number_of_pages, 0, -1):
             topic_message = "[{0}/{1}/] Your map has been created!\n\nMap link: <a href=\"{3}\"><b>{3}</b></a>\n\nClick on the markers to see the photos taken on the corresponding location.".format(photos_url, member_alias, member_name, member_map)
             flickr.groups.discuss.topics.add(api_key=api_key, group_id=group_id, subject=topic_subject, message=topic_message)
             print('Created discussion topic for new member')
+            log_file.write('Created discussion topic for new member\n')
 
         if loc_fsize <= 21:
             print('Member has no geottaged photos. Sending e-mail...')
+            log_file.write('Member has no geottaged photos. Sending e-mail...\n')
             sendEmail(member_name)
 
         # get member information
         print("Getting member information...")
+        log_file.write("Getting member information...\n")
 
         os.system("cp {0}/user.py {1}/".format(member_path, repo_path))
         import user
@@ -318,7 +359,8 @@ for page_number in range(number_of_pages, 0, -1):
         if member_n_places > 0:
             members_list.append([member_id, member_alias, member_name, member_avatar, member_n_places, member_n_photos, member_n_countries])
 
-        print("Finished!\n")
+        print("Done!\n")
+        log_file.write("Done!\n\n")
 
         os.system("rm -fr {}/__pycache__".format(member_path))
 
@@ -361,14 +403,20 @@ alias_dict_file.close()
 
 # update group map
 print("##### Updating Group's Map...")
+log_file.write("##### Updating Group's Map...\n")
 
 if os.path.exists("{}/last_total.py".format(repo_path)):
     os.system("rm {}/last_total.py".format(repo_path))
 
+log_file.close()
+
 command = "{}/generate-map-data.py".format(repo_path)
 os.system(command)
 
+log_file = open('{}/log/update-maps.log'.format(repo_path), 'a')
+
 print('Commiting map data...')
+log_file.write('Commiting map data...\n')
 os.system("git add -f {}/locations.py".format(repo_path))
 os.system("git add -f {}/members.py".format(repo_path))
 os.system("git add -f {}/aliases.py".format(repo_path))
@@ -378,6 +426,7 @@ os.system("git add -f {}/log/*".format(repo_path))
 os.system("git commit -m \"[auto] Updated group map\"")
 os.system("git push origin main")
 print('Done!')
+log_file.write('Done!\n')
 
 os.system("rm -fr {}/__pycache__".format(repo_path))
 
@@ -399,9 +448,11 @@ os.system("touch success".format(repo_path))
 
 if len(current_members) == len(members_dirs):
     print("\nNo member has left the group!")
+    log_file.write("\nNo member has left the group!\n")
     sys.exit()
 
 print("\n##### Removing members which have left the group...")
+log_file.write("\n##### Removing members which have left the group...\n")
 
 topics = []
 
@@ -415,6 +466,8 @@ for page_number in range(topics_num_of_pages, 0, -1):
     except Exception as e:
         print('ERROR: FATAL: Unable to get discussion topics')
         print(e)
+        log_file.write('ERROR: FATAL: Unable to get discussion topics\n')
+        log_file.write(e)
         sys.exit()
 
     # iterate over each member in page
@@ -431,9 +484,11 @@ for member in members_dirs:
         os.system("git push origin main")
         os.system("rm -fr {0}/{1}".format(people_path, member))
         print("Removed member: {}".format(member))
+        log_file.write("Removed member: {}\n".format(member))
         removed += 1
         for topic in topics:
             if member in topic[1]:
                 reply_message = "[https://www.flickr.com/photos/{}/] Your map has been removed. Feel free to come back anytime and a new map will be created for you.".format(member)
                 flickr.groups.discuss.replies.add(api_key=api_key, group_id=group_id, topic_id=topic[0], message=reply_message)
 
+log_file.close()
