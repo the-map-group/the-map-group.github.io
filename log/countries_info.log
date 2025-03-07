@@ -548,3 +548,78 @@
 (-31.943059, 179.60363) skipped: [-31, 179] is at not found list
 (-32.651762, 179.22883) skipped: [-32, 179] is at not found list
 (-26.285387, -177.602328) skipped: [-26, -177] is at not found list
+
+##### Lemmo2009:
+(40.010787, 2.213745) skipped: [40, 2] is at not found list
+(40.154211, 2.228851) skipped: [40, 2] is at not found list
+(40.319325, 2.216491) skipped: [40, 2] is at not found list
+(40.449559, 2.202758) skipped: [40, 2] is at not found list
+(40.57224, 2.208251) skipped: [40, 2] is at not found list
+(53.228044, 2.693419) skipped: [53, 2] is at not found list
+(49.974516, -5.227953) skipped: [49, -5] is at not found list
+(49.974633, -5.229114) skipped: [49, -5] is at not found list
+(49.959019, -5.206856) skipped: [49, -5] is at not found list
+(49.975108, -5.229803) skipped: [49, -5] is at not found list
+(49.959491, -5.206457) skipped: [49, -5] is at not found list
+(49.959298, -5.206822) skipped: [49, -5] is at not found list
+(49.987572, -5.179312) skipped: [49, -5] is at not found list
+(49.987809, -5.17927) skipped: [49, -5] is at not found list
+(49.987561, -5.179506) skipped: [49, -5] is at not found list
+(49.98752, -5.179377) skipped: [49, -5] is at not found list
+(49.987685, -5.179506) skipped: [49, -5] is at not found list
+(49.987409, -5.180622) skipped: [49, -5] is at not found list
+(-34.612328, -58.371831) not skipped: [-34, -58] is at not found excludes
+(-34.581765, -58.394147) not skipped: [-34, -58] is at not found excludes
+(-34.583513, -58.397838) not skipped: [-34, -58] is at not found excludes
+(-34.587515, -58.390875) not skipped: [-34, -58] is at not found excludes
+(-34.57212, -58.412903) not skipped: [-34, -58] is at not found excludes
+(-34.574431, -58.414509) not skipped: [-34, -58] is at not found excludes
+(-34.592859, -58.374298) not skipped: [-34, -58] is at not found excludes
+(-34.581712, -58.393814) not skipped: [-34, -58] is at not found excludes
+(-34.587524, -58.391143) not skipped: [-34, -58] is at not found excludes
+(-34.587823, -58.391006) not skipped: [-34, -58] is at not found excludes
+(-34.587711, -58.39405) not skipped: [-34, -58] is at not found excludes
+(-34.587614, -58.39405) not skipped: [-34, -58] is at not found excludes
+(-34.588317, -58.393756) not skipped: [-34, -58] is at not found excludes
+(-34.587903, -58.393964) not skipped: [-34, -58] is at not found excludes
+(-34.631539, -58.364095) not skipped: [-34, -58] is at not found excludes
+(-34.639553, -58.363178) not skipped: [-34, -58] is at not found excludes
+(-34.639428, -58.362164) not skipped: [-34, -58] is at not found excludes
+(-34.63925, -58.363731) not skipped: [-34, -58] is at not found excludes
+(-34.639656, -58.362745) not skipped: [-34, -58] is at not found excludes
+(-34.639081, -58.363537) not skipped: [-34, -58] is at not found excludes
+(-34.639078, -58.363525) not skipped: [-34, -58] is at not found excludes
+(-34.608384, -58.371734) not skipped: [-34, -58] is at not found excludes
+(-34.607432, -58.369985) not skipped: [-34, -58] is at not found excludes
+(-34.608033, -58.371187) not skipped: [-34, -58] is at not found excludes
+(-34.608262, -58.37167) not skipped: [-34, -58] is at not found excludes
+(-34.608409, -58.373129) not skipped: [-34, -58] is at not found excludes
+(-34.608198, -58.371133) not skipped: [-34, -58] is at not found excludes
+(-34.608095, -58.373354) not skipped: [-34, -58] is at not found excludes
+(-34.607639, -58.370262) not skipped: [-34, -58] is at not found excludes
+(-34.603709, -58.366606) not skipped: [-34, -58] is at not found excludes
+(-34.607681, -58.366148) not skipped: [-34, -58] is at not found excludes
+(-34.607653, -58.365989) not skipped: [-34, -58] is at not found excludes
+(-34.608392, -58.371984) not skipped: [-34, -58] is at not found excludes
+(-34.580923, -58.414695) not skipped: [-34, -58] is at not found excludes
+(-34.580748, -58.414821) not skipped: [-34, -58] is at not found excludes
+(-34.58066, -58.414843) not skipped: [-34, -58] is at not found excludes
+(-34.580748, -58.414864) not skipped: [-34, -58] is at not found excludes
+(-34.603128, -58.381431) not skipped: [-34, -58] is at not found excludes
+(-34.608764, -58.37217) not skipped: [-34, -58] is at not found excludes
+(-34.603017, -58.381578) not skipped: [-34, -58] is at not found excludes
+(-34.60822, -58.372953) not skipped: [-34, -58] is at not found excludes
+(-34.612514, -58.371753) not skipped: [-34, -58] is at not found excludes
+(-34.613584, -58.372198) not skipped: [-34, -58] is at not found excludes
+(-34.613023, -58.37112) not skipped: [-34, -58] is at not found excludes
+(-34.611653, -58.36882) not skipped: [-34, -58] is at not found excludes
+(-34.609998, -58.36925) not skipped: [-34, -58] is at not found excludes
+(-34.610128, -58.369287) not skipped: [-34, -58] is at not found excludes
+(-34.608909, -58.371117) not skipped: [-34, -58] is at not found excludes
+(-34.607873, -58.371162) not skipped: [-34, -58] is at not found excludes
+(-34.6205, -58.371734) not skipped: [-34, -58] is at not found excludes
+(-34.620453, -58.371659) not skipped: [-34, -58] is at not found excludes
+(-34.620439, -58.371798) not skipped: [-34, -58] is at not found excludes
+(-34.603414, -58.381348) not skipped: [-34, -58] is at not found excludes
+(-34.608423, -58.371723) not skipped: [-34, -58] is at not found excludes
+(-34.60825, -58.366039) not skipped: [-34, -58] is at not found excludes
