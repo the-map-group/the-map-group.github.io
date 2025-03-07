@@ -638,3 +638,140 @@
 ##### Dmitry Djouce:
 (49.968585, -5.206832) skipped: [49, -5] is at not found list
 (49.979219, -5.245067) skipped: [49, -5] is at not found list
+
+##### Joseph Hollick:
+(-46.118941, -65.024414) skipped: [-46, -65] is at not found list
+(78.480838, -145.130809) skipped: [78, -145] is at not found list
+(84.9901, -163.125) skipped: [84, -163] is at not found list
+(5.484768, 104.095458) skipped: [5, 104] is at not found list
+(-34.573148, -58.379148) not skipped: [-34, -58] is at not found excludes
+(-34.573581, -58.375511) not skipped: [-34, -58] is at not found excludes
+(-34.586831, -58.391861) not skipped: [-34, -58] is at not found excludes
+(-34.587573, -58.39213) not skipped: [-34, -58] is at not found excludes
+(28.280679, -117.46582) skipped: [28, -117] is at not found list
+(15.205217, -67.510986) skipped: [15, -67] is at not found list
+(-39.231189, 149.67661) skipped: [-39, 149] is at not found list
+(3.699818, 104.501953) skipped: [3, 104] is at not found list
+(7.776308, 102.502441) skipped: [7, 102] is at not found list
+(14.221788, -76.948242) skipped: [14, -76] is at not found list
+(29.583011, -86.984252) skipped: [29, -86] is at not found list
+(-34.598525, -58.375393) not skipped: [-34, -58] is at not found excludes
+(-34.596873, -58.375543) not skipped: [-34, -58] is at not found excludes
+(-34.597845, -58.375307) not skipped: [-34, -58] is at not found excludes
+(-34.60075, -58.374588) not skipped: [-34, -58] is at not found excludes
+(-34.574014, -58.375339) not skipped: [-34, -58] is at not found excludes
+(-34.575047, -58.373408) not skipped: [-34, -58] is at not found excludes
+(-34.578122, -58.369438) not skipped: [-34, -58] is at not found excludes
+(-34.580904, -58.364256) not skipped: [-34, -58] is at not found excludes
+(-34.584287, -58.361638) not skipped: [-34, -58] is at not found excludes
+(-34.595222, -58.364031) not skipped: [-34, -58] is at not found excludes
+(-34.594727, -58.35342) not skipped: [-34, -58] is at not found excludes
+(-34.588138, -58.319721) not skipped: [-34, -58] is at not found excludes
+(-34.60823, -58.370929) not skipped: [-34, -58] is at not found excludes
+(-34.608345, -58.372206) not skipped: [-34, -58] is at not found excludes
+(-34.607753, -58.37168) not skipped: [-34, -58] is at not found excludes
+(-34.607532, -58.373504) not skipped: [-34, -58] is at not found excludes
+(-34.610508, -58.371949) not skipped: [-34, -58] is at not found excludes
+(-34.619753, -58.385617) not skipped: [-34, -58] is at not found excludes
+(-34.619965, -58.3886) not skipped: [-34, -58] is at not found excludes
+(-34.619541, -58.372539) not skipped: [-34, -58] is at not found excludes
+(-34.612857, -58.375489) not skipped: [-34, -58] is at not found excludes
+(-34.600821, -58.375382) not skipped: [-34, -58] is at not found excludes
+(-34.586593, -58.392076) not skipped: [-34, -58] is at not found excludes
+(-34.585268, -58.38698) not skipped: [-34, -58] is at not found excludes
+(-34.582839, -58.391336) not skipped: [-34, -58] is at not found excludes
+(-34.5854, -58.388407) not skipped: [-34, -58] is at not found excludes
+(-34.595142, -58.374674) not skipped: [-34, -58] is at not found excludes
+(-34.618737, -58.37285) not skipped: [-34, -58] is at not found excludes
+(-34.619717, -58.383686) not skipped: [-34, -58] is at not found excludes
+(36.394756, 18.610839) skipped: [36, 18] is at not found list
+(14.43468, -65.126953) skipped: [14, -65] is at not found list
+(55.429013, 3.823242) skipped: [55, 3] is at not found list
+(-34.573837, -58.37536) not skipped: [-34, -58] is at not found excludes
+(-49.553725, -59.677734) skipped: [-49, -59] is at not found list
+(-58.309488, -55.986328) skipped: [-58, -55] is at not found list
+(-51.508742, -67.368164) skipped: [-51, -67] is at not found list
+(-50.66339, -68.433837) not skipped: [-50, -68] is at not found excludes
+(-50.66339, -68.433837) not found by any of the geocoders: [-50, -68] is at not found excludes
+(-49.968889, -67.642822) not skipped: [-49, -67] is at not found excludes
+(-49.968889, -67.642822) not found by any of the geocoders: [-49, -67] is at not found excludes
+(-38.965815, -58.342895) not skipped: [-38, -58] is at not found excludes
+(-38.965815, -58.342895) not found by any of the geocoders: [-38, -58] is at not found excludes
+(15.305379, -75.717773) skipped: [15, -75] is at not found list
+(12.189703, -76.190185) skipped: [12, -76] is at not found list
+(12.184334, -88.154296) skipped: [12, -88] is at not found list
+(14.902321, -95.262451) skipped: [14, -95] is at not found list
+(30.297017, -117.707519) skipped: [30, -117] is at not found list
+(53.357108, 1.296386) skipped: [53, 1] is at not found list
+(53.324311, 1.274414) skipped: [53, 1] is at not found list
+(36.509636, 124.057617) skipped: [36, 124] is at not found list
+(36.447799, 123.848876) skipped: [36, 123] is at not found list
+(8.64103, 102.641494) skipped: [8, 102] is at not found list
+(11.135287, 100.810546) skipped: [11, 100] is at not found list
+(-43.758019, 157.719476) skipped: [-43, 157] is at not found list
+(-46.065608, 166.245117) not skipped: [-46, 166] is at not found excludes
+(57.360003, 3.031976) skipped: [57, 3] is at not found list
+(64.593952, -5.229741) skipped: [64, -5] is at not found list
+(61.135765, -31.993186) skipped: [61, -31] is at not found list
+(56.239049, -37.178233) skipped: [56, -37] is at not found list
+(51.202035, -37.002452) skipped: [51, -37] is at not found list
+(48.131602, -39.46339) skipped: [48, -39] is at not found list
+(42.709046, -47.285655) skipped: [42, -47] is at not found list
+(43.223556, -46.58253) skipped: [43, -46] is at not found list
+(42.255321, -48.164562) skipped: [42, -48] is at not found list
+(42.267747, -67.236453) skipped: [42, -67] is at not found list
+(41.515355, -67.675906) skipped: [41, -67] is at not found list
+(23.431234, -72.83948) skipped: [23, -72] is at not found list
+(14.061988, -68.109741) skipped: [14, -68] is at not found list
+(15.471128, -72.290288) skipped: [15, -72] is at not found list
+(81.078976, -164.533248) skipped: [81, -164] is at not found list
+(78.560488, 160.664063) skipped: [78, 160] is at not found list
+(62.532594, -26.894531) skipped: [62, -26] is at not found list
+(45.665246, -2.77721) skipped: [45, -2] is at not found list
+(44.944066, -8.850319) skipped: [44, -8] is at not found list
+(43.963826, -9.650324) skipped: [43, -9] is at not found list
+(43.438897, -9.990964) skipped: [43, -9] is at not found list
+(40.321419, -9.814453) skipped: [40, -9] is at not found list
+(38.685509, 5.771484) skipped: [38, 5] is at not found list
+(35.621581, 21.547851) skipped: [35, 21] is at not found list
+(-34.613607, -58.604582) not skipped: [-34, -58] is at not found excludes
+(-34.613466, -58.605322) not skipped: [-34, -58] is at not found excludes
+(-34.595398, -58.376144) not skipped: [-34, -58] is at not found excludes
+(-34.599187, -58.375242) not skipped: [-34, -58] is at not found excludes
+(-34.603196, -58.375189) not skipped: [-34, -58] is at not found excludes
+(-34.60158, -58.382452) not skipped: [-34, -58] is at not found excludes
+(-34.603974, -58.381583) not skipped: [-34, -58] is at not found excludes
+(-34.609025, -58.381379) not skipped: [-34, -58] is at not found excludes
+(-34.603744, -58.381025) not skipped: [-34, -58] is at not found excludes
+(-34.599417, -58.37977) not skipped: [-34, -58] is at not found excludes
+(-34.600741, -58.37447) not skipped: [-34, -58] is at not found excludes
+(-34.574173, -58.374631) not skipped: [-34, -58] is at not found excludes
+(-34.601042, -58.374491) not skipped: [-34, -58] is at not found excludes
+(-34.601121, -58.377689) not skipped: [-34, -58] is at not found excludes
+(-34.581249, -58.362915) not skipped: [-34, -58] is at not found excludes
+(-34.583404, -58.358259) not skipped: [-34, -58] is at not found excludes
+(-34.60513, -58.357272) not skipped: [-34, -58] is at not found excludes
+(-34.572698, -58.382152) not skipped: [-34, -58] is at not found excludes
+(-34.606446, -58.371981) not skipped: [-34, -58] is at not found excludes
+(-34.611285, -58.372013) not skipped: [-34, -58] is at not found excludes
+(-34.619735, -58.384716) not skipped: [-34, -58] is at not found excludes
+(-34.619762, -58.387087) not skipped: [-34, -58] is at not found excludes
+(-34.619461, -58.385907) not skipped: [-34, -58] is at not found excludes
+(-34.60785, -58.373215) not skipped: [-34, -58] is at not found excludes
+(-34.607956, -58.373515) not skipped: [-34, -58] is at not found excludes
+(-34.601218, -58.374148) not skipped: [-34, -58] is at not found excludes
+(-34.600962, -58.375124) not skipped: [-34, -58] is at not found excludes
+(-34.587264, -58.390671) not skipped: [-34, -58] is at not found excludes
+(-34.587352, -58.392269) not skipped: [-34, -58] is at not found excludes
+(-34.587829, -58.392677) not skipped: [-34, -58] is at not found excludes
+(-34.588439, -58.393739) not skipped: [-34, -58] is at not found excludes
+(-34.587776, -58.393138) not skipped: [-34, -58] is at not found excludes
+(-34.587017, -58.392076) not skipped: [-34, -58] is at not found excludes
+(-34.587917, -58.392044) not skipped: [-34, -58] is at not found excludes
+(-34.587882, -58.391261) not skipped: [-34, -58] is at not found excludes
+(-34.581567, -58.394018) not skipped: [-34, -58] is at not found excludes
+(-34.584128, -58.390467) not skipped: [-34, -58] is at not found excludes
+(-34.593738, -58.37506) not skipped: [-34, -58] is at not found excludes
+(-34.59206, -58.373794) not skipped: [-34, -58] is at not found excludes
+(-43.040389, -64.006347) not skipped: [-43, -64] is at not found excludes
+(-43.040389, -64.006347) not found by any of the geocoders: [-43, -64] is at not found excludes
