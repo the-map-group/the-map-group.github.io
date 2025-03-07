@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/iceland-ho/',
   'location': 'Reykjavík, Iceland',
   'countries': 16,
-  'markers': 3109,
-  'photos': 3112
+  'markers': 3111,
+  'photos': 3114
 }
