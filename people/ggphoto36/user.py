@@ -7,5 +7,5 @@ user_info = {
   'location': 'Monmouth, Oregon, United States',
   'countries': 5,
   'markers': 966,
-  'photos': 1011
+  'photos': 1012
 }
