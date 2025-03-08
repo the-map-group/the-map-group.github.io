@@ -97,6 +97,7 @@ members_list = [
   ['32142243@N04', 'cyber-giraffe', 'Sacred_Spiral_Photography', "https://live.staticflickr.com/5674/buddyicons/32142243@N04_r.jpg", 35, 195, 2],
   ['90411943@N00', 'visavis', 'Viktor Kirilko', "https://live.staticflickr.com/5674/buddyicons/90411943@N00_r.jpg", 400, 429, 22],
   ['98488245@N03', 'paradox_m', 'Mark  PARADOX', "https://live.staticflickr.com/5674/buddyicons/98488245@N03_r.jpg", 2, 4, 2],
+  ['59509714@N06', 'motionage', 'Asar Studios', "https://live.staticflickr.com/5674/buddyicons/59509714@N06_r.jpg", 39, 87, 5],
   ['35523433@N04', 'guildfordian', 'Guildfordian', "https://live.staticflickr.com/5674/buddyicons/35523433@N04_r.jpg", 1142, 1766, 26],
   ['45919374@N08', 'khoitranduc', 'khoi tranduc', "https://live.staticflickr.com/5674/buddyicons/45919374@N08_r.jpg", 469, 775, 2],
   ['162684392@N05', '162684392@N05', 'Bernhard Niedermeier', "https://live.staticflickr.com/5674/buddyicons/162684392@N05_r.jpg", 486, 597, 7],
@@ -127,7 +128,7 @@ members_list = [
   ['78498223@N06', '78498223@N06', 'LFDV1960', "https://live.staticflickr.com/5674/buddyicons/78498223@N06_r.jpg", 359, 1431, 44],
   ['9060404@N06', 'fraginal', 'PINOY PHOTOGRAPHER', "https://live.staticflickr.com/5674/buddyicons/9060404@N06_r.jpg", 27132, 57587, 22],
   ['39777440@N03', 'fraganda', 'fraganda.photo', "https://live.staticflickr.com/5674/buddyicons/39777440@N03_r.jpg", 338, 339, 15],
-  ['112196494@N02', '112196494@N02', 'thunderbird-72', "https://live.staticflickr.com/5674/buddyicons/112196494@N02_r.jpg", 1426, 2743, 13],
+  ['112196494@N02', '112196494@N02', 'fraganda.photo', "https://live.staticflickr.com/5674/buddyicons/39777440@N03_r.jpg", 338, 339, 15],
   ['63558969@N08', 'massimo_francesconi', 'Massimo Francesconi', "https://live.staticflickr.com/5674/buddyicons/63558969@N08_r.jpg", 64, 69, 2],
   ['88321829@N03', 'airscan', 'Alexander Sand Halvorsen', "https://live.staticflickr.com/5674/buddyicons/88321829@N03_r.jpg", 369, 494, 13],
   ['92496593@N08', 'montenegrina', 'ForceMajeureMontenegro', "https://live.staticflickr.com/5674/buddyicons/92496593@N08_r.jpg", 1363, 1547, 13],
@@ -195,5 +196,6 @@ members_list = [
   ['10096006@N07', '10096006@N07', 'ceri1965', "icons/photographer.svg", 113, 138, 1],
   ['7633518@N08', 'sarahvain', 'Sarah Stierch', "https://live.staticflickr.com/5674/buddyicons/7633518@N08_r.jpg", 13062, 18134, 14],
   ['161392673@N02', 'charlesinshanghai', 'Charles in Shanghai', "https://live.staticflickr.com/5674/buddyicons/161392673@N02_r.jpg", 255, 374, 17],
-  ['69251489@N08', 'neyburg', 'Eduard Neyburg', "https://live.staticflickr.com/5674/buddyicons/69251489@N08_r.jpg", 107, 107, 18]
+  ['69251489@N08', 'neyburg', 'Eduard Neyburg', "https://live.staticflickr.com/5674/buddyicons/69251489@N08_r.jpg", 107, 107, 18],
+  ['97555832@N08', 'wayloncash', 'Wayloncash', "https://live.staticflickr.com/5674/buddyicons/97555832@N08_r.jpg", 22279, 46900, 27]
 ]
