@@ -24,7 +24,7 @@ geonames_exclude = ['PY', 'AR']
 # control if report and errors files will be generated
 gen_err_file = True
 gen_rep_file = True
-rep_matrix = True
+rep_matrix = False
 rep_dictionary = False
 rep_nominatim = False
 rep_geonames = False

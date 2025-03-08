@@ -177,7 +177,7 @@ for page_number in range(number_of_pages, 0, -1):
                 print('Removed old member directory: {}'.format(member_id))
                 log_file.write('Removed old member directory: {}'.format(member_id))
 
-        if reset_all and os.path.exists("{}/last_total.py".format(member_path)):
+        if (reset_all or member_alias in reset_list) and os.path.exists("{}/last_total.py".format(member_path)):
             if force_reset:
                  os.system("rm {}/last_total.py".format(member_path))
             else:
@@ -430,6 +430,11 @@ log_file.write('Done!\n')
 
 os.system("rm -fr {}/__pycache__".format(repo_path))
 
+if len(reset_list) > 0:
+    os.system("git checkout -- {}/reset.py".format(repo_path))
+
+os.system("touch success".format(repo_path))
+
 # check if all members were processed before remove members
 if len(current_members) < total_of_members:
     sys.exit()
@@ -443,8 +448,6 @@ if os.path.exists("{}/dirs".format(people_path)):
     members_dirs = []
     for member in members_dirs_file_lines:
         members_dirs.append(member.replace(people_path, '').replace('/', '').replace('\n',''))
-
-os.system("touch success".format(repo_path))
 
 if len(current_members) == len(members_dirs):
     print("\nNo member has left the group!")
