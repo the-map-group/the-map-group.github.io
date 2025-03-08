@@ -1944,3 +1944,77 @@
 (36.988172, -28.769353) skipped: [36, -28] is at not found list
 
 ##### zimwizdotcom:
+
+##### Luigibalza:
+(68.692513, -55.217285) skipped: [68, -55] is at not found list
+(68.638554, -55.530395) skipped: [68, -55] is at not found list
+(68.782155, -55.38208) skipped: [68, -55] is at not found list
+(68.730406, -55.728149) skipped: [68, -55] is at not found list
+(68.163383, -55.371093) skipped: [68, -55] is at not found list
+(67.709445, -55.107421) skipped: [67, -55] is at not found list
+(68.512143, -55.942382) skipped: [68, -55] is at not found list
+(69.021414, -55.810546) not skipped: [69, -55] is at not found excludes
+(69.021414, -55.810546) not found by any of the geocoders: [69, -55] is at not found excludes
+(67.458081, -55.283203) skipped: [67, -55] is at not found list
+(68.3749, -55.107421) skipped: [68, -55] is at not found list
+(67.974633, -55.085449) skipped: [67, -55] is at not found list
+(67.892086, -55.480957) skipped: [67, -55] is at not found list
+(67.709445, -55.458984) skipped: [67, -55] is at not found list
+(68.015797, -55.458984) skipped: [68, -55] is at not found list
+(67.933396, -55.349121) skipped: [67, -55] is at not found list
+(67.28053, -55.305175) skipped: [67, -55] is at not found list
+(67.575717, -55.59082) skipped: [67, -55] is at not found list
+(68.097906, -55.744628) skipped: [68, -55] is at not found list
+(67.825836, -55.612792) skipped: [67, -55] is at not found list
+(67.272042, -59.458007) skipped: [67, -59] is at not found list
+(66.964476, -59.545898) skipped: [66, -59] is at not found list
+(66.82652, -59.589843) skipped: [66, -59] is at not found list
+(-52.988337, -65.390625) skipped: [-52, -65] is at not found list
+(-51.944264, -64.467773) skipped: [-51, -64] is at not found list
+(66.701692, -58.447265) skipped: [66, -58] is at not found list
+(67.308518, -60.358886) skipped: [67, -60] is at not found list
+(67.206586, -60.688476) skipped: [67, -60] is at not found list
+(67.215097, -59.842529) skipped: [67, -59] is at not found list
+(67.194665, -60.33142) skipped: [67, -60] is at not found list
+(67.113621, -60.33142) skipped: [67, -60] is at not found list
+(-52.701687, -43.044433) skipped: [-52, -43] is at not found list
+(68.06756, -57.766114) skipped: [68, -57] is at not found list
+[80, 18] not added to not found list or excludes, unable to get location
+[80, 18] not added to not found list or excludes, unable to get location
+(80.702576, 20.764161) not skipped: [80, 20] is at not found excludes
+(80.691921, 20.895997) not skipped: [80, 20] is at not found excludes
+(36.995917, -8.948879) not skipped: [36, -8] is at not found excludes
+(80.357731, 20.379638) not skipped: [80, 20] is at not found excludes
+(80.242969, 19.094238) not skipped: [80, 19] is at not found excludes
+(80.284789, 19.02832) not skipped: [80, 19] is at not found excludes
+(-53.456538, -61.918945) skipped: [-53, -61] is at not found list
+(-52.378038, -62.116699) skipped: [-52, -62] is at not found list
+(-53.162342, -61.765136) skipped: [-53, -61] is at not found list
+(80.628838, 19.89624) not skipped: [80, 19] is at not found excludes
+(80.628838, 19.89624) not found by any of the geocoders: [80, 19] is at not found excludes
+(80.707222, 20.478515) not skipped: [80, 20] is at not found excludes
+(80.707222, 20.478515) not found by any of the geocoders: [80, 20] is at not found excludes
+(80.675235, 20.566406) not skipped: [80, 20] is at not found excludes
+(80.675235, 20.566406) not found by any of the geocoders: [80, 20] is at not found excludes
+(80.765584, 20.599365) not skipped: [80, 20] is at not found excludes
+(80.312559, 19.033813) not skipped: [80, 19] is at not found excludes
+(80.325324, 19.259033) not skipped: [80, 19] is at not found excludes
+(80.448245, 19.56665) not skipped: [80, 19] is at not found excludes
+(80.716765, 20.786133) not skipped: [80, 20] is at not found excludes
+(80.747937, 20.874023) not skipped: [80, 20] is at not found excludes
+(80.747937, 20.874023) not found by any of the geocoders: [80, 20] is at not found excludes
+(80.688374, 20.736694) not skipped: [80, 20] is at not found excludes
+(80.69104, 20.744934) not skipped: [80, 20] is at not found excludes
+(80.698146, 20.742187) not skipped: [80, 20] is at not found excludes
+(80.692373, 20.717468) not skipped: [80, 20] is at not found excludes
+(80.566837, 22.719726) not skipped: [80, 22] is at not found excludes
+(80.566837, 22.719726) not found by any of the geocoders: [80, 22] is at not found excludes
+(80.696814, 20.750427) not skipped: [80, 20] is at not found excludes
+(79.253213, 23.03833) not skipped: [79, 23] is at not found excludes
+(79.259357, 23.90625) not skipped: [79, 23] is at not found excludes
+(79.548233, 23.33496) not skipped: [79, 23] is at not found excludes
+(79.029317, 23.027343) not skipped: [79, 23] is at not found excludes
+(79.029317, 23.027343) not found by any of the geocoders: [79, 23] is at not found excludes
+(79.071054, 23.115234) not skipped: [79, 23] is at not found excludes
+(79.071054, 23.115234) not found by any of the geocoders: [79, 23] is at not found excludes
+[76, 15] not added to not found list or excludes, unable to get location
