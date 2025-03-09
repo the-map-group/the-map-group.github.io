@@ -45,6 +45,17 @@
 
   <script>
 
+  const searchParams = new URLSearchParams(window.location.search);
+
+  var values = [];
+
+  for (const param of searchParams.values()) {
+    values.push(String(param));
+  }
+
+  var zoomToCountry = values[0];
+  console.log(zoomToCountry);
+
   mapboxgl.accessToken = mapbox_token;
 
   var current_map_projection = 'mercator';
@@ -123,12 +134,6 @@
 
   initial_bbox = current_bbox;
 
-  map.fitBounds([
-    [current_bbox[0], current_bbox[1]],
-    [current_bbox[2], current_bbox[3]]],
-    {padding: 100}
-  );
-
   map.on('dragend', function() {
     current_bbox = [];
   });
@@ -139,6 +144,16 @@
 
   custom();
 
+  if (zoomToCountry) {
+      country_bbox = countries_bbox[zoomToCountry][1];
+      fitBoundingBox(country_bbox);
+  } else {
+    map.fitBounds([
+      [current_bbox[0], current_bbox[1]],
+      [current_bbox[2], current_bbox[3]]],
+      {padding: 100}
+    );
+  }
 
   // Functions
 

@@ -277,7 +277,7 @@ function setSelectorPosition() {
 }
 
 function addListener(member) {
-  var member_url = "../../people/".concat(member[1]).concat("/");
+  var member_url = "../../people/".concat(member[1]).concat("/?country=").concat(country_code);
   document.getElementById(member[0]).addEventListener('click', function() { window.location.replace(member_url) });
 }
 
