@@ -4,8 +4,8 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
   <meta name="norton-safeweb-site-verification" content="529-VSXGKYNO9WULY80AYZOW0D30Z8G-7P71OMWW1A0TPWVMHR1R4U-MZOQRJH3OUQSMV30K912M2X-88QAUG1F0E4276NCY99QQOEEC99WW2GBPZ0MLXT6ZWK3D6F6U" />
-  <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
-  <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
 
   <!-- change path if needed -->
   <script src="locations.py"></script>
@@ -16,7 +16,7 @@
   <style>
   body { margin: 0; padding: 0; }
   #map { position: absolute; top: 0; bottom: 0; width: 100%; }
-  #menu { position: absolute; background: #fff; padding: 10px 15px 10px 10px; font-family: 'Open Sans', sans-serif; cursor: default; }
+  #menu { position: absolute; background: #fff; padding: 8px 14px 8px 8px; font-family: 'Open Sans', sans-serif; font-size: 14px; cursor: default; }
   </style>
 
   <!-- Begin of customization includes -->
@@ -31,11 +31,15 @@
 
   <div id="map" onclick="closeOverlay()"></div>
   <div id="menu">
-    <input id="streets-v11" type="radio" name="rtoggle" value="streets" checked="checked" />
+    <input id="mercator" type="radio" name="ptoggle" value="mercator" style="height:10px" checked="checked" />
+    <label for="mercator">map</label>
+    <input id="globe" type="radio" name="ptoggle" value="globe" style="height:10px" />
+    <label for="globe">globe</label>
+    <input id="streets-v11" type="radio" name="rtoggle" value="streets" style="height:10px" checked="checked" />
     <label for="streets-v11">streets</label>
-    <input id="outdoors-v11" type="radio" name="rtoggle" value="outdoors" />
+    <input id="outdoors-v11" type="radio" name="rtoggle" value="outdoors" style="height:10px" />
     <label for="outdoors-v11">outdoors</label>
-    <input id="satellite-v9" type="radio" name="rtoggle" value="satellite" />
+    <input id="satellite-v9" type="radio" name="rtoggle" value="satellite" style="height:10px" />
     <label for="satellite-v9">satellite</label>
   </div>
 
@@ -52,13 +56,57 @@
 
   mapboxgl.accessToken = mapbox_token;
 
+  var current_map_projection = 'mercator';
   var current_map_style = 'mapbox://styles/mapbox/streets-v11';
+
+  // At low zooms, complete a revolution every two minutes.
+  const secondsPerRevolution = 240;
+  // Above zoom level 5, do not rotate.
+  const maxSpinZoom = 5;
+  // Rotate at intermediate speeds between zoom levels 3 and 5.
+  const slowSpinZoom = 3;
+
+  let userInteracting = false;
+  var spinEnabled = false;
 
   var map = new mapboxgl.Map({
     container: 'map',
     style: current_map_style,
+    projection: current_map_projection,
     logoPosition: 'bottom-right'
   });
+
+  map.addControl(new mapboxgl.FullscreenControl({container: document.querySelector('body')}));
+  map.addControl(new mapboxgl.NavigationControl());
+
+  map.scrollZoom.enable();
+
+  map.on('style.load', () => {
+    map.setFog({}); // Set the default atmosphere style
+  });
+
+  // Pause spinning on interaction
+  map.on('mousedown', () => {
+    userInteracting = true;
+  });
+  map.on('dragstart', () => {
+    userInteracting = true;
+  });
+
+  // When animation is complete, start spinning if there is no ongoing interaction
+  map.on('moveend', () => {
+    spinGlobe();
+  });
+
+  var layerList = document.getElementById('menu');
+  var inputs = layerList.getElementsByTagName('input');
+
+  for (var i = 0; i < 2; i++) {
+    inputs[i].onclick = switchProjection;
+  }
+  for (var i = 2; i < inputs.length; i++) {
+    inputs[i].onclick = switchLayer;
+  }
 
   var members_markers = [];
   var non_members_markers = [];
@@ -73,17 +121,6 @@
   for (i = 0; i < members_list.length; i++) {
     members_list_orig[i] = members_list[i];
   }
-
-  map.addControl(new mapboxgl.FullscreenControl({container: document.querySelector('body')}));
-  map.addControl(new mapboxgl.NavigationControl());
-
-  var layerList = document.getElementById('menu');
-  var inputs = layerList.getElementsByTagName('input');
-
-  for (var i = 0; i < inputs.length; i++) {
-    inputs[i].onclick = switchLayer;
-  }
-
   var max_number_of_markers = 1500;
   var initial_bbox = [];
   var current_bbox = [];
@@ -127,6 +164,23 @@
     var layerId = layer.target.id;
     current_map_style = 'mapbox://styles/mapbox/' + layerId;
     map.setStyle(current_map_style);
+  }
+
+  function switchProjection(projection) {
+    var projId = projection.target.id;
+    current_map_projection = projId;
+    map.setProjection(current_map_projection);
+    if (current_map_projection == 'globe') {
+      spinEnabled = true;
+      spinGlobe();
+    } else {
+      spinEnabled = false;
+      map.fitBounds([
+        [current_bbox[0], current_bbox[1]],
+        [current_bbox[2], current_bbox[3]]],
+        {padding: 50}
+      );
+    }
   }
 
   function refreshMarkers(){
@@ -194,12 +248,32 @@
   }
 
   function addMarker(marker) {
-      marker.addTo(map);
+    marker.addTo(map);
   }
 
   function removeMarker(marker) {
-      marker.remove(map);
+    marker.remove(map);
   }
+
+
+  function spinGlobe() {
+    const zoom = map.getZoom();
+    if (spinEnabled && !userInteracting && zoom < maxSpinZoom) {
+      let distancePerSecond = 360 / secondsPerRevolution;
+      if (zoom > slowSpinZoom) {
+        // Slow spinning at higher zooms
+        const zoomDif =
+        (maxSpinZoom - zoom) / (maxSpinZoom - slowSpinZoom);
+        distancePerSecond *= zoomDif;
+      }
+      const center = map.getCenter();
+      center.lng -= distancePerSecond;
+      // Smoothly animate the map over one second.
+      // When this animation is complete, it calls a 'moveend' event.
+      map.easeTo({ center, duration: 1000, easing: (n) => n });
+    }
+  }
+
 
   </script>
 
@@ -215,11 +289,11 @@
   src="https://www.statcounter.com/counter/counter.js"
   async></script>
   <noscript><div class="statcounter"><a title="Web Analytics"
-  href="https://statcounter.com/" target="_blank"><img
-  class="statcounter"
-  src="https://c.statcounter.com/12369344/0/e25c0508/1/"
-  alt="Web Analytics"></a></div></noscript>
-  <!-- End of Statcounter Code -->
+    href="https://statcounter.com/" target="_blank"><img
+    class="statcounter"
+    src="https://c.statcounter.com/12369344/0/e25c0508/1/"
+    alt="Web Analytics"></a></div></noscript>
+    <!-- End of Statcounter Code -->
 
   </body>
   </html>
