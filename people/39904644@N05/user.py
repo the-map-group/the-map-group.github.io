@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/39904644@N05/',
   'location': 'digitale Suppe, Deutschland',
   'countries': 18,
-  'markers': 1742,
-  'photos': 2032
+  'markers': 1743,
+  'photos': 2033
 }
