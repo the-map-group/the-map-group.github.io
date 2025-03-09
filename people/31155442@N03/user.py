@@ -7,5 +7,5 @@ user_info = {
   'location': 'Hamilton, Canada',
   'countries': 61,
   'markers': 13429,
-  'photos': 19681
+  'photos': 19683
 }
