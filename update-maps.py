@@ -454,8 +454,8 @@ print("\n##### Removing members which have left the group...")
 log_file.write("\n##### Removing members which have left the group...\n")
 
 if len(current_members) == len(members_dirs):
-    print("\nNo member has left the group!")
-    log_file.write("\nNo member has left the group!\n")
+    print("No member has left the group!")
+    log_file.write("No member has left the group!\n")
     log_file.close()
     os.system("git add -f {}/log/*".format(repo_path))
     os.system("git commit -m \"[auto] Updated log file\"")
