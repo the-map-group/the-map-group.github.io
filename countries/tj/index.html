@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-  <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
-  <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
 
   <!-- change path if needed -->
   <script src="../../locations.py"></script>
@@ -14,7 +14,7 @@
   <style>
   body { margin: 0; padding: 0; }
   #map { position: absolute; top: 0; bottom: 0; width: 100%; }
-  #menu { position: absolute; background: #fff; padding: 10px 15px 10px 10px; font-family: 'Open Sans', sans-serif; cursor: default; }
+  #menu { position: absolute; background: #fff; padding: 8px 14px 8px 8px; font-family: 'Open Sans', sans-serif; font-size: 14px; cursor: default; }
   </style>
 
   <!-- Begin of customization includes -->
@@ -31,11 +31,15 @@
 
   <div id="map" onclick="closeOverlay()"></div>
   <div id="menu">
-    <input id="streets-v11" type="radio" name="rtoggle" value="streets" checked="checked" />
+    <input id="mercator" type="radio" name="ptoggle" value="mercator" style="height:10px" checked="checked" />
+    <label for="mercator">map</label>
+    <input id="globe" type="radio" name="ptoggle" value="globe" style="height:10px" />
+    <label for="globe">globe</label>
+    <input id="streets-v11" type="radio" name="rtoggle" value="streets" style="height:10px" checked="checked" />
     <label for="streets-v11">streets</label>
-    <input id="outdoors-v11" type="radio" name="rtoggle" value="outdoors" />
+    <input id="outdoors-v11" type="radio" name="rtoggle" value="outdoors" style="height:10px" />
     <label for="outdoors-v11">outdoors</label>
-    <input id="satellite-v9" type="radio" name="rtoggle" value="satellite" />
+    <input id="satellite-v9" type="radio" name="rtoggle" value="satellite" style="height:10px" />
     <label for="satellite-v9">satellite</label>
   </div>
 
@@ -52,22 +56,37 @@
 
   mapboxgl.accessToken = mapbox_token;
 
+  var current_map_projection = 'mercator';
   var current_map_style = 'mapbox://styles/mapbox/streets-v11';
 
   var map = new mapboxgl.Map({
     container: 'map',
-    style: current_map_style
+    style: current_map_style,
+    projection: current_map_projection,
+    interactive: false,
+    logoPosition: 'bottom-right'
   });
 
   map.addControl(new mapboxgl.FullscreenControl({container: document.querySelector('body')}));
-  map.addControl(new mapboxgl.NavigationControl());
+
+  map.scrollZoom.disable();
+
+  map.on('style.load', () => {
+    map.setFog({}); // Set the default atmosphere style
+  });
 
   var layerList = document.getElementById('menu');
   var inputs = layerList.getElementsByTagName('input');
 
-  for (var i = 0; i < inputs.length; i++) {
+  for (var i = 0; i < 2; i++) {
+    inputs[i].onclick = switchProjection;
+  }
+  for (var i = 2; i < inputs.length; i++) {
     inputs[i].onclick = switchLayer;
   }
+
+  var members_markers = [];
+  var non_members_markers = [];
 
   var initial_bbox = [];
   var current_bbox = [];
@@ -77,43 +96,19 @@
   var east = countries_bbox[country_code][1][2];
   var north = countries_bbox[country_code][1][3];
 
-  locations.forEach(addMarker);
+  locations.forEach(createMarker);
+  members_markers.forEach(addMarker);
+  non_members_markers.forEach(addMarker);
 
   initial_bbox = current_bbox;
 
-  map.fitBounds([
-    [west, south],
-    [east, north]],
-    {padding: 150}
-  );
-
-  map.on('dragend', function() {
-    current_bbox = [];
-  });
-
-  map.on('wheel', function() {
-    current_bbox = [];
-  });
-
-  document.getElementById("checkbox-members").addEventListener('click', function() { refreshMap() });
-  document.getElementById("checkbox-non-members").addEventListener('click', function() { refreshMap() });
+  document.getElementById("checkbox-members").addEventListener('click', function() { refreshMarkers() });
+  document.getElementById("checkbox-non-members").addEventListener('click', function() { refreshMarkers() });
 
   custom();
 
 
   // Functions
-
-  function refreshMap(){
-    map.remove();
-    map = new mapboxgl.Map({
-      container: 'map',
-      style: current_map_style
-    });
-    map.addControl(new mapboxgl.FullscreenControl({container: document.querySelector('body')}));
-    map.addControl(new mapboxgl.NavigationControl());
-    locations.forEach(addMarker)
-    fitBoundingBox(current_bbox);
-  }
 
   function switchLayer(layer) {
     var layerId = layer.target.id;
@@ -121,9 +116,47 @@
     map.setStyle(current_map_style);
   }
 
-  function addMarker(value) {
+  function switchProjection(projection) {
+    var projId = projection.target.id;
+    current_map_projection = projId;
+    map.setProjection(current_map_projection);
+    if (current_map_projection == 'globe') {
+      map.fitBounds([
+        [current_bbox[0], current_bbox[1]],
+        [current_bbox[2], current_bbox[3]]],
+        {padding: 75}
+      );
+    } else {
+      map.fitBounds([
+        [current_bbox[0], current_bbox[1]],
+        [current_bbox[2], current_bbox[3]]],
+        {padding: 100}
+      );
+    }
+  }
 
-    var htmlText = "<div style=\"max-height:490px;overflow:auto;\">";
+  function refreshMarkers(){
+
+    var members_checked = document.getElementById("checkbox-members").checked;
+    var non_members_checked = document.getElementById("checkbox-non-members").checked;
+
+    if (members_checked) {
+      members_markers.forEach(addMarker);
+    } else {
+      members_markers.forEach(removeMarker);
+    }
+
+    if (non_members_checked) {
+      non_members_markers.forEach(addMarker);
+    } else {
+      non_members_markers.forEach(removeMarker);
+    }
+
+  }
+
+  function createMarker(value) {
+
+    var htmlText = "<div style=\"max-height:410px;overflow:auto;\">";
 
     for (var i = 0; i < value[3].length; i++) {
       htmlText = htmlText.concat("<a href=\"https://flickr.com/photos/")
@@ -156,15 +189,22 @@
       .setPopup(new mapboxgl.Popup({closeButton:false,maxWidth:'592px',anchor:'bottom'}).setHTML(htmlText));
     }
 
-    var members_checked = document.getElementById("checkbox-members").checked;
-    var non_members_checked = document.getElementById("checkbox-non-members").checked;
-
-    if ((member && members_checked) || (!member && non_members_checked)) {
-      marker.addTo(map);
+    if (member) {
+      members_markers.push(marker);
+    } else {
+      non_members_markers.push(marker);
     }
 
     current_bbox = [west, south, east, north];
 
+  }
+
+  function addMarker(marker) {
+    marker.addTo(map);
+  }
+
+  function removeMarker(marker) {
+    marker.remove(map);
   }
 
   </script>

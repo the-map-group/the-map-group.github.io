@@ -290,13 +290,13 @@ function fitBoundingBox(bbox) {
   if (overlay_status == '400px') {
     padding_left = 450;
   } else {
-    padding_left = 50;
+    padding_left = 100;
   }
 
   map.fitBounds([
     [bbox[0], bbox[1]],
     [bbox[2], bbox[3]]],
-    {padding: {top:50, bottom:50, left:padding_left, right:50}}
+    {padding: {top:100, bottom:100, left:padding_left, right:100}}
   );
 
 };
