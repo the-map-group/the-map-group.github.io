@@ -1,2 +1,20 @@
 countries_dict = {
+  'TH': ['Thailand', 2, 2],
+  'ME': ['Montenegro', 1, 1],
+  'PT': ['Portugal', 1, 1],
+  'DE': ['Germany', 3, 3],
+  'SJ': ['Svalbard and Jan Mayen', 7, 7],
+  'DK': ['Denmark', 2, 2],
+  'MC': ['Monaco', 1, 1],
+  'IS': ['Iceland', 13, 13],
+  'IL': ['Israel', 5, 5],
+  'NO': ['Norway', 9, 9],
+  'ID': ['Indonesia', 2, 2],
+  'CA': ['Canada', 6, 6],
+  'IT': ['Italy', 4, 4],
+  'US': ['United States', 31, 31],
+  'AT': ['Austria', 4, 4],
+  'CR': ['Costa Rica', 4, 4],
+  'ES': ['Spain', 5, 5],
+  'UA': ['Ukraine', 7, 7]
 }
