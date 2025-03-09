@@ -450,6 +450,9 @@ if os.path.exists("{}/dirs".format(people_path)):
     for member in members_dirs_file_lines:
         members_dirs.append(member.replace(people_path, '').replace('/', '').replace('\n',''))
 
+print("\n##### Removing members which have left the group...")
+log_file.write("\n##### Removing members which have left the group...\n")
+
 if len(current_members) == len(members_dirs):
     print("\nNo member has left the group!")
     log_file.write("\nNo member has left the group!\n")
@@ -458,9 +461,6 @@ if len(current_members) == len(members_dirs):
     os.system("git commit -m \"[auto] Updated log file\"")
     os.system("git push origin main")
     sys.exit()
-
-print("\n##### Removing members which have left the group...")
-log_file.write("\n##### Removing members which have left the group...\n")
 
 topics = []
 
