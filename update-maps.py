@@ -437,6 +437,7 @@ os.system("touch success".format(repo_path))
 
 # check if all members were processed before remove members
 if len(current_members) < total_of_members:
+    log_file.close()
     sys.exit()
 
 # get member directories list
@@ -452,6 +453,10 @@ if os.path.exists("{}/dirs".format(people_path)):
 if len(current_members) == len(members_dirs):
     print("\nNo member has left the group!")
     log_file.write("\nNo member has left the group!\n")
+    log_file.close()
+    os.system("git add -f {}/log/*".format(repo_path))
+    os.system("git commit -m \"[auto] Updated log file\"")
+    os.system("git push origin main")
     sys.exit()
 
 print("\n##### Removing members which have left the group...")
@@ -471,6 +476,10 @@ for page_number in range(topics_num_of_pages, 0, -1):
         print(e)
         log_file.write('ERROR: FATAL: Unable to get discussion topics\n')
         log_file.write(e)
+        log_file.close()
+        os.system("git add -f {}/log/*".format(repo_path))
+        os.system("git commit -m \"[auto] Updated log file\"")
+        os.system("git push origin main")
         sys.exit()
 
     # iterate over each member in page
@@ -483,11 +492,12 @@ for member in members_dirs:
     if member not in current_members:
         # remove member directory
         os.system("git rm -fr {0}/{1}".format(people_path, member))
-        os.system("git commit -m \"[auto] Removed member \'{}\'\"".format(member))
-        os.system("git push origin main")
         os.system("rm -fr {0}/{1}".format(people_path, member))
         print("Removed member: {}".format(member))
         log_file.write("Removed member: {}\n".format(member))
+        os.system("git add -f {}/log/*".format(repo_path))
+        os.system("git commit -m \"[auto] Removed member \'{}\'\"".format(member))
+        os.system("git push origin main")
         removed += 1
         for topic in topics:
             if member in topic[1]:
