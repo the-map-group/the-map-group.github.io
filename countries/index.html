@@ -3,15 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-  <meta name="norton-safeweb-site-verification" content="529-VSXGKYNO9WULY80AYZOW0D30Z8G-7P71OMWW1A0TPWVMHR1R4U-MZOQRJH3OUQSMV30K912M2X-88QAUG1F0E4276NCY99QQOEEC99WW2GBPZ0MLXT6ZWK3D6F6U" />
   <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet">
   <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
 
   <!-- change path if needed -->
-  <script src="locations.py"></script>
-  <script src="members.py"></script>
-  <script src="mapbox_token.js"></script>
-  <script src="custom.js"></script>
+  <script src="../../locations.py"></script>
+  <script src="../../mapbox_token.js"></script>
+  <script src="../custom.js"></script>
 
   <style>
   body { margin: 0; padding: 0; }
@@ -20,9 +18,11 @@
   </style>
 
   <!-- Begin of customization includes -->
-  <link href="style.css" rel="stylesheet" />
-  <script src="countries/members.py"></script>
-  <script src="countries_bbox.js"></script>
+  <link href="../style.css" rel="stylesheet" />
+  <script src="country_code.js"></script>
+  <script src="../members.py"></script>
+  <script src="../../members.py"></script>
+  <script src="../../countries_bbox.js"></script>
   <!-- End of customization includes -->
 
 </head>
@@ -45,10 +45,10 @@
 
   <div id="selector" class="selector">
     <input id="checkbox-members" type="checkbox" checked="checked" />
-    <img id="members-icon" src="icons/member.svg" height="20px" style="margin-bottom:-3px"/>
+    <img id="members-icon" src="../../icons/member.svg" height="20px" style="margin-bottom:-3px"/>
     members
     <input id="checkbox-non-members" type="checkbox" checked="checked" />
-    <img id="members-icon" src="icons/non-member.svg" height="20px" style="margin-bottom:-3px"/>
+    <img id="members-icon" src="../../icons/non-member.svg" height="20px" style="margin-bottom:-3px"/>
     non-members
   </div>
 
@@ -59,43 +59,20 @@
   var current_map_projection = 'mercator';
   var current_map_style = 'mapbox://styles/mapbox/streets-v11';
 
-  // At low zooms, complete a revolution every two minutes.
-  const secondsPerRevolution = 240;
-  // Above zoom level 5, do not rotate.
-  const maxSpinZoom = 5;
-  // Rotate at intermediate speeds between zoom levels 3 and 5.
-  const slowSpinZoom = 3;
-
-  let userInteracting = false;
-  var spinEnabled = false;
-
   var map = new mapboxgl.Map({
     container: 'map',
     style: current_map_style,
     projection: current_map_projection,
-    logoPosition: 'bottom-right'
+    interactive: false,
+    logoPosition: 'bottom-left'
   });
 
   map.addControl(new mapboxgl.FullscreenControl({container: document.querySelector('body')}));
-  map.addControl(new mapboxgl.NavigationControl());
 
-  map.scrollZoom.enable();
+  map.scrollZoom.disable();
 
   map.on('style.load', () => {
     map.setFog({}); // Set the default atmosphere style
-  });
-
-  // Pause spinning on interaction
-  map.on('mousedown', () => {
-    userInteracting = true;
-  });
-  map.on('dragstart', () => {
-    userInteracting = true;
-  });
-
-  // When animation is complete, start spinning if there is no ongoing interaction
-  map.on('moveend', () => {
-    spinGlobe();
   });
 
   var layerList = document.getElementById('menu');
@@ -108,49 +85,30 @@
     inputs[i].onclick = switchLayer;
   }
 
+  var country_locations = [];
+
   var members_markers = [];
   var non_members_markers = [];
 
-  var members_list_state = 1;
-  var countries_list_state = 0;
-
-  members_list.reverse();
-
-  var members_list_orig = [];
-
-  for (i = 0; i < members_list.length; i++) {
-    members_list_orig[i] = members_list[i];
-  }
-  var max_number_of_markers = 1500;
   var initial_bbox = [];
   var current_bbox = [];
 
-  var west = -160;
-  var south = -20;
-  var east = 180;
-  var north = 60;
+  var west = countries_bbox[country_code][1][0];
+  var south = countries_bbox[country_code][1][1];
+  var east = countries_bbox[country_code][1][2];
+  var north = countries_bbox[country_code][1][3];
 
-  locations.reverse()
-  locations = locations.slice(0, max_number_of_markers);
-  locations.forEach(createMarker);
+  for (var i = 0; i < locations.length; i++) {
+    if (locations[i][1] == country_code) {
+      country_locations.push(locations[i]);
+    }
+  }
+
+  country_locations.forEach(createMarker);
   members_markers.forEach(addMarker);
   non_members_markers.forEach(addMarker);
 
   initial_bbox = current_bbox;
-
-  map.fitBounds([
-    [current_bbox[0], current_bbox[1]],
-    [current_bbox[2], current_bbox[3]]],
-    {padding: 150}
-  );
-
-  map.on('dragend', function() {
-    current_bbox = [];
-  });
-
-  map.on('wheel', function() {
-    current_bbox = [];
-  });
 
   document.getElementById("checkbox-members").addEventListener('click', function() { refreshMarkers() });
   document.getElementById("checkbox-non-members").addEventListener('click', function() { refreshMarkers() });
@@ -171,14 +129,16 @@
     current_map_projection = projId;
     map.setProjection(current_map_projection);
     if (current_map_projection == 'globe') {
-      spinEnabled = true;
-      spinGlobe();
-    } else {
-      spinEnabled = false;
       map.fitBounds([
         [current_bbox[0], current_bbox[1]],
         [current_bbox[2], current_bbox[3]]],
-        {padding: 50}
+        {padding: 75}
+      );
+    } else {
+      map.fitBounds([
+        [current_bbox[0], current_bbox[1]],
+        [current_bbox[2], current_bbox[3]]],
+        {padding: 100}
       );
     }
   }
@@ -255,25 +215,6 @@
     marker.remove(map);
   }
 
-  function spinGlobe() {
-    const zoom = map.getZoom();
-    if (spinEnabled && !userInteracting && zoom < maxSpinZoom) {
-      let distancePerSecond = 360 / secondsPerRevolution;
-      if (zoom > slowSpinZoom) {
-        // Slow spinning at higher zooms
-        const zoomDif =
-        (maxSpinZoom - zoom) / (maxSpinZoom - slowSpinZoom);
-        distancePerSecond *= zoomDif;
-      }
-      const center = map.getCenter();
-      center.lng -= distancePerSecond;
-      // Smoothly animate the map over one second.
-      // When this animation is complete, it calls a 'moveend' event.
-      map.easeTo({ center, duration: 1000, easing: (n) => n });
-    }
-  }
-
-
   </script>
 
 
@@ -288,11 +229,11 @@
   src="https://www.statcounter.com/counter/counter.js"
   async></script>
   <noscript><div class="statcounter"><a title="Web Analytics"
-    href="https://statcounter.com/" target="_blank"><img
-    class="statcounter"
-    src="https://c.statcounter.com/12369344/0/e25c0508/1/"
-    alt="Web Analytics"></a></div></noscript>
-    <!-- End of Statcounter Code -->
+  href="https://statcounter.com/" target="_blank"><img
+  class="statcounter"
+  src="https://c.statcounter.com/12369344/0/e25c0508/1/"
+  alt="Web Analytics"></a></div></noscript>
+  <!-- End of Statcounter Code -->
 
   </body>
   </html>
