@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/90347682@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/viccolon/',
   'location': 'St. Petersburg, Russia',
-  'countries': 33,
-  'markers': 169,
-  'photos': 379
+  'countries': 34,
+  'markers': 170,
+  'photos': 380
 }
