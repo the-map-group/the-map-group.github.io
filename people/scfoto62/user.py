@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/scfoto62/',
   'location': 'Métropole lilloise, FRANCE',
   'countries': 3,
-  'markers': 2041,
-  'photos': 3173
+  'markers': 2042,
+  'photos': 3174
 }
