@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/manfred_h/',
   'location': '',
   'countries': 8,
-  'markers': 737,
-  'photos': 1393
+  'markers': 738,
+  'photos': 1394
 }
