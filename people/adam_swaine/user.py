@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/adam_swaine/',
   'location': 'london, england',
   'countries': 5,
-  'markers': 17226,
-  'photos': 25596
+  'markers': 17228,
+  'photos': 25600
 }
