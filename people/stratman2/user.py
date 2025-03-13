@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/8278193@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/stratman2/',
   'location': 'Kuala Lumpur, Malaysia',
-  'countries': 5,
-  'markers': 523,
-  'photos': 4646
+  'countries': 4,
+  'markers': 522,
+  'photos': 4645
 }
