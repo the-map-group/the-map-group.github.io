@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/gabouruguay-collection/',
   'location': '',
   'countries': 9,
-  'markers': 856,
-  'photos': 2934
+  'markers': 857,
+  'photos': 2935
 }
