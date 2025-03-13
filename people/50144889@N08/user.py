@@ -7,5 +7,5 @@ user_info = {
   'location': 'Shropham, Norfolk., England',
   'countries': 31,
   'markers': 2411,
-  'photos': 2615
+  'photos': 2616
 }
