@@ -7,5 +7,5 @@ user_info = {
   'location': 'St. Petersburg, Russia',
   'countries': 34,
   'markers': 170,
-  'photos': 381
+  'photos': 382
 }
