@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/97555832@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/wayloncash/',
   'location': '',
-  'countries': 27,
-  'markers': 22289,
-  'photos': 46914
+  'countries': 28,
+  'markers': 22298,
+  'photos': 46923
 }
