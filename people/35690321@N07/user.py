@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/35690321@N07/',
   'location': 'Fuenlabrada, España',
   'countries': 5,
-  'markers': 1021,
-  'photos': 1030
+  'markers': 1022,
+  'photos': 1031
 }
