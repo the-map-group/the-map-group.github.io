@@ -5195,3 +5195,54 @@ Map already has 2962 marker(s)
 Added 1 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Ignacio M. Jiménez...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Nacho'
+1825 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: tinokaartovuori...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Tino Kaartovuori'
+157 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Jens Koschitzki...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Jens Koschitzki'
+42653 photos in the photostream
+12 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 12 photo(s) in 12 marker(s)
+Adding marker(s) to map...
+Map already has 6454 marker(s)
+12 new marker(s) will be added to the map
+Added marker 1/12
+Added marker 2/12
+Added marker 3/12
+Added marker 4/12
+Added marker 5/12
+Added marker 6/12
+Added marker 7/12
+Added marker 8/12
+Added marker 9/12
+Added marker 10/12
+Added marker 11/12
+Added marker 12/12
+Finished!
