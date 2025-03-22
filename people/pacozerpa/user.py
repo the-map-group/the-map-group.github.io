@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/129959166@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/pacozerpa/',
   'location': '',
-  'countries': 2,
-  'markers': 288,
-  'photos': 352
+  'countries': 3,
+  'markers': 289,
+  'photos': 353
 }
