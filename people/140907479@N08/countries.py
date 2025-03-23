@@ -1,11 +1,11 @@
 countries_dict = {
-  'IN': ['India', 27, 36],
-  'NL': ['Netherlands', 3, 3],
-  'DE': ['Germany', 18, 19],
-  'FR': ['France', 1, 1],
-  'RU': ['Russia', 880, 1120],
   'US': ['United States', 2, 2],
-  'QA': ['Qatar', 4, 7],
+  'TR': ['Turkey', 33, 67],
+  'IN': ['India', 27, 36],
   'UZ': ['Uzbekistan', 1, 10],
-  'TR': ['Turkey', 33, 67]
+  'QA': ['Qatar', 4, 7],
+  'NL': ['Netherlands', 3, 3],
+  'RU': ['Russia', 880, 1125],
+  'DE': ['Germany', 18, 19],
+  'FR': ['France', 1, 1]
 }
