@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/93936890@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/93936890@N02/',
   'location': 'Victoria, B.C., Canada',
-  'countries': 42,
-  'markers': 863,
-  'photos': 1244
+  'countries': 43,
+  'markers': 864,
+  'photos': 1245
 }
