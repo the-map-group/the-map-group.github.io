@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/miamiboy/',
   'location': '',
   'countries': 26,
-  'markers': 7995,
-  'photos': 13080
+  'markers': 7997,
+  'photos': 13082
 }
