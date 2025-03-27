@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/darth-fer-75/',
   'location': 'Zaragoza, España',
   'countries': 11,
-  'markers': 1875,
-  'photos': 11877
+  'markers': 1879,
+  'photos': 11899
 }
