@@ -7,5 +7,5 @@ user_info = {
   'location': 'Preston, England',
   'countries': 4,
   'markers': 12738,
-  'photos': 19050
+  'photos': 19152
 }
