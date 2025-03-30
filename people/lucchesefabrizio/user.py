@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/lucchesefabrizio/',
   'location': 'Udine, Italy',
   'countries': 23,
-  'markers': 1367,
-  'photos': 1373
+  'markers': 1369,
+  'photos': 1375
 }
