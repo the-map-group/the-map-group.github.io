@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/montenegrina/',
   'location': 'Podgorica, Montenegro',
   'countries': 13,
-  'markers': 1365,
-  'photos': 1549
+  'markers': 1367,
+  'photos': 1551
 }
