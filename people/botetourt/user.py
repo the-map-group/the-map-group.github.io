@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/botetourt/',
   'location': 'Near Fincastle, Botetourt County, Va., USA',
   'countries': 11,
-  'markers': 4681,
-  'photos': 8437
+  'markers': 4684,
+  'photos': 8441
 }
