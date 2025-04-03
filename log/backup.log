@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[master (root-commit) 7168d74] Backup commit
- 4800 files changed, 1236709 insertions(+)
+[master (root-commit) 5475756] Backup commit
+ 4821 files changed, 1235472 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -1657,6 +1657,27 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/1one/photos/index.html
  create mode 100755 people/1one/update-countries-map-data.py
  create mode 100644 people/1one/user.py
+ create mode 100644 people/200538272@N02/__pycache__/countries.cpython-35.pyc
+ create mode 100644 people/200538272@N02/__pycache__/countries_members.cpython-35.pyc
+ create mode 100644 people/200538272@N02/__pycache__/user.cpython-35.pyc
+ create mode 120000 people/200538272@N02/api_credentials.py
+ create mode 100644 people/200538272@N02/config.py
+ create mode 100644 people/200538272@N02/coords.py
+ create mode 100644 people/200538272@N02/countries.py
+ create mode 120000 people/200538272@N02/countries_config.py
+ create mode 120000 people/200538272@N02/countries_info.py
+ create mode 120000 people/200538272@N02/countries_members.py
+ create mode 100755 people/200538272@N02/generate-map-data.py
+ create mode 100644 people/200538272@N02/index.html
+ create mode 100644 people/200538272@N02/last_total.py
+ create mode 100644 people/200538272@N02/locations.py
+ create mode 120000 people/200538272@N02/log
+ create mode 100644 people/200538272@N02/map.log
+ create mode 120000 people/200538272@N02/matrix.py
+ create mode 120000 people/200538272@N02/not_found.py
+ create mode 100644 people/200538272@N02/photos/index.html
+ create mode 100755 people/200538272@N02/update-countries-map-data.py
+ create mode 100644 people/200538272@N02/user.py
  create mode 100644 people/22572253@N08/__pycache__/countries.cpython-35.pyc
  create mode 100644 people/22572253@N08/__pycache__/countries_members.cpython-35.pyc
  create mode 100644 people/22572253@N08/__pycache__/user.cpython-35.pyc
