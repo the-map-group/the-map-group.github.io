@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/8920963@N03/',
   'location': 'Herning, Denmark',
   'countries': 30,
-  'markers': 12151,
-  'photos': 17476
+  'markers': 12153,
+  'photos': 17480
 }
