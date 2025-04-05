@@ -7,5 +7,5 @@ user_info = {
   'location': 'Victoria, B.C., Canada',
   'countries': 43,
   'markers': 864,
-  'photos': 1246
+  'photos': 1247
 }
