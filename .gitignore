@@ -19,7 +19,6 @@ update-repo.sh
 update-maps.sh
 run-update-maps.sh
 backup-repo.sh
-backup.log
 show-repo-size.sh
 clear-log.sh
 clear-members.sh
