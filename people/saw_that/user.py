@@ -7,5 +7,5 @@ user_info = {
   'location': 'Iqaluit, Nunavut, Canada',
   'countries': 18,
   'markers': 1309,
-  'photos': 2543
+  'photos': 2542
 }
