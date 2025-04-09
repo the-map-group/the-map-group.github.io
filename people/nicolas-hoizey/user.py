@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/nicolas-hoizey/',
   'location': 'Paris, France',
   'countries': 19,
-  'markers': 396,
-  'photos': 446
+  'markers': 398,
+  'photos': 448
 }
