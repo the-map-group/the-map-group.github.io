@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/peterthoeny/',
   'location': 'Cupertino, USA',
   'countries': 15,
-  'markers': 2302,
-  'photos': 4228
+  'markers': 2303,
+  'photos': 4229
 }
