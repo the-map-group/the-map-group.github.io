@@ -1,6 +1,6 @@
 countries_dict = {
-  'BQ': ['Bonaire', 57, 88],
-  'CA': ['Canada', 5, 7],
   'US': ['United States', 38, 48],
+  'CA': ['Canada', 5, 7],
+  'BQ': ['Bonaire', 58, 89],
   'CL': ['Chile', 7, 12]
 }
