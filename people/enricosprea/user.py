@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/129342869@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/enricosprea/',
   'location': 'Brianza, Italia',
-  'countries': 22,
-  'markers': 972,
-  'photos': 982
+  'countries': 23,
+  'markers': 967,
+  'photos': 977
 }
