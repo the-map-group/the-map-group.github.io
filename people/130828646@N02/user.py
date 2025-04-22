@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/130828646@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/130828646@N02/',
   'location': 'Entre-Deux, Réunion',
-  'countries': 36,
-  'markers': 16048,
-  'photos': 41282
+  'countries': 37,
+  'markers': 16056,
+  'photos': 41298
 }
