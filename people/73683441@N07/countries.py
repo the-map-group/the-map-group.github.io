@@ -1,10 +1,10 @@
 countries_dict = {
-  'FJ': ['Fiji', 9, 20],
+  'NZ': ['New Zealand', 54, 174],
   'CA': ['Canada', 2097, 4708],
-  'GI': ['Gibraltar', 2, 4],
-  'AU': ['Australia', 69, 100],
-  'US': ['United States', 1818, 3807],
-  'ES': ['Spain', 29, 31],
+  'US': ['United States', 1819, 3809],
   'PT': ['Portugal', 110, 174],
-  'NZ': ['New Zealand', 54, 174]
+  'AU': ['Australia', 69, 100],
+  'GI': ['Gibraltar', 2, 4],
+  'FJ': ['Fiji', 9, 20],
+  'ES': ['Spain', 29, 31]
 }
