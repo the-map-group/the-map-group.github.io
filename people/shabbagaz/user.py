@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/shabbagaz/',
   'location': 'Preston, England',
   'countries': 4,
-  'markers': 12739,
-  'photos': 19170
+  'markers': 12744,
+  'photos': 19206
 }
