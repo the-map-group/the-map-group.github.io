@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/51101129@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/scfoto62/',
   'location': 'Métropole lilloise, FRANCE',
-  'countries': 3,
-  'markers': 2062,
-  'photos': 3199
+  'countries': 4,
+  'markers': 2063,
+  'photos': 3200
 }
