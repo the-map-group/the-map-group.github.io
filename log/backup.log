@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[master (root-commit) 9d179fe] Backup commit
- 4820 files changed, 1238911 insertions(+)
+[master (root-commit) ca1f849] Backup commit
+ 4840 files changed, 1244365 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -4449,6 +4449,26 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/slynnlee/photos/index.html
  create mode 100755 people/slynnlee/update-countries-map-data.py
  create mode 100644 people/slynnlee/user.py
+ create mode 100644 people/spelio/__pycache__/countries.cpython-35.pyc
+ create mode 100644 people/spelio/__pycache__/countries_members.cpython-35.pyc
+ create mode 100644 people/spelio/__pycache__/user.cpython-35.pyc
+ create mode 120000 people/spelio/api_credentials.py
+ create mode 100644 people/spelio/config.py
+ create mode 100644 people/spelio/coords.py
+ create mode 100644 people/spelio/countries.py
+ create mode 120000 people/spelio/countries_config.py
+ create mode 120000 people/spelio/countries_info.py
+ create mode 120000 people/spelio/countries_members.py
+ create mode 100755 people/spelio/generate-map-data.py
+ create mode 100644 people/spelio/index.html
+ create mode 100644 people/spelio/last_total.py
+ create mode 100644 people/spelio/locations.py
+ create mode 120000 people/spelio/map.log
+ create mode 120000 people/spelio/matrix.py
+ create mode 120000 people/spelio/not_found.py
+ create mode 100644 people/spelio/photos/index.html
+ create mode 100755 people/spelio/update-countries-map-data.py
+ create mode 100644 people/spelio/user.py
  create mode 100644 people/staneastwood/__pycache__/countries.cpython-35.pyc
  create mode 100644 people/staneastwood/__pycache__/countries_members.cpython-35.pyc
  create mode 100644 people/staneastwood/__pycache__/user.cpython-35.pyc
