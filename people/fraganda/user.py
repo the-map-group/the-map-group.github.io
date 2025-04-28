@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/39777440@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/fraganda/',
   'location': 'Ghent, Belgium',
-  'countries': 15,
-  'markers': 338,
-  'photos': 339
+  'countries': 16,
+  'markers': 339,
+  'photos': 340
 }
