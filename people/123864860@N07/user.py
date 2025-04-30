@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/123864860@N07/',
   'location': 'BRIVIO, Italia',
   'countries': 51,
-  'markers': 6567,
-  'photos': 10024
+  'markers': 6574,
+  'photos': 10035
 }
