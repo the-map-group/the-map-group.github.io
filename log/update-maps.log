@@ -2508,3 +2508,71 @@ Map already has 257 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: INMSpace...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Eduard Neyburg'
+249 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Wayloncash...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Wayloncash'
+68231 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: haniarodak...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Hanna Rodak'
+12 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: spelio...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'spelio'
+51846 photos in the photostream
+25 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 0 photo(s) in 0 marker(s)
+Adding marker(s) to map...
+Map already has 3803 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+54745 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 495 photo(s) in 352 marker(s)Batch 2/10 | 990 photo(s) in 610 marker(s)Batch 3/10 | 1490 photo(s) in 1032 marker(s)Batch 4/10 | 1990 photo(s) in 1496 marker(s)Batch 5/10 | 2490 photo(s) in 1905 marker(s)Batch 6/10 | 2614 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 4914 marker(s)
+Added 2 new photo(s) to existing markers
+14 new marker(s) will be added to the map
+Max number of markers reached. Removing 14 marker(s)...
+Added marker 1/14Added marker 2/14Added marker 3/14Added marker 4/14Added marker 5/14Added marker 6/14Added marker 7/14Added marker 8/14Added marker 9/14Added marker 10/14Added marker 11/14Added marker 12/14Added marker 13/14Added marker 14/14
+Finished!
