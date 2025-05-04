@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/130828646@N02/',
   'location': 'Entre-Deux, Réunion',
   'countries': 37,
-  'markers': 16098,
-  'photos': 41547
+  'markers': 16110,
+  'photos': 41571
 }
