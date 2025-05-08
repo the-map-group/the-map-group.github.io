@@ -7,5 +7,5 @@ user_info = {
   'location': '2020年から鎌倉と東京, ♞7FJ♘-TOKYO -♥A -☀東京♌',
   'countries': 8,
   'markers': 3243,
-  'photos': 37247
+  'photos': 37248
 }
