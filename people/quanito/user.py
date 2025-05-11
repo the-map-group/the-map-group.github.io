@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/quanito/',
   'location': 'Nogent sur Marne, FRANCE',
   'countries': 53,
-  'markers': 5931,
-  'photos': 32713
+  'markers': 5964,
+  'photos': 32882
 }
