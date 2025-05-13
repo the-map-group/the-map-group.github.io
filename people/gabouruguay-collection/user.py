@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/93293461@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/gabouruguay-collection/',
   'location': '',
-  'countries': 9,
-  'markers': 863,
-  'photos': 2950
+  'countries': 10,
+  'markers': 864,
+  'photos': 2951
 }
