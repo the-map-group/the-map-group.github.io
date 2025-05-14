@@ -7,5 +7,5 @@ user_info = {
   'location': 'Santiago de Compostela, Spain',
   'countries': 9,
   'markers': 398,
-  'photos': 446
+  'photos': 447
 }
