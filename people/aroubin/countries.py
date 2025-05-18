@@ -1,9 +1,9 @@
 countries_dict = {
-  'DO': ['Dominican Republic', 37, 401],
   'IT': ['Italy', 2, 75],
-  'IN': ['India', 86, 105],
-  'JM': ['Jamaica', 155, 188],
   'FR': ['France', 44, 3125],
+  'IN': ['India', 86, 105],
   'MC': ['Monaco', 3, 56],
-  'US': ['United States', 1694, 3747]
+  'DO': ['Dominican Republic', 37, 401],
+  'US': ['United States', 1695, 3748],
+  'JM': ['Jamaica', 155, 188]
 }
