@@ -11,7 +11,7 @@ countries_dict = {
   'GR': ['Greece', 23, 23],
   'ZA': ['South Africa', 18, 18],
   'US': ['United States', 46, 46],
-  'CU': ['Cuba', 4, 4],
+  'CU': ['Cuba', 6, 6],
   'CW': ['Curaçao', 6, 6],
   'NL': ['Netherlands', 6, 6],
   'BE': ['Belgium', 111, 111]
