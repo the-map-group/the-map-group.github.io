@@ -5,7 +5,7 @@ countries_dict = {
   'GR': ['Greece', 2238, 3037],
   'FR': ['France', 57, 85],
   'BE': ['Belgium', 1, 1],
-  'DK': ['Denmark', 7034, 10714],
+  'DK': ['Denmark', 7034, 10715],
   'CZ': ['Czech Republic', 4, 4],
   'SI': ['Slovenia', 21, 29],
   'NO': ['Norway', 253, 350],
