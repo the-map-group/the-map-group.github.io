@@ -41,14 +41,14 @@ countries_dict = {
   'FR': ['France', 69, 131],
   'PY': ['Paraguay', 3, 9],
   'PW': ['Palau', 129, 138],
-  'IT': ['Italy', 475, 785],
+  'IT': ['Italy', 476, 791],
   'AU': ['Australia', 56, 95],
   'RU': ['Russia', 31, 43],
   'BR': ['Brazil', 246, 460],
   'IS': ['Iceland', 266, 411],
   'CA': ['Canada', 157, 233],
   'YE': ['Yemen', 9, 18],
-  'CN': ['China', 366, 671],
+  'CN': ['China', 366, 678],
   'UZ': ['Uzbekistan', 90, 228],
   'LS': ['Lesotho', 15, 19]
 }
