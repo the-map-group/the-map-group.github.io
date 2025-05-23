@@ -5,7 +5,7 @@ countries_dict = {
   'LY': ['Libya', 3, 3],
   'CH': ['Switzerland', 12, 21],
   'NE': ['Niger', 6, 7],
-  'IT': ['Italy', 177, 219],
+  'IT': ['Italy', 178, 220],
   'ML': ['Mali', 10, 11],
   'DZ': ['Algeria', 6, 7],
   'TR': ['Turkey', 2, 2],
