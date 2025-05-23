@@ -1,5 +1,5 @@
 countries_dict = {
-  'AD': ['Andorra', 594, 601],
+  'AD': ['Andorra', 595, 602],
   'FR': ['France', 193, 194],
   'IT': ['Italy', 71, 72],
   'CL': ['Chile', 105, 119],
