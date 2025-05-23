@@ -1,7 +1,7 @@
 countries_dict = {
   'MA': ['Morocco', 11, 11],
   'GH': ['Ghana', 7, 7],
-  'GB': ['United Kingdom', 43, 44],
+  'GB': ['United Kingdom', 44, 45],
   'UY': ['Uruguay', 6, 6],
   'ES': ['Spain', 5, 5],
   'IS': ['Iceland', 2976, 2978],
