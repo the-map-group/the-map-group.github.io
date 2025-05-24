@@ -2,7 +2,7 @@ countries_dict = {
   'CH': ['Switzerland', 492, 542],
   'BG': ['Bulgaria', 3, 11],
   'AE': ['United Arab Emirates', 14, 16],
-  'FR': ['France', 203, 214],
+  'FR': ['France', 204, 215],
   'DE': ['Germany', 218, 286],
   'RO': ['Romania', 11, 24],
   'AT': ['Austria', 25, 33],
