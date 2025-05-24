@@ -8,7 +8,7 @@ countries_dict = {
   'ES': ['Spain', 580, 835],
   'SN': ['Senegal', 1, 1],
   'US': ['United States', 5, 5],
-  'PT': ['Portugal', 2608, 3884],
+  'PT': ['Portugal', 2609, 3885],
   'MA': ['Morocco', 93, 126],
   'MC': ['Monaco', 1, 1]
 }
