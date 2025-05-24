@@ -9,5 +9,6 @@ countries_dict = {
   'ML': ['Mali', 10, 11],
   'DZ': ['Algeria', 6, 7],
   'TR': ['Turkey', 2, 2],
-  'UA': ['Ukraine', 2, 2]
+  'UA': ['Ukraine', 2, 2],
+  'NL': ['Netherlands', 2, 2]
 }
