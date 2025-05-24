@@ -18,7 +18,7 @@ countries_dict = {
   'ES': ['Spain', 3, 3],
   'IM': ['Isle of Man', 1, 2],
   'MC': ['Monaco', 2, 2],
-  'GR': ['Greece', 2, 2],
+  'GR': ['Greece', 3, 3],
   'NL': ['Netherlands', 4, 4],
   'FO': ['Faroe Islands', 6, 6],
   'TH': ['Thailand', 4, 4],
