@@ -23,6 +23,6 @@ countries_dict = {
   'AT': ['Austria', 8, 10],
   'MA': ['Morocco', 96, 135],
   'EG': ['Egypt', 119, 157],
-  'BR': ['Brazil', 2477, 3490],
+  'BR': ['Brazil', 2481, 3494],
   'NL': ['Netherlands', 10, 17]
 }
