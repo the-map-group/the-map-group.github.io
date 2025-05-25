@@ -5,7 +5,7 @@ countries_dict = {
   'IT': ['Italy', 204, 438],
   'IN': ['India', 1006, 3617],
   'NO': ['Norway', 312, 389],
-  'ES': ['Spain', 592, 2488],
+  'ES': ['Spain', 594, 2493],
   'UG': ['Uganda', 267, 1802],
   'CL': ['Chile', 5, 55],
   'OM': ['Oman', 2, 2],
