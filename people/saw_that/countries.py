@@ -10,7 +10,7 @@ countries_dict = {
   'IT': ['Italy', 37, 47],
   'US': ['United States', 315, 624],
   'NA': ['Namibia', 1, 1],
-  'CU': ['Cuba', 111, 226],
+  'CU': ['Cuba', 112, 232],
   'ID': ['Indonesia', 1, 1],
   'ET': ['Ethiopia', 1, 1],
   'LY': ['Libya', 1, 1],
