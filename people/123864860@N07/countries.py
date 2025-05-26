@@ -26,7 +26,7 @@ countries_dict = {
   'CZ': ['Czech Republic', 26, 61],
   'KZ': ['Kazakhstan', 113, 252],
   'IE': ['Ireland', 127, 180],
-  'NZ': ['New Zealand', 212, 328],
+  'NZ': ['New Zealand', 216, 334],
   'SG': ['Singapore', 3, 3],
   'SM': ['San Marino', 4, 4],
   'TR': ['Turkey', 29, 50],
