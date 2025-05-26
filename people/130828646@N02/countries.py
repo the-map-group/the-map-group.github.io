@@ -31,8 +31,8 @@ countries_dict = {
   'GG': ['Guernsey', 68, 91],
   'VA': ['Vatican City', 8, 11],
   'JE': ['Jersey', 66, 76],
-  'RE': ['Reunion', 4158, 21966],
-  'UZ': ['Uzbekistan', 212, 515],
+  'RE': ['Reunion', 4159, 21980],
+  'UZ': ['Uzbekistan', 215, 521],
   'OM': ['Oman', 339, 722],
   'PL': ['Poland', 68, 71],
   'ZA': ['South Africa', 307, 490]
