@@ -39,7 +39,7 @@ try:
     log_file = open('{}/log/update-maps.log'.format(repo_path), 'a')
 except Exception as e:
     print("ERROR: FATAL: Unable to open log file")
-    print(e)
+    print(str(e))
     sys.exit()
 
 #===== FUNCTIONS ==============================================================#
@@ -89,9 +89,9 @@ try:
     from reset import reset_list
 except Exception as e:
     print('ERROR: FATAL: Unable to read reset list file')
-    print(e)
+    print(str(e))
     log_file.write('ERROR: FATAL: Unable to read reset list file\n')
-    log_file.write(e)
+    log_file.write(str(e))
     sys.exit()
 
 current_members = []
@@ -106,9 +106,9 @@ try:
     group_name = flickr.groups.getInfo(group_id=group_id)['group']['name']['_content']
 except Exception as e:
     print('ERROR: FATAL: Unable to get group information')
-    print(e)
+    print(str(e))
     log_file.write('ERROR: FATAL: Unable to get group information\n')
-    log_file.write(e)
+    log_file.write(str(e))
     sys.exit()
 
 # get members from group
@@ -119,9 +119,9 @@ try:
     members_per_page = int(members['members']['perpage'])
 except Exception as e:
     print('ERROR: FATAL: Unable to get members list')
-    print(e)
+    print(str(e))
     log_file.write('ERROR: FATAL: Unable to get members list\n')
-    log_file.write(e)
+    log_file.write(str(e))
     sys.exit()
 
 # iterate over each members page
@@ -131,9 +131,9 @@ for page_number in range(number_of_pages, 0, -1):
         members = flickr.groups.members.getList(api_key=api_key, group_id=group_id, page=page_number, per_page=members_per_page)['members']['member']
     except Exception as e:
         print('ERROR: FATAL: Unable to get members list page')
-        print(e)
+        print(str(e))
         log_file.write('ERROR: FATAL: Unable to get members list page\n')
-        log_file.write(e)
+        log_file.write(str(e))
         sys.exit()
 
     members_in_page = len(members)
@@ -473,9 +473,9 @@ for page_number in range(topics_num_of_pages, 0, -1):
         topics_page = flickr.groups.discuss.topics.getList(api_key=api_key, group_id=group_id, page=page_number, per_page='500')['topics']['topic']
     except Exception as e:
         print('ERROR: FATAL: Unable to get discussion topics')
-        print(e)
+        print(str(e))
         log_file.write('ERROR: FATAL: Unable to get discussion topics\n')
-        log_file.write(e)
+        log_file.write(str(e))
         log_file.close()
         os.system("git add -f {}/log/*".format(repo_path))
         os.system("git commit -m \"[auto] Updated log file\"")

@@ -36,7 +36,7 @@ try:
     log_file = open('{}/log/update-maps.log'.format(run_path), 'a')
 except Exception as e:
     print("ERROR: FATAL: Unable to open log file")
-    print(e)
+    print(str(e))
     sys.exit()
 
 # check if there is a api_credentials file and import it
@@ -80,9 +80,9 @@ try:
     log_file.write('{} photos in the pool\n'.format(total))
 except Exception as e:
     print('ERROR: FATAL: Unable to get photos from the pool')
-    print(e)
+    print(str(e))
     log_file.write('ERROR: FATAL: Unable to get photos from the pool\n')
-    log_file.write(e)
+    log_file.write(str(e))
     sys.exit()
 
 # current number of photos on photostream
@@ -141,9 +141,9 @@ for pg in range(1, npages+1):
         page = flickr.groups.pools.getPhotos(api_key=api_key, group_id=group_id, privacy_filter='1', extras='geo,tags,url_sq', page=pg, per_page=photos_per_page)['photos']['photo']
     except Exception as e:
         print('ERROR: FATAL: Unable to get photos from the pool')
-        print(e)
+        print(str(e))
         log_file.write('ERROR: FATAL: Unable to get photos from the pool\n')
-        log_file.write(e)
+        log_file.write(str(e))
         sys.exit()
 
     photos_in_page = len(page)
