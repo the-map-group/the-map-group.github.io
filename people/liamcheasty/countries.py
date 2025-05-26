@@ -21,7 +21,7 @@ countries_dict = {
   'BE': ['Belgium', 13, 21],
   'SK': ['Slovakia', 9, 9],
   'FI': ['Finland', 67, 198],
-  'IE': ['Ireland', 622, 5875],
+  'IE': ['Ireland', 622, 5877],
   'NL': ['Netherlands', 4, 33],
   'LI': ['Liechtenstein', 1, 5],
   'NO': ['Norway', 183, 607],
