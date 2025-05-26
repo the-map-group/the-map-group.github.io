@@ -2577,3 +2577,14 @@ Added marker 2/4
 Added marker 3/4
 Added marker 4/4
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+55512 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 375 marker(s)Batch 2/10 | 1000 photo(s) in 771 marker(s)ERROR: FATAL: Unable to get photos from the pool
