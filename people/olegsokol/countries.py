@@ -14,7 +14,7 @@ countries_dict = {
   'SE': ['Sweden', 11, 12],
   'TW': ['Taiwan', 5, 5],
   'IT': ['Italy', 2, 2],
-  'US': ['United States', 438, 564],
+  'US': ['United States', 439, 565],
   'IS': ['Iceland', 23, 29],
   'DK': ['Denmark', 1, 1],
   'AT': ['Austria', 6, 6],
