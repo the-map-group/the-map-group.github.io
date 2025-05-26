@@ -1,7 +1,7 @@
 countries_dict = {
   'MA': ['Morocco', 11, 11],
   'GH': ['Ghana', 7, 7],
-  'GB': ['United Kingdom', 44, 45],
+  'GB': ['United Kingdom', 45, 46],
   'UY': ['Uruguay', 6, 6],
   'ES': ['Spain', 5, 5],
   'IS': ['Iceland', 2976, 2978],
@@ -10,7 +10,7 @@ countries_dict = {
   'CA': ['Canada', 1, 1],
   'CN': ['China', 16, 16],
   'US': ['United States', 24, 24],
-  'RO': ['Romania', 3, 3],
+  'RO': ['Romania', 4, 4],
   'DK': ['Denmark', 1, 1],
   'GE': ['Georgia', 5, 5],
   'FO': ['Faroe Islands', 9, 9],
