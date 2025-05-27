@@ -2,7 +2,7 @@ countries_dict = {
   'UY': ['Uruguay', 594, 2074],
   'MX': ['Mexico', 26, 295],
   'ES': ['Spain', 38, 93],
-  'KR': ['South Korea', 11, 11],
+  'KR': ['South Korea', 12, 12],
   'PE': ['Peru', 40, 86],
   'JP': ['Japan', 41, 95],
   'ZA': ['South Africa', 59, 139],
