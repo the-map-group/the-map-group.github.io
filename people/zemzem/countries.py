@@ -1,6 +1,6 @@
 countries_dict = {
   'ES': ['Spain', 32, 36],
-  'FR': ['France', 240, 326],
+  'FR': ['France', 241, 327],
   'JO': ['Jordan', 4, 5],
   'MY': ['Malaysia', 2, 43],
   'AU': ['Australia', 8, 9],
