@@ -16,7 +16,7 @@ countries_dict = {
   'BR': ['Brazil', 4, 14],
   'NL': ['Netherlands', 1, 1],
   'MA': ['Morocco', 4, 7],
-  'MY': ['Malaysia', 3, 14],
+  'MY': ['Malaysia', 3, 15],
   'GR': ['Greece', 6, 9],
   'MX': ['Mexico', 2, 6],
   'MM': ['Myanmar', 2, 2],
