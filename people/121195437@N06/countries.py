@@ -16,7 +16,7 @@ countries_dict = {
   'FR': ['France', 558, 719],
   'CA': ['Canada', 16, 39],
   'DK': ['Denmark', 67, 70],
-  'DE': ['Germany', 1620, 2522],
+  'DE': ['Germany', 1620, 2523],
   'NL': ['Netherlands', 270, 321],
   'IT': ['Italy', 18, 33],
   'MC': ['Monaco', 1, 1],
