@@ -23,7 +23,7 @@ countries_dict = {
   'ET': ['Ethiopia', 161, 334],
   'AQ': ['Antarctica', 89, 189],
   'FJ': ['Fiji', 68, 93],
-  'CZ': ['Czech Republic', 26, 61],
+  'CZ': ['Czech Republic', 26, 65],
   'KZ': ['Kazakhstan', 113, 252],
   'IE': ['Ireland', 127, 180],
   'NZ': ['New Zealand', 216, 334],
@@ -48,7 +48,7 @@ countries_dict = {
   'IS': ['Iceland', 266, 411],
   'CA': ['Canada', 157, 233],
   'YE': ['Yemen', 9, 18],
-  'CN': ['China', 367, 679],
+  'CN': ['China', 367, 681],
   'UZ': ['Uzbekistan', 90, 228],
   'LS': ['Lesotho', 15, 19]
 }
