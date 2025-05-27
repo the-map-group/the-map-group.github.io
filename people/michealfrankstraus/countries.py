@@ -32,5 +32,6 @@ countries_dict = {
   'DE': ['Germany', 105, 127],
   'SJ': ['Svalbard and Jan Mayen', 8, 8],
   'SE': ['Sweden', 5, 5],
-  'IL': ['Israel', 2, 2]
+  'IL': ['Israel', 2, 2],
+  'PT': ['Portugal', 1, 1]
 }
