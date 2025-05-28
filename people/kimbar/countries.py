@@ -27,7 +27,7 @@ countries_dict = {
   'CN': ['China', 35, 94],
   'TW': ['Taiwan', 13, 24],
   'VN': ['Vietnam', 13, 25],
-  'US': ['United States', 3406, 4181],
+  'US': ['United States', 3408, 4183],
   'PL': ['Poland', 3, 12],
   'OM': ['Oman', 4, 11],
   'MG': ['Madagascar', 9, 13],
