@@ -70,20 +70,32 @@ except:
 coordinates = []
 
 # get the total number of photos
-try:
-    photos = flickr.groups.pools.getPhotos(api_key=api_key, group_id=group_id, per_page=photos_per_page)
-    npages = int(photos['photos']['pages'])
-    total = int(photos['photos']['total'])
-    print('Generating map for \'{}\''.format(group_name))
-    print('{} photos in the pool'.format(total))
-    log_file.write('Generating map for \'{}\'\n'.format(group_name))
-    log_file.write('{} photos in the pool\n'.format(total))
-except Exception as e:
-    print('ERROR: FATAL: Unable to get photos from the pool')
-    print(str(e))
-    log_file.write('ERROR: FATAL: Unable to get photos from the pool\n')
-    log_file.write(str(e))
-    sys.exit()
+max_tries = 10
+
+for tries in range(1, max_tries+1):
+    try:
+        photos = flickr.groups.pools.getPhotos(api_key=api_key, group_id=group_id, per_page=photos_per_page)
+        npages = int(photos['photos']['pages'])
+        total = int(photos['photos']['total'])
+        print('Generating map for \'{}\''.format(group_name))
+        print('{} photos in the pool'.format(total))
+        log_file.write('Generating map for \'{}\'\n'.format(group_name))
+        log_file.write('{} photos in the pool\n'.format(total))
+        break
+    except Exception as e:
+        if tries < max_tries:
+            print('ERROR: Unable to get number of photos in the pool')
+            print(str(e))
+            print('Trying again...')
+            log_file.write('ERROR: Unable to get number of photos in the pool\n')
+            log_file.write('{}\n'.format(str(e)))
+            log_file.write('Trying again...\n')
+        else:
+            print('ERROR: FATAL: Unable to get number of photos in the pool after {} tries'.format(max_tries))
+            print(str(e))
+            log_file.write('ERROR: FATAL: Unable to get number of photos in the pool after {} tries\n'.format(max_tries))
+            log_file.write('{}\n'.format(str(e)))
+            sys.exit()
 
 # current number of photos on photostream
 current_total = total
@@ -135,16 +147,28 @@ if npages > max_number_of_pages:
     log_file.write('Extracting for the last {} photos\n'.format(total))
 
 # process each page
+max_tries = 10
+
 for pg in range(1, npages+1):
 
-    try:
-        page = flickr.groups.pools.getPhotos(api_key=api_key, group_id=group_id, privacy_filter='1', extras='geo,tags,url_sq', page=pg, per_page=photos_per_page)['photos']['photo']
-    except Exception as e:
-        print('ERROR: FATAL: Unable to get photos from the pool')
-        print(str(e))
-        log_file.write('ERROR: FATAL: Unable to get photos from the pool\n')
-        log_file.write(str(e))
-        sys.exit()
+    for tries in range(1, max_tries+1):
+        try:
+            page = flickr.groups.pools.getPhotos(api_key=api_key, group_id=group_id, privacy_filter='1', extras='geo,tags,url_sq', page=pg, per_page=photos_per_page)['photos']['photo']
+            break
+        except Exception as e:
+            if tries < max_tries:
+                print('ERROR: Unable to get photos from the pool')
+                print(str(e))
+                print('Trying again...')
+                log_file.write('ERROR: Unable to get photos from the pool\n')
+                log_file.write('{}\n'.format(str(e)))
+                log_file.write('Trying again...\n')
+            else:
+                print('ERROR: FATAL: Unable to get photos from the pool after {} tries'.format(max_tries))
+                print(str(e))
+                log_file.write('ERROR: FATAL: Unable to get photos from the pool after {} tries\n'.format(max_tries))
+                log_file.write('{}\n'.format(str(e)))
+                sys.exit()
 
     photos_in_page = len(page)
 
