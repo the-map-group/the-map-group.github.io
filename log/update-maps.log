@@ -2437,3 +2437,8 @@ Extracting photo coordinates and ids...
 Extracting for the last 5000 photos
 Batch 1/10 | 500 photo(s) in 384 marker(s)Batch 2/10 | 1000 photo(s) in 782 marker(s)ERROR: FATAL: Unable to get photos from the pool
 do_request: Status code 504 received
+Commiting map data...
+Done!
+
+##### Removing members which have left the group...
+No member has left the group!
