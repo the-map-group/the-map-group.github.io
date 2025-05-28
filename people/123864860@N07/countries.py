@@ -18,7 +18,7 @@ countries_dict = {
   'FM': ['Micronesia', 162, 170],
   'MM': ['Myanmar', 468, 568],
   'TN': ['Tunisia', 1, 1],
-  'SI': ['Slovenia', 24, 58],
+  'SI': ['Slovenia', 29, 65],
   'GS': ['South Georgia and South Sandwich Islands', 162, 231],
   'ET': ['Ethiopia', 161, 334],
   'AQ': ['Antarctica', 89, 189],
