@@ -7,5 +7,5 @@ user_info = {
   'location': 'Near Fincastle, Botetourt County, Va., USA',
   'countries': 11,
   'markers': 4760,
-  'photos': 8587
+  'photos': 8590
 }
