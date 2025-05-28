@@ -22,7 +22,7 @@ countries_dict = {
   'VA': ['Vatican City', 1, 2],
   'TZ': ['Tanzania', 3, 4],
   'KE': ['Kenya', 4, 6],
-  'IT': ['Italy', 345, 524],
+  'IT': ['Italy', 347, 526],
   'NZ': ['New Zealand', 22, 32],
   'CN': ['China', 35, 94],
   'TW': ['Taiwan', 13, 24],
