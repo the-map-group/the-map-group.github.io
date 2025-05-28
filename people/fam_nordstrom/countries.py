@@ -11,7 +11,7 @@ countries_dict = {
   'OM': ['Oman', 2, 2],
   'KE': ['Kenya', 5, 5],
   'CZ': ['Czech Republic', 38, 110],
-  'PE': ['Peru', 499, 1725],
+  'PE': ['Peru', 501, 1730],
   'DK': ['Denmark', 9, 12],
   'GB': ['United Kingdom', 17, 24],
   'SE': ['Sweden', 571, 1173],
