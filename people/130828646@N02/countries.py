@@ -32,7 +32,7 @@ countries_dict = {
   'VA': ['Vatican City', 8, 11],
   'JE': ['Jersey', 66, 76],
   'RE': ['Reunion', 4159, 21980],
-  'UZ': ['Uzbekistan', 225, 554],
+  'UZ': ['Uzbekistan', 226, 560],
   'OM': ['Oman', 339, 722],
   'PL': ['Poland', 68, 71],
   'ZA': ['South Africa', 307, 490]
