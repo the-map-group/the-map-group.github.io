@@ -8,7 +8,7 @@ countries_dict = {
   'IT': ['Italy', 321, 613],
   'US': ['United States', 46, 162],
   'GB': ['United Kingdom', 887, 2466],
-  'BR': ['Brazil', 2583, 7206],
+  'BR': ['Brazil', 2583, 7207],
   'MX': ['Mexico', 56, 198],
   'FR': ['France', 6, 24],
   'VA': ['Vatican City', 12, 15]
