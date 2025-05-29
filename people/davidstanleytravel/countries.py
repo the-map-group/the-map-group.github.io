@@ -15,7 +15,7 @@ countries_dict = {
   'IT': ['Italy', 153, 187],
   'EC': ['Ecuador', 81, 110],
   'CC': ['Cocos (Keeling) Islands', 45, 46],
-  'ES': ['Spain', 49, 53],
+  'ES': ['Spain', 52, 56],
   'AQ': ['Antarctica', 275, 347],
   'FJ': ['Fiji', 1, 1],
   'LR': ['Liberia', 10, 10],
