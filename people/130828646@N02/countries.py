@@ -14,7 +14,7 @@ countries_dict = {
   'ME': ['Montenegro', 9, 9],
   'IT': ['Italy', 649, 1109],
   'IN': ['India', 37, 87],
-  'FR': ['France', 4371, 7304],
+  'FR': ['France', 4372, 7305],
   'ES': ['Spain', 402, 684],
   'MG': ['Madagascar', 206, 360],
   'SY': ['Syria', 15, 19],
@@ -32,7 +32,7 @@ countries_dict = {
   'VA': ['Vatican City', 8, 11],
   'JE': ['Jersey', 66, 76],
   'RE': ['Reunion', 4159, 21980],
-  'UZ': ['Uzbekistan', 226, 564],
+  'UZ': ['Uzbekistan', 231, 582],
   'OM': ['Oman', 339, 722],
   'PL': ['Poland', 68, 71],
   'ZA': ['South Africa', 307, 490]
