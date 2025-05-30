@@ -7,7 +7,7 @@ countries_dict = {
   'JP': ['Japan', 22, 64],
   'ZA': ['South Africa', 216, 298],
   'KG': ['Kyrgyzstan', 73, 79],
-  'SE': ['Sweden', 5, 6],
+  'SE': ['Sweden', 13, 17],
   'NO': ['Norway', 431, 567],
   'CL': ['Chile', 268, 352],
   'CH': ['Switzerland', 4, 4],
