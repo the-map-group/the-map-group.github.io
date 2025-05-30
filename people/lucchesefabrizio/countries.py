@@ -12,7 +12,7 @@ countries_dict = {
   'HR': ['Croatia', 21, 22],
   'AM': ['Armenia', 74, 74],
   'PE': ['Peru', 10, 10],
-  'IT': ['Italy', 461, 464],
+  'IT': ['Italy', 463, 466],
   'JO': ['Jordan', 52, 52],
   'AT': ['Austria', 141, 142],
   'PT': ['Portugal', 17, 17],
