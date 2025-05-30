@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/108188718@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/jenskoschitzki/',
   'location': 'Munich, Germany',
-  'countries': 14,
-  'markers': 6984,
-  'photos': 34521
+  'countries': 15,
+  'markers': 6995,
+  'photos': 34533
 }
