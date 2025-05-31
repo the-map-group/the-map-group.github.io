@@ -49,6 +49,6 @@ countries_dict = {
   'CA': ['Canada', 157, 233],
   'YE': ['Yemen', 9, 18],
   'CN': ['China', 367, 681],
-  'UZ': ['Uzbekistan', 90, 228],
+  'UZ': ['Uzbekistan', 94, 236],
   'LS': ['Lesotho', 15, 19]
 }
