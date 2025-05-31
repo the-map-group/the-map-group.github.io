@@ -39,7 +39,7 @@ countries_dict = {
   'EG': ['Egypt', 10, 16],
   'NO': ['Norway', 6, 6],
   'AU': ['Australia', 8, 22],
-  'CO': ['Colombia', 80, 101],
+  'CO': ['Colombia', 81, 103],
   'SK': ['Slovakia', 3, 5],
   'IL': ['Israel', 5, 9],
   'SC': ['Seychelles', 3, 5],
