@@ -6,7 +6,7 @@ countries_dict = {
   'AD': ['Andorra', 6, 13],
   'HU': ['Hungary', 8, 238],
   'CA': ['Canada', 61, 98],
-  'DE': ['Germany', 1413, 8455],
+  'DE': ['Germany', 1414, 8456],
   'FR': ['France', 172, 1061],
   'MX': ['Mexico', 2, 31],
   'CH': ['Switzerland', 183, 223],
