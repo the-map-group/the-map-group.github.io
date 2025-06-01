@@ -7,7 +7,7 @@ countries_dict = {
   'CU': ['Cuba', 1, 1],
   'IT': ['Italy', 3, 3],
   'AT': ['Austria', 3, 11],
-  'US': ['United States', 411, 2178],
+  'US': ['United States', 412, 2180],
   'FR': ['France', 76, 107],
   'RU': ['Russia', 2, 2],
   'DE': ['Germany', 69, 284],
