@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/karen_ds1101/',
   'location': 'On the way to Cairns, Australia',
   'countries': 15,
-  'markers': 1145,
-  'photos': 1354
+  'markers': 1144,
+  'photos': 1353
 }
