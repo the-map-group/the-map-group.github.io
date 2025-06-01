@@ -5,7 +5,7 @@ countries_dict = {
   'ES': ['Spain', 6, 6],
   'GB': ['United Kingdom', 24, 24],
   'MA': ['Morocco', 65, 67],
-  'TN': ['Tunisia', 6, 6],
+  'TN': ['Tunisia', 7, 7],
   'IT': ['Italy', 637, 643],
   'UA': ['Ukraine', 2, 2],
   'EG': ['Egypt', 17, 17],
