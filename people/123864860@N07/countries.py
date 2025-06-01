@@ -24,7 +24,7 @@ countries_dict = {
   'AQ': ['Antarctica', 89, 189],
   'FJ': ['Fiji', 68, 93],
   'CZ': ['Czech Republic', 26, 65],
-  'KZ': ['Kazakhstan', 113, 252],
+  'KZ': ['Kazakhstan', 115, 258],
   'IE': ['Ireland', 127, 180],
   'NZ': ['New Zealand', 216, 334],
   'SG': ['Singapore', 3, 3],
@@ -47,7 +47,7 @@ countries_dict = {
   'BR': ['Brazil', 246, 460],
   'IS': ['Iceland', 266, 411],
   'CA': ['Canada', 157, 233],
-  'YE': ['Yemen', 9, 18],
+  'YE': ['Yemen', 10, 24],
   'CN': ['China', 367, 681],
   'UZ': ['Uzbekistan', 94, 236],
   'LS': ['Lesotho', 15, 19]
