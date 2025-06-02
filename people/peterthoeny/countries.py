@@ -14,5 +14,6 @@ countries_dict = {
   'CA': ['Canada', 3, 4],
   'US': ['United States', 1732, 3389],
   'JP': ['Japan', 141, 164],
-  'HU': ['Hungary', 1, 1]
+  'HU': ['Hungary', 1, 1],
+  'RO': ['Romania', 1, 1]
 }

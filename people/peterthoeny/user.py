@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/98786299@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/peterthoeny/',
   'location': 'Cupertino, USA',
-  'countries': 16,
-  'markers': 2314,
-  'photos': 4259
+  'countries': 17,
+  'markers': 2315,
+  'photos': 4260
 }
