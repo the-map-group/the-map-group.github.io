@@ -1,6 +1,6 @@
 countries_dict = {
   'DJ': ['Djibouti', 42, 69],
-  'HR': ['Croatia', 80, 151],
+  'HR': ['Croatia', 80, 156],
   'NA': ['Namibia', 25, 38],
   'PT': ['Portugal', 194, 209],
   'FK': ['Falkland Islands', 179, 333],
@@ -18,7 +18,7 @@ countries_dict = {
   'FM': ['Micronesia', 162, 170],
   'MM': ['Myanmar', 468, 568],
   'TN': ['Tunisia', 1, 1],
-  'SI': ['Slovenia', 29, 65],
+  'SI': ['Slovenia', 29, 76],
   'GS': ['South Georgia and South Sandwich Islands', 162, 231],
   'ET': ['Ethiopia', 161, 334],
   'AQ': ['Antarctica', 89, 189],
