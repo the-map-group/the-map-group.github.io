@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/saw_that/',
   'location': 'Iqaluit, Nunavut, Canada',
   'countries': 18,
-  'markers': 1338,
-  'photos': 2639
+  'markers': 1339,
+  'photos': 2640
 }
