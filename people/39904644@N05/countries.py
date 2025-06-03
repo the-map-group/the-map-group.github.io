@@ -14,7 +14,7 @@ countries_dict = {
   'TH': ['Thailand', 2, 2],
   'FR': ['France', 3, 3],
   'IS': ['Iceland', 420, 481],
-  'NO': ['Norway', 213, 232],
+  'NO': ['Norway', 214, 233],
   'HR': ['Croatia', 1, 1],
   'GB': ['United Kingdom', 118, 157]
 }
