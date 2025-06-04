@@ -47,7 +47,7 @@ countries_dict = {
   'GD': ['Grenada', 1, 4],
   'QA': ['Qatar', 1, 7],
   'IS': ['Iceland', 238, 329],
-  'GI': ['Gibraltar', 3, 6],
+  'GI': ['Gibraltar', 6, 9],
   'CA': ['Canada', 1713, 2455],
   'AT': ['Austria', 15, 22],
   'CW': ['Curaçao', 52, 74],
