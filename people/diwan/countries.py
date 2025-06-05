@@ -15,7 +15,7 @@ countries_dict = {
   'MC': ['Monaco', 14, 14],
   'LV': ['Latvia', 41, 42],
   'ES': ['Spain', 402, 442],
-  'PL': ['Poland', 21, 23],
+  'PL': ['Poland', 22, 24],
   'DK': ['Denmark', 131, 133],
   'US': ['United States', 241, 247],
   'VA': ['Vatican City', 49, 55],
