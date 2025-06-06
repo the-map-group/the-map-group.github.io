@@ -13,7 +13,7 @@ countries_dict = {
   'DE': ['Germany', 1, 1],
   'DK': ['Denmark', 5, 5],
   'EE': ['Estonia', 1, 1],
-  'US': ['United States', 2325, 3988],
+  'US': ['United States', 2326, 3989],
   'CU': ['Cuba', 1, 1],
   'NO': ['Norway', 1, 1],
   'FR': ['France', 2, 2],
