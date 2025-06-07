@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/169246257@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/starcitizen/',
   'location': '',
-  'countries': 9,
-  'markers': 3571,
-  'photos': 3679
+  'countries': 10,
+  'markers': 3572,
+  'photos': 3680
 }
