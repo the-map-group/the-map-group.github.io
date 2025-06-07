@@ -4,7 +4,7 @@ countries_dict = {
   'AU': ['Australia', 237, 337],
   'US': ['United States', 324, 478],
   'BN': ['Brunei', 39, 51],
-  'CN': ['China', 148, 179],
+  'CN': ['China', 149, 180],
   'MY': ['Malaysia', 38, 52],
   'TH': ['Thailand', 22, 25],
   'SG': ['Singapore', 10, 11],
