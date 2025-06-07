@@ -16,7 +16,7 @@ countries_dict = {
   'RS': ['Serbia', 1, 1],
   'ES': ['Spain', 5, 6],
   'AU': ['Australia', 2, 2],
-  'GE': ['Georgia', 1, 1],
+  'GE': ['Georgia', 1, 2],
   'AD': ['Andorra', 1, 1],
   'NZ': ['New Zealand', 1, 1],
   'MT': ['Malta', 1, 1],
