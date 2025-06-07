@@ -32,7 +32,7 @@ countries_dict = {
   'ID': ['Indonesia', 1, 1],
   'PT': ['Portugal', 7, 8],
   'HR': ['Croatia', 2, 2],
-  'FR': ['France', 33, 38],
+  'FR': ['France', 34, 39],
   'AR': ['Argentina', 1, 1],
   'EE': ['Estonia', 1, 1],
   'MA': ['Morocco', 5, 6]
