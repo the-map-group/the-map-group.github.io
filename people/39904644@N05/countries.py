@@ -10,7 +10,7 @@ countries_dict = {
   'NZ': ['New Zealand', 285, 373],
   'CZ': ['Czech Republic', 5, 5],
   'GR': ['Greece', 49, 53],
-  'DE': ['Germany', 358, 394],
+  'DE': ['Germany', 359, 395],
   'TH': ['Thailand', 2, 2],
   'FR': ['France', 3, 3],
   'IS': ['Iceland', 420, 481],
