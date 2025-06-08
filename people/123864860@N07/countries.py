@@ -47,7 +47,7 @@ countries_dict = {
   'BR': ['Brazil', 246, 460],
   'IS': ['Iceland', 268, 418],
   'CA': ['Canada', 157, 233],
-  'YE': ['Yemen', 10, 24],
+  'YE': ['Yemen', 11, 27],
   'CN': ['China', 367, 681],
   'UZ': ['Uzbekistan', 94, 236],
   'LS': ['Lesotho', 15, 19]
