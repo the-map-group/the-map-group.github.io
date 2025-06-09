@@ -28,5 +28,5 @@ countries_dict = {
   'HU': ['Hungary', 137, 142],
   'IE': ['Ireland', 111, 203],
   'VA': ['Vatican City', 213, 396],
-  'KR': ['South Korea', 8, 9]
+  'KR': ['South Korea', 9, 10]
 }
