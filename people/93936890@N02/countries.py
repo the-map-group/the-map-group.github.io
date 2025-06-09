@@ -33,7 +33,7 @@ countries_dict = {
   'XK': ['Kosovo', 2, 2],
   'DK': ['Denmark', 5, 5],
   'MA': ['Morocco', 4, 4],
-  'GB': ['United Kingdom', 326, 576],
+  'GB': ['United Kingdom', 327, 577],
   'BS': ['Bahamas', 1, 1],
   'FI': ['Finland', 5, 5],
   'RU': ['Russia', 5, 5],
