@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/byhowardsomerville/',
   'location': 'London, UK',
   'countries': 37,
-  'markers': 849,
-  'photos': 1014
+  'markers': 850,
+  'photos': 1015
 }
