@@ -2,7 +2,7 @@ countries_dict = {
   'FR': ['France', 25, 26],
   'CH': ['Switzerland', 3, 3],
   'SM': ['San Marino', 3, 3],
-  'NO': ['Norway', 289, 406],
+  'NO': ['Norway', 300, 417],
   'VN': ['Vietnam', 1, 1],
   'SE': ['Sweden', 4, 4],
   'TH': ['Thailand', 2, 2],
