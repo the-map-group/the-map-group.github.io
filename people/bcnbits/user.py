@@ -7,5 +7,5 @@ user_info = {
   'location': 'Barcelona, Catalonia',
   'countries': 14,
   'markers': 1565,
-  'photos': 1795
+  'photos': 1796
 }
