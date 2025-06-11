@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/bcnbits/',
   'location': 'Barcelona, Catalonia',
   'countries': 14,
-  'markers': 1565,
-  'photos': 1796
+  'markers': 1566,
+  'photos': 1797
 }
