@@ -1,6 +1,6 @@
 countries_dict = {
   'MT': ['Malta', 129, 524],
-  'ES': ['Spain', 1077, 7995],
+  'ES': ['Spain', 1082, 8025],
   'EG': ['Egypt', 89, 515],
   'GB': ['United Kingdom', 52, 529],
   'DE': ['Germany', 135, 345],
