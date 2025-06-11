@@ -41,7 +41,7 @@ countries_dict = {
   'FR': ['France', 69, 131],
   'PY': ['Paraguay', 3, 9],
   'PW': ['Palau', 129, 138],
-  'IT': ['Italy', 477, 800],
+  'IT': ['Italy', 477, 811],
   'AU': ['Australia', 56, 95],
   'RU': ['Russia', 31, 43],
   'BR': ['Brazil', 246, 460],
