@@ -403,5 +403,7 @@ coords_dict = {
   '32.716055,-117.161439': ['US', 'United States'],
   '32.716438,-117.161476': ['US', 'United States'],
   '32.715855,-117.161751': ['US', 'United States'],
-  '32.715808,-117.161956': ['US', 'United States']
+  '32.715808,-117.161956': ['US', 'United States'],
+  '32.716625,-117.161409': ['US', 'United States'],
+  '32.737105,-117.149476': ['US', 'United States']
 }
