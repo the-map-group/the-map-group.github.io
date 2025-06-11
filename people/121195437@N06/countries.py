@@ -1,5 +1,5 @@
 countries_dict = {
-  'SE': ['Sweden', 52, 60],
+  'SE': ['Sweden', 53, 61],
   'CZ': ['Czech Republic', 2, 2],
   'ES': ['Spain', 187, 221],
   'SM': ['San Marino', 1, 2],
@@ -16,7 +16,7 @@ countries_dict = {
   'FR': ['France', 558, 719],
   'CA': ['Canada', 16, 39],
   'DK': ['Denmark', 67, 70],
-  'DE': ['Germany', 1631, 2539],
+  'DE': ['Germany', 1631, 2540],
   'NL': ['Netherlands', 270, 321],
   'IT': ['Italy', 18, 33],
   'MC': ['Monaco', 1, 1],
@@ -24,5 +24,5 @@ countries_dict = {
   'NO': ['Norway', 524, 575],
   'LT': ['Lithuania', 2, 3],
   'GB': ['United Kingdom', 135, 170],
-  'FI': ['Finland', 9, 9]
+  'FI': ['Finland', 10, 10]
 }
