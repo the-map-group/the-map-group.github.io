@@ -7,7 +7,7 @@ countries_dict = {
   'ZM': ['Zambia', 6, 6],
   'TR': ['Turkey', 33, 61],
   'RO': ['Romania', 30, 30],
-  'IT': ['Italy', 1285, 1492],
+  'IT': ['Italy', 1286, 1493],
   'AE': ['United Arab Emirates', 1, 2],
   'FR': ['France', 9, 9],
   'AU': ['Australia', 16, 27],
