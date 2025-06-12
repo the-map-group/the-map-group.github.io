@@ -9,7 +9,7 @@ countries_dict = {
   'AT': ['Austria', 29, 55],
   'IT': ['Italy', 32, 38],
   'CL': ['Chile', 4, 5],
-  'BE': ['Belgium', 604, 771],
+  'BE': ['Belgium', 605, 772],
   'AR': ['Argentina', 4, 4],
   'PT': ['Portugal', 13, 15],
   'CU': ['Cuba', 35, 44],
