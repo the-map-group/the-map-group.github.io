@@ -2440,3 +2440,59 @@ Map already has 22572 marker(s)
 Added marker 1/2
 Added marker 2/2
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: haniarodak...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Hanna Rodak'
+12 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: spelio...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'spelio'
+52425 photos in the photostream
+21 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 2 photo(s) in 2 marker(s)
+Adding marker(s) to map...
+Map already has 3888 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: MorBCN...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'MorBCN'
+2663 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+56026 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 385 marker(s)Batch 2/10 | 1000 photo(s) in 745 marker(s)Batch 3/10 | 1500 photo(s) in 1135 marker(s)Batch 4/10 | 1993 photo(s) in 1441 marker(s)Batch 5/10 | 2490 photo(s) in 1764 marker(s)Batch 6/10 | 2773 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 5854 marker(s)
+7 new marker(s) will be added to the map
+Max number of markers reached. Removing 7 marker(s)...
+Added marker 1/7Added marker 2/7Added marker 3/7Added marker 4/7Added marker 5/7Added marker 6/7Added marker 7/7
+Finished!
