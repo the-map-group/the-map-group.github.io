@@ -1,6 +1,6 @@
 countries_dict = {
   'DJ': ['Djibouti', 42, 69],
-  'HR': ['Croatia', 80, 156],
+  'HR': ['Croatia', 80, 158],
   'NA': ['Namibia', 25, 38],
   'PT': ['Portugal', 194, 209],
   'FK': ['Falkland Islands', 179, 333],
@@ -48,7 +48,7 @@ countries_dict = {
   'IS': ['Iceland', 268, 418],
   'CA': ['Canada', 157, 233],
   'YE': ['Yemen', 12, 35],
-  'CN': ['China', 367, 681],
+  'CN': ['China', 367, 688],
   'UZ': ['Uzbekistan', 94, 236],
   'LS': ['Lesotho', 15, 19]
 }
