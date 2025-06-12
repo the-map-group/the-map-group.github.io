@@ -9,7 +9,7 @@ countries_dict = {
   'GI': ['Gibraltar', 1, 1],
   'VA': ['Vatican City', 141, 454],
   'ES': ['Spain', 11, 14],
-  'MY': ['Malaysia', 349, 480],
+  'MY': ['Malaysia', 350, 481],
   'DE': ['Germany', 37, 39],
   'CH': ['Switzerland', 5, 5],
   'PT': ['Portugal', 19, 33],
