@@ -56,7 +56,7 @@ countries_dict = {
   'RS': ['Serbia', 5, 6],
   'AT': ['Austria', 54, 59],
   'AE': ['United Arab Emirates', 6, 8],
-  'FR': ['France', 238, 408],
+  'FR': ['France', 240, 410],
   'ZA': ['South Africa', 24, 38],
   'BG': ['Bulgaria', 8, 9],
   'HN': ['Honduras', 5, 5],
