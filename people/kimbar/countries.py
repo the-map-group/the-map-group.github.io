@@ -11,7 +11,7 @@ countries_dict = {
   'MZ': ['Mozambique', 7, 15],
   'JO': ['Jordan', 1, 7],
   'MA': ['Morocco', 135, 273],
-  'ES': ['Spain', 149, 231],
+  'ES': ['Spain', 150, 234],
   'BA': ['Bosnia and Herzegovina', 1, 1],
   'IS': ['Iceland', 22, 29],
   'CL': ['Chile', 47, 78],
