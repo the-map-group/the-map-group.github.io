@@ -10,7 +10,7 @@ countries_dict = {
   'AE': ['United Arab Emirates', 108, 130],
   'SE': ['Sweden', 1, 1],
   'PL': ['Poland', 1, 3],
-  'TR': ['Turkey', 652, 737],
+  'TR': ['Turkey', 655, 740],
   'ES': ['Spain', 13, 16],
   'HU': ['Hungary', 19, 21],
   'CH': ['Switzerland', 30, 30],
