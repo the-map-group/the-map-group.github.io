@@ -13,5 +13,5 @@ countries_dict = {
   'IT': ['Italy', 2671, 3438],
   'AZ': ['Azerbaijan', 2, 2],
   'EE': ['Estonia', 170, 170],
-  'TR': ['Turkey', 107, 171]
+  'TR': ['Turkey', 122, 191]
 }
