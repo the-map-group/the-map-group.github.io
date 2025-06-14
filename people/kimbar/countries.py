@@ -7,7 +7,7 @@ countries_dict = {
   'PE': ['Peru', 42, 81],
   'UY': ['Uruguay', 15, 21],
   'HR': ['Croatia', 14, 21],
-  'CZ': ['Czech Republic', 86, 96],
+  'CZ': ['Czech Republic', 87, 97],
   'MZ': ['Mozambique', 7, 15],
   'JO': ['Jordan', 1, 7],
   'MA': ['Morocco', 135, 273],
