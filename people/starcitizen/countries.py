@@ -8,5 +8,5 @@ countries_dict = {
   'NZ': ['New Zealand', 316, 330],
   'NO': ['Norway', 890, 925],
   'AR': ['Argentina', 226, 229],
-  'RU': ['Russia', 3, 3]
+  'RU': ['Russia', 4, 4]
 }
