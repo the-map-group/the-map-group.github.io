@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/138177073@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/archstanton/',
   'location': '',
-  'countries': 30,
-  'markers': 33515,
-  'photos': 40520
+  'countries': 31,
+  'markers': 33525,
+  'photos': 40530
 }
