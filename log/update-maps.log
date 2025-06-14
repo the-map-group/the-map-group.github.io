@@ -2552,3 +2552,33 @@ Added marker 12/14
 Added marker 13/14
 Added marker 14/14
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: MorBCN...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'MorBCN'
+2663 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+56112 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 396 marker(s)Batch 2/10 | 1000 photo(s) in 762 marker(s)Batch 3/10 | 1500 photo(s) in 1167 marker(s)Batch 4/10 | 1994 photo(s) in 1457 marker(s)Batch 5/10 | 2490 photo(s) in 1758 marker(s)Batch 6/10 | 2780 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 5879 marker(s)
+Added 7 new photo(s) to existing markers
+51 new marker(s) will be added to the map
+Max number of markers reached. Removing 51 marker(s)...
+Added marker 1/51Added marker 2/51Added marker 3/51Added marker 4/51Added marker 5/51Added marker 6/51Added marker 7/51Added marker 8/51Added marker 9/51Added marker 10/51Added marker 11/51Added marker 12/51Added marker 13/51Added marker 14/51Added marker 15/51Added marker 16/51Added marker 17/51Added marker 18/51Added marker 19/51Added marker 20/51Added marker 21/51Added marker 22/51Added marker 23/51Added marker 24/51Added marker 25/51Added marker 26/51Added marker 27/51Added marker 28/51Added marker 29/51Added marker 30/51Added marker 31/51Added marker 32/51Added marker 33/51Added marker 34/51Added marker 35/51Added marker 36/51Added marker 37/51Added marker 38/51Added marker 39/51Added marker 40/51Added marker 41/51Added marker 42/51Added marker 43/51Added marker 44/51Added marker 45/51Added marker 46/51Added marker 47/51Added marker 48/51Added marker 49/51Added marker 50/51Added marker 51/51
+Finished!
