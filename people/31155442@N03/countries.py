@@ -10,7 +10,7 @@ countries_dict = {
   'JP': ['Japan', 83, 121],
   'TH': ['Thailand', 78, 88],
   'DE': ['Germany', 57, 62],
-  'GB': ['United Kingdom', 979, 1206],
+  'GB': ['United Kingdom', 980, 1213],
   'AR': ['Argentina', 279, 473],
   'PR': ['Puerto Rico', 1, 1],
   'AW': ['Aruba', 58, 76],
