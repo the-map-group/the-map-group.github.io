@@ -19,7 +19,7 @@ countries_dict = {
   'SE': ['Sweden', 2, 2],
   'PF': ['French Polynesia', 142, 210],
   'HU': ['Hungary', 83, 87],
-  'ES': ['Spain', 428, 648],
+  'ES': ['Spain', 432, 654],
   'CO': ['Colombia', 124, 333],
   'SG': ['Singapore', 35, 50],
   'FR': ['France', 211, 384],
