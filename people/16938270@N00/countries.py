@@ -17,7 +17,7 @@ countries_dict = {
   'KE': ['Kenya', 1, 1],
   'CN': ['China', 3, 3],
   'TO': ['Tonga', 6, 6],
-  'CK': ['Cook Islands', 3, 3],
+  'CK': ['Cook Islands', 5, 5],
   'AE': ['United Arab Emirates', 1, 1],
   'KR': ['South Korea', 3, 3],
   'CA': ['Canada', 1, 1],
