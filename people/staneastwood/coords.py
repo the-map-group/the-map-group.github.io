@@ -5876,5 +5876,18 @@ coords_dict = {
   '58.360008,-4.227989': ['GB', 'United Kingdom'],
   '54.222272,-4.697289': ['IM', 'Isle of Man'],
   '51.857194,-3.844528': ['GB', 'United Kingdom'],
-  '51.876794,-4.018606': ['GB', 'United Kingdom']
+  '51.876794,-4.018606': ['GB', 'United Kingdom'],
+  '50.792419,-1.013036': ['GB', 'United Kingdom'],
+  '50.79345,-1.01383': ['GB', 'United Kingdom'],
+  '50.794121,-1.01265': ['GB', 'United Kingdom'],
+  '50.793864,-1.012639': ['GB', 'United Kingdom'],
+  '50.793803,-1.012146': ['GB', 'United Kingdom'],
+  '50.793518,-1.008337': ['GB', 'United Kingdom'],
+  '50.793714,-1.009946': ['GB', 'United Kingdom'],
+  '50.793382,-1.010225': ['GB', 'United Kingdom'],
+  '50.793674,-1.012061': ['GB', 'United Kingdom'],
+  '50.793789,-1.012392': ['GB', 'United Kingdom'],
+  '50.793613,-1.012993': ['GB', 'United Kingdom'],
+  '50.793362,-1.013165': ['GB', 'United Kingdom'],
+  '50.792338,-1.012468': ['GB', 'United Kingdom']
 }
