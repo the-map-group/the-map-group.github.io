@@ -1,7 +1,7 @@
 countries_dict = {
   'HU': ['Hungary', 1, 1],
   'VA': ['Vatican City', 1, 1],
-  'FR': ['France', 6, 7],
+  'FR': ['France', 7, 8],
   'LY': ['Libya', 3, 3],
   'CH': ['Switzerland', 12, 21],
   'NE': ['Niger', 6, 7],
