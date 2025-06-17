@@ -99,7 +99,7 @@ countries_dict = {
   'RU': ['Russia', 2, 2],
   'FI': ['Finland', 5, 5],
   'IR': ['Iran', 10, 10],
-  'DE': ['Germany', 4233, 4430],
+  'DE': ['Germany', 4235, 4432],
   'TO': ['Tonga', 19, 19],
   'CD': ['Democratic Republic of the Congo', 113, 136],
   'KE': ['Kenya', 1, 1],
