@@ -12,7 +12,7 @@ countries_dict = {
   'CH': ['Switzerland', 227, 391],
   'GL': ['Greenland', 5, 5],
   'CA': ['Canada', 3, 4],
-  'US': ['United States', 1732, 3390],
+  'US': ['United States', 1734, 3392],
   'JP': ['Japan', 141, 164],
   'HU': ['Hungary', 3, 3],
   'RO': ['Romania', 2, 3],
