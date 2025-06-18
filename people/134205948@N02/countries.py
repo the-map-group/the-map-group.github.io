@@ -2,7 +2,7 @@ countries_dict = {
   'VA': ['Vatican City', 11, 13],
   'AT': ['Austria', 2, 2],
   'SI': ['Slovenia', 3, 3],
-  'IT': ['Italy', 5971, 6582],
+  'IT': ['Italy', 5973, 6584],
   'HR': ['Croatia', 51, 58],
   'CH': ['Switzerland', 805, 915],
   'FR': ['France', 141, 164],
