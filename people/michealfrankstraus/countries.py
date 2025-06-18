@@ -1,7 +1,7 @@
 countries_dict = {
   'GB': ['United Kingdom', 122, 126],
   'SI': ['Slovenia', 7, 8],
-  'NO': ['Norway', 97, 97],
+  'NO': ['Norway', 98, 98],
   'NL': ['Netherlands', 12, 12],
   'CA': ['Canada', 18, 18],
   'CH': ['Switzerland', 11, 11],
