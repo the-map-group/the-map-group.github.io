@@ -3,7 +3,7 @@ countries_dict = {
   'CN': ['China', 3, 11],
   'CH': ['Switzerland', 3, 3],
   'AT': ['Austria', 1, 1],
-  'GB': ['United Kingdom', 575, 630],
+  'GB': ['United Kingdom', 576, 631],
   'EG': ['Egypt', 8, 11],
   'US': ['United States', 3, 6],
   'NL': ['Netherlands', 1, 1],
