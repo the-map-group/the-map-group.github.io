@@ -2,7 +2,7 @@ countries_dict = {
   'MX': ['Mexico', 210, 322],
   'GB': ['United Kingdom', 169, 301],
   'CN': ['China', 3, 3],
-  'US': ['United States', 1265, 2454],
+  'US': ['United States', 1265, 2457],
   'VN': ['Vietnam', 41, 117],
   'FK': ['Falkland Islands', 37, 121],
   'GR': ['Greece', 113, 168],
