@@ -5,6 +5,6 @@ countries_dict = {
   'BA': ['Bosnia and Herzegovina', 14, 14],
   'FR': ['France', 53, 54],
   'US': ['United States', 18, 21],
-  'JP': ['Japan', 3169, 37166],
+  'JP': ['Japan', 3170, 37167],
   'KP': ['North Korea', 1, 1]
 }
