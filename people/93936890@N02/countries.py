@@ -14,7 +14,7 @@ countries_dict = {
   'NP': ['Nepal', 21, 28],
   'MY': ['Malaysia', 5, 5],
   'CO': ['Colombia', 2, 2],
-  'CA': ['Canada', 106, 124],
+  'CA': ['Canada', 107, 125],
   'ES': ['Spain', 3, 3],
   'IM': ['Isle of Man', 1, 2],
   'MC': ['Monaco', 2, 2],
