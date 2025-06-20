@@ -743,3 +743,49 @@ Added marker 45/47
 Added marker 46/47
 Added marker 47/47
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: jklovelacephotograph...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Jeffrey Lovelace'
+77 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Beatrix MK...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Beatrix'
+1443 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Black Diamond Images...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Black Diamond Images'
+31094 photos in the photostream
+7 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 7 photo(s) in 7 marker(s)
+Adding marker(s) to map...
+Map already has 17182 marker(s)
+Added 1 new photo(s) to existing markers
+6 new marker(s) will be added to the map
+Added marker 1/6
+Added marker 2/6
+Added marker 3/6
+Added marker 4/6
+Added marker 5/6
+Added marker 6/6
+Finished!
