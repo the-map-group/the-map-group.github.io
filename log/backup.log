@@ -2,10 +2,11 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 51b9ebd] Backup commit
- 4862 files changed, 1263428 insertions(+)
+[main (root-commit) 1d274a8] Backup commit
+ 4749 files changed, 1260599 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
+ create mode 100644 __pycache__/user.cpython-311.pyc
  create mode 100644 _gitignore
  create mode 100644 aliases.py
  create mode 100755 api_credentials.py
@@ -797,9 +798,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 matrix.py
  create mode 100644 members.py
  create mode 100644 not_found.py
- create mode 100644 people/100112015@N06/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/100112015@N06/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/100112015@N06/__pycache__/user.cpython-311.pyc
  create mode 120000 people/100112015@N06/api_credentials.py
  create mode 100644 people/100112015@N06/config.py
  create mode 100644 people/100112015@N06/coords.py
@@ -857,9 +855,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/10096006@N07/photos/index.html
  create mode 100755 people/10096006@N07/update-countries-map-data.py
  create mode 100644 people/10096006@N07/user.py
- create mode 100644 people/111314495@N05/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/111314495@N05/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/111314495@N05/__pycache__/user.cpython-311.pyc
  create mode 120000 people/111314495@N05/api_credentials.py
  create mode 100644 people/111314495@N05/config.py
  create mode 100644 people/111314495@N05/coords.py
@@ -937,9 +932,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/120304125@N06/photos/index.html
  create mode 100755 people/120304125@N06/update-countries-map-data.py
  create mode 100644 people/120304125@N06/user.py
- create mode 100644 people/120861725@N07/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/120861725@N07/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/120861725@N07/__pycache__/user.cpython-311.pyc
  create mode 120000 people/120861725@N07/api_credentials.py
  create mode 100644 people/120861725@N07/config.py
  create mode 100644 people/120861725@N07/coords.py
@@ -997,9 +989,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/123864860@N07/photos/index.html
  create mode 100755 people/123864860@N07/update-countries-map-data.py
  create mode 100644 people/123864860@N07/user.py
- create mode 100644 people/123895834@N08/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/123895834@N08/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/123895834@N08/__pycache__/user.cpython-311.pyc
  create mode 120000 people/123895834@N08/api_credentials.py
  create mode 100644 people/123895834@N08/config.py
  create mode 100644 people/123895834@N08/coords.py
@@ -1117,9 +1106,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/134373885@N03/photos/index.html
  create mode 100755 people/134373885@N03/update-countries-map-data.py
  create mode 100644 people/134373885@N03/user.py
- create mode 100644 people/138182637@N08/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/138182637@N08/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/138182637@N08/__pycache__/user.cpython-311.pyc
  create mode 120000 people/138182637@N08/api_credentials.py
  create mode 100644 people/138182637@N08/config.py
  create mode 100644 people/138182637@N08/coords.py
@@ -1157,9 +1143,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/140907479@N08/photos/index.html
  create mode 100755 people/140907479@N08/update-countries-map-data.py
  create mode 100644 people/140907479@N08/user.py
- create mode 100644 people/144107033@N04/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/144107033@N04/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/144107033@N04/__pycache__/user.cpython-311.pyc
  create mode 120000 people/144107033@N04/api_credentials.py
  create mode 100644 people/144107033@N04/config.py
  create mode 100644 people/144107033@N04/coords.py
@@ -1197,9 +1180,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/146445851@N04/photos/index.html
  create mode 100755 people/146445851@N04/update-countries-map-data.py
  create mode 100644 people/146445851@N04/user.py
- create mode 100644 people/147135779@N02/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/147135779@N02/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/147135779@N02/__pycache__/user.cpython-311.pyc
  create mode 120000 people/147135779@N02/api_credentials.py
  create mode 100644 people/147135779@N02/config.py
  create mode 100644 people/147135779@N02/coords.py
@@ -1317,9 +1297,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/162684392@N05/photos/index.html
  create mode 100755 people/162684392@N05/update-countries-map-data.py
  create mode 100644 people/162684392@N05/user.py
- create mode 100644 people/163374426@N06/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/163374426@N06/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/163374426@N06/__pycache__/user.cpython-311.pyc
  create mode 120000 people/163374426@N06/api_credentials.py
  create mode 100644 people/163374426@N06/config.py
  create mode 100644 people/163374426@N06/coords.py
@@ -1457,9 +1434,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/188624701@N08/photos/index.html
  create mode 100755 people/188624701@N08/update-countries-map-data.py
  create mode 100644 people/188624701@N08/user.py
- create mode 100644 people/189316105@N08/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/189316105@N08/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/189316105@N08/__pycache__/user.cpython-311.pyc
  create mode 120000 people/189316105@N08/api_credentials.py
  create mode 100644 people/189316105@N08/config.py
  create mode 100644 people/189316105@N08/coords.py
@@ -1477,9 +1451,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/189316105@N08/photos/index.html
  create mode 100755 people/189316105@N08/update-countries-map-data.py
  create mode 100644 people/189316105@N08/user.py
- create mode 100644 people/189479352@N07/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/189479352@N07/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/189479352@N07/__pycache__/user.cpython-311.pyc
  create mode 120000 people/189479352@N07/api_credentials.py
  create mode 100644 people/189479352@N07/config.py
  create mode 100644 people/189479352@N07/coords.py
@@ -1797,9 +1768,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/27109078@N05/photos/index.html
  create mode 100755 people/27109078@N05/update-countries-map-data.py
  create mode 100644 people/27109078@N05/user.py
- create mode 100644 people/28330648@N03/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/28330648@N03/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/28330648@N03/__pycache__/user.cpython-311.pyc
  create mode 120000 people/28330648@N03/api_credentials.py
  create mode 100644 people/28330648@N03/config.py
  create mode 100644 people/28330648@N03/coords.py
@@ -1837,9 +1805,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/31155442@N03/photos/index.html
  create mode 100755 people/31155442@N03/update-countries-map-data.py
  create mode 100644 people/31155442@N03/user.py
- create mode 100644 people/31248131@N05/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/31248131@N05/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/31248131@N05/__pycache__/user.cpython-311.pyc
  create mode 120000 people/31248131@N05/api_credentials.py
  create mode 100644 people/31248131@N05/config.py
  create mode 100644 people/31248131@N05/coords.py
@@ -1877,9 +1842,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/35690321@N07/photos/index.html
  create mode 100755 people/35690321@N07/update-countries-map-data.py
  create mode 100644 people/35690321@N07/user.py
- create mode 100644 people/35812718@N06/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/35812718@N06/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/35812718@N06/__pycache__/user.cpython-311.pyc
  create mode 120000 people/35812718@N06/api_credentials.py
  create mode 100644 people/35812718@N06/config.py
  create mode 100644 people/35812718@N06/coords.py
@@ -1937,9 +1899,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/39904644@N05/photos/index.html
  create mode 100755 people/39904644@N05/update-countries-map-data.py
  create mode 100644 people/39904644@N05/user.py
- create mode 100644 people/39908901@N06/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/39908901@N06/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/39908901@N06/__pycache__/user.cpython-311.pyc
  create mode 120000 people/39908901@N06/api_credentials.py
  create mode 100644 people/39908901@N06/config.py
  create mode 100644 people/39908901@N06/coords.py
@@ -2017,9 +1976,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/55688814@N08/photos/index.html
  create mode 100755 people/55688814@N08/update-countries-map-data.py
  create mode 100644 people/55688814@N08/user.py
- create mode 100644 people/57727182@N08/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/57727182@N08/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/57727182@N08/__pycache__/user.cpython-311.pyc
  create mode 120000 people/57727182@N08/api_credentials.py
  create mode 100644 people/57727182@N08/config.py
  create mode 100644 people/57727182@N08/coords.py
@@ -2479,9 +2435,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/bcnbits/photos/index.html
  create mode 100755 people/bcnbits/update-countries-map-data.py
  create mode 100644 people/bcnbits/user.py
- create mode 100644 people/beatrixmvarga/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/beatrixmvarga/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/beatrixmvarga/__pycache__/user.cpython-311.pyc
  create mode 120000 people/beatrixmvarga/api_credentials.py
  create mode 100644 people/beatrixmvarga/config.py
  create mode 100644 people/beatrixmvarga/coords.py
@@ -2539,9 +2492,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/bennett-cachon/photos/index.html
  create mode 100755 people/bennett-cachon/update-countries-map-data.py
  create mode 100644 people/bennett-cachon/user.py
- create mode 100644 people/blackdiamondimages/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/blackdiamondimages/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/blackdiamondimages/__pycache__/user.cpython-311.pyc
  create mode 120000 people/blackdiamondimages/api_credentials.py
  create mode 100644 people/blackdiamondimages/config.py
  create mode 100644 people/blackdiamondimages/coords.py
@@ -2579,9 +2529,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/botetourt/photos/index.html
  create mode 100755 people/botetourt/update-countries-map-data.py
  create mode 100644 people/botetourt/user.py
- create mode 100644 people/byhowardsomerville/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/byhowardsomerville/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/byhowardsomerville/__pycache__/user.cpython-311.pyc
  create mode 120000 people/byhowardsomerville/api_credentials.py
  create mode 100644 people/byhowardsomerville/config.py
  create mode 100644 people/byhowardsomerville/coords.py
@@ -2822,9 +2769,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/davidstanleytravel/photos/index.html
  create mode 100755 people/davidstanleytravel/update-countries-map-data.py
  create mode 100644 people/davidstanleytravel/user.py
- create mode 100644 people/delgadobyron/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/delgadobyron/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/delgadobyron/__pycache__/user.cpython-311.pyc
  create mode 120000 people/delgadobyron/api_credentials.py
  create mode 100644 people/delgadobyron/config.py
  create mode 100644 people/delgadobyron/coords.py
@@ -2862,9 +2806,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/didifiosi/photos/index.html
  create mode 100755 people/didifiosi/update-countries-map-data.py
  create mode 100644 people/didifiosi/user.py
- create mode 100644 people/diwan/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/diwan/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/diwan/__pycache__/user.cpython-311.pyc
  create mode 120000 people/diwan/api_credentials.py
  create mode 100644 people/diwan/config.py
  create mode 100644 people/diwan/coords.py
@@ -3241,9 +3182,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/hugovonschreck/photos/index.html
  create mode 100755 people/hugovonschreck/update-countries-map-data.py
  create mode 100644 people/hugovonschreck/user.py
- create mode 100644 people/hutterdesign/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/hutterdesign/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/hutterdesign/__pycache__/user.cpython-311.pyc
  create mode 120000 people/hutterdesign/api_credentials.py
  create mode 100644 people/hutterdesign/config.py
  create mode 100644 people/hutterdesign/coords.py
@@ -3261,9 +3199,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/hutterdesign/photos/index.html
  create mode 100755 people/hutterdesign/update-countries-map-data.py
  create mode 100644 people/hutterdesign/user.py
- create mode 100644 people/iceland-ho/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/iceland-ho/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/iceland-ho/__pycache__/user.cpython-311.pyc
  create mode 120000 people/iceland-ho/api_credentials.py
  create mode 100644 people/iceland-ho/config.py
  create mode 100644 people/iceland-ho/coords.py
@@ -3302,9 +3237,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100755 people/ignaciomjimenez/update-countries-map-data.py
  create mode 100644 people/ignaciomjimenez/user.py
  create mode 100644 people/index.html
- create mode 100644 people/jasonfrels/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/jasonfrels/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/jasonfrels/__pycache__/user.cpython-311.pyc
  create mode 120000 people/jasonfrels/api_credentials.py
  create mode 100644 people/jasonfrels/config.py
  create mode 100644 people/jasonfrels/coords.py
@@ -3362,9 +3294,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/jenskoschitzki/photos/index.html
  create mode 100755 people/jenskoschitzki/update-countries-map-data.py
  create mode 100644 people/jenskoschitzki/user.py
- create mode 100644 people/jimgreig/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/jimgreig/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/jimgreig/__pycache__/user.cpython-311.pyc
  create mode 120000 people/jimgreig/api_credentials.py
  create mode 100644 people/jimgreig/config.py
  create mode 100644 people/jimgreig/coords.py
@@ -3442,9 +3371,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/jonahood/photos/index.html
  create mode 100755 people/jonahood/update-countries-map-data.py
  create mode 100644 people/jonahood/user.py
- create mode 100644 people/justaslice/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/justaslice/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/justaslice/__pycache__/user.cpython-311.pyc
  create mode 120000 people/justaslice/api_credentials.py
  create mode 100644 people/justaslice/config.py
  create mode 100644 people/justaslice/coords.py
@@ -3462,9 +3388,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/justaslice/photos/index.html
  create mode 100755 people/justaslice/update-countries-map-data.py
  create mode 100644 people/justaslice/user.py
- create mode 100644 people/kamo_kamoeiras/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/kamo_kamoeiras/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/kamo_kamoeiras/__pycache__/user.cpython-311.pyc
  create mode 120000 people/kamo_kamoeiras/api_credentials.py
  create mode 100644 people/kamo_kamoeiras/config.py
  create mode 100644 people/kamo_kamoeiras/coords.py
@@ -3482,9 +3405,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/kamo_kamoeiras/photos/index.html
  create mode 100755 people/kamo_kamoeiras/update-countries-map-data.py
  create mode 100644 people/kamo_kamoeiras/user.py
- create mode 100644 people/karen_ds1101/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/karen_ds1101/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/karen_ds1101/__pycache__/user.cpython-311.pyc
  create mode 120000 people/karen_ds1101/api_credentials.py
  create mode 100644 people/karen_ds1101/config.py
  create mode 100644 people/karen_ds1101/coords.py
@@ -3602,9 +3522,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/lemmo2009/photos/index.html
  create mode 100755 people/lemmo2009/update-countries-map-data.py
  create mode 100644 people/lemmo2009/user.py
- create mode 100644 people/liamcheasty/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/liamcheasty/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/liamcheasty/__pycache__/user.cpython-311.pyc
  create mode 120000 people/liamcheasty/api_credentials.py
  create mode 100644 people/liamcheasty/config.py
  create mode 100644 people/liamcheasty/coords.py
@@ -3682,9 +3599,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/malioli/photos/index.html
  create mode 100755 people/malioli/update-countries-map-data.py
  create mode 100644 people/malioli/user.py
- create mode 100644 people/manfred_h/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/manfred_h/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/manfred_h/__pycache__/user.cpython-311.pyc
  create mode 120000 people/manfred_h/api_credentials.py
  create mode 100644 people/manfred_h/config.py
  create mode 100644 people/manfred_h/coords.py
@@ -3702,9 +3616,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/manfred_h/photos/index.html
  create mode 100755 people/manfred_h/update-countries-map-data.py
  create mode 100644 people/manfred_h/user.py
- create mode 100644 people/mariomartins/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/mariomartins/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/mariomartins/__pycache__/user.cpython-311.pyc
  create mode 120000 people/mariomartins/api_credentials.py
  create mode 100644 people/mariomartins/config.py
  create mode 100644 people/mariomartins/coords.py
@@ -3982,9 +3893,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/neyburg/photos/index.html
  create mode 100755 people/neyburg/update-countries-map-data.py
  create mode 100644 people/neyburg/user.py
- create mode 100644 people/nicolas-hoizey/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/nicolas-hoizey/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/nicolas-hoizey/__pycache__/user.cpython-311.pyc
  create mode 120000 people/nicolas-hoizey/api_credentials.py
  create mode 100644 people/nicolas-hoizey/config.py
  create mode 100644 people/nicolas-hoizey/coords.py
@@ -4042,9 +3950,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/oldboyscout/photos/index.html
  create mode 100755 people/oldboyscout/update-countries-map-data.py
  create mode 100644 people/oldboyscout/user.py
- create mode 100644 people/olegsokol/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/olegsokol/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/olegsokol/__pycache__/user.cpython-311.pyc
  create mode 120000 people/olegsokol/api_credentials.py
  create mode 100644 people/olegsokol/config.py
  create mode 100644 people/olegsokol/coords.py
@@ -4062,9 +3967,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/olegsokol/photos/index.html
  create mode 100755 people/olegsokol/update-countries-map-data.py
  create mode 100644 people/olegsokol/user.py
- create mode 100644 people/pacozerpa/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/pacozerpa/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/pacozerpa/__pycache__/user.cpython-311.pyc
  create mode 120000 people/pacozerpa/api_credentials.py
  create mode 100644 people/pacozerpa/config.py
  create mode 100644 people/pacozerpa/coords.py
@@ -4102,9 +4004,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/paradox_m/photos/index.html
  create mode 100755 people/paradox_m/update-countries-map-data.py
  create mode 100644 people/paradox_m/user.py
- create mode 100644 people/peterrath/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/peterrath/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/peterrath/__pycache__/user.cpython-311.pyc
  create mode 120000 people/peterrath/api_credentials.py
  create mode 100644 people/peterrath/config.py
  create mode 100644 people/peterrath/coords.py
@@ -4163,9 +4062,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100755 people/photos-by-ivor/update-countries-map-data.py
  create mode 100644 people/photos-by-ivor/user.py
  create mode 100644 people/photos.html
- create mode 100644 people/quanito/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/quanito/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/quanito/__pycache__/user.cpython-311.pyc
  create mode 120000 people/quanito/api_credentials.py
  create mode 100644 people/quanito/config.py
  create mode 100644 people/quanito/coords.py
@@ -4431,9 +4327,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/shabbagaz/photos/index.html
  create mode 100755 people/shabbagaz/update-countries-map-data.py
  create mode 100644 people/shabbagaz/user.py
- create mode 100644 people/shoa/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/shoa/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/shoa/__pycache__/user.cpython-311.pyc
  create mode 120000 people/shoa/api_credentials.py
  create mode 100644 people/shoa/config.py
  create mode 100644 people/shoa/coords.py
@@ -4491,9 +4384,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/spelio/photos/index.html
  create mode 100755 people/spelio/update-countries-map-data.py
  create mode 100644 people/spelio/user.py
- create mode 100644 people/staneastwood/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/staneastwood/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/staneastwood/__pycache__/user.cpython-311.pyc
  create mode 120000 people/staneastwood/api_credentials.py
  create mode 100644 people/staneastwood/config.py
  create mode 100644 people/staneastwood/coords.py
@@ -4756,9 +4646,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/visavis/photos/index.html
  create mode 100755 people/visavis/update-countries-map-data.py
  create mode 100644 people/visavis/user.py
- create mode 100644 people/volvob12b/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/volvob12b/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/volvob12b/__pycache__/user.cpython-311.pyc
  create mode 120000 people/volvob12b/api_credentials.py
  create mode 100644 people/volvob12b/config.py
  create mode 100644 people/volvob12b/coords.py
