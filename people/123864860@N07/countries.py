@@ -8,7 +8,7 @@ countries_dict = {
   'ZA': ['South Africa', 219, 303],
   'KG': ['Kyrgyzstan', 73, 79],
   'SE': ['Sweden', 13, 17],
-  'NO': ['Norway', 431, 567],
+  'NO': ['Norway', 436, 575],
   'CL': ['Chile', 268, 352],
   'CH': ['Switzerland', 4, 4],
   'US': ['United States', 522, 805],
