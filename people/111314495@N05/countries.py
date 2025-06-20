@@ -15,7 +15,7 @@ countries_dict = {
   'BB': ['Barbados', 1, 1],
   'JP': ['Japan', 147, 198],
   'CK': ['Cook Islands', 2, 2],
-  'NO': ['Norway', 28, 56],
+  'NO': ['Norway', 34, 62],
   'SE': ['Sweden', 2, 2],
   'PF': ['French Polynesia', 142, 210],
   'HU': ['Hungary', 83, 87],
