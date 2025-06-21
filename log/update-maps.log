@@ -4372,3 +4372,33 @@ Added marker 80/82
 Added marker 81/82
 Added marker 82/82
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: MorBCN...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'MorBCN'
+2665 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+56325 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 403 marker(s)Batch 2/10 | 1000 photo(s) in 766 marker(s)Batch 3/10 | 1500 photo(s) in 1164 marker(s)Batch 4/10 | 1996 photo(s) in 1499 marker(s)Batch 5/10 | 2492 photo(s) in 1786 marker(s)Batch 6/10 | 2781 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 6072 marker(s)
+Added 8 new photo(s) to existing markers
+24 new marker(s) will be added to the map
+Max number of markers reached. Removing 24 marker(s)...
+Added marker 1/24Added marker 2/24Added marker 3/24Added marker 4/24Added marker 5/24Added marker 6/24Added marker 7/24Added marker 8/24Added marker 9/24Added marker 10/24Added marker 11/24Added marker 12/24Added marker 13/24Added marker 14/24Added marker 15/24Added marker 16/24Added marker 17/24Added marker 18/24Added marker 19/24Added marker 20/24Added marker 21/24Added marker 22/24Added marker 23/24Added marker 24/24
+Finished!
