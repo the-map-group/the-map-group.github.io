@@ -2,7 +2,7 @@ countries_dict = {
   'ME': ['Montenegro', 3, 3],
   'BA': ['Bosnia and Herzegovina', 4, 4],
   'PL': ['Poland', 28, 29],
-  'GR': ['Greece', 2242, 3041],
+  'GR': ['Greece', 2246, 3047],
   'FR': ['France', 57, 85],
   'BE': ['Belgium', 1, 1],
   'DK': ['Denmark', 7048, 10732],
