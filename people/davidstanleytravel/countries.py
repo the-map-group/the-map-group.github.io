@@ -122,5 +122,5 @@ countries_dict = {
   'MD': ['Moldova', 30, 32],
   'CO': ['Colombia', 50, 56],
   'CV': ['Cape Verde', 23, 30],
-  'VN': ['Vietnam', 20, 23]
+  'VN': ['Vietnam', 24, 28]
 }
