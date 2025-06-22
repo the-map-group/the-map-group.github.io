@@ -7,12 +7,12 @@ countries_dict = {
   'MA': ['Morocco', 11, 24],
   'FR': ['France', 2, 4],
   'JO': ['Jordan', 3, 9],
-  'ES': ['Spain', 13, 17],
+  'ES': ['Spain', 14, 18],
   'DE': ['Germany', 50, 78],
   'PE': ['Peru', 10, 16],
   'CH': ['Switzerland', 10, 17],
   'EC': ['Ecuador', 1, 1],
   'PT': ['Portugal', 2, 3],
-  'NO': ['Norway', 9, 13],
+  'NO': ['Norway', 9, 14],
   'IS': ['Iceland', 16, 28]
 }
