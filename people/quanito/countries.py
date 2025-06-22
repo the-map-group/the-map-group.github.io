@@ -39,7 +39,7 @@ countries_dict = {
   'KH': ['Cambodia', 1, 24],
   'CN': ['China', 22, 1541],
   'SE': ['Sweden', 46, 182],
-  'FR': ['France', 2900, 15049],
+  'FR': ['France', 2915, 15075],
   'MY': ['Malaysia', 2, 6],
   'EG': ['Egypt', 30, 330],
   'LA': ['Laos', 5, 57],
