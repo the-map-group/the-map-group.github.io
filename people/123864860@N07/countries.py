@@ -24,7 +24,7 @@ countries_dict = {
   'AQ': ['Antarctica', 89, 189],
   'FJ': ['Fiji', 68, 93],
   'CZ': ['Czech Republic', 26, 70],
-  'KZ': ['Kazakhstan', 115, 259],
+  'KZ': ['Kazakhstan', 115, 271],
   'IE': ['Ireland', 130, 187],
   'NZ': ['New Zealand', 218, 340],
   'SG': ['Singapore', 3, 3],
