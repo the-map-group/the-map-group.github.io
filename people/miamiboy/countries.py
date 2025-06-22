@@ -12,7 +12,7 @@ countries_dict = {
   'KY': ['Cayman Islands', 5, 18],
   'AW': ['Aruba', 6, 20],
   'MX': ['Mexico', 9, 29],
-  'US': ['United States', 7989, 12838],
+  'US': ['United States', 7992, 12841],
   'GT': ['Guatemala', 15, 23],
   'BS': ['Bahamas', 15, 16],
   'PT': ['Portugal', 1, 2],
