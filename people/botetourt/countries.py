@@ -9,5 +9,5 @@ countries_dict = {
   'NL': ['Netherlands', 1, 1],
   'IT': ['Italy', 351, 491],
   'QA': ['Qatar', 3, 3],
-  'KE': ['Kenya', 292, 509]
+  'KE': ['Kenya', 293, 512]
 }
