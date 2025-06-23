@@ -6990,5 +6990,8 @@ coords_dict = {
   '26.645122,-81.868714': ['US', 'United States'],
   '26.644791,-81.869073': ['US', 'United States'],
   '26.644663,-81.869209': ['US', 'United States'],
-  '26.644736,-81.869295': ['US', 'United States']
+  '26.644736,-81.869295': ['US', 'United States'],
+  '26.644613,-81.869348': ['US', 'United States'],
+  '26.644719,-81.869295': ['US', 'United States'],
+  '26.644761,-81.869295': ['US', 'United States']
 }
