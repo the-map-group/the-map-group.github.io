@@ -6,7 +6,7 @@ countries_dict = {
   'JO': ['Jordan', 5, 29],
   'GR': ['Greece', 642, 4166],
   'IE': ['Ireland', 4, 19],
-  'IT': ['Italy', 883, 7319],
+  'IT': ['Italy', 884, 7333],
   'AT': ['Austria', 8, 134],
   'PT': ['Portugal', 50, 184],
   'MA': ['Morocco', 119, 592],
