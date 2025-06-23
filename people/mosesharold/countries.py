@@ -19,7 +19,7 @@ countries_dict = {
   'MX': ['Mexico', 4, 4],
   'EC': ['Ecuador', 11, 27],
   'LK': ['Sri Lanka', 9, 11],
-  'US': ['United States', 264, 368],
+  'US': ['United States', 272, 376],
   'LC': ['St Lucia', 20, 42],
   'IE': ['Ireland', 13, 16],
   'TC': ['Turks and Caicos Islands', 1, 2],
