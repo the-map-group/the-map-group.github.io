@@ -57,5 +57,6 @@ countries_dict = {
   'SZ': ['Eswatini', 9, 11],
   'AU': ['Australia', 143, 318],
   'IE': ['Ireland', 74, 104],
-  'RU': ['Russia', 10, 12]
+  'RU': ['Russia', 10, 12],
+  'SJ': ['Svalbard and Jan Mayen', 6, 6]
 }
