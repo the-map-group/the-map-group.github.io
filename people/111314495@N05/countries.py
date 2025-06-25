@@ -41,7 +41,7 @@ countries_dict = {
   'GS': ['South Georgia and South Sandwich Islands', 22, 77],
   'BE': ['Belgium', 50, 76],
   'DE': ['Germany', 36, 69],
-  'DK': ['Denmark', 68, 90],
+  'DK': ['Denmark', 68, 91],
   'AQ': ['Antarctica', 98, 203],
   'PR': ['Puerto Rico', 3, 4],
   'DO': ['Dominican Republic', 1, 11],
