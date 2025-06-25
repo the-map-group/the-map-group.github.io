@@ -15,7 +15,7 @@ countries_dict = {
   'IT': ['Italy', 8, 8],
   'DK': ['Denmark', 112, 150],
   'RU': ['Russia', 11, 12],
-  'US': ['United States', 407, 461],
+  'US': ['United States', 408, 462],
   'CZ': ['Czech Republic', 39, 46],
   'GB': ['United Kingdom', 8, 9]
 }
