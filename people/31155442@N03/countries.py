@@ -25,7 +25,7 @@ countries_dict = {
   'BE': ['Belgium', 60, 66],
   'IT': ['Italy', 269, 353],
   'NO': ['Norway', 102, 108],
-  'US': ['United States', 6406, 10330],
+  'US': ['United States', 6407, 10331],
   'DO': ['Dominican Republic', 33, 64],
   'PA': ['Panama', 77, 123],
   'UY': ['Uruguay', 54, 95],
