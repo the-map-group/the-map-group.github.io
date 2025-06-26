@@ -22,5 +22,6 @@ countries_dict = {
   'DE': ['Germany', 22, 22],
   'BE': ['Belgium', 5, 6],
   'IS': ['Iceland', 52, 57],
-  'NA': ['Namibia', 15, 32]
+  'NA': ['Namibia', 15, 32],
+  'JP': ['Japan', 1, 1]
 }
