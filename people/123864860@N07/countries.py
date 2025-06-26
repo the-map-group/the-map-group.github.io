@@ -5,7 +5,7 @@ countries_dict = {
   'PT': ['Portugal', 194, 209],
   'FK': ['Falkland Islands', 181, 343],
   'JP': ['Japan', 23, 76],
-  'ZA': ['South Africa', 219, 303],
+  'ZA': ['South Africa', 223, 310],
   'KG': ['Kyrgyzstan', 73, 79],
   'SE': ['Sweden', 13, 17],
   'NO': ['Norway', 436, 575],
