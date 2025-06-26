@@ -33,6 +33,6 @@ countries_dict = {
   'TL': ['East Timor', 4, 4],
   'US': ['United States', 871, 1032],
   'SK': ['Slovakia', 1, 1],
-  'AU': ['Australia', 13058, 16064],
+  'AU': ['Australia', 13063, 16070],
   'NL': ['Netherlands', 1, 1]
 }
