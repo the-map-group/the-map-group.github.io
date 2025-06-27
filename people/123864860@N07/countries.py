@@ -14,7 +14,7 @@ countries_dict = {
   'US': ['United States', 522, 805],
   'MX': ['Mexico', 149, 201],
   'CU': ['Cuba', 17, 25],
-  'ES': ['Spain', 40, 130],
+  'ES': ['Spain', 41, 136],
   'FM': ['Micronesia', 162, 170],
   'MM': ['Myanmar', 468, 568],
   'TN': ['Tunisia', 1, 1],
