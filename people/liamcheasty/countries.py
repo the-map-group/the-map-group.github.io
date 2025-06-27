@@ -6,7 +6,7 @@ countries_dict = {
   'TR': ['Turkey', 78, 292],
   'AT': ['Austria', 37, 180],
   'ZA': ['South Africa', 8, 97],
-  'GB': ['United Kingdom', 11, 71],
+  'GB': ['United Kingdom', 11, 74],
   'AX': ['Aland Islands', 9, 9],
   'SE': ['Sweden', 140, 415],
   'IT': ['Italy', 139, 635],
