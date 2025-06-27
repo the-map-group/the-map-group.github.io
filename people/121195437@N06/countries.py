@@ -1,5 +1,5 @@
 countries_dict = {
-  'SE': ['Sweden', 63, 71],
+  'SE': ['Sweden', 65, 73],
   'CZ': ['Czech Republic', 2, 2],
   'ES': ['Spain', 187, 221],
   'SM': ['San Marino', 1, 2],
@@ -24,5 +24,5 @@ countries_dict = {
   'NO': ['Norway', 524, 575],
   'LT': ['Lithuania', 2, 3],
   'GB': ['United Kingdom', 135, 170],
-  'FI': ['Finland', 33, 34]
+  'FI': ['Finland', 34, 35]
 }
