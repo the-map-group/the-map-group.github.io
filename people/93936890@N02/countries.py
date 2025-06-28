@@ -40,6 +40,6 @@ countries_dict = {
   'SE': ['Sweden', 2, 2],
   'BE': ['Belgium', 2, 3],
   'BZ': ['Belize', 1, 1],
-  'US': ['United States', 252, 345],
+  'US': ['United States', 253, 346],
   'CN': ['China', 15, 18]
 }
