@@ -24,7 +24,7 @@ countries_dict = {
   'JP': ['Japan', 47, 61],
   'EG': ['Egypt', 10, 11],
   'PL': ['Poland', 20, 20],
-  'US': ['United States', 794, 1193],
+  'US': ['United States', 794, 1194],
   'NL': ['Netherlands', 14, 18],
   'CZ': ['Czech Republic', 37, 43],
   'FR': ['France', 108, 193],
