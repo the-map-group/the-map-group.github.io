@@ -10,6 +10,6 @@ countries_dict = {
   'AL': ['Albania', 4, 4],
   'VA': ['Vatican City', 5, 7],
   'ME': ['Montenegro', 801, 897],
-  'GR': ['Greece', 85, 96],
+  'GR': ['Greece', 86, 97],
   'ES': ['Spain', 115, 134]
 }
