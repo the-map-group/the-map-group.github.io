@@ -7,7 +7,7 @@ countries_dict = {
   'VA': ['Vatican City', 16, 20],
   'US': ['United States', 3714, 6516],
   'NL': ['Netherlands', 1, 1],
-  'IT': ['Italy', 351, 491],
+  'IT': ['Italy', 351, 492],
   'QA': ['Qatar', 3, 3],
   'KE': ['Kenya', 293, 514]
 }
