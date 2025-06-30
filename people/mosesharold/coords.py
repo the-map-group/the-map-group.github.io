@@ -2019,5 +2019,9 @@ coords_dict = {
   '56.988566,-135.707525': ['US', 'United States'],
   '56.985205,-135.718062': ['US', 'United States'],
   '55.615213,-1.655156': ['GB', 'United Kingdom'],
-  '55.616697,-1.655267': ['GB', 'United Kingdom']
+  '55.616697,-1.655267': ['GB', 'United Kingdom'],
+  '55.61523,-1.655134': ['GB', 'United Kingdom'],
+  '55.615216,-1.655187': ['GB', 'United Kingdom'],
+  '55.61525,-1.655303': ['GB', 'United Kingdom'],
+  '55.61523,-1.655198': ['GB', 'United Kingdom']
 }
