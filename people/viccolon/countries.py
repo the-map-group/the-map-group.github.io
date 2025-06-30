@@ -25,7 +25,7 @@ countries_dict = {
   'HR': ['Croatia', 2, 2],
   'PT': ['Portugal', 3, 6],
   'CN': ['China', 3, 10],
-  'RU': ['Russia', 37, 89],
+  'RU': ['Russia', 37, 90],
   'IL': ['Israel', 4, 6],
   'ES': ['Spain', 12, 26],
   'CU': ['Cuba', 13, 26],
