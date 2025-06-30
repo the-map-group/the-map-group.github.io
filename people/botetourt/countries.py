@@ -2,7 +2,7 @@ countries_dict = {
   'TR': ['Turkey', 2, 2],
   'GB': ['United Kingdom', 52, 95],
   'MX': ['Mexico', 8, 10],
-  'TZ': ['Tanzania', 330, 979],
+  'TZ': ['Tanzania', 330, 980],
   'CA': ['Canada', 1, 1],
   'VA': ['Vatican City', 16, 20],
   'US': ['United States', 3714, 6516],
