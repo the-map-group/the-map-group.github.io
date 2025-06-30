@@ -15,6 +15,6 @@ countries_dict = {
   'ZA': ['South Africa', 311, 320],
   'AT': ['Austria', 71, 95],
   'IM': ['Isle of Man', 20, 55],
-  'DE': ['Germany', 374, 479],
+  'DE': ['Germany', 374, 481],
   'MC': ['Monaco', 3, 3]
 }
