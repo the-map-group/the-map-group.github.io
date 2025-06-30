@@ -5,8 +5,8 @@ countries_dict = {
   'CL': ['Chile', 105, 119],
   'ES': ['Spain', 1167, 1200],
   'CH': ['Switzerland', 6, 6],
-  'NZ': ['New Zealand', 316, 330],
+  'NZ': ['New Zealand', 317, 331],
   'NO': ['Norway', 890, 925],
   'AR': ['Argentina', 226, 229],
-  'RU': ['Russia', 14, 14]
+  'RU': ['Russia', 15, 15]
 }
