@@ -3992,5 +3992,12 @@ coords_dict = {
   '43.387834,-8.400871': ['ES', 'Spain'],
   '77.014465,15.879964': ['SJ', 'Svalbard and Jan Mayen'],
   '77.015623,15.878913': ['SJ', 'Svalbard and Jan Mayen'],
-  '77.015193,15.877196': ['SJ', 'Svalbard and Jan Mayen']
+  '77.015193,15.877196': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.015912,15.880908': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.015555,15.888161': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.015748,15.876574': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.015545,15.88417': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.015015,15.876016': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.014292,15.871982': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.549092,15.058307': ['SJ', 'Svalbard and Jan Mayen']
 }
