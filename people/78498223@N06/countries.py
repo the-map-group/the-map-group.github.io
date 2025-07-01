@@ -21,7 +21,7 @@ countries_dict = {
   'NZ': ['New Zealand', 1, 1],
   'MT': ['Malta', 1, 1],
   'RO': ['Romania', 1, 1],
-  'GR': ['Greece', 127, 372],
+  'GR': ['Greece', 127, 375],
   'RU': ['Russia', 1, 1],
   'IE': ['Ireland', 1, 1],
   'TR': ['Turkey', 1, 1],
