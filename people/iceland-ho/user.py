@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://live.staticflickr.com/5674/buddyicons/59509464@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/iceland-ho/',
   'location': 'Reykjavík, Iceland',
-  'countries': 17,
-  'markers': 3165,
-  'photos': 3168
+  'countries': 18,
+  'markers': 3167,
+  'photos': 3170
 }
