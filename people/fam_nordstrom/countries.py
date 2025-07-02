@@ -10,7 +10,7 @@ countries_dict = {
   'CL': ['Chile', 5, 55],
   'OM': ['Oman', 2, 2],
   'KE': ['Kenya', 5, 5],
-  'CZ': ['Czech Republic', 47, 140],
+  'CZ': ['Czech Republic', 48, 145],
   'PE': ['Peru', 511, 1760],
   'DK': ['Denmark', 9, 12],
   'GB': ['United Kingdom', 17, 24],
