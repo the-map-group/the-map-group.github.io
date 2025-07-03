@@ -4,7 +4,7 @@ countries_dict = {
   'GB': ['United Kingdom', 147, 150],
   'SM': ['San Marino', 34, 35],
   'AT': ['Austria', 239, 327],
-  'DE': ['Germany', 2381, 28904],
+  'DE': ['Germany', 2388, 28916],
   'RU': ['Russia', 427, 509],
   'LT': ['Lithuania', 125, 136],
   'LV': ['Latvia', 149, 149],
