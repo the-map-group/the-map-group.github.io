@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/111314495@N05/',
   'location': 'Beachwood, US',
   'countries': 60,
-  'markers': 5663,
-  'photos': 10120
+  'markers': 5670,
+  'photos': 10127
 }

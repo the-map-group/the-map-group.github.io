@@ -3999,5 +3999,6 @@ coords_dict = {
   '77.015545,15.88417': ['SJ', 'Svalbard and Jan Mayen'],
   '77.015015,15.876016': ['SJ', 'Svalbard and Jan Mayen'],
   '77.014292,15.871982': ['SJ', 'Svalbard and Jan Mayen'],
-  '77.549092,15.058307': ['SJ', 'Svalbard and Jan Mayen']
+  '77.549092,15.058307': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.559146,14.516587': ['SJ', 'Svalbard and Jan Mayen']
 }
