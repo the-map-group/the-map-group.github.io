@@ -4,6 +4,6 @@ countries_dict = {
   'ES': ['Spain', 7, 7],
   'CU': ['Cuba', 1, 1],
   'CA': ['Canada', 225, 227],
-  'US': ['United States', 497, 505],
+  'US': ['United States', 498, 506],
   'FR': ['France', 1, 1]
 }
