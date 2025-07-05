@@ -2,10 +2,10 @@ user_info = {
   'id': '88196436@N04',
   'alias': 'saw_that',
   'name': 'I saw_that',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/88196436@N04_r.jpg',
+  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
   'url': 'https://www.flickr.com/photos/saw_that/',
   'location': 'Iqaluit, Nunavut, Canada',
   'countries': 18,
-  'markers': 1355,
-  'photos': 2671
+  'markers': 1356,
+  'photos': 2673
 }
