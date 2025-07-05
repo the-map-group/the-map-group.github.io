@@ -26,7 +26,7 @@ countries_dict = {
   'DM': ['Dominica', 4, 4],
   'PT': ['Portugal', 43, 54],
   'ID': ['Indonesia', 2, 2],
-  'GB': ['United Kingdom', 444, 633],
+  'GB': ['United Kingdom', 446, 635],
   'VC': ['St Vincent and the Grenadines', 5, 6],
   'OM': ['Oman', 44, 58],
   'NL': ['Netherlands', 10, 10],

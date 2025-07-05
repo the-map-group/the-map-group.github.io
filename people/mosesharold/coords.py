@@ -2025,5 +2025,7 @@ coords_dict = {
   '55.61525,-1.655303': ['GB', 'United Kingdom'],
   '55.61523,-1.655198': ['GB', 'United Kingdom'],
   '55.615205,-1.655256': ['GB', 'United Kingdom'],
-  '55.615213,-1.655209': ['GB', 'United Kingdom']
+  '55.615213,-1.655209': ['GB', 'United Kingdom'],
+  '55.615333,-1.655206': ['GB', 'United Kingdom'],
+  '55.615213,-1.655164': ['GB', 'United Kingdom']
 }
