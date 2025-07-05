@@ -2,10 +2,10 @@ user_info = {
   'id': '135298455@N04',
   'alias': 'quanito',
   'name': 'Pascal VU',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/135298455@N04_r.jpg',
+  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
   'url': 'https://www.flickr.com/photos/quanito/',
   'location': 'Nogent sur Marne, FRANCE',
   'countries': 53,
-  'markers': 6279,
-  'photos': 33581
+  'markers': 6298,
+  'photos': 33610
 }
