@@ -2,10 +2,10 @@ user_info = {
   'id': '36531876@N00',
   'alias': 'olegsokol',
   'name': 'Oleg S',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/36531876@N00_r.jpg',
+  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
   'url': 'https://www.flickr.com/photos/olegsokol/',
   'location': 'Philadelphia, USA',
   'countries': 27,
-  'markers': 745,
-  'photos': 912
+  'markers': 746,
+  'photos': 913
 }
