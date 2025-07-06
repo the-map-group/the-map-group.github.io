@@ -2,10 +2,10 @@ user_info = {
   'id': '126251698@N03',
   'alias': 'miamiboy',
   'name': 'Urban Florida Photographer',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://live.staticflickr.com/5674/buddyicons/126251698@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/miamiboy/',
   'location': '',
   'countries': 26,
-  'markers': 8203,
-  'photos': 13305
+  'markers': 8204,
+  'photos': 13307
 }
