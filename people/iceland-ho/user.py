@@ -2,10 +2,10 @@ user_info = {
   'id': '59509464@N00',
   'alias': 'iceland-ho',
   'name': 'Hugi Ólafsson',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://live.staticflickr.com/5674/buddyicons/59509464@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/iceland-ho/',
   'location': 'Reykjavík, Iceland',
   'countries': 18,
-  'markers': 3170,
-  'photos': 3173
+  'markers': 3171,
+  'photos': 3174
 }
