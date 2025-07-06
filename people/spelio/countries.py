@@ -5,5 +5,5 @@ countries_dict = {
   'CA': ['Canada', 4, 4],
   'FR': ['France', 14, 15],
   'NZ': ['New Zealand', 1, 1],
-  'GB': ['United Kingdom', 10, 10]
+  'GB': ['United Kingdom', 11, 11]
 }
