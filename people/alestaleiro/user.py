@@ -2,10 +2,10 @@ user_info = {
   'id': '99949037@N00',
   'alias': 'alestaleiro',
   'name': 'Alejandro David Olivera',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://live.staticflickr.com/5674/buddyicons/99949037@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/alestaleiro/',
   'location': 'Praia do Estaleiro - B. Camboriú, BRASIL',
   'countries': 26,
-  'markers': 3929,
-  'photos': 5359
+  'markers': 3931,
+  'photos': 5361
 }
