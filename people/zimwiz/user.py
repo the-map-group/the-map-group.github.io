@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/zimwiz/',
   'location': '',
   'countries': 5,
-  'markers': 690,
-  'photos': 981
+  'markers': 691,
+  'photos': 982
 }
