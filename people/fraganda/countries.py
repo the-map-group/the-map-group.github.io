@@ -14,5 +14,5 @@ countries_dict = {
   'CU': ['Cuba', 6, 6],
   'CW': ['Curaçao', 6, 6],
   'NL': ['Netherlands', 6, 6],
-  'BE': ['Belgium', 111, 111]
+  'BE': ['Belgium', 112, 112]
 }
