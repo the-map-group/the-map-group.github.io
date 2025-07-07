@@ -28,7 +28,7 @@ countries_dict = {
   'UG': ['Uganda', 1, 1],
   'SG': ['Singapore', 13, 15],
   'TR': ['Turkey', 64, 73],
-  'ID': ['Indonesia', 34, 35],
+  'ID': ['Indonesia', 36, 37],
   'NZ': ['New Zealand', 30, 30],
   'NF': ['Norfolk Island', 7, 7],
   'OM': ['Oman', 2, 2],
