@@ -3,7 +3,7 @@ countries_dict = {
   'HR': ['Croatia', 80, 168],
   'NA': ['Namibia', 25, 38],
   'PT': ['Portugal', 194, 209],
-  'FK': ['Falkland Islands', 181, 343],
+  'FK': ['Falkland Islands', 182, 358],
   'JP': ['Japan', 23, 76],
   'ZA': ['South Africa', 223, 310],
   'KG': ['Kyrgyzstan', 73, 79],
