@@ -2,10 +2,10 @@ user_info = {
   'id': '43413480@N07',
   'alias': 'liamcheasty',
   'name': 'Liam Cheasty',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/43413480@N07_r.jpg',
+  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
   'url': 'https://www.flickr.com/photos/liamcheasty/',
   'location': 'Waterford, Ireland',
   'countries': 29,
-  'markers': 3537,
-  'photos': 17964
+  'markers': 3538,
+  'photos': 17965
 }
