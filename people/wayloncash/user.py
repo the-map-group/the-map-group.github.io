@@ -2,10 +2,10 @@ user_info = {
   'id': '97555832@N08',
   'alias': 'wayloncash',
   'name': 'Wayloncash',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/97555832@N08_r.jpg',
+  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
   'url': 'https://www.flickr.com/photos/wayloncash/',
   'location': '',
   'countries': 28,
-  'markers': 22817,
-  'photos': 47502
+  'markers': 22820,
+  'photos': 47506
 }
