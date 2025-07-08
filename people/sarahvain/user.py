@@ -2,10 +2,10 @@ user_info = {
   'id': '7633518@N08',
   'alias': 'sarahvain',
   'name': 'Sarah Stierch',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/7633518@N08_r.jpg',
+  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
   'url': 'https://www.flickr.com/photos/sarahvain/',
   'location': 'Sonoma, CA, USA',
   'countries': 14,
-  'markers': 13247,
-  'photos': 18335
+  'markers': 13249,
+  'photos': 18337
 }
