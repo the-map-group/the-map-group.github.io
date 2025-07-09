@@ -2,10 +2,10 @@ user_info = {
   'id': '74758246@N08',
   'alias': 'hugovonschreck',
   'name': 'Heinz Dieter  Heil',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/74758246@N08_r.jpg',
+  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
   'url': 'https://www.flickr.com/photos/hugovonschreck/',
   'location': 'Linsengericht, Germany',
   'countries': 11,
   'markers': 1578,
-  'photos': 6428
+  'photos': 6430
 }
