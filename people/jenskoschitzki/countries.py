@@ -10,7 +10,7 @@ countries_dict = {
   'LV': ['Latvia', 149, 149],
   'HR': ['Croatia', 214, 244],
   'FI': ['Finland', 126, 127],
-  'IT': ['Italy', 2697, 3469],
+  'IT': ['Italy', 2711, 3485],
   'AZ': ['Azerbaijan', 2, 2],
   'EE': ['Estonia', 170, 170],
   'TR': ['Turkey', 338, 445]
