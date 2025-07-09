@@ -16,5 +16,5 @@ countries_dict = {
   'FO': ['Faroe Islands', 9, 9],
   'KR': ['South Korea', 13, 13],
   'SE': ['Sweden', 1, 1],
-  'PT': ['Portugal', 7, 7]
+  'PT': ['Portugal', 8, 8]
 }
