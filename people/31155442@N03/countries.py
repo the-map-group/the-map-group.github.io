@@ -17,7 +17,7 @@ countries_dict = {
   'FI': ['Finland', 51, 68],
   'BS': ['Bahamas', 34, 44],
   'RU': ['Russia', 123, 204],
-  'VE': ['Venezuela', 1, 1],
+  'VE': ['Venezuela', 6, 8],
   'VI': ['U.S. Virgin Islands', 1, 1],
   'AU': ['Australia', 207, 263],
   'ES': ['Spain', 215, 306],
