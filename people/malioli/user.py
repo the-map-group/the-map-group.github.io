@@ -2,10 +2,10 @@ user_info = {
   'id': '79369350@N08',
   'alias': 'malioli',
   'name': 'Oliver Švob',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/79369350@N08_r.jpg',
+  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
   'url': 'https://www.flickr.com/photos/malioli/',
   'location': 'Karlovac, Hrvatska',
   'countries': 5,
-  'markers': 2414,
-  'photos': 5178
+  'markers': 2415,
+  'photos': 5179
 }
