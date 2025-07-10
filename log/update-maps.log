@@ -6338,3 +6338,44 @@ Map already has 22826 marker(s)
 Added marker 1/2
 Added marker 2/2
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: haniarodak...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Hanna Rodak'
+12 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: spelio...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'spelio'
+52730 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+56923 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 430 marker(s)Batch 2/10 | 1000 photo(s) in 824 marker(s)Batch 3/10 | 1500 photo(s) in 1197 marker(s)Batch 4/10 | 2000 photo(s) in 1565 marker(s)Batch 5/10 | 2500 photo(s) in 1932 marker(s)Batch 6/10 | 2607 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 6579 marker(s)
+Added 6 new photo(s) to existing markers
+4 new marker(s) will be added to the map
+Max number of markers reached. Removing 4 marker(s)...
+Added marker 1/4Added marker 2/4Added marker 3/4Added marker 4/4
+Finished!
