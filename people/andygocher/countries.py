@@ -27,7 +27,7 @@ countries_dict = {
   'AT': ['Austria', 13, 37],
   'BR': ['Brazil', 5, 8],
   'CH': ['Switzerland', 7, 11],
-  'GB': ['United Kingdom', 215, 678],
+  'GB': ['United Kingdom', 215, 679],
   'BN': ['Brunei', 3, 4],
   'AD': ['Andorra', 2, 2],
   'EG': ['Egypt', 1, 1],
