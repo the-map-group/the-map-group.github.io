@@ -2,10 +2,10 @@ user_info = {
   'id': '19239093@N03',
   'alias': '19239093@N03',
   'name': 'Edouard',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm3.staticflickr.com/2917/buddyicons/19239093@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/19239093@N03/',
   'location': 'Strasbourg, France',
   'countries': 3,
-  'markers': 8336,
-  'photos': 10985
+  'markers': 8339,
+  'photos': 10988
 }
