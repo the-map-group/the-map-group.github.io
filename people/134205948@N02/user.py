@@ -2,10 +2,10 @@ user_info = {
   'id': '134205948@N02',
   'alias': '134205948@N02',
   'name': 'Giorgio Rodano',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm1.staticflickr.com/714/buddyicons/134205948@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/134205948@N02/',
   'location': 'Roma, Italy',
   'countries': 8,
-  'markers': 7025,
-  'photos': 7786
+  'markers': 7027,
+  'photos': 7788
 }
