@@ -2,10 +2,10 @@ user_info = {
   'id': '108188718@N06',
   'alias': 'jenskoschitzki',
   'name': 'Jens Koschitzki',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm5.staticflickr.com/4349/buddyicons/108188718@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/jenskoschitzki/',
   'location': 'Munich, Germany',
   'countries': 15,
-  'markers': 7413,
-  'photos': 35074
+  'markers': 7421,
+  'photos': 35090
 }
