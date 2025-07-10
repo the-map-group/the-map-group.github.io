@@ -2,10 +2,10 @@ user_info = {
   'id': '28287831@N00',
   'alias': 'kimbar',
   'name': 'Kim',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/28287831@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/kimbar/',
   'location': 'Berkeley, CA, U.S.',
   'countries': 68,
-  'markers': 6546,
-  'photos': 8927
+  'markers': 6549,
+  'photos': 8930
 }
