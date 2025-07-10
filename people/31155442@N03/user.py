@@ -2,10 +2,10 @@ user_info = {
   'id': '31155442@N03',
   'alias': '31155442@N03',
   'name': 'Joseph Hollick',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm6.staticflickr.com/5453/buddyicons/31155442@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/31155442@N03/',
   'location': 'Hamilton, Canada',
   'countries': 61,
-  'markers': 13772,
-  'photos': 20552
+  'markers': 13778,
+  'photos': 20561
 }
