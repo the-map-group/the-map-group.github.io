@@ -2,10 +2,10 @@ user_info = {
   'id': '138177073@N04',
   'alias': 'archstanton',
   'name': '- Ozymandias -',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm2.staticflickr.com/1543/buddyicons/138177073@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/archstanton/',
   'location': '',
   'countries': 31,
-  'markers': 34096,
-  'photos': 41140
+  'markers': 34125,
+  'photos': 41172
 }
