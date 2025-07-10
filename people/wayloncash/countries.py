@@ -21,7 +21,7 @@ countries_dict = {
   'NL': ['Netherlands', 15, 15],
   'TR': ['Turkey', 36, 55],
   'SM': ['San Marino', 6, 29],
-  'ES': ['Spain', 19174, 31555],
+  'ES': ['Spain', 19176, 31557],
   'IN': ['India', 1, 1],
   'PL': ['Poland', 17, 122],
   'HR': ['Croatia', 5, 12],
