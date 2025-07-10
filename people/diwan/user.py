@@ -2,10 +2,10 @@ user_info = {
   'id': '81504125@N00',
   'alias': 'diwan',
   'name': 'Dirk Wandel',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm8.staticflickr.com/7442/buddyicons/81504125@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/diwan/',
   'location': 'Magdeburg, Germany',
   'countries': 24,
-  'markers': 8564,
-  'photos': 9093
+  'markers': 8565,
+  'photos': 9094
 }
