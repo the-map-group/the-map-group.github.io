@@ -5652,3 +5652,32 @@ Map already has 180 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: ΚΣ1960...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'ΚΣ1960'
+3538 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/8 | 477 photo(s) in 8 marker(s)
+Batch 2/8 | 977 photo(s) in 14 marker(s)
+Batch 3/8 | 1477 photo(s) in 159 marker(s)
+Batch 4/8 | 1977 photo(s) in 290 marker(s)
+Batch 5/8 | 2350 photo(s) in 352 marker(s)
+Batch 6/8 | 2350 photo(s) in 352 marker(s)
+Batch 7/8 | 2350 photo(s) in 352 marker(s)
+Batch 8/8 | 2350 photo(s) in 352 marker(s)
+Adding marker(s) to map...
+Map already has 360 marker(s)
+Added 935 new photo(s) to existing markers
+5 new marker(s) will be added to the map
+Added marker 1/5
+Added marker 2/5
+Added marker 3/5
+Added marker 4/5
+Added marker 5/5
+Finished!
