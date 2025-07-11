@@ -982,3 +982,26 @@ Map already has 722 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Dmitry Djouce...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Dmitry Djouce'
+3291 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/7 | 500 photo(s) in 483 marker(s)
+Batch 2/7 | 1000 photo(s) in 941 marker(s)
+Batch 3/7 | 1500 photo(s) in 1392 marker(s)
+Batch 4/7 | 1999 photo(s) in 1820 marker(s)
+Batch 5/7 | 2494 photo(s) in 2283 marker(s)
+Batch 6/7 | 2945 photo(s) in 2657 marker(s)
+Batch 7/7 | 3030 photo(s) in 2709 marker(s)
+Adding marker(s) to map...
+Map already has 2709 marker(s)
+Added 47 new photo(s) to existing markers
+No new markers were added to the map
+Finished!
