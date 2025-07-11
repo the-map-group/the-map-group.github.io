@@ -3475,3 +3475,26 @@ Map already has 17166 marker(s)
 Added 2 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Robert.Pittman...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Robert Pittman'
+2640 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/6 | 499 photo(s) in 404 marker(s)
+Batch 2/6 | 998 photo(s) in 837 marker(s)
+Batch 3/6 | 1498 photo(s) in 1314 marker(s)
+Batch 4/6 | 1998 photo(s) in 1807 marker(s)
+Batch 5/6 | 2498 photo(s) in 2293 marker(s)
+Batch 6/6 | 2636 photo(s) in 2424 marker(s)
+Adding marker(s) to map...
+Map already has 2424 marker(s)
+Added 7 new photo(s) to existing markers
+1 new marker(s) will be added to the map
+Added marker 1/1
+Finished!
