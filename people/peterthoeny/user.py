@@ -2,10 +2,10 @@ user_info = {
   'id': '98786299@N00',
   'alias': 'peterthoeny',
   'name': 'Peter Thoeny - Quality HDR Pho',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm3.staticflickr.com/2825/buddyicons/98786299@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/peterthoeny/',
   'location': 'Cupertino, USA',
   'countries': 18,
-  'markers': 2335,
-  'photos': 4284
+  'markers': 2336,
+  'photos': 4296
 }
