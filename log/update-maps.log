@@ -4319,3 +4319,65 @@ Added marker 3/5
 Added marker 4/5
 Added marker 5/5
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Fernando Forniés Rev...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Fernando Forniés Revuelta'
+12010 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/25 | 500 photo(s) in 51 marker(s)
+Batch 2/25 | 1000 photo(s) in 116 marker(s)
+Batch 3/25 | 1500 photo(s) in 137 marker(s)
+Batch 4/25 | 2000 photo(s) in 181 marker(s)
+Batch 5/25 | 2500 photo(s) in 241 marker(s)
+Batch 6/25 | 3000 photo(s) in 300 marker(s)
+Batch 7/25 | 3500 photo(s) in 427 marker(s)
+Batch 8/25 | 4000 photo(s) in 585 marker(s)
+Batch 9/25 | 4500 photo(s) in 638 marker(s)
+Batch 10/25 | 5000 photo(s) in 754 marker(s)
+Batch 11/25 | 5500 photo(s) in 836 marker(s)
+Batch 12/25 | 6000 photo(s) in 882 marker(s)
+Batch 13/25 | 6500 photo(s) in 943 marker(s)
+Batch 14/25 | 7000 photo(s) in 1011 marker(s)
+Batch 15/25 | 7500 photo(s) in 1102 marker(s)
+Batch 16/25 | 8000 photo(s) in 1140 marker(s)
+Batch 17/25 | 8500 photo(s) in 1246 marker(s)
+Batch 18/25 | 9000 photo(s) in 1292 marker(s)
+Batch 19/25 | 9500 photo(s) in 1331 marker(s)
+Batch 20/25 | 10000 photo(s) in 1437 marker(s)
+Batch 21/25 | 10500 photo(s) in 1541 marker(s)
+Batch 22/25 | 11000 photo(s) in 1666 marker(s)
+Batch 23/25 | 11500 photo(s) in 1784 marker(s)
+Batch 24/25 | 12000 photo(s) in 1882 marker(s)
+Batch 25/25 | 12010 photo(s) in 1885 marker(s)
+Adding marker(s) to map...
+Map already has 1885 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: InnAtElmwood...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'K & R'
+1107 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/3 | 305 photo(s) in 250 marker(s)
+Batch 2/3 | 654 photo(s) in 501 marker(s)
+Batch 3/3 | 730 photo(s) in 557 marker(s)
+Adding marker(s) to map...
+Map already has 553 marker(s)
+Added 1 new photo(s) to existing markers
+4 new marker(s) will be added to the map
+Added marker 1/4
+Added marker 2/4
+Added marker 3/4
+Added marker 4/4
+Finished!
