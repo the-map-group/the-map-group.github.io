@@ -3,7 +3,7 @@ countries_dict = {
   'GB': ['United Kingdom', 26, 28],
   'NZ': ['New Zealand', 9, 9],
   'PA': ['Panama', 1, 2],
-  'US': ['United States', 768, 1084],
+  'US': ['United States', 768, 1085],
   'RU': ['Russia', 1, 1],
   'CA': ['Canada', 90, 158],
   'AU': ['Australia', 11, 11],
