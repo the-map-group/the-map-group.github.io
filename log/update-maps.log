@@ -1646,3 +1646,103 @@ Added marker 2/4
 Added marker 3/4
 Added marker 4/4
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: pascalvu1...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Pascal VU'
+38486 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/77 | 496 photo(s) in 228 marker(s)
+Batch 2/77 | 965 photo(s) in 464 marker(s)
+Batch 3/77 | 1441 photo(s) in 736 marker(s)
+Batch 4/77 | 1935 photo(s) in 920 marker(s)
+Batch 5/77 | 2364 photo(s) in 1133 marker(s)
+Batch 6/77 | 2816 photo(s) in 1208 marker(s)
+ERROR: Unable to get photos
+HTTPSConnectionPool(host='api.flickr.com', port=443): Max retries exceeded with url: /services/rest/?api_key=b93353033a936e7e5fa5957098442a56&user_id=135298455%40N04&privacy_filter=1&content_types=0&extras=geo%2Ctags%2Curl_sq&page=7&per_page=500&method=flickr.people.getPhotos&format=json&nojsoncallback=1 (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:992)')))
+Trying again...
+Batch 7/77 | 3300 photo(s) in 1341 marker(s)
+Batch 8/77 | 3790 photo(s) in 1575 marker(s)
+Batch 9/77 | 4251 photo(s) in 1822 marker(s)
+Batch 10/77 | 4678 photo(s) in 2002 marker(s)
+Batch 11/77 | 4990 photo(s) in 2089 marker(s)
+Batch 12/77 | 5283 photo(s) in 2184 marker(s)
+Batch 13/77 | 5735 photo(s) in 2259 marker(s)
+Batch 14/77 | 6136 photo(s) in 2346 marker(s)
+Batch 15/77 | 6601 photo(s) in 2435 marker(s)
+Batch 16/77 | 7056 photo(s) in 2517 marker(s)
+Batch 17/77 | 7463 photo(s) in 2621 marker(s)
+Batch 18/77 | 7940 photo(s) in 2725 marker(s)
+Batch 19/77 | 8439 photo(s) in 2811 marker(s)
+Batch 20/77 | 8930 photo(s) in 2868 marker(s)
+Batch 21/77 | 9416 photo(s) in 2909 marker(s)
+Batch 22/77 | 9882 photo(s) in 3008 marker(s)
+Batch 23/77 | 10366 photo(s) in 3065 marker(s)
+Batch 24/77 | 10860 photo(s) in 3176 marker(s)
+Batch 25/77 | 11356 photo(s) in 3293 marker(s)
+Batch 26/77 | 11820 photo(s) in 3333 marker(s)
+Batch 27/77 | 12289 photo(s) in 3447 marker(s)
+Batch 28/77 | 12768 photo(s) in 3487 marker(s)
+Batch 29/77 | 13241 photo(s) in 3528 marker(s)
+Batch 30/77 | 13685 photo(s) in 3626 marker(s)
+Batch 31/77 | 14161 photo(s) in 3744 marker(s)
+Batch 32/77 | 14660 photo(s) in 3857 marker(s)
+Batch 33/77 | 14965 photo(s) in 3891 marker(s)
+Batch 34/77 | 15414 photo(s) in 3931 marker(s)
+Batch 35/77 | 15544 photo(s) in 3961 marker(s)
+Batch 36/77 | 15762 photo(s) in 3980 marker(s)
+Batch 37/77 | 16011 photo(s) in 3994 marker(s)
+Batch 38/77 | 16504 photo(s) in 4147 marker(s)
+Batch 39/77 | 16997 photo(s) in 4234 marker(s)
+Batch 40/77 | 17469 photo(s) in 4361 marker(s)
+Batch 41/77 | 17965 photo(s) in 4493 marker(s)
+Batch 42/77 | 18462 photo(s) in 4594 marker(s)
+Batch 43/77 | 18954 photo(s) in 4755 marker(s)
+Batch 44/77 | 19419 photo(s) in 4915 marker(s)
+Batch 45/77 | 19893 photo(s) in 5020 marker(s)
+Batch 46/77 | 20357 photo(s) in 5115 marker(s)
+Batch 47/77 | 20856 photo(s) in 5187 marker(s)
+Batch 48/77 | 21303 photo(s) in 5273 marker(s)
+Batch 49/77 | 21790 photo(s) in 5337 marker(s)
+Batch 50/77 | 22216 photo(s) in 5388 marker(s)
+Batch 51/77 | 22670 photo(s) in 5432 marker(s)
+Batch 52/77 | 23165 photo(s) in 5490 marker(s)
+Batch 53/77 | 23662 photo(s) in 5526 marker(s)
+Batch 54/77 | 23951 photo(s) in 5544 marker(s)
+Batch 55/77 | 24286 photo(s) in 5571 marker(s)
+Batch 56/77 | 24737 photo(s) in 5618 marker(s)
+Batch 57/77 | 25209 photo(s) in 5647 marker(s)
+Batch 58/77 | 25666 photo(s) in 5681 marker(s)
+Batch 59/77 | 26106 photo(s) in 5730 marker(s)
+Batch 60/77 | 26525 photo(s) in 5768 marker(s)
+Batch 61/77 | 26974 photo(s) in 5812 marker(s)
+Batch 62/77 | 27467 photo(s) in 5818 marker(s)
+Batch 63/77 | 27959 photo(s) in 5821 marker(s)
+Batch 64/77 | 28438 photo(s) in 5834 marker(s)
+Batch 65/77 | 28857 photo(s) in 5875 marker(s)
+Batch 66/77 | 29351 photo(s) in 5938 marker(s)
+Batch 67/77 | 29811 photo(s) in 6017 marker(s)
+Batch 68/77 | 30298 photo(s) in 6052 marker(s)
+Batch 69/77 | 30748 photo(s) in 6067 marker(s)
+Batch 70/77 | 31047 photo(s) in 6119 marker(s)
+Batch 71/77 | 31402 photo(s) in 6138 marker(s)
+Batch 72/77 | 31807 photo(s) in 6164 marker(s)
+Batch 73/77 | 32184 photo(s) in 6219 marker(s)
+Batch 74/77 | 32534 photo(s) in 6253 marker(s)
+Batch 75/77 | 32831 photo(s) in 6282 marker(s)
+Batch 76/77 | 33267 photo(s) in 6307 marker(s)
+Batch 77/77 | 33644 photo(s) in 6317 marker(s)
+Adding marker(s) to map...
+Map already has 6314 marker(s)
+Added 1 new photo(s) to existing markers
+4 new marker(s) will be added to the map
+Added marker 1/4
+Added marker 2/4
+Added marker 3/4
+Added marker 4/4
+Finished!
