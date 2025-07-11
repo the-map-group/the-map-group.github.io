@@ -19,7 +19,7 @@ countries_dict = {
   'TR': ['Turkey', 5, 8],
   'CN': ['China', 18, 19],
   'LV': ['Latvia', 2, 9],
-  'IT': ['Italy', 426, 652],
+  'IT': ['Italy', 427, 732],
   'JP': ['Japan', 20, 23],
   'PT': ['Portugal', 2, 3],
   'KR': ['South Korea', 3, 5],
