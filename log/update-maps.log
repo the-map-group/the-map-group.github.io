@@ -8922,3 +8922,27 @@ Map already has 346 marker(s)
 Added 58 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: thunderbird-72...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'thunderbird-72'
+3617 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/8 | 274 photo(s) in 176 marker(s)
+Batch 2/8 | 641 photo(s) in 391 marker(s)
+Batch 3/8 | 1028 photo(s) in 600 marker(s)
+Batch 4/8 | 1409 photo(s) in 795 marker(s)
+Batch 5/8 | 1765 photo(s) in 998 marker(s)
+Batch 6/8 | 2227 photo(s) in 1212 marker(s)
+Batch 7/8 | 2676 photo(s) in 1401 marker(s)
+Batch 8/8 | 2747 photo(s) in 1426 marker(s)
+Adding marker(s) to map...
+Map already has 1426 marker(s)
+Added 2 new photo(s) to existing markers
+No new markers were added to the map
+Finished!
