@@ -14,13 +14,13 @@ countries_dict = {
   'FI': ['Finland', 73, 75],
   'MC': ['Monaco', 14, 14],
   'LV': ['Latvia', 41, 42],
-  'ES': ['Spain', 428, 468],
+  'ES': ['Spain', 428, 470],
   'PL': ['Poland', 23, 25],
   'DK': ['Denmark', 131, 133],
   'US': ['United States', 241, 247],
   'VA': ['Vatican City', 49, 55],
   'GB': ['United Kingdom', 134, 137],
-  'DE': ['Germany', 5776, 6175],
+  'DE': ['Germany', 5781, 6180],
   'SE': ['Sweden', 8, 8],
   'NL': ['Netherlands', 59, 59]
 }
