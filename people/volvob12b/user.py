@@ -2,10 +2,10 @@ user_info = {
   'id': '88123769@N02',
   'alias': 'volvob12b',
   'name': 'Bernard Spragg. NZ',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm9.staticflickr.com/8182/buddyicons/88123769@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/volvob12b/',
   'location': 'Christchurch, New Zealand',
   'countries': 11,
-  'markers': 3658,
-  'photos': 4879
+  'markers': 3659,
+  'photos': 9758
 }
