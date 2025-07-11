@@ -2,10 +2,10 @@ user_info = {
   'id': '130828646@N02',
   'alias': '130828646@N02',
   'name': 'Philippe Guillot',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/130828646@N02_r.jpg',
+  'avatar': 'https://farm9.staticflickr.com/8684/buddyicons/130828646@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/130828646@N02/',
   'location': 'Entre-Deux, Réunion',
   'countries': 37,
-  'markers': 16375,
-  'photos': 42283
+  'markers': 16454,
+  'photos': 42554
 }
