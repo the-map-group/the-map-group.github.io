@@ -7,8 +7,8 @@ countries_dict = {
   'AE': ['United Arab Emirates', 7, 11],
   'HU': ['Hungary', 23, 24],
   'AT': ['Austria', 17, 21],
-  'DE': ['Germany', 1673, 2601],
-  'CN': ['China', 1674, 2058],
+  'DE': ['Germany', 1700, 2638],
+  'CN': ['China', 1674, 2070],
   'FR': ['France', 34, 39],
   'CH': ['Switzerland', 1, 1],
   'SE': ['Sweden', 1, 1]
