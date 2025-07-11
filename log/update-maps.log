@@ -3265,3 +3265,23 @@ Added marker 8/10
 Added marker 9/10
 Added marker 10/10
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: TIA International Ph...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'TIA INTERNATIONAL PHOTOGRAPHY'
+1744 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/4 | 481 photo(s) in 401 marker(s)
+Batch 2/4 | 929 photo(s) in 714 marker(s)
+Batch 3/4 | 1191 photo(s) in 844 marker(s)
+Batch 4/4 | 1244 photo(s) in 871 marker(s)
+Adding marker(s) to map...
+Map already has 871 marker(s)
+Added 1 new photo(s) to existing markers
+No new markers were added to the map
+Finished!
