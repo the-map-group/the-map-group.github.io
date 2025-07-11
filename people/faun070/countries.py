@@ -1,6 +1,6 @@
 countries_dict = {
   'IS': ['Iceland', 96, 136],
-  'RU': ['Russia', 852, 2768],
+  'RU': ['Russia', 852, 2769],
   'FR': ['France', 552, 2319],
   'PL': ['Poland', 318, 325],
   'SK': ['Slovakia', 106, 109],
@@ -17,7 +17,7 @@ countries_dict = {
   'AR': ['Argentina', 57, 127],
   'GR': ['Greece', 332, 790],
   'UA': ['Ukraine', 204, 564],
-  'DE': ['Germany', 1279, 3245],
+  'DE': ['Germany', 1279, 3246],
   'AU': ['Australia', 1605, 3829],
   'MX': ['Mexico', 1, 1],
   'CN': ['China', 125, 331],
