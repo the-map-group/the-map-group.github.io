@@ -3211,3 +3211,57 @@ Added marker 35/37
 Added marker 36/37
 Added marker 37/37
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: VicColon...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'VicColon'
+414 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/1 | 396 photo(s) in 172 marker(s)
+Adding marker(s) to map...
+Map already has 172 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: S LYNN LEE...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'S Lynn Lee'
+6256 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/13 | 414 photo(s) in 240 marker(s)
+Batch 2/13 | 819 photo(s) in 449 marker(s)
+Batch 3/13 | 1256 photo(s) in 526 marker(s)
+Batch 4/13 | 1660 photo(s) in 609 marker(s)
+Batch 5/13 | 2114 photo(s) in 699 marker(s)
+Batch 6/13 | 2527 photo(s) in 763 marker(s)
+Batch 7/13 | 3003 photo(s) in 889 marker(s)
+Batch 8/13 | 3481 photo(s) in 998 marker(s)
+Batch 9/13 | 3981 photo(s) in 1076 marker(s)
+Batch 10/13 | 4457 photo(s) in 1088 marker(s)
+Batch 11/13 | 4880 photo(s) in 1158 marker(s)
+Batch 12/13 | 5276 photo(s) in 1226 marker(s)
+Batch 13/13 | 5497 photo(s) in 1234 marker(s)
+Adding marker(s) to map...
+Map already has 1224 marker(s)
+Added 11 new photo(s) to existing markers
+10 new marker(s) will be added to the map
+Added marker 1/10
+Added marker 2/10
+Added marker 3/10
+Added marker 4/10
+Added marker 5/10
+Added marker 6/10
+Added marker 7/10
+Added marker 8/10
+Added marker 9/10
+Added marker 10/10
+Finished!
