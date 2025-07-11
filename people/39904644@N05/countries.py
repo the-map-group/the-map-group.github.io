@@ -7,14 +7,14 @@ countries_dict = {
   'GI': ['Gibraltar', 12, 12],
   'DK': ['Denmark', 20, 22],
   'AT': ['Austria', 26, 26],
-  'NZ': ['New Zealand', 285, 373],
-  'CZ': ['Czech Republic', 5, 5],
+  'NZ': ['New Zealand', 285, 374],
+  'CZ': ['Czech Republic', 6, 6],
   'GR': ['Greece', 49, 53],
   'DE': ['Germany', 359, 395],
   'TH': ['Thailand', 2, 2],
   'FR': ['France', 3, 3],
-  'IS': ['Iceland', 428, 490],
-  'NO': ['Norway', 214, 233],
+  'IS': ['Iceland', 428, 496],
+  'NO': ['Norway', 214, 236],
   'HR': ['Croatia', 1, 1],
   'GB': ['United Kingdom', 118, 157]
 }
