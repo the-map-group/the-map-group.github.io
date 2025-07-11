@@ -1878,3 +1878,68 @@ Map already has 182 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: giovannicampus...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'giovanni Campus'
+4801 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/10 | 420 photo(s) in 381 marker(s)
+Batch 2/10 | 828 photo(s) in 718 marker(s)
+Batch 3/10 | 1261 photo(s) in 1044 marker(s)
+Batch 4/10 | 1655 photo(s) in 1347 marker(s)
+Batch 5/10 | 2056 photo(s) in 1627 marker(s)
+Batch 6/10 | 2456 photo(s) in 1939 marker(s)
+Batch 7/10 | 2831 photo(s) in 2306 marker(s)
+Batch 8/10 | 3185 photo(s) in 2641 marker(s)
+Batch 9/10 | 3527 photo(s) in 2974 marker(s)
+Batch 10/10 | 3750 photo(s) in 3178 marker(s)
+Adding marker(s) to map...
+Map already has 3178 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: jamesgreig@dr.com...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'James Greig'
+951 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/2 | 496 photo(s) in 401 marker(s)
+Batch 2/2 | 922 photo(s) in 754 marker(s)
+Adding marker(s) to map...
+Map already has 754 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Howard Somerville (1...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Howard Somerville'
+4433 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/9 | 169 photo(s) in 140 marker(s)
+Batch 2/9 | 366 photo(s) in 293 marker(s)
+Batch 3/9 | 465 photo(s) in 384 marker(s)
+Batch 4/9 | 523 photo(s) in 436 marker(s)
+Batch 5/9 | 578 photo(s) in 474 marker(s)
+Batch 6/9 | 656 photo(s) in 526 marker(s)
+Batch 7/9 | 805 photo(s) in 660 marker(s)
+Batch 8/9 | 972 photo(s) in 809 marker(s)
+Batch 9/9 | 1040 photo(s) in 865 marker(s)
+Adding marker(s) to map...
+Map already has 865 marker(s)
+Added 1038 new photo(s) to existing markers
+No new markers were added to the map
+Finished!
