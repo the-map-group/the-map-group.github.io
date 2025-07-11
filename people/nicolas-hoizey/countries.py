@@ -1,11 +1,11 @@
 countries_dict = {
-  'DO': ['Dominican Republic', 32, 33],
+  'DO': ['Dominican Republic', 34, 35],
   'GE': ['Georgia', 15, 15],
   'EG': ['Egypt', 7, 8],
   'VA': ['Vatican City', 2, 2],
   'GB': ['United Kingdom', 15, 15],
   'GR': ['Greece', 40, 41],
-  'FR': ['France', 160, 189],
+  'FR': ['France', 161, 190],
   'IT': ['Italy', 15, 17],
   'ES': ['Spain', 7, 8],
   'KE': ['Kenya', 73, 83],

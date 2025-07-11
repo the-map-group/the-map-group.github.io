@@ -2,10 +2,10 @@ user_info = {
   'id': '38608514@N00',
   'alias': 'nicolas-hoizey',
   'name': 'Nicolas Hoizey',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/38608514@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/nicolas-hoizey/',
   'location': 'Paris, France',
   'countries': 19,
-  'markers': 445,
-  'photos': 497
+  'markers': 448,
+  'photos': 500
 }
