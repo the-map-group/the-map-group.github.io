@@ -2,10 +2,10 @@ user_info = {
   'id': '8009375@N03',
   'alias': 'atila_y',
   'name': 'Atila Yumusakkaya',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/8009375@N03_r.jpg',
+  'avatar': 'https://farm6.staticflickr.com/5575/buddyicons/8009375@N03_r.jpg',
   'url': 'https://www.flickr.com/photos/atila_y/',
   'location': 'Istanbul, Turkey',
   'countries': 22,
-  'markers': 1398,
-  'photos': 1583
+  'markers': 1403,
+  'photos': 1595
 }
