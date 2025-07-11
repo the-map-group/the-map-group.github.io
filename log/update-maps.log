@@ -658,3 +658,32 @@ Added marker 470/472
 Added marker 471/472
 Added marker 472/472
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: haroldmoses...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Harold  Moses'
+6006 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/13 | 499 photo(s) in 446 marker(s)
+Batch 2/13 | 983 photo(s) in 810 marker(s)
+Batch 3/13 | 1482 photo(s) in 1186 marker(s)
+Batch 4/13 | 1935 photo(s) in 1501 marker(s)
+Batch 5/13 | 2418 photo(s) in 1884 marker(s)
+Batch 6/13 | 2915 photo(s) in 2283 marker(s)
+Batch 7/13 | 3389 photo(s) in 2602 marker(s)
+Batch 8/13 | 3804 photo(s) in 2782 marker(s)
+Batch 9/13 | 4093 photo(s) in 2913 marker(s)
+Batch 10/13 | 4183 photo(s) in 2942 marker(s)
+Batch 11/13 | 4351 photo(s) in 3063 marker(s)
+Batch 12/13 | 4774 photo(s) in 3455 marker(s)
+Batch 13/13 | 4780 photo(s) in 3460 marker(s)
+Adding marker(s) to map...
+Map already has 3460 marker(s)
+Added 4 new photo(s) to existing markers
+No new markers were added to the map
+Finished!
