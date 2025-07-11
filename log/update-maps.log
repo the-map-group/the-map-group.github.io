@@ -11102,3 +11102,25 @@ Map already has 749 marker(s)
 Added 9 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: mouzhik...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'mouzhik'
+1738 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/4 | 346 photo(s) in 266 marker(s)
+Batch 2/4 | 375 photo(s) in 287 marker(s)
+Batch 3/4 | 394 photo(s) in 302 marker(s)
+Batch 4/4 | 440 photo(s) in 306 marker(s)
+Adding marker(s) to map...
+Map already has 303 marker(s)
+3 new marker(s) will be added to the map
+Added marker 1/3
+Added marker 2/3
+Added marker 3/3
+Finished!
