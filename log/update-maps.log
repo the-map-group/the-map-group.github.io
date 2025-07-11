@@ -4477,3 +4477,91 @@ Map already has 263 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: MountMan Photo temp....
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'MountMan Photo'
+3343 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/7 | 471 photo(s) in 361 marker(s)
+Batch 2/7 | 721 photo(s) in 533 marker(s)
+Batch 3/7 | 777 photo(s) in 574 marker(s)
+Batch 4/7 | 827 photo(s) in 618 marker(s)
+Batch 5/7 | 827 photo(s) in 618 marker(s)
+Batch 6/7 | 828 photo(s) in 619 marker(s)
+Batch 7/7 | 943 photo(s) in 714 marker(s)
+Adding marker(s) to map...
+Map already has 714 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: giorgiorodano46...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Giorgio Rodano'
+9946 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/20 | 380 photo(s) in 361 marker(s)
+ERROR: Unable to get photos
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Trying again...
+Batch 2/20 | 787 photo(s) in 731 marker(s)
+Batch 3/20 | 1217 photo(s) in 1115 marker(s)
+Batch 4/20 | 1598 photo(s) in 1453 marker(s)
+Batch 5/20 | 1956 photo(s) in 1776 marker(s)
+Batch 6/20 | 2271 photo(s) in 2049 marker(s)
+Batch 7/20 | 2642 photo(s) in 2379 marker(s)
+Batch 8/20 | 3007 photo(s) in 2712 marker(s)
+Batch 9/20 | 3383 photo(s) in 3061 marker(s)
+Batch 10/20 | 3733 photo(s) in 3378 marker(s)
+Batch 11/20 | 4095 photo(s) in 3698 marker(s)
+Batch 12/20 | 4443 photo(s) in 4008 marker(s)
+Batch 13/20 | 4826 photo(s) in 4373 marker(s)
+Batch 14/20 | 5236 photo(s) in 4759 marker(s)
+Batch 15/20 | 5688 photo(s) in 5183 marker(s)
+Batch 16/20 | 6125 photo(s) in 5565 marker(s)
+Batch 17/20 | 6589 photo(s) in 5980 marker(s)
+Batch 18/20 | 6980 photo(s) in 6323 marker(s)
+Batch 19/20 | 7408 photo(s) in 6710 marker(s)
+Batch 20/20 | 7822 photo(s) in 7055 marker(s)
+Adding marker(s) to map...
+Map already has 7027 marker(s)
+Added 24 new photo(s) to existing markers
+28 new marker(s) will be added to the map
+Added marker 1/28
+Added marker 2/28
+Added marker 3/28
+Added marker 4/28
+Added marker 5/28
+Added marker 6/28
+Added marker 7/28
+Added marker 8/28
+Added marker 9/28
+Added marker 10/28
+Added marker 11/28
+Added marker 12/28
+Added marker 13/28
+Added marker 14/28
+Added marker 15/28
+Added marker 16/28
+Added marker 17/28
+Added marker 18/28
+Added marker 19/28
+Added marker 20/28
+Added marker 21/28
+Added marker 22/28
+Added marker 23/28
+Added marker 24/28
+Added marker 25/28
+Added marker 26/28
+Added marker 27/28
+Added marker 28/28
+Finished!
