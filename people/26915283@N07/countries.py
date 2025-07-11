@@ -17,7 +17,7 @@ countries_dict = {
   'DE': ['Germany', 11, 12],
   'ZA': ['South Africa', 9, 12],
   'NL': ['Netherlands', 7, 7],
-  'BE': ['Belgium', 102, 117],
+  'BE': ['Belgium', 103, 118],
   'PL': ['Poland', 5, 6],
   'CN': ['China', 1, 1],
   'IT': ['Italy', 1, 1],
