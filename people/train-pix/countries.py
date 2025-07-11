@@ -7,7 +7,7 @@ countries_dict = {
   'CH': ['Switzerland', 1177, 1890],
   'HR': ['Croatia', 5, 9],
   'SZ': ['Eswatini', 6, 7],
-  'GB': ['United Kingdom', 9188, 20930],
+  'GB': ['United Kingdom', 9188, 20933],
   'IT': ['Italy', 25, 47],
   'HU': ['Hungary', 22, 32],
   'FR': ['France', 452, 673],
