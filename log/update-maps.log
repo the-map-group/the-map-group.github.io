@@ -11124,3 +11124,28 @@ Added marker 1/3
 Added marker 2/3
 Added marker 3/3
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Wes Iversen...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Wes Iversen'
+3632 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/8 | 498 photo(s) in 266 marker(s)
+Batch 2/8 | 997 photo(s) in 517 marker(s)
+Batch 3/8 | 1494 photo(s) in 761 marker(s)
+Batch 4/8 | 1982 photo(s) in 918 marker(s)
+Batch 5/8 | 2477 photo(s) in 1237 marker(s)
+Batch 6/8 | 2968 photo(s) in 1699 marker(s)
+Batch 7/8 | 3467 photo(s) in 2188 marker(s)
+Batch 8/8 | 3565 photo(s) in 2282 marker(s)
+Adding marker(s) to map...
+Map already has 2282 marker(s)
+Added 8 new photo(s) to existing markers
+1 new marker(s) will be added to the map
+Added marker 1/1
+Finished!
