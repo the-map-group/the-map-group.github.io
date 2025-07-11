@@ -2,7 +2,7 @@ countries_dict = {
   'IL': ['Israel', 5, 5],
   'ME': ['Montenegro', 1, 1],
   'ES': ['Spain', 5, 5],
-  'US': ['United States', 31, 31],
+  'US': ['United States', 31, 32],
   'UA': ['Ukraine', 7, 7],
   'IT': ['Italy', 4, 4],
   'TH': ['Thailand', 2, 2],
