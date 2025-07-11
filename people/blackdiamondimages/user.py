@@ -2,10 +2,10 @@ user_info = {
   'id': '97974874@N00',
   'alias': 'blackdiamondimages',
   'name': 'Black Diamond Images',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm6.staticflickr.com/5084/buddyicons/97974874@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/blackdiamondimages/',
   'location': 'Mid North Coast, NSW, Australia',
   'countries': 36,
-  'markers': 17302,
-  'photos': 22221
+  'markers': 17304,
+  'photos': 22223
 }

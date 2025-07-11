@@ -1746,3 +1746,118 @@ Added marker 2/4
 Added marker 3/4
 Added marker 4/4
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: jklovelacephotograph...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Jeffrey Lovelace'
+77 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/1 | 36 photo(s) in 31 marker(s)
+Adding marker(s) to map...
+Map already has 31 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Beatrix MK...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Beatrix'
+1444 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/3 | 269 photo(s) in 268 marker(s)
+Batch 2/3 | 610 photo(s) in 606 marker(s)
+Batch 3/3 | 762 photo(s) in 758 marker(s)
+Adding marker(s) to map...
+Map already has 758 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Black Diamond Images...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Black Diamond Images'
+31175 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/63 | 485 photo(s) in 458 marker(s)
+Batch 2/63 | 984 photo(s) in 916 marker(s)
+ERROR: Unable to get photos
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Trying again...
+Batch 3/63 | 1465 photo(s) in 1324 marker(s)
+Batch 4/63 | 1957 photo(s) in 1788 marker(s)
+Batch 5/63 | 2442 photo(s) in 2204 marker(s)
+Batch 6/63 | 2915 photo(s) in 2639 marker(s)
+Batch 7/63 | 3415 photo(s) in 3070 marker(s)
+Batch 8/63 | 3914 photo(s) in 3499 marker(s)
+Batch 9/63 | 4409 photo(s) in 3892 marker(s)
+Batch 10/63 | 4887 photo(s) in 4328 marker(s)
+Batch 11/63 | 5384 photo(s) in 4784 marker(s)
+Batch 12/63 | 5868 photo(s) in 5182 marker(s)
+Batch 13/63 | 6347 photo(s) in 5631 marker(s)
+Batch 14/63 | 6836 photo(s) in 6081 marker(s)
+Batch 15/63 | 7326 photo(s) in 6460 marker(s)
+Batch 16/63 | 7820 photo(s) in 6904 marker(s)
+Batch 17/63 | 8319 photo(s) in 7351 marker(s)
+Batch 18/63 | 8805 photo(s) in 7764 marker(s)
+Batch 19/63 | 9302 photo(s) in 8217 marker(s)
+Batch 20/63 | 9801 photo(s) in 8634 marker(s)
+Batch 21/63 | 10286 photo(s) in 9034 marker(s)
+Batch 22/63 | 10765 photo(s) in 9411 marker(s)
+Batch 23/63 | 11226 photo(s) in 9808 marker(s)
+Batch 24/63 | 11716 photo(s) in 10182 marker(s)
+Batch 25/63 | 12197 photo(s) in 10609 marker(s)
+Batch 26/63 | 12678 photo(s) in 11029 marker(s)
+Batch 27/63 | 13174 photo(s) in 11480 marker(s)
+Batch 28/63 | 13576 photo(s) in 11842 marker(s)
+Batch 29/63 | 14057 photo(s) in 12218 marker(s)
+Batch 30/63 | 14513 photo(s) in 12610 marker(s)
+Batch 31/63 | 14881 photo(s) in 12834 marker(s)
+Batch 32/63 | 15137 photo(s) in 13044 marker(s)
+Batch 33/63 | 15605 photo(s) in 13442 marker(s)
+Batch 34/63 | 16012 photo(s) in 13779 marker(s)
+Batch 35/63 | 16500 photo(s) in 13898 marker(s)
+Batch 36/63 | 16995 photo(s) in 14071 marker(s)
+Batch 37/63 | 17359 photo(s) in 14194 marker(s)
+Batch 38/63 | 17852 photo(s) in 14321 marker(s)
+Batch 39/63 | 18255 photo(s) in 14458 marker(s)
+Batch 40/63 | 18752 photo(s) in 14530 marker(s)
+Batch 41/63 | 18979 photo(s) in 14562 marker(s)
+Batch 42/63 | 19396 photo(s) in 14796 marker(s)
+Batch 43/63 | 19614 photo(s) in 14917 marker(s)
+Batch 44/63 | 19840 photo(s) in 15109 marker(s)
+Batch 45/63 | 19897 photo(s) in 15163 marker(s)
+Batch 46/63 | 20265 photo(s) in 15523 marker(s)
+Batch 47/63 | 20679 photo(s) in 15900 marker(s)
+Batch 48/63 | 21071 photo(s) in 16283 marker(s)
+Batch 49/63 | 21355 photo(s) in 16560 marker(s)
+Batch 50/63 | 21465 photo(s) in 16657 marker(s)
+Batch 51/63 | 21569 photo(s) in 16751 marker(s)
+Batch 52/63 | 21701 photo(s) in 16873 marker(s)
+Batch 53/63 | 21806 photo(s) in 16966 marker(s)
+Batch 54/63 | 21877 photo(s) in 17007 marker(s)
+Batch 55/63 | 21927 photo(s) in 17041 marker(s)
+Batch 56/63 | 21997 photo(s) in 17096 marker(s)
+Batch 57/63 | 22027 photo(s) in 17123 marker(s)
+Batch 58/63 | 22049 photo(s) in 17143 marker(s)
+Batch 59/63 | 22084 photo(s) in 17175 marker(s)
+Batch 60/63 | 22156 photo(s) in 17244 marker(s)
+Batch 61/63 | 22164 photo(s) in 17252 marker(s)
+Batch 62/63 | 22190 photo(s) in 17276 marker(s)
+Batch 63/63 | 22223 photo(s) in 17304 marker(s)
+Adding marker(s) to map...
+Map already has 17302 marker(s)
+2 new marker(s) will be added to the map
+Added marker 1/2
+Added marker 2/2
+Finished!
