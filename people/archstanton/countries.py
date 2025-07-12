@@ -2,7 +2,7 @@ countries_dict = {
   'FR': ['France', 125, 211],
   'BG': ['Bulgaria', 1751, 1912],
   'AT': ['Austria', 787, 850],
-  'US': ['United States', 6620, 7778],
+  'US': ['United States', 6629, 7787],
   'BE': ['Belgium', 207, 220],
   'LU': ['Luxembourg', 76, 79],
   'IL': ['Israel', 228, 301],
