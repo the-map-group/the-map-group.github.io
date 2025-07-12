@@ -7,5 +7,5 @@ user_info = {
   'location': 'Reykjavík, Iceland',
   'countries': 18,
   'markers': 3180,
-  'photos': 3184
+  'photos': 3183
 }
