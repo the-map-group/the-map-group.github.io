@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/69623157@N05_r.jpg',
   'url': 'https://www.flickr.com/photos/fotosavulso/',
   'location': '',
-  'countries': 10,
-  'markers': 579,
-  'photos': 625
+  'countries': 9,
+  'markers': 572,
+  'photos': 616
 }
