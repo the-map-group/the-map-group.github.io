@@ -2,7 +2,7 @@ user_info = {
   'id': '192609110@N08',
   'alias': '192609110@N08',
   'name': 'driver04',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/192609110@N08_r.jpg',
+  'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/192609110@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/192609110@N08/',
   'location': '',
   'countries': 3,
