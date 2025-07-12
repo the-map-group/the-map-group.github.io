@@ -1,13 +1,13 @@
 countries_dict = {
-  'SG': ['Singapore', 7, 7],
-  'AU': ['Australia', 11, 12],
-  'MX': ['Mexico', 4, 4],
-  'FR': ['France', 23, 23],
-  'CN': ['China', 51, 51],
-  'GB': ['United Kingdom', 21, 21],
-  'MY': ['Malaysia', 7, 8],
   'US': ['United States', 699, 1069],
-  'CA': ['Canada', 5, 5],
+  'AR': ['Argentina', 41, 43],
+  'MX': ['Mexico', 4, 4],
+  'CN': ['China', 51, 51],
+  'FR': ['France', 23, 23],
+  'GB': ['United Kingdom', 21, 21],
+  'AU': ['Australia', 11, 12],
+  'MY': ['Malaysia', 7, 8],
+  'SG': ['Singapore', 7, 7],
   'GH': ['Ghana', 2, 2],
-  'AR': ['Argentina', 41, 43]
+  'CA': ['Canada', 5, 5]
 }
