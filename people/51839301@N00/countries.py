@@ -1,14 +1,14 @@
 countries_dict = {
+  'MA': ['Morocco', 93, 126],
   'TN': ['Tunisia', 232, 429],
-  'MT': ['Malta', 88, 109],
+  'PT': ['Portugal', 2628, 3934],
   'IT': ['Italy', 13, 15],
   'FR': ['France', 176, 358],
-  'CA': ['Canada', 2, 3],
-  'DE': ['Germany', 43, 60],
   'ES': ['Spain', 580, 835],
-  'SN': ['Senegal', 1, 1],
+  'MT': ['Malta', 88, 109],
+  'CA': ['Canada', 2, 3],
   'US': ['United States', 5, 5],
-  'PT': ['Portugal', 2628, 3934],
-  'MA': ['Morocco', 93, 126],
-  'MC': ['Monaco', 1, 1]
+  'MC': ['Monaco', 1, 1],
+  'SN': ['Senegal', 1, 1],
+  'DE': ['Germany', 43, 60]
 }
