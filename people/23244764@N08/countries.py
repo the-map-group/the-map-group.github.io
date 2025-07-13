@@ -1,13 +1,13 @@
 countries_dict = {
+  'US': ['United States', 173, 421],
+  'ES': ['Spain', 46, 69],
+  'BZ': ['Belize', 5, 10],
   'AQ': ['Antarctica', 12, 12],
+  'PT': ['Portugal', 1, 1],
+  'GI': ['Gibraltar', 21, 21],
+  'MA': ['Morocco', 14, 14],
+  'AW': ['Aruba', 13, 14],
   'HT': ['Haiti', 1, 1],
   'BS': ['Bahamas', 2, 2],
-  'MA': ['Morocco', 14, 14],
-  'GI': ['Gibraltar', 21, 21],
-  'AW': ['Aruba', 13, 14],
-  'ES': ['Spain', 46, 69],
-  'US': ['United States', 173, 421],
-  'AS': ['American Samoa', 1, 1],
-  'PT': ['Portugal', 1, 1],
-  'BZ': ['Belize', 5, 10]
+  'AS': ['American Samoa', 1, 1]
 }
