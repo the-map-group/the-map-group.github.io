@@ -1,8 +1,8 @@
 countries_dict = {
-  'US': ['United States', 6432, 10398],
+  'US': ['United States', 6437, 10406],
   'AR': ['Argentina', 279, 473],
   'AQ': ['Antarctica', 67, 94],
-  'CA': ['Canada', 1714, 2455],
+  'CA': ['Canada', 1714, 2456],
   'IT': ['Italy', 269, 353],
   'ES': ['Spain', 215, 306],
   'AU': ['Australia', 207, 263],
@@ -47,7 +47,7 @@ countries_dict = {
   'VI': ['U.S. Virgin Islands', 1, 1],
   'PR': ['Puerto Rico', 3, 5],
   'BR': ['Brazil', 4, 5],
-  'MQ': ['Martinique', 2, 3],
+  'MQ': ['Martinique', 10, 12],
   'VE': ['Venezuela', 9, 11],
   'CU': ['Cuba', 1, 1],
   'GG': ['Guernsey', 14, 24],
@@ -58,6 +58,6 @@ countries_dict = {
   'PT': ['Portugal', 119, 142],
   'MA': ['Morocco', 16, 19],
   'GI': ['Gibraltar', 6, 9],
-  'MT': ['Malta', 81, 123],
+  'MT': ['Malta', 81, 116],
   'GD': ['Grenada', 5, 17]
 }
