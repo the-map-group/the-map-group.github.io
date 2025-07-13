@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/cnmark/',
   'location': 'München | Munich | 慕尼黑',
   'countries': 13,
-  'markers': 3539,
-  'photos': 4906
+  'markers': 3536,
+  'photos': 4891
 }
