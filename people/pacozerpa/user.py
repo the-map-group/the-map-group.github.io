@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/pacozerpa/',
   'location': '',
   'countries': 3,
-  'markers': 290,
-  'photos': 354
+  'markers': 291,
+  'photos': 355
 }
