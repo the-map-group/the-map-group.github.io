@@ -7,5 +7,5 @@ user_info = {
   'location': 'Waterford, Ireland',
   'countries': 29,
   'markers': 3575,
-  'photos': 18171
+  'photos': 18172
 }
