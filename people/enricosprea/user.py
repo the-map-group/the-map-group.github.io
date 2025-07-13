@@ -2,10 +2,10 @@ user_info = {
   'id': '129342869@N08',
   'alias': 'enricosprea',
   'name': 'Enrico Sprea',
-  'avatar': 'https://live.staticflickr.com/5674/buddyicons/129342869@N08_r.jpg',
+  'avatar': 'https://farm9.staticflickr.com/8553/buddyicons/129342869@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/enricosprea/',
   'location': 'Brianza, Italia',
   'countries': 23,
-  'markers': 969,
-  'photos': 979
+  'markers': 970,
+  'photos': 980
 }
