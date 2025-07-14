@@ -7,5 +7,5 @@ user_info = {
   'location': 'Farnborough, England',
   'countries': 18,
   'markers': 11670,
-  'photos': 24482
+  'photos': 24489
 }
