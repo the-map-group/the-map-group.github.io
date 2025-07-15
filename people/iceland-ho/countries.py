@@ -16,5 +16,5 @@ countries_dict = {
   'GE': ['Georgia', 5, 5],
   'KR': ['South Korea', 13, 13],
   'RO': ['Romania', 4, 4],
-  'PT': ['Portugal', 12, 12]
+  'PT': ['Portugal', 13, 13]
 }
