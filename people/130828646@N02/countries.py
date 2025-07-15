@@ -1,5 +1,5 @@
 countries_dict = {
-  'MU': ['Mauritius', 262, 369],
+  'MU': ['Mauritius', 263, 372],
   'RE': ['Reunion', 4158, 21982],
   'MG': ['Madagascar', 206, 360],
   'FR': ['France', 4373, 7309],
@@ -35,7 +35,7 @@ countries_dict = {
   'AU': ['Australia', 442, 644],
   'PT': ['Portugal', 768, 1266],
   'GB': ['United Kingdom', 762, 1246],
-  'UZ': ['Uzbekistan', 362, 897],
+  'UZ': ['Uzbekistan', 364, 899],
   'IS': ['Iceland', 2, 2],
   'BE': ['Belgium', 1, 1]
 }
