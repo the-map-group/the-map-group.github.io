@@ -23,5 +23,5 @@ countries_dict = {
   'PA': ['Panama', 91, 92],
   'TZ': ['Tanzania', 105, 107],
   'EG': ['Egypt', 216, 256],
-  'JP': ['Japan', 4, 5]
+  'JP': ['Japan', 6, 8]
 }
