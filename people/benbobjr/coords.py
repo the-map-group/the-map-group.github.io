@@ -22490,5 +22490,22 @@ coords_dict = {
   '53.227536,-0.543614': ['GB', 'United Kingdom'],
   '53.228322,-0.538353': ['GB', 'United Kingdom'],
   '53.317666,-4.638867': ['GB', 'United Kingdom'],
-  '53.227813,-0.545078': ['GB', 'United Kingdom']
+  '53.227813,-0.545078': ['GB', 'United Kingdom'],
+  '53.226697,-0.541614': ['GB', 'United Kingdom'],
+  '53.193319,-0.533356': ['GB', 'United Kingdom'],
+  '53.195874,-0.53362': ['GB', 'United Kingdom'],
+  '53.194783,-0.532731': ['GB', 'United Kingdom'],
+  '53.198008,-0.532992': ['GB', 'United Kingdom'],
+  '53.227919,-0.540884': ['GB', 'United Kingdom'],
+  '53.230788,-0.539834': ['GB', 'United Kingdom'],
+  '53.210202,-0.556881': ['GB', 'United Kingdom'],
+  '42.508822,1.532144': ['AD', 'Andorra'],
+  '42.51008,1.536261': ['AD', 'Andorra'],
+  '53.235211,-0.540953': ['GB', 'United Kingdom'],
+  '53.235208,-0.541384': ['GB', 'United Kingdom'],
+  '53.2307,-0.537017': ['GB', 'United Kingdom'],
+  '53.234816,-0.542295': ['GB', 'United Kingdom'],
+  '53.071919,-3.794373': ['GB', 'United Kingdom'],
+  '53.226986,-0.541675': ['GB', 'United Kingdom'],
+  '53.235447,-0.541581': ['GB', 'United Kingdom']
 }
