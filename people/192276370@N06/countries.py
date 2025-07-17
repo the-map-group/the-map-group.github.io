@@ -1,4 +1,4 @@
 countries_dict = {
-  'FR': ['France', 670, 845],
+  'FR': ['France', 670, 846],
   'IS': ['Iceland', 28, 31]
 }
