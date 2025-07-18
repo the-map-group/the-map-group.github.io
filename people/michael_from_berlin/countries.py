@@ -45,7 +45,7 @@ countries_dict = {
   'AU': ['Australia', 196, 221],
   'CK': ['Cook Islands', 4, 4],
   'TO': ['Tonga', 19, 19],
-  'SG': ['Singapore', 39, 43],
+  'SG': ['Singapore', 40, 44],
   'BE': ['Belgium', 16, 16],
   'NL': ['Netherlands', 5, 5],
   'SN': ['Senegal', 25, 26],
