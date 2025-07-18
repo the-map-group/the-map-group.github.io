@@ -1,8 +1,8 @@
 countries_dict = {
   'MU': ['Mauritius', 263, 372],
-  'RE': ['Reunion', 4158, 21982],
+  'RE': ['Reunion', 4158, 21983],
   'MG': ['Madagascar', 206, 360],
-  'FR': ['France', 4373, 7309],
+  'FR': ['France', 4374, 7312],
   'AE': ['United Arab Emirates', 91, 227],
   'OM': ['Oman', 339, 722],
   'IN': ['India', 37, 87],
@@ -21,7 +21,7 @@ countries_dict = {
   'HR': ['Croatia', 5, 5],
   'PL': ['Poland', 68, 71],
   'CZ': ['Czech Republic', 456, 580],
-  'DE': ['Germany', 412, 617],
+  'DE': ['Germany', 413, 618],
   'NZ': ['New Zealand', 554, 766],
   'NP': ['Nepal', 3, 13],
   'AT': ['Austria', 290, 435],
@@ -35,7 +35,7 @@ countries_dict = {
   'AU': ['Australia', 442, 644],
   'PT': ['Portugal', 768, 1266],
   'GB': ['United Kingdom', 762, 1246],
-  'UZ': ['Uzbekistan', 370, 944],
+  'UZ': ['Uzbekistan', 370, 953],
   'IS': ['Iceland', 2, 2],
   'BE': ['Belgium', 1, 1]
 }
