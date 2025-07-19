@@ -15,6 +15,6 @@ countries_dict = {
   'AT': ['Austria', 6, 10],
   'UA': ['Ukraine', 1, 1],
   'HU': ['Hungary', 5, 5],
-  'RO': ['Romania', 5, 6],
+  'RO': ['Romania', 6, 7],
   'SK': ['Slovakia', 1, 1]
 }
