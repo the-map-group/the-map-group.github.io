@@ -35,7 +35,7 @@ countries_dict = {
   'AU': ['Australia', 442, 644],
   'PT': ['Portugal', 768, 1266],
   'GB': ['United Kingdom', 762, 1246],
-  'UZ': ['Uzbekistan', 373, 979],
+  'UZ': ['Uzbekistan', 374, 1001],
   'IS': ['Iceland', 2, 2],
   'BE': ['Belgium', 1, 1]
 }
