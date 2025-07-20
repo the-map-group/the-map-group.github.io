@@ -12,7 +12,7 @@ countries_dict = {
   'IN': ['India', 10, 11],
   'TR': ['Turkey', 8, 8],
   'ES': ['Spain', 14, 17],
-  'PT': ['Portugal', 19, 25],
+  'PT': ['Portugal', 20, 26],
   'NL': ['Netherlands', 11, 11],
   'GR': ['Greece', 2, 3],
   'GB': ['United Kingdom', 1, 1],
