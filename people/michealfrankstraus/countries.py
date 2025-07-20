@@ -27,7 +27,7 @@ countries_dict = {
   'HR': ['Croatia', 1, 1],
   'SG': ['Singapore', 5, 5],
   'NO': ['Norway', 122, 123],
-  'NL': ['Netherlands', 12, 12],
+  'NL': ['Netherlands', 13, 13],
   'AT': ['Austria', 32, 35],
   'NZ': ['New Zealand', 123, 134],
   'SK': ['Slovakia', 12, 12],
