@@ -10767,5 +10767,11 @@ coords_dict = {
   '14.605075,-61.069142': ['MQ', 'Martinique'],
   '14.60522,-61.070516': ['MQ', 'Martinique'],
   '14.601317,-61.06754': ['MQ', 'Martinique'],
-  '14.600964,-61.073176': ['MQ', 'Martinique']
+  '14.600964,-61.073176': ['MQ', 'Martinique'],
+  '18.34094,-64.93133': ['VI', 'U.S. Virgin Islands'],
+  '18.336398,-64.9405': ['VI', 'U.S. Virgin Islands'],
+  '18.338028,-64.931831': ['VI', 'U.S. Virgin Islands'],
+  '18.340227,-64.930901': ['VI', 'U.S. Virgin Islands'],
+  '18.340207,-64.929621': ['VI', 'U.S. Virgin Islands'],
+  '18.340502,-64.928001': ['VI', 'U.S. Virgin Islands']
 }
