@@ -7,5 +7,5 @@ user_info = {
   'location': 'Herning, Denmark',
   'countries': 30,
   'markers': 12306,
-  'photos': 17713
+  'photos': 17714
 }
