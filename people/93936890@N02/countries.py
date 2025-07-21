@@ -11,7 +11,7 @@ countries_dict = {
   'SG': ['Singapore', 5, 6],
   'IM': ['Isle of Man', 1, 2],
   'TH': ['Thailand', 4, 4],
-  'IT': ['Italy', 7, 8],
+  'IT': ['Italy', 8, 9],
   'FR': ['France', 20, 22],
   'DE': ['Germany', 20, 23],
   'BE': ['Belgium', 2, 3],
