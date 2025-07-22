@@ -10774,5 +10774,8 @@ coords_dict = {
   '18.340227,-64.930901': ['VI', 'U.S. Virgin Islands'],
   '18.340207,-64.929621': ['VI', 'U.S. Virgin Islands'],
   '18.340502,-64.928001': ['VI', 'U.S. Virgin Islands'],
-  '18.340462,-64.931917': ['VI', 'U.S. Virgin Islands']
+  '18.340462,-64.931917': ['VI', 'U.S. Virgin Islands'],
+  '18.464731,-66.113262': ['PR', 'Puerto Rico'],
+  '18.465301,-66.114192': ['PR', 'Puerto Rico'],
+  '18.466746,-66.119656': ['PR', 'Puerto Rico']
 }
