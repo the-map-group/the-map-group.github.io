@@ -11,7 +11,7 @@ countries_dict = {
   'AR': ['Argentina', 46, 50],
   'US': ['United States', 282, 386],
   'CA': ['Canada', 80, 107],
-  'GB': ['United Kingdom', 463, 652],
+  'GB': ['United Kingdom', 468, 657],
   'FO': ['Faroe Islands', 6, 16],
   'IS': ['Iceland', 158, 295],
   'GL': ['Greenland', 124, 209],
