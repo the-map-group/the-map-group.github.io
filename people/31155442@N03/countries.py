@@ -45,7 +45,7 @@ countries_dict = {
   'VA': ['Vatican City', 25, 31],
   'BE': ['Belgium', 60, 66],
   'VI': ['U.S. Virgin Islands', 8, 19],
-  'PR': ['Puerto Rico', 6, 10],
+  'PR': ['Puerto Rico', 11, 17],
   'BR': ['Brazil', 4, 5],
   'MQ': ['Martinique', 10, 12],
   'VE': ['Venezuela', 9, 11],
