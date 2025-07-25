@@ -8,7 +8,7 @@ countries_dict = {
   'BE': ['Belgium', 50, 76],
   'CA': ['Canada', 43, 116],
   'AR': ['Argentina', 89, 126],
-  'HU': ['Hungary', 83, 87],
+  'HU': ['Hungary', 83, 88],
   'AT': ['Austria', 49, 97],
   'VN': ['Vietnam', 41, 117],
   'LS': ['Lesotho', 4, 4],
