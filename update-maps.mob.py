@@ -400,30 +400,6 @@ os.system("rm -fr {}/__pycache__".format(repo_path))
 
 os.system("touch success".format(repo_path))
 
-# check if all members were processed before remove members
-if len(current_members) < total_of_members:
-    log_file.close()
-    sys.exit()
-
-# get member directories list
-os.system("ls -d {0}/*/ > {0}/dirs".format(people_path))
-if os.path.exists("{}/dirs".format(people_path)):
-    members_dirs_file = open("{}/dirs".format(people_path))
-    members_dirs_file_lines = members_dirs_file.readlines()
-    os.system("rm {}/dirs".format(people_path))
-    members_dirs = []
-    for member in members_dirs_file_lines:
-        members_dirs.append(member.replace(people_path, '').replace('/', '').replace('\n',''))
-
-print("\n##### Removing members which have left the group...")
-log_file.write("\n##### Removing members which have left the group...\n")
-
-if len(current_members) == len(members_dirs):
-    print("No member has left the group!")
-    log_file.write("No member has left the group!\n")
-    log_file.close()
-    sys.exit()
-
 topics = []
 
 topics_num_of_pages = flickr.groups.discuss.topics.getList(api_key=api_key, group_id=group_id, per_page='500')['topics']['pages']
@@ -445,18 +421,6 @@ for page_number in range(topics_num_of_pages, 0, -1):
     for topic in topics_page:
         topics.append([topic['id'], topic['message']['_content']])
 
-# for each member directory check if member has left the group
-removed = 0
-for member in members_dirs:
-    if member not in current_members:
-        # remove member directory
-        os.system("rm -fr {0}/{1}".format(people_path, member))
-        print("Removed member: {}".format(member))
-        log_file.write("Removed member: {}\n".format(member))
-        removed += 1
-        for topic in topics:
-            if member in topic[1]:
-                reply_message = "[https://www.flickr.com/photos/{}/] Your map has been removed. Feel free to come back anytime and a new map will be created for you.".format(member)
-                flickr.groups.discuss.replies.add(api_key=api_key, group_id=group_id, topic_id=topic[0], message=reply_message)
-
 log_file.close()
+
+os.system("rm -fr {}/people/*/log".format(repo_path))
