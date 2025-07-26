@@ -13,7 +13,6 @@ people/*/matrix.py
 people/*/not_found.py
 people/members_list
 generate-reset-list.py
-last_total.py
 update-initial-code.sh
 update-repo.sh
 update-maps.sh

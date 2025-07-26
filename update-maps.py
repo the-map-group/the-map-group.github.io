@@ -287,6 +287,9 @@ for page_number in range(number_of_pages, 0, -1):
         command = "{}/generate-map-data.py".format(member_path)
         os.system(command)
 
+        if os.path.exists("{}/fatal".format(member_path)):
+            os.system("cp -f {}/fatal {}/fatal".format(member_path, repo_path))
+
         log_file = open('{}/log/update-maps.log'.format(repo_path), 'a')
 
         if os.path.exists("{}/locations.py".format(member_path)):
@@ -306,6 +309,7 @@ for page_number in range(number_of_pages, 0, -1):
                 os.system("git add -f {}/countries.py".format(member_path))
                 os.system("git add -f {}/user.py".format(member_path))
                 os.system("git add -f {}/coords.py".format(member_path))
+                os.system("git add -f {}/last_total.py".format(member_path))
                 os.system("git add -f {}/countries/*".format(repo_path))
                 os.system("git add -f {}/not_found.py".format(repo_path))
                 os.system("git add -f {}/log/*".format(repo_path))
@@ -421,6 +425,7 @@ os.system("git add -f {}/locations.py".format(repo_path))
 os.system("git add -f {}/members.py".format(repo_path))
 os.system("git add -f {}/aliases.py".format(repo_path))
 os.system("git add -f {}/countries/*".format(repo_path))
+os.system("git add -f {}/last_total.py".format(repo_path))
 os.system("git add -f {}/not_found.py".format(repo_path))
 os.system("git add -f {}/log/*".format(repo_path))
 os.system("git commit -m \"[auto] Updated group map\"")
@@ -433,7 +438,8 @@ os.system("rm -fr {}/__pycache__".format(repo_path))
 if len(reset_list) > 0:
     os.system("git checkout -- {}/reset.py".format(repo_path))
 
-os.system("touch success".format(repo_path))
+if not os.path.exists("{}/fatal".format(repo_path)):
+    os.system("touch {}/success".format(repo_path))
 
 # check if all members were processed before remove members
 if len(current_members) < total_of_members:
