@@ -7,7 +7,7 @@ members_file = open("members", "r")
 file_lines = members_file.readlines()
 
 for member in file_lines:
-	os.system("./rebuild-member.sh {}".format(member.replace("\n", "")))
+	os.system("./rebuild-member.mob.sh {}".format(member.replace("\n", "")))
 	print("Rebuilt {}".format(member.replace("\n", "")))
 
 members_file.close()
