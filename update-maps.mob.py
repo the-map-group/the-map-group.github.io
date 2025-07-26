@@ -199,7 +199,7 @@ for page_number in range(number_of_pages, 0, -1):
         # create member directory and topic if doesn't exist yet
         is_new_member = False
         if not os.path.isdir(member_path):
-            command = "{0}/setup-member.sh {1}".format(people_path, member_alias)
+            command = "{0}/setup-member.mob.sh {1}".format(people_path, member_alias)
             os.system(command)
             is_new_member = True
 
@@ -211,7 +211,7 @@ for page_number in range(number_of_pages, 0, -1):
             log_file.write('##### Updating map for member: {}...\n'.format(member_name[0:20]))
 
             if not reset_all and not os.path.exists("{}/generate-map-data.py".format(member_path)):
-                command = "{0}/restart-member.sh {1}".format(people_path, member_alias)
+                command = "{0}/restart-member.mob.sh {1}".format(people_path, member_alias)
                 os.system(command)
 
             if reset_all or member_alias in reset_list:
@@ -223,11 +223,11 @@ for page_number in range(number_of_pages, 0, -1):
                 if not os.path.exists("{}/coords.py".format(member_path)):
                     print('Resetting member...')
                     log_file.write('Resetting member...\n')
-                    command = "{0}/setup-member.sh {1}".format(people_path, member_alias)
+                    command = "{0}/setup-member.mob.sh {1}".format(people_path, member_alias)
                 else:
                     print('Restarting member...')
                     log_file.write('Restarting member...\n')
-                    command = "{0}/restart-member.sh {1}".format(people_path, member_alias)
+                    command = "{0}/restart-member.mob.sh {1}".format(people_path, member_alias)
                 os.system(command)
             else:
                 # get 'locations.py', 'countries.py' and 'user.js' from github
@@ -252,7 +252,7 @@ for page_number in range(number_of_pages, 0, -1):
             if not reset_all and not memberFilesExist(member_path):
                 print('Unable to locate at least one of the member\'s files. Restarting member...')
                 log_file.write('Unable to locate at least one of the member\'s files. Restarting member...\n')
-                command = "{0}/restart-member.sh {1}".format(people_path, member_alias)
+                command = "{0}/restart-member.mob.sh {1}".format(people_path, member_alias)
                 os.system(command)
 
         if os.path.exists("{}/locations.py".format(member_path)):

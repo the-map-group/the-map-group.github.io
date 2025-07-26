@@ -5,7 +5,7 @@ GEN_MAP_DIR="/storage/emulated/0/GitRepos/flickr_map"
 
 if [ -z $1 ];
   then
-    echo "Usage: ./mob_rebuild-member.sh <member>"
+    echo "Usage: ./restart-member.mob.sh <member>"
     exit 1
 fi
 
@@ -58,7 +58,32 @@ fi
 
 if [[ ! -e update-countries-map-data.py ]];
   then
-    cp ../update-countries-map-data.mob.py update-countries-map-data.py
+    cp ../update-countries-map-data.py .
+fi
+
+if [[ -e last_total.py ]];
+  then
+    rm last_total.py
+fi
+
+if [[ -e user.py ]];
+  then
+    rm user.py
+fi
+
+if [[ -e countries.py ]];
+  then
+    rm countries.py
+fi
+
+if [[ -e locations.py ]];
+  then
+    rm locations.py
+fi
+
+if [[ -e __pycache__ ]];
+  then
+    rm -r __pycache__
 fi
 
 if [[ ! -e config.py ]];
