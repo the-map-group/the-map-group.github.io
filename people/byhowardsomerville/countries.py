@@ -20,7 +20,7 @@ countries_dict = {
   'IS': ['Iceland', 4, 4],
   'MY': ['Malaysia', 5, 6],
   'PL': ['Poland', 4, 4],
-  'IN': ['India', 78, 128],
+  'IN': ['India', 79, 129],
   'EE': ['Estonia', 1, 1],
   'AR': ['Argentina', 1, 1],
   'MM': ['Myanmar', 8, 16],
