@@ -1957,5 +1957,6 @@ coords_dict = {
   '1.282813,103.86105': ['SG', 'Singapore'],
   '33.94703,-118.340789': ['US', 'United States'],
   '33.94723,-118.34045': ['US', 'United States'],
-  '33.947232,-118.340373': ['US', 'United States']
+  '33.947232,-118.340373': ['US', 'United States'],
+  '33.947236,-118.340453': ['US', 'United States']
 }
