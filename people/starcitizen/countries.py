@@ -3,7 +3,7 @@ countries_dict = {
   'AD': ['Andorra', 595, 602],
   'NZ': ['New Zealand', 319, 333],
   'FR': ['France', 195, 196],
-  'NO': ['Norway', 906, 941],
+  'NO': ['Norway', 907, 942],
   'AR': ['Argentina', 226, 229],
   'CL': ['Chile', 105, 119],
   'CH': ['Switzerland', 6, 6],
