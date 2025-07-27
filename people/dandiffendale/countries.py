@@ -8,7 +8,7 @@ countries_dict = {
   'VA': ['Vatican City', 11, 173],
   'TR': ['Turkey', 40, 549],
   'MA': ['Morocco', 119, 592],
-  'BG': ['Bulgaria', 12, 106],
+  'BG': ['Bulgaria', 13, 109],
   'PT': ['Portugal', 52, 199],
   'IE': ['Ireland', 4, 19],
   'RO': ['Romania', 4, 48],

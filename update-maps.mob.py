@@ -81,6 +81,9 @@ def sendEmail(member_name):
 if os.path.exists("{}/success".format(repo_path)):
     os.system("rm {}/success".format(repo_path))
 
+if os.path.exists("{}/fatal".format(repo_path)):
+    os.system("rm {}/fatal".format(repo_path))
+
 reset_all = config.reset_all
 reset_coords = config.reset_coords
 force_reset = config.force_reset
@@ -213,6 +216,9 @@ for page_number in range(number_of_pages, 0, -1):
             if not reset_all and not os.path.exists("{}/generate-map-data.py".format(member_path)):
                 command = "{0}/restart-member.mob.sh {1}".format(people_path, member_alias)
                 os.system(command)
+
+            if os.path.exists("{}/fatal".format(member_path)):
+                os.system("cp -f {}/fatal {}/fatal".format(member_path, repo_path))
 
             if reset_all or member_alias in reset_list:
                 if not reset_all:
