@@ -81,6 +81,9 @@ def sendEmail(member_name):
 if os.path.exists("{}/success".format(repo_path)):
     os.system("rm {}/success".format(repo_path))
 
+if os.path.exists("{}/fatal".format(repo_path)):
+    os.system("rm {}/fatal".format(repo_path))
+
 reset_all = config.reset_all
 reset_coords = config.reset_coords
 force_reset = config.force_reset
