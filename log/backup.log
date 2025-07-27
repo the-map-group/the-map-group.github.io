@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 2815933] Backup commit
- 4844 files changed, 1273773 insertions(+)
+[main (root-commit) 43e2175] Backup commit
+ 4850 files changed, 1270947 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -4185,7 +4185,9 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/quelrr/photos/index.html
  create mode 100755 people/quelrr/update-countries-map-data.py
  create mode 100644 people/quelrr/user.py
+ create mode 100755 people/rebuild-member.mob.sh
  create mode 100755 people/rebuild-member.sh
+ create mode 100755 people/rebuildMembers.mob.py
  create mode 100755 people/rebuildMembers.pl
  create mode 100755 people/removeMembers.pl
  create mode 100644 people/renato59/__pycache__/countries.cpython-311.pyc
@@ -4210,6 +4212,7 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/renato59/user.py
  create mode 100755 people/reset-member-map.sh
  create mode 100755 people/resetMembers.pl
+ create mode 100755 people/restart-member.mob.sh
  create mode 100755 people/restart-member.sh
  create mode 100755 people/restartMembers.pl
  create mode 100644 people/robinshepperson/__pycache__/countries.cpython-311.pyc
@@ -4392,6 +4395,7 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/seasidesigns/photos/index.html
  create mode 100755 people/seasidesigns/update-countries-map-data.py
  create mode 100644 people/seasidesigns/user.py
+ create mode 100755 people/setup-member.mob.sh
  create mode 100755 people/setup-member.sh
  create mode 100644 people/shabbagaz/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/shabbagaz/__pycache__/countries_members.cpython-311.pyc
@@ -4634,6 +4638,7 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/ultimax_1964/photos/index.html
  create mode 100755 people/ultimax_1964/update-countries-map-data.py
  create mode 100644 people/ultimax_1964/user.py
+ create mode 100755 people/update-countries-map-data.mob.py
  create mode 100755 people/update-countries-map-data.py
  create mode 100755 people/update-html.sh
  create mode 100755 people/update-member-map.sh
@@ -4845,6 +4850,7 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 style.css
  create mode 100644 success
  create mode 100755 update-initial-code.sh
+ create mode 100755 update-maps.mob.py
  create mode 100755 update-maps.py
  create mode 100755 update-maps.sh
  create mode 100755 update-repo.sh
