@@ -22,3 +22,443 @@ Map already has 1129 marker(s)
 Added 1 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Elena Lebedeva (IG: ...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Elena Lebedeva (IG: ellebedeva'
+250 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: hans pohl...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+ERROR: Unable to get photos
+do_request: Status code 503 received
+Trying again...
+Generating map for 'Hans Pohl'
+5920 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Steenjep...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Steen Jeppesen'
+17765 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: michael_jeddah...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+ERROR: FATAL: Unable to get user info
+do_request: Status code 503 received
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: haroldmoses...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+ERROR: FATAL: Unable to get user info
+do_request: Status code 503 received
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Lemmo2009...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+ERROR: Unable to get photos
+do_request: Status code 503 received
+Trying again...
+Generating map for 'Paul'
+6684 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Northern Tony...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Northern Tony'
+147 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: normafincher...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Norma Fincher'
+121434 photos in the photostream
+2 photo(s) deleted from photostream.
+The corresponding markers will alse be deleted
+Extracting photo coordinates and ids...
+Extracting for the last 100000 photos
+Batch 1/200 | 2 photo(s) in 1 marker(s)
+Batch 2/200 | 2 photo(s) in 1 marker(s)
+Batch 3/200 | 2 photo(s) in 1 marker(s)
+ERROR: Unable to get photos
+do_request: Status code 503 received
+Trying again...
+Batch 4/200 | 2 photo(s) in 1 marker(s)
+Batch 5/200 | 2 photo(s) in 1 marker(s)
+Batch 6/200 | 3 photo(s) in 2 marker(s)
+Batch 7/200 | 3 photo(s) in 2 marker(s)
+Batch 8/200 | 3 photo(s) in 2 marker(s)
+Batch 9/200 | 3 photo(s) in 2 marker(s)
+Batch 10/200 | 3 photo(s) in 2 marker(s)
+Batch 11/200 | 3 photo(s) in 2 marker(s)
+Batch 12/200 | 3 photo(s) in 2 marker(s)
+Batch 13/200 | 3 photo(s) in 2 marker(s)
+Batch 14/200 | 3 photo(s) in 2 marker(s)
+Batch 15/200 | 3 photo(s) in 2 marker(s)
+Batch 16/200 | 3 photo(s) in 2 marker(s)
+Batch 17/200 | 3 photo(s) in 2 marker(s)
+Batch 18/200 | 4 photo(s) in 3 marker(s)
+Batch 19/200 | 4 photo(s) in 3 marker(s)
+Batch 20/200 | 4 photo(s) in 3 marker(s)
+Batch 21/200 | 4 photo(s) in 3 marker(s)
+Batch 22/200 | 4 photo(s) in 3 marker(s)
+Batch 23/200 | 5 photo(s) in 4 marker(s)
+Batch 24/200 | 5 photo(s) in 4 marker(s)
+Batch 25/200 | 5 photo(s) in 4 marker(s)
+Batch 26/200 | 5 photo(s) in 4 marker(s)
+Batch 27/200 | 5 photo(s) in 4 marker(s)
+Batch 28/200 | 5 photo(s) in 4 marker(s)
+Batch 29/200 | 5 photo(s) in 4 marker(s)
+Batch 30/200 | 5 photo(s) in 4 marker(s)
+Batch 31/200 | 5 photo(s) in 4 marker(s)
+Batch 32/200 | 218 photo(s) in 5 marker(s)
+Batch 33/200 | 218 photo(s) in 5 marker(s)
+Batch 34/200 | 218 photo(s) in 5 marker(s)
+Batch 35/200 | 218 photo(s) in 5 marker(s)
+Batch 36/200 | 218 photo(s) in 5 marker(s)
+Batch 37/200 | 218 photo(s) in 5 marker(s)
+Batch 38/200 | 218 photo(s) in 5 marker(s)
+Batch 39/200 | 218 photo(s) in 5 marker(s)
+Batch 40/200 | 312 photo(s) in 8 marker(s)
+Batch 41/200 | 448 photo(s) in 9 marker(s)
+Batch 42/200 | 672 photo(s) in 9 marker(s)
+Batch 43/200 | 906 photo(s) in 9 marker(s)
+Batch 44/200 | 906 photo(s) in 9 marker(s)
+Batch 45/200 | 906 photo(s) in 9 marker(s)
+Batch 46/200 | 906 photo(s) in 9 marker(s)
+Batch 47/200 | 906 photo(s) in 9 marker(s)
+Batch 48/200 | 906 photo(s) in 9 marker(s)
+Batch 49/200 | 907 photo(s) in 10 marker(s)
+Batch 50/200 | 907 photo(s) in 10 marker(s)
+Batch 51/200 | 907 photo(s) in 10 marker(s)
+Batch 52/200 | 907 photo(s) in 10 marker(s)
+Batch 53/200 | 907 photo(s) in 10 marker(s)
+Batch 54/200 | 907 photo(s) in 10 marker(s)
+Batch 55/200 | 907 photo(s) in 10 marker(s)
+Batch 56/200 | 907 photo(s) in 10 marker(s)
+Batch 57/200 | 907 photo(s) in 10 marker(s)
+Batch 58/200 | 907 photo(s) in 10 marker(s)
+Batch 59/200 | 908 photo(s) in 11 marker(s)
+Batch 60/200 | 908 photo(s) in 11 marker(s)
+Batch 61/200 | 908 photo(s) in 11 marker(s)
+Batch 62/200 | 908 photo(s) in 11 marker(s)
+Batch 63/200 | 908 photo(s) in 11 marker(s)
+Batch 64/200 | 908 photo(s) in 11 marker(s)
+Batch 65/200 | 908 photo(s) in 11 marker(s)
+Batch 66/200 | 908 photo(s) in 11 marker(s)
+Batch 67/200 | 908 photo(s) in 11 marker(s)
+Batch 68/200 | 908 photo(s) in 11 marker(s)
+Batch 69/200 | 909 photo(s) in 12 marker(s)
+Batch 70/200 | 909 photo(s) in 12 marker(s)
+Batch 71/200 | 909 photo(s) in 12 marker(s)
+Batch 72/200 | 909 photo(s) in 12 marker(s)
+Batch 73/200 | 909 photo(s) in 12 marker(s)
+Batch 74/200 | 909 photo(s) in 12 marker(s)
+Batch 75/200 | 910 photo(s) in 12 marker(s)
+Batch 76/200 | 910 photo(s) in 12 marker(s)
+Batch 77/200 | 910 photo(s) in 12 marker(s)
+Batch 78/200 | 910 photo(s) in 12 marker(s)
+Batch 79/200 | 910 photo(s) in 12 marker(s)
+Batch 80/200 | 911 photo(s) in 13 marker(s)
+Batch 81/200 | 911 photo(s) in 13 marker(s)
+Batch 82/200 | 911 photo(s) in 13 marker(s)
+Batch 83/200 | 1240 photo(s) in 15 marker(s)
+Batch 84/200 | 1433 photo(s) in 15 marker(s)
+Batch 85/200 | 1433 photo(s) in 15 marker(s)
+Batch 86/200 | 1580 photo(s) in 15 marker(s)
+Batch 87/200 | 2045 photo(s) in 15 marker(s)
+Batch 88/200 | 2045 photo(s) in 15 marker(s)
+Batch 89/200 | 2047 photo(s) in 17 marker(s)
+Batch 90/200 | 2047 photo(s) in 17 marker(s)
+Batch 91/200 | 2047 photo(s) in 17 marker(s)
+Batch 92/200 | 2047 photo(s) in 17 marker(s)
+Batch 93/200 | 2047 photo(s) in 17 marker(s)
+Batch 94/200 | 2047 photo(s) in 17 marker(s)
+Batch 95/200 | 2047 photo(s) in 17 marker(s)
+Batch 96/200 | 2047 photo(s) in 17 marker(s)
+Batch 97/200 | 2047 photo(s) in 17 marker(s)
+Batch 98/200 | 2047 photo(s) in 17 marker(s)
+Batch 99/200 | 2047 photo(s) in 17 marker(s)
+Batch 100/200 | 2047 photo(s) in 17 marker(s)
+Batch 101/200 | 2047 photo(s) in 17 marker(s)
+Batch 102/200 | 2047 photo(s) in 17 marker(s)
+Batch 103/200 | 2047 photo(s) in 17 marker(s)
+Batch 104/200 | 2047 photo(s) in 17 marker(s)
+Batch 105/200 | 2096 photo(s) in 18 marker(s)
+Batch 106/200 | 2174 photo(s) in 20 marker(s)
+Batch 107/200 | 2603 photo(s) in 24 marker(s)
+Batch 108/200 | 3076 photo(s) in 26 marker(s)
+Batch 109/200 | 3370 photo(s) in 29 marker(s)
+Batch 110/200 | 3706 photo(s) in 32 marker(s)
+Batch 111/200 | 4206 photo(s) in 37 marker(s)
+Batch 112/200 | 4419 photo(s) in 38 marker(s)
+Batch 113/200 | 4758 photo(s) in 40 marker(s)
+Batch 114/200 | 5045 photo(s) in 40 marker(s)
+Batch 115/200 | 5470 photo(s) in 43 marker(s)
+Batch 116/200 | 5914 photo(s) in 45 marker(s)
+Batch 117/200 | 6401 photo(s) in 47 marker(s)
+Batch 118/200 | 6795 photo(s) in 48 marker(s)
+Batch 119/200 | 6829 photo(s) in 48 marker(s)
+Batch 120/200 | 6830 photo(s) in 49 marker(s)
+Batch 121/200 | 6830 photo(s) in 49 marker(s)
+Batch 122/200 | 6830 photo(s) in 49 marker(s)
+Batch 123/200 | 6830 photo(s) in 49 marker(s)
+Batch 124/200 | 6831 photo(s) in 50 marker(s)
+Batch 125/200 | 6831 photo(s) in 50 marker(s)
+Batch 126/200 | 6831 photo(s) in 50 marker(s)
+Batch 127/200 | 7075 photo(s) in 51 marker(s)
+Batch 128/200 | 7575 photo(s) in 53 marker(s)
+Batch 129/200 | 8075 photo(s) in 54 marker(s)
+Batch 130/200 | 8575 photo(s) in 55 marker(s)
+Batch 131/200 | 9067 photo(s) in 55 marker(s)
+Batch 132/200 | 9567 photo(s) in 56 marker(s)
+Batch 133/200 | 10066 photo(s) in 57 marker(s)
+Batch 134/200 | 10566 photo(s) in 57 marker(s)
+Batch 135/200 | 11066 photo(s) in 57 marker(s)
+Batch 136/200 | 11565 photo(s) in 58 marker(s)
+Batch 137/200 | 12008 photo(s) in 60 marker(s)
+Batch 138/200 | 12508 photo(s) in 60 marker(s)
+Batch 139/200 | 12842 photo(s) in 60 marker(s)
+Batch 140/200 | 12842 photo(s) in 60 marker(s)
+Batch 141/200 | 12842 photo(s) in 60 marker(s)
+Batch 142/200 | 12843 photo(s) in 61 marker(s)
+Batch 143/200 | 13299 photo(s) in 63 marker(s)
+Batch 144/200 | 13799 photo(s) in 66 marker(s)
+Batch 145/200 | 14299 photo(s) in 66 marker(s)
+Batch 146/200 | 14799 photo(s) in 68 marker(s)
+Batch 147/200 | 15299 photo(s) in 68 marker(s)
+Batch 148/200 | 15797 photo(s) in 69 marker(s)
+Batch 149/200 | 15961 photo(s) in 69 marker(s)
+Batch 150/200 | 16443 photo(s) in 70 marker(s)
+Batch 151/200 | 16567 photo(s) in 70 marker(s)
+Batch 152/200 | 16838 photo(s) in 71 marker(s)
+Batch 153/200 | 17075 photo(s) in 71 marker(s)
+Batch 154/200 | 17399 photo(s) in 71 marker(s)
+Batch 155/200 | 17463 photo(s) in 72 marker(s)
+Batch 156/200 | 17962 photo(s) in 74 marker(s)
+Batch 157/200 | 18462 photo(s) in 76 marker(s)
+Batch 158/200 | 18962 photo(s) in 77 marker(s)
+Batch 159/200 | 19316 photo(s) in 77 marker(s)
+Batch 160/200 | 19628 photo(s) in 80 marker(s)
+Batch 161/200 | 20128 photo(s) in 80 marker(s)
+Batch 162/200 | 20628 photo(s) in 80 marker(s)
+Batch 163/200 | 21073 photo(s) in 80 marker(s)
+Batch 164/200 | 21355 photo(s) in 84 marker(s)
+Batch 165/200 | 21854 photo(s) in 86 marker(s)
+Batch 166/200 | 22353 photo(s) in 88 marker(s)
+Batch 167/200 | 22853 photo(s) in 91 marker(s)
+Batch 168/200 | 23033 photo(s) in 91 marker(s)
+Batch 169/200 | 23533 photo(s) in 92 marker(s)
+Batch 170/200 | 23987 photo(s) in 92 marker(s)
+Batch 171/200 | 24487 photo(s) in 94 marker(s)
+Batch 172/200 | 24977 photo(s) in 94 marker(s)
+Batch 173/200 | 25311 photo(s) in 94 marker(s)
+Batch 174/200 | 25710 photo(s) in 95 marker(s)
+Batch 175/200 | 26114 photo(s) in 98 marker(s)
+Batch 176/200 | 26537 photo(s) in 99 marker(s)
+Batch 177/200 | 27037 photo(s) in 99 marker(s)
+Batch 178/200 | 27528 photo(s) in 99 marker(s)
+Batch 179/200 | 27835 photo(s) in 101 marker(s)
+Batch 180/200 | 28308 photo(s) in 108 marker(s)
+Batch 181/200 | 28808 photo(s) in 109 marker(s)
+Batch 182/200 | 29302 photo(s) in 112 marker(s)
+Batch 183/200 | 29794 photo(s) in 116 marker(s)
+Batch 184/200 | 30288 photo(s) in 118 marker(s)
+Batch 185/200 | 30726 photo(s) in 121 marker(s)
+Batch 186/200 | 31128 photo(s) in 124 marker(s)
+Batch 187/200 | 31622 photo(s) in 127 marker(s)
+Batch 188/200 | 32023 photo(s) in 130 marker(s)
+Batch 189/200 | 32404 photo(s) in 133 marker(s)
+Batch 190/200 | 32657 photo(s) in 135 marker(s)
+Batch 191/200 | 32806 photo(s) in 136 marker(s)
+Batch 192/200 | 33016 photo(s) in 137 marker(s)
+Batch 193/200 | 33308 photo(s) in 140 marker(s)
+Batch 194/200 | 33523 photo(s) in 141 marker(s)
+Batch 195/200 | 33523 photo(s) in 141 marker(s)
+Batch 196/200 | 33523 photo(s) in 141 marker(s)
+Batch 197/200 | 33538 photo(s) in 141 marker(s)
+Batch 198/200 | 33574 photo(s) in 141 marker(s)
+Batch 199/200 | 33574 photo(s) in 141 marker(s)
+Batch 200/200 | 33574 photo(s) in 141 marker(s)
+Adding marker(s) to map...
+141 new marker(s) will be added to the map
+Added marker 1/141
+Added marker 2/141
+Added marker 3/141
+Added marker 4/141
+Added marker 5/141
+Added marker 6/141
+Added marker 7/141
+Added marker 8/141
+Added marker 9/141
+Added marker 10/141
+Added marker 11/141
+Added marker 12/141
+Added marker 13/141
+Added marker 14/141
+Added marker 15/141
+Added marker 16/141
+Added marker 17/141
+Added marker 18/141
+Added marker 19/141
+Added marker 20/141
+Added marker 21/141
+Added marker 22/141
+Added marker 23/141
+Added marker 24/141
+Added marker 25/141
+Added marker 26/141
+Added marker 27/141
+Added marker 28/141
+Added marker 29/141
+Added marker 30/141
+Added marker 31/141
+Added marker 32/141
+Added marker 33/141
+Added marker 34/141
+Added marker 35/141
+Added marker 36/141
+Added marker 37/141
+Added marker 38/141
+Added marker 39/141
+Added marker 40/141
+Added marker 41/141
+Added marker 42/141
+Added marker 43/141
+Added marker 44/141
+Added marker 45/141
+Added marker 46/141
+Added marker 47/141
+Added marker 48/141
+Added marker 49/141
+Added marker 50/141
+Added marker 51/141
+Added marker 52/141
+Added marker 53/141
+Added marker 54/141
+Added marker 55/141
+Added marker 56/141
+Added marker 57/141
+Added marker 58/141
+Added marker 59/141
+Added marker 60/141
+Added marker 61/141
+Added marker 62/141
+Added marker 63/141
+Added marker 64/141
+Added marker 65/141
+Added marker 66/141
+Added marker 67/141
+Added marker 68/141
+Added marker 69/141
+Added marker 70/141
+Added marker 71/141
+Added marker 72/141
+Added marker 73/141
+Added marker 74/141
+Added marker 75/141
+Added marker 76/141
+Added marker 77/141
+Added marker 78/141
+Added marker 79/141
+Added marker 80/141
+Added marker 81/141
+Added marker 82/141
+Added marker 83/141
+Added marker 84/141
+Added marker 85/141
+Added marker 86/141
+Added marker 87/141
+Added marker 88/141
+Added marker 89/141
+Added marker 90/141
+Added marker 91/141
+Added marker 92/141
+Added marker 93/141
+Added marker 94/141
+Added marker 95/141
+Added marker 96/141
+Added marker 97/141
+Added marker 98/141
+Added marker 99/141
+Added marker 100/141
+Added marker 101/141
+Added marker 102/141
+Added marker 103/141
+Added marker 104/141
+Added marker 105/141
+Added marker 106/141
+Added marker 107/141
+Added marker 108/141
+Added marker 109/141
+Added marker 110/141
+Added marker 111/141
+Added marker 112/141
+Added marker 113/141
+Added marker 114/141
+Added marker 115/141
+Added marker 116/141
+Added marker 117/141
+Added marker 118/141
+Added marker 119/141
+Added marker 120/141
+Added marker 121/141
+Added marker 122/141
+Added marker 123/141
+Added marker 124/141
+Added marker 125/141
+Added marker 126/141
+Added marker 127/141
+Added marker 128/141
+Added marker 129/141
+Added marker 130/141
+Added marker 131/141
+Added marker 132/141
+Added marker 133/141
+Added marker 134/141
+Added marker 135/141
+Added marker 136/141
+Added marker 137/141
+Added marker 138/141
+Added marker 139/141
+Added marker 140/141
+Added marker 141/141
+Finished!
