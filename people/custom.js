@@ -49,7 +49,7 @@ function custom() {
   if (member_location != '' && member_location != null) {
     document.getElementById("user-location").innerText = member_location;
   } else {
-    document.getElementById("user-location").innerText = "Somewhere in The World";
+    document.getElementById("user-location").innerText = "Somewhere on Earth";
   }
 
   document.getElementById("n-markers").addEventListener('click', function() { fitInitialBoundingBox(initial_bbox); addMarkersToMap(add_markers_increment); });
