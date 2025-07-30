@@ -205,4 +205,5 @@ alias_dict = {
   '88321829@N03': 'airscan',
   '38286807@N03': 'jimgreig',
   '32744903@N00': 'bcnbits',
+  '101499638@N08': 'steveg1966',
 }
