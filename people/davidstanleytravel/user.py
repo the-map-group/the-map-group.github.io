@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/79721788@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/davidstanleytravel/',
   'location': 'Nanaimo, Canada',
-  'countries': 124,
-  'markers': 8020,
-  'photos': 9323
+  'countries': 125,
+  'markers': 8025,
+  'photos': 9328
 }
