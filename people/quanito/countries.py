@@ -1,6 +1,6 @@
 countries_dict = {
   'TH': ['Thailand', 11, 51],
-  'FR': ['France', 2999, 15343],
+  'FR': ['France', 3003, 15357],
   'LA': ['Laos', 5, 57],
   'KH': ['Cambodia', 1, 24],
   'IT': ['Italy', 391, 2046],
