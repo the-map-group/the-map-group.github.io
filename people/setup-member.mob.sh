@@ -26,7 +26,7 @@ cp ../../not_found.py .
 cp ../../countries/members.py countries_members.py
 cp $GEN_MAP_DIR/generate-map-data.py .
 cp ../index.html .
-cp ../update-countries-map-data.py .
+cp ../update-countries-map-data.mob.py update-countries-map-data.py
 echo "user = '$1'" > config.py
 echo "photoset_id = ''" >> config.py
 echo "photo_privacy = 1" >> config.py

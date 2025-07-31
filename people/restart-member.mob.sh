@@ -58,8 +58,8 @@ fi
 
 if [[ ! -e update-countries-map-data.py ]];
   then
-    cp ../update-countries-map-data.py .
-fi
+    cp ../update-countries-map-data.mob.py update-countries-map-data.py
+fi 
 
 if [[ -e last_total.py ]];
   then
