@@ -10796,5 +10796,6 @@ coords_dict = {
   '32.775611,-79.934617': ['US', 'United States'],
   '33.742478,-78.824461': ['US', 'United States'],
   '33.748973,-78.815513': ['US', 'United States'],
-  '33.715165,-78.92631': ['US', 'United States']
+  '33.715165,-78.92631': ['US', 'United States'],
+  '36.089615,-5.349655': ['GI', 'Gibraltar']
 }
