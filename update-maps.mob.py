@@ -10,8 +10,6 @@ import api_credentials
 import config
 import aliases
 import importlib
-import json
-import time
 import os
 import sys
 
