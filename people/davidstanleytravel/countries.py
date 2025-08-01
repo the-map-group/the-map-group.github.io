@@ -101,7 +101,7 @@ countries_dict = {
   'KN': ['Saint Kitts and Nevis', 35, 35],
   'VG': ['British Virgin Islands', 17, 20],
   'SJ': ['Svalbard and Jan Mayen', 109, 117],
-  'NO': ['Norway', 41, 44],
+  'NO': ['Norway', 42, 45],
   'SE': ['Sweden', 33, 38],
   'CO': ['Colombia', 50, 56],
   'MY': ['Malaysia', 1, 1],
@@ -123,5 +123,5 @@ countries_dict = {
   'VA': ['Vatican City', 5, 5],
   'MC': ['Monaco', 9, 14],
   'VN': ['Vietnam', 83, 97],
-  'KH': ['Cambodia', 7, 9]
+  'KH': ['Cambodia', 11, 15]
 }
