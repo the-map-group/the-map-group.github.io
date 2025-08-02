@@ -11,7 +11,7 @@ countries_dict = {
   'TR': ['Turkey', 3261, 4605],
   'HR': ['Croatia', 215, 244],
   'BA': ['Bosnia and Herzegovina', 1, 1],
-  'DE': ['Germany', 6652, 8096],
+  'DE': ['Germany', 6662, 8106],
   'ES': ['Spain', 404, 535],
   'VA': ['Vatican City', 213, 396],
   'SE': ['Sweden', 37, 38],
