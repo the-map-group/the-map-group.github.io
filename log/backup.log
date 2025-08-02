@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) f602baa] Backup commit
- 4850 files changed, 1271562 insertions(+)
+[main (root-commit) 832f3e8] Backup commit
+ 4882 files changed, 1273589 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -1993,6 +1993,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/51839301@N00/index.html
  create mode 100644 people/51839301@N00/last_total.py
  create mode 100644 people/51839301@N00/locations.py
+ create mode 100644 people/51839301@N00/log/countries_info.err
+ create mode 100644 people/51839301@N00/log/countries_info.log
+ create mode 100644 people/51839301@N00/log/countries_info.rep
+ create mode 100644 people/51839301@N00/log/index.html
  create mode 120000 people/51839301@N00/map.log
  create mode 120000 people/51839301@N00/matrix.py
  create mode 120000 people/51839301@N00/not_found.py
@@ -2193,6 +2197,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/8920963@N03/index.html
  create mode 100644 people/8920963@N03/last_total.py
  create mode 100644 people/8920963@N03/locations.py
+ create mode 100644 people/8920963@N03/log/countries_info.err
+ create mode 100644 people/8920963@N03/log/countries_info.log
+ create mode 100644 people/8920963@N03/log/countries_info.rep
+ create mode 100644 people/8920963@N03/log/index.html
  create mode 120000 people/8920963@N03/map.log
  create mode 120000 people/8920963@N03/matrix.py
  create mode 120000 people/8920963@N03/not_found.py
@@ -3898,6 +3906,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/mosesharold/index.html
  create mode 100644 people/mosesharold/last_total.py
  create mode 100644 people/mosesharold/locations.py
+ create mode 100644 people/mosesharold/log/countries_info.err
+ create mode 100644 people/mosesharold/log/countries_info.log
+ create mode 100644 people/mosesharold/log/countries_info.rep
+ create mode 100644 people/mosesharold/log/index.html
  create mode 120000 people/mosesharold/map.log
  create mode 120000 people/mosesharold/matrix.py
  create mode 120000 people/mosesharold/not_found.py
@@ -4517,6 +4529,26 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/starcitizen/photos/index.html
  create mode 100755 people/starcitizen/update-countries-map-data.py
  create mode 100644 people/starcitizen/user.py
+ create mode 100644 people/steveg1966/__pycache__/countries.cpython-311.pyc
+ create mode 100644 people/steveg1966/__pycache__/countries_members.cpython-311.pyc
+ create mode 100644 people/steveg1966/__pycache__/user.cpython-311.pyc
+ create mode 120000 people/steveg1966/api_credentials.py
+ create mode 100644 people/steveg1966/config.py
+ create mode 100644 people/steveg1966/coords.py
+ create mode 100644 people/steveg1966/countries.py
+ create mode 120000 people/steveg1966/countries_config.py
+ create mode 120000 people/steveg1966/countries_info.py
+ create mode 120000 people/steveg1966/countries_members.py
+ create mode 100755 people/steveg1966/generate-map-data.py
+ create mode 100644 people/steveg1966/index.html
+ create mode 100644 people/steveg1966/last_total.py
+ create mode 100644 people/steveg1966/locations.py
+ create mode 120000 people/steveg1966/map.log
+ create mode 120000 people/steveg1966/matrix.py
+ create mode 120000 people/steveg1966/not_found.py
+ create mode 100644 people/steveg1966/photos/index.html
+ create mode 100755 people/steveg1966/update-countries-map-data.py
+ create mode 100644 people/steveg1966/user.py
  create mode 100644 people/stratman2/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/stratman2/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/stratman2/__pycache__/user.cpython-311.pyc
