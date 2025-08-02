@@ -33,5 +33,5 @@ countries_dict = {
   'SK': ['Slovakia', 12, 12],
   'FO': ['Faroe Islands', 38, 39],
   'SJ': ['Svalbard and Jan Mayen', 8, 8],
-  'PT': ['Portugal', 3, 3]
+  'PT': ['Portugal', 4, 4]
 }
