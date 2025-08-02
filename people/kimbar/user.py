@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/28287831@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/kimbar/',
   'location': 'Berkeley, CA, U.S.',
-  'countries': 68,
-  'markers': 6620,
-  'photos': 9017
+  'countries': 69,
+  'markers': 6622,
+  'photos': 9019
 }
