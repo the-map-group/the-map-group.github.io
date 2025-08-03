@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 832f3e8] Backup commit
- 4882 files changed, 1273589 insertions(+)
+[main (root-commit) 5f2bb4e] Backup commit
+ 4870 files changed, 1273402 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -1993,10 +1993,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/51839301@N00/index.html
  create mode 100644 people/51839301@N00/last_total.py
  create mode 100644 people/51839301@N00/locations.py
- create mode 100644 people/51839301@N00/log/countries_info.err
- create mode 100644 people/51839301@N00/log/countries_info.log
- create mode 100644 people/51839301@N00/log/countries_info.rep
- create mode 100644 people/51839301@N00/log/index.html
  create mode 120000 people/51839301@N00/map.log
  create mode 120000 people/51839301@N00/matrix.py
  create mode 120000 people/51839301@N00/not_found.py
@@ -2197,10 +2193,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/8920963@N03/index.html
  create mode 100644 people/8920963@N03/last_total.py
  create mode 100644 people/8920963@N03/locations.py
- create mode 100644 people/8920963@N03/log/countries_info.err
- create mode 100644 people/8920963@N03/log/countries_info.log
- create mode 100644 people/8920963@N03/log/countries_info.rep
- create mode 100644 people/8920963@N03/log/index.html
  create mode 120000 people/8920963@N03/map.log
  create mode 120000 people/8920963@N03/matrix.py
  create mode 120000 people/8920963@N03/not_found.py
@@ -3906,10 +3898,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/mosesharold/index.html
  create mode 100644 people/mosesharold/last_total.py
  create mode 100644 people/mosesharold/locations.py
- create mode 100644 people/mosesharold/log/countries_info.err
- create mode 100644 people/mosesharold/log/countries_info.log
- create mode 100644 people/mosesharold/log/countries_info.rep
- create mode 100644 people/mosesharold/log/index.html
  create mode 120000 people/mosesharold/map.log
  create mode 120000 people/mosesharold/matrix.py
  create mode 120000 people/mosesharold/not_found.py
