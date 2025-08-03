@@ -13,7 +13,7 @@ countries_dict = {
   'SY': ['Syria', 2, 2],
   'HR': ['Croatia', 1, 45],
   'KE': ['Kenya', 1, 17],
-  'ET': ['Ethiopia', 6, 200],
+  'ET': ['Ethiopia', 6, 201],
   'SD': ['Sudan', 2, 40],
   'AR': ['Argentina', 1, 29],
   'IE': ['Ireland', 1, 55],
