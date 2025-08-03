@@ -38,7 +38,7 @@ countries_dict = {
   'TR': ['Turkey', 29, 50],
   'RU': ['Russia', 31, 43],
   'FJ': ['Fiji', 68, 93],
-  'IE': ['Ireland', 145, 211],
+  'IE': ['Ireland', 147, 217],
   'NO': ['Norway', 444, 584],
   'UZ': ['Uzbekistan', 99, 257],
   'KZ': ['Kazakhstan', 121, 299],

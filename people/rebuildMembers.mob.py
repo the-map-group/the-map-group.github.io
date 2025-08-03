@@ -2,7 +2,7 @@
 
 import os
 
-members_file = open("members", "r")
+members_file = open("members_list", "r")
 
 file_lines = members_file.readlines()
 
