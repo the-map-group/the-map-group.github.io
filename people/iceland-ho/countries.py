@@ -4,7 +4,7 @@ countries_dict = {
   'CN': ['China', 16, 16],
   'FO': ['Faroe Islands', 9, 9],
   'US': ['United States', 24, 24],
-  'ES': ['Spain', 10, 10],
+  'ES': ['Spain', 11, 11],
   'GB': ['United Kingdom', 47, 48],
   'MD': ['Moldova', 12, 12],
   'UY': ['Uruguay', 6, 6],
