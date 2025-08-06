@@ -90,13 +90,13 @@
   var members_markers = [];
   var non_members_markers = [];
 
-  var initial_bbox = [];
-  var current_bbox = [];
-
   var west = countries_bbox[country_code][1][0];
   var south = countries_bbox[country_code][1][1];
   var east = countries_bbox[country_code][1][2];
   var north = countries_bbox[country_code][1][3];
+
+  var current_bbox = [west, south, east, north];
+  var initial_bbox = current_bbox;
 
   for (var i = 0; i < locations.length; i++) {
     if (locations[i][1] == country_code) {
