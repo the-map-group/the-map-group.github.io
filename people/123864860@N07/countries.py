@@ -14,7 +14,7 @@ countries_dict = {
   'KG': ['Kyrgyzstan', 73, 79],
   'AR': ['Argentina', 78, 96],
   'CL': ['Chile', 268, 352],
-  'CN': ['China', 369, 695],
+  'CN': ['China', 369, 700],
   'FK': ['Falkland Islands', 182, 371],
   'GS': ['South Georgia and South Sandwich Islands', 162, 231],
   'MX': ['Mexico', 149, 201],

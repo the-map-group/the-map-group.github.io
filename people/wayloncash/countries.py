@@ -17,7 +17,7 @@ countries_dict = {
   'CA': ['Canada', 61, 98],
   'MC': ['Monaco', 6, 8],
   'GR': ['Greece', 136, 180],
-  'TR': ['Turkey', 41, 61],
+  'TR': ['Turkey', 42, 62],
   'NA': ['Namibia', 8, 8],
   'MK': ['North Macedonia', 20, 29],
   'BG': ['Bulgaria', 19, 19],

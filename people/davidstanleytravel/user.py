@@ -7,5 +7,5 @@ user_info = {
   'location': 'Nanaimo, Canada',
   'countries': 125,
   'markers': 8049,
-  'photos': 9362
+  'photos': 9364
 }
