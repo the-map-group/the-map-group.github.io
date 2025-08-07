@@ -11,7 +11,7 @@ countries_dict = {
   'BE': ['Belgium', 31, 34],
   'FI': ['Finland', 8, 8],
   'TR': ['Turkey', 64, 73],
-  'GB': ['United Kingdom', 29, 30],
+  'GB': ['United Kingdom', 30, 31],
   'PL': ['Poland', 40, 42],
   'NL': ['Netherlands', 26, 26],
   'SG': ['Singapore', 13, 15],
