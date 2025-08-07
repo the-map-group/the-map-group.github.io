@@ -91,7 +91,7 @@ members_list = [
   ['134373885@N03', '134373885@N03', 'Miroslav Fedurco', "https://farm66.staticflickr.com/65535/buddyicons/134373885@N03_r.jpg", 232, 287, 7],
   ['58435673@N08', 'ultimax_1964', 'Steve Weston', "https://farm66.staticflickr.com/65535/buddyicons/58435673@N08_r.jpg", 264, 673, 12],
   ['125923483@N06', 'mountmanphoto', 'MountMan Photo', "https://farm6.staticflickr.com/5616/buddyicons/125923483@N06_r.jpg", 714, 943, 2],
-  ['134205948@N02', '134205948@N02', 'Giorgio Rodano', "https://farm1.staticflickr.com/714/buddyicons/134205948@N02_r.jpg", 7101, 7879, 8],
+  ['134205948@N02', '134205948@N02', 'Giorgio Rodano', "https://farm1.staticflickr.com/714/buddyicons/134205948@N02_r.jpg", 7101, 7880, 8],
   ['8009375@N03', 'atila_y', 'Atila Yumusakkaya', "https://farm6.staticflickr.com/5575/buddyicons/8009375@N03_r.jpg", 1409, 1596, 22],
   ['73683441@N07', '73683441@N07', 'Gerald (Wayne) Prout', "https://farm4.staticflickr.com/3793/buddyicons/73683441@N07_r.jpg", 4202, 9078, 8],
   ['32142243@N04', 'cyber-giraffe', 'Sacred_Spiral_Photography', "https://farm66.staticflickr.com/65535/buddyicons/32142243@N04_r.jpg", 35, 195, 2],
