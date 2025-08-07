@@ -3545,3 +3545,7 @@ Map already has 2026 marker(s)
 Max number of markers reached. Removing 1 marker(s)...
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+
+WARNING: Run was not totally successfull, not all members were processed.
