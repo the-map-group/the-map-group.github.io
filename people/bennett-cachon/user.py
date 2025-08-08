@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/bennett-cachon/',
   'location': '',
   'countries': 5,
-  'markers': 116,
-  'photos': 171
+  'markers': 115,
+  'photos': 170
 }
