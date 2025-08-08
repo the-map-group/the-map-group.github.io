@@ -47,7 +47,7 @@ countries_dict = {
   'ES': ['Spain', 46, 154],
   'CZ': ['Czech Republic', 27, 79],
   'SI': ['Slovenia', 46, 102],
-  'HR': ['Croatia', 86, 191],
+  'HR': ['Croatia', 88, 194],
   'JP': ['Japan', 27, 97],
   'YE': ['Yemen', 18, 48],
   'FI': ['Finland', 5, 7],
