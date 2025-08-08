@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/96671573@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/bennett-cachon/',
   'location': '',
-  'countries': 4,
-  'markers': 114,
-  'photos': 169
+  'countries': 5,
+  'markers': 116,
+  'photos': 171
 }
