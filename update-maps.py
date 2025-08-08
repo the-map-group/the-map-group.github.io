@@ -78,11 +78,14 @@ def sendEmail(member_name):
 
 #===== MAIN CODE ==============================================================#
 
-if os.path.exists("{}/success".format(repo_path)):
-    os.system("rm {}/success".format(repo_path))
+prev_has_fatal = False
 
 if os.path.exists("{}/fatal".format(repo_path)):
+    prev_has_fatal = True
     os.system("rm {}/fatal".format(repo_path))
+
+if os.path.exists("{}/success".format(repo_path)):
+    os.system("rm {}/success".format(repo_path))
 
 reset_all = config.reset_all
 reset_coords = config.reset_coords
@@ -180,12 +183,12 @@ for page_number in range(number_of_pages, 0, -1):
                 print('Removed old member directory: {}'.format(member_id))
                 log_file.write('Removed old member directory: {}'.format(member_id))
 
-        if (reset_all or member_alias in reset_list) and os.path.exists("{}/last_total.py".format(member_path)):
+        if ((reset_all or member_alias in reset_list) and os.path.exists("{}/last_total.py".format(member_path))) or (prev_has_fatal and not os.path.exists("{}/fatal".format(member_path))):
             if force_reset:
                  os.system("rm {}/last_total.py".format(member_path))
             else:
-                print('WARNING: Map has already been generated for member: {}'.format(member_name[0:20]))
-                log_file.write('WARNING: Map has already been generated for member: {}\n'.format(member_name[0:20]))
+                print('INFO: Map has already been generated for member: {}'.format(member_name[0:20]))
+                log_file.write('INFO: Map has already been generated for member: {}\n'.format(member_name[0:20]))
 
                 # get member information
                 print("Getting member information...")
@@ -424,15 +427,14 @@ log_file = open('{}/log/update-maps.log'.format(repo_path), 'a')
 
 print('Commiting map data...')
 log_file.write('Commiting map data...\n')
+
 os.system("git add -f {}/locations.py".format(repo_path))
 os.system("git add -f {}/members.py".format(repo_path))
 os.system("git add -f {}/aliases.py".format(repo_path))
 os.system("git add -f {}/countries/*".format(repo_path))
 os.system("git add -f {}/last_total.py".format(repo_path))
 os.system("git add -f {}/not_found.py".format(repo_path))
-os.system("git add -f {}/log/*".format(repo_path))
-os.system("git commit -m \"[auto] Updated group map\"")
-os.system("git push origin main")
+
 print('Done!')
 log_file.write('Done!\n')
 
@@ -443,10 +445,22 @@ if len(reset_list) > 0:
 
 if not os.path.exists("{}/fatal".format(repo_path)):
     os.system("touch {}/success".format(repo_path))
+else:
+    print('\nRUN ERROR: At least one FATAL ERROR ocurred during the maps updates.\n')
+    log_file.write('\nRUN ERROR: At least one FATAL ERROR ocurred during the maps updates.\n\n')
+
+os.system("git add -f {}/log/*".format(repo_path))
+os.system("git commit -m \"[auto] Updated group map\"")
+os.system("git push origin main")
 
 # check if all members were processed before remove members
 if len(current_members) < total_of_members:
+    print('\nWARNING: Run was not totally successfull, not all members were processed.\n')
+    log_file.write('\nWARNING: Run was not totally successfull, not all members were processed.\n\n')
     log_file.close()
+    os.system("git add -f {}/log/*".format(repo_path))
+    os.system("git commit -m \"[auto] Updated log file\"")
+    os.system("git push origin main")
     sys.exit()
 
 # get member directories list
@@ -514,3 +528,7 @@ for member in members_dirs:
                 flickr.groups.discuss.replies.add(api_key=api_key, group_id=group_id, topic_id=topic[0], message=reply_message)
 
 log_file.close()
+
+os.system("git add -f {}/log/*".format(repo_path))
+os.system("git commit -m \"[auto] Updated log file\"")
+os.system("git push origin main")

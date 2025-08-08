@@ -76,11 +76,14 @@ def sendEmail(member_name):
 
 #===== MAIN CODE ==============================================================#
 
-if os.path.exists("{}/success".format(repo_path)):
-    os.system("rm {}/success".format(repo_path))
+prev_has_fatal = False
 
 if os.path.exists("{}/fatal".format(repo_path)):
+    prev_has_fatal = True
     os.system("rm {}/fatal".format(repo_path))
+
+if os.path.exists("{}/success".format(repo_path)):
+    os.system("rm {}/success".format(repo_path))
 
 reset_all = config.reset_all
 reset_coords = config.reset_coords
@@ -176,12 +179,12 @@ for page_number in range(number_of_pages, 0, -1):
                 print('Removed old member directory: {}'.format(member_id))
                 log_file.write('Removed old member directory: {}'.format(member_id))
 
-        if (reset_all or member_alias in reset_list) and os.path.exists("{}/last_total.py".format(member_path)):
+        if ((reset_all or member_alias in reset_list) and os.path.exists("{}/last_total.py".format(member_path))) or (prev_has_fatal and not os.path.exists("{}/fatal".format(member_path))):
             if force_reset:
                  os.system("rm {}/last_total.py".format(member_path))
             else:
-                print('WARNING: Map has already been generated for member: {}'.format(member_name[0:20]))
-                log_file.write('WARNING: Map has already been generated for member: {}\n'.format(member_name[0:20]))
+                print('INFO: Map has already been generated for member: {}'.format(member_name[0:20]))
+                log_file.write('INFO: Map has already been generated for member: {}\n'.format(member_name[0:20]))
 
                 # get member information
                 print("Getting member information...")
@@ -402,29 +405,9 @@ log_file = open('{}/log/update-maps.log'.format(repo_path), 'a')
 
 os.system("rm -fr {}/__pycache__".format(repo_path))
 
-os.system("touch success".format(repo_path))
+if not os.path.exists("{}/fatal".format(repo_path)):
+    os.system("touch {}/success".format(repo_path))
+else:
+    print('\nRUN ERROR: At least one FATAL ERROR ocurred during the maps updates.\n')
+    log_file.write('\nRUN ERROR: At least one FATAL ERROR ocurred during the maps updates.\n\n')
 
-topics = []
-
-topics_num_of_pages = flickr.groups.discuss.topics.getList(api_key=api_key, group_id=group_id, per_page='500')['topics']['pages']
-
-# iterate over each topics page
-for page_number in range(topics_num_of_pages, 0, -1):
-
-    try:
-        topics_page = flickr.groups.discuss.topics.getList(api_key=api_key, group_id=group_id, page=page_number, per_page='500')['topics']['topic']
-    except Exception as e:
-        print('ERROR: FATAL: Unable to get discussion topics')
-        print(str(e))
-        log_file.write('ERROR: FATAL: Unable to get discussion topics\n')
-        log_file.write(str(e))
-        log_file.close()
-        sys.exit()
-
-    # iterate over each member in page
-    for topic in topics_page:
-        topics.append([topic['id'], topic['message']['_content']])
-
-log_file.close()
-
-os.system("rm -fr {}/people/*/log".format(repo_path))
