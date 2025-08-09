@@ -2393,3 +2393,11 @@ Map already has 2055 marker(s)
 Max number of markers reached. Removing 5 marker(s)...
 Added marker 1/5Added marker 2/5Added marker 3/5Added marker 4/5Added marker 5/5
 Finished!
+Commiting map data...
+Done!
+
+RUN ERROR: At least one FATAL ERROR ocurred during the maps updates.
+
+
+WARNING: Run was not totally successfull, not all members were processed.
+
