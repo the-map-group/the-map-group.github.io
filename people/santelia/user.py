@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/santelia/',
   'location': 'Milano, Italia',
   'countries': 33,
-  'markers': 727,
-  'photos': 1134
+  'markers': 729,
+  'photos': 1136
 }
