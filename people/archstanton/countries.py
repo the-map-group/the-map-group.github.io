@@ -11,7 +11,7 @@ countries_dict = {
   'TR': ['Turkey', 3261, 4605],
   'HR': ['Croatia', 215, 244],
   'BA': ['Bosnia and Herzegovina', 1, 1],
-  'DE': ['Germany', 6727, 8174],
+  'DE': ['Germany', 6736, 8184],
   'ES': ['Spain', 404, 535],
   'VA': ['Vatican City', 213, 396],
   'SE': ['Sweden', 37, 38],
@@ -28,7 +28,7 @@ countries_dict = {
   'RS': ['Serbia', 1300, 1401],
   'NL': ['Netherlands', 1, 4],
   'LU': ['Luxembourg', 76, 79],
-  'KR': ['South Korea', 245, 247],
+  'KR': ['South Korea', 267, 269],
   'CN': ['China', 13, 13],
   'RU': ['Russia', 3, 3]
 }
