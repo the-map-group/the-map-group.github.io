@@ -167,7 +167,7 @@ members_list = [
   ['93293461@N03', 'gabouruguay-collection', 'Gabriel Paladino Ibáñez', "https://farm66.staticflickr.com/65535/buddyicons/93293461@N03_r.jpg", 899, 3019, 10],
   ['138177073@N04', 'archstanton', '- Ozymandias -', "https://farm2.staticflickr.com/1543/buddyicons/138177073@N04_r.jpg", 34915, 42019, 32],
   ['197276323@N06', '197276323@N06', 'Dwight Carr', "https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg", 1, 1, 1],
-  ['79721788@N00', 'davidstanleytravel', 'David Stanley', "https://farm66.staticflickr.com/65535/buddyicons/79721788@N00_r.jpg", 8059, 9382, 125],
+  ['79721788@N00', 'davidstanleytravel', 'David Stanley', "https://farm66.staticflickr.com/65535/buddyicons/79721788@N00_r.jpg", 8061, 9387, 125],
   ['22875671@N04', '22875671@N04', 'Steve', "https://farm5.staticflickr.com/4445/buddyicons/22875671@N04_r.jpg", 287, 313, 5],
   ['23349126@N08', 'joeinpenticton', 'Joe (Josè) Garcia', "https://farm66.staticflickr.com/65535/buddyicons/23349126@N08_r.jpg", 781, 792, 7],
   ['193758259@N04', 'enricoveneruso', 'Enrico Veneruso', "https://farm66.staticflickr.com/65535/buddyicons/193758259@N04_r.jpg", 323, 326, 10],
