@@ -7,5 +7,5 @@ user_info = {
   'location': 'Salamanca, ESPAÑA',
   'countries': 6,
   'markers': 2164,
-  'photos': 2795
+  'photos': 2796
 }

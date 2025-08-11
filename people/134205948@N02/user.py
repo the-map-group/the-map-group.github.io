@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm1.staticflickr.com/714/buddyicons/134205948@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/134205948@N02/',
   'location': 'Roma, Italy',
-  'countries': 8,
-  'markers': 7110,
-  'photos': 7890
+  'countries': 9,
+  'markers': 7112,
+  'photos': 7892
 }
