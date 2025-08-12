@@ -7,5 +7,5 @@ user_info = {
   'location': 'Montelimar, France',
   'countries': 1,
   'markers': 37,
-  'photos': 1656
+  'photos': 1658
 }
