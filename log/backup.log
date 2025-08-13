@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 7308e72] Backup commit
- 4874 files changed, 1271547 insertions(+)
+[main (root-commit) b08b051] Backup commit
+ 4934 files changed, 1279020 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -1077,6 +1077,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/130828646@N02/index.html
  create mode 100644 people/130828646@N02/last_total.py
  create mode 100644 people/130828646@N02/locations.py
+ create mode 100644 people/130828646@N02/log/countries_info.err
+ create mode 100644 people/130828646@N02/log/countries_info.log
+ create mode 100644 people/130828646@N02/log/countries_info.rep
+ create mode 100644 people/130828646@N02/log/index.html
  create mode 120000 people/130828646@N02/map.log
  create mode 120000 people/130828646@N02/matrix.py
  create mode 120000 people/130828646@N02/not_found.py
@@ -1097,6 +1101,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/134205948@N02/index.html
  create mode 100644 people/134205948@N02/last_total.py
  create mode 100644 people/134205948@N02/locations.py
+ create mode 100644 people/134205948@N02/log/countries_info.err
+ create mode 100644 people/134205948@N02/log/countries_info.log
+ create mode 100644 people/134205948@N02/log/countries_info.rep
+ create mode 100644 people/134205948@N02/log/index.html
  create mode 120000 people/134205948@N02/map.log
  create mode 120000 people/134205948@N02/matrix.py
  create mode 120000 people/134205948@N02/not_found.py
@@ -1317,6 +1325,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/162684392@N05/index.html
  create mode 100644 people/162684392@N05/last_total.py
  create mode 100644 people/162684392@N05/locations.py
+ create mode 100644 people/162684392@N05/log/countries_info.err
+ create mode 100644 people/162684392@N05/log/countries_info.log
+ create mode 100644 people/162684392@N05/log/countries_info.rep
+ create mode 100644 people/162684392@N05/log/index.html
  create mode 120000 people/162684392@N05/map.log
  create mode 120000 people/162684392@N05/matrix.py
  create mode 120000 people/162684392@N05/not_found.py
@@ -1797,6 +1809,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/27109078@N05/index.html
  create mode 100644 people/27109078@N05/last_total.py
  create mode 100644 people/27109078@N05/locations.py
+ create mode 100644 people/27109078@N05/log/countries_info.err
+ create mode 100644 people/27109078@N05/log/countries_info.log
+ create mode 100644 people/27109078@N05/log/countries_info.rep
+ create mode 100644 people/27109078@N05/log/index.html
  create mode 120000 people/27109078@N05/map.log
  create mode 120000 people/27109078@N05/matrix.py
  create mode 120000 people/27109078@N05/not_found.py
@@ -2117,6 +2133,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/76410117@N04/index.html
  create mode 100644 people/76410117@N04/last_total.py
  create mode 100644 people/76410117@N04/locations.py
+ create mode 100644 people/76410117@N04/log/countries_info.err
+ create mode 100644 people/76410117@N04/log/countries_info.log
+ create mode 100644 people/76410117@N04/log/countries_info.rep
+ create mode 100644 people/76410117@N04/log/index.html
  create mode 120000 people/76410117@N04/map.log
  create mode 120000 people/76410117@N04/matrix.py
  create mode 120000 people/76410117@N04/not_found.py
@@ -2539,6 +2559,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/blackdiamondimages/index.html
  create mode 100644 people/blackdiamondimages/last_total.py
  create mode 100644 people/blackdiamondimages/locations.py
+ create mode 100644 people/blackdiamondimages/log/countries_info.err
+ create mode 100644 people/blackdiamondimages/log/countries_info.log
+ create mode 100644 people/blackdiamondimages/log/countries_info.rep
+ create mode 100644 people/blackdiamondimages/log/index.html
  create mode 120000 people/blackdiamondimages/map.log
  create mode 120000 people/blackdiamondimages/matrix.py
  create mode 120000 people/blackdiamondimages/not_found.py
@@ -2762,6 +2786,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/dandiffendale/index.html
  create mode 100644 people/dandiffendale/last_total.py
  create mode 100644 people/dandiffendale/locations.py
+ create mode 100644 people/dandiffendale/log/countries_info.err
+ create mode 100644 people/dandiffendale/log/countries_info.log
+ create mode 100644 people/dandiffendale/log/countries_info.rep
+ create mode 100644 people/dandiffendale/log/index.html
  create mode 120000 people/dandiffendale/map.log
  create mode 120000 people/dandiffendale/matrix.py
  create mode 120000 people/dandiffendale/not_found.py
@@ -2802,6 +2830,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/davidstanleytravel/index.html
  create mode 100644 people/davidstanleytravel/last_total.py
  create mode 100644 people/davidstanleytravel/locations.py
+ create mode 100644 people/davidstanleytravel/log/countries_info.err
+ create mode 100644 people/davidstanleytravel/log/countries_info.log
+ create mode 100644 people/davidstanleytravel/log/countries_info.rep
+ create mode 100644 people/davidstanleytravel/log/index.html
  create mode 120000 people/davidstanleytravel/map.log
  create mode 120000 people/davidstanleytravel/matrix.py
  create mode 120000 people/davidstanleytravel/not_found.py
@@ -2862,6 +2894,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/diwan/index.html
  create mode 100644 people/diwan/last_total.py
  create mode 100644 people/diwan/locations.py
+ create mode 100644 people/diwan/log/countries_info.err
+ create mode 100644 people/diwan/log/countries_info.log
+ create mode 100644 people/diwan/log/countries_info.rep
+ create mode 100644 people/diwan/log/index.html
  create mode 120000 people/diwan/map.log
  create mode 120000 people/diwan/matrix.py
  create mode 120000 people/diwan/not_found.py
@@ -2982,6 +3018,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/fam_nordstrom/index.html
  create mode 100644 people/fam_nordstrom/last_total.py
  create mode 100644 people/fam_nordstrom/locations.py
+ create mode 100644 people/fam_nordstrom/log/countries_info.err
+ create mode 100644 people/fam_nordstrom/log/countries_info.log
+ create mode 100644 people/fam_nordstrom/log/countries_info.rep
+ create mode 100644 people/fam_nordstrom/log/index.html
  create mode 120000 people/fam_nordstrom/map.log
  create mode 120000 people/fam_nordstrom/matrix.py
  create mode 120000 people/fam_nordstrom/not_found.py
@@ -3762,6 +3802,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/miamiboy/index.html
  create mode 100644 people/miamiboy/last_total.py
  create mode 100644 people/miamiboy/locations.py
+ create mode 100644 people/miamiboy/log/countries_info.err
+ create mode 100644 people/miamiboy/log/countries_info.log
+ create mode 100644 people/miamiboy/log/countries_info.rep
+ create mode 100644 people/miamiboy/log/index.html
  create mode 120000 people/miamiboy/map.log
  create mode 120000 people/miamiboy/matrix.py
  create mode 120000 people/miamiboy/not_found.py
@@ -4163,6 +4207,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/quanito/index.html
  create mode 100644 people/quanito/last_total.py
  create mode 100644 people/quanito/locations.py
+ create mode 100644 people/quanito/log/countries_info.err
+ create mode 100644 people/quanito/log/countries_info.log
+ create mode 100644 people/quanito/log/countries_info.rep
+ create mode 100644 people/quanito/log/index.html
  create mode 120000 people/quanito/map.log
  create mode 120000 people/quanito/matrix.py
  create mode 120000 people/quanito/not_found.py
@@ -4333,6 +4381,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/scfoto62/index.html
  create mode 100644 people/scfoto62/last_total.py
  create mode 100644 people/scfoto62/locations.py
+ create mode 100644 people/scfoto62/log/countries_info.err
+ create mode 100644 people/scfoto62/log/countries_info.log
+ create mode 100644 people/scfoto62/log/countries_info.rep
+ create mode 100644 people/scfoto62/log/index.html
  create mode 120000 people/scfoto62/map.log
  create mode 120000 people/scfoto62/matrix.py
  create mode 120000 people/scfoto62/not_found.py
@@ -4475,6 +4527,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/spelio/index.html
  create mode 100644 people/spelio/last_total.py
  create mode 100644 people/spelio/locations.py
+ create mode 100644 people/spelio/log/countries_info.err
+ create mode 100644 people/spelio/log/countries_info.log
+ create mode 100644 people/spelio/log/countries_info.rep
+ create mode 100644 people/spelio/log/index.html
  create mode 120000 people/spelio/map.log
  create mode 120000 people/spelio/matrix.py
  create mode 120000 people/spelio/not_found.py
@@ -4636,6 +4692,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/train-pix/index.html
  create mode 100644 people/train-pix/last_total.py
  create mode 100644 people/train-pix/locations.py
+ create mode 100644 people/train-pix/log/countries_info.err
+ create mode 100644 people/train-pix/log/countries_info.log
+ create mode 100644 people/train-pix/log/countries_info.rep
+ create mode 100644 people/train-pix/log/index.html
  create mode 120000 people/train-pix/map.log
  create mode 120000 people/train-pix/matrix.py
  create mode 120000 people/train-pix/not_found.py

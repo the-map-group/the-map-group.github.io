@@ -446,8 +446,8 @@ if len(reset_list) > 0:
 if not os.path.exists("{}/fatal".format(repo_path)):
     os.system("touch {}/success".format(repo_path))
 else:
-    print('\nRUN ERROR: At least one FATAL ERROR ocurred during the maps updates.\n')
-    log_file.write('\nRUN ERROR: At least one FATAL ERROR ocurred during the maps updates.\n\n')
+    print('\nRUN ERROR: At least one FATAL ERROR ocurred during the maps updates.')
+    log_file.write('\nRUN ERROR: At least one FATAL ERROR ocurred during the maps updates.\n')
 
 os.system("git add -f {}/log/*".format(repo_path))
 os.system("git commit -m \"[auto] Updated group map\"")
@@ -455,8 +455,8 @@ os.system("git push origin main")
 
 # check if all members were processed before remove members
 if len(current_members) < total_of_members:
-    print('\nWARNING: Run was not totally successfull, not all members were processed.\n')
-    log_file.write('\nWARNING: Run was not totally successfull, not all members were processed.\n\n')
+    print('\nWARNING: Run was not totally successfull, not all members were processed.')
+    log_file.write('\nWARNING: Run was not totally successfull, not all members were processed.\n')
     log_file.close()
     os.system("git add -f {}/log/*".format(repo_path))
     os.system("git commit -m \"[auto] Updated log file\"")
