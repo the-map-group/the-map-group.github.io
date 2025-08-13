@@ -1959,5 +1959,6 @@ coords_dict = {
   '33.94723,-118.34045': ['US', 'United States'],
   '33.947232,-118.340373': ['US', 'United States'],
   '33.947236,-118.340453': ['US', 'United States'],
-  '33.943841,-118.4102': ['US', 'United States']
+  '33.943841,-118.4102': ['US', 'United States'],
+  '33.940051,-118.387964': ['US', 'United States']
 }
