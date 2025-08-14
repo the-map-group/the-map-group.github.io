@@ -10,7 +10,7 @@ countries_dict = {
   'IT': ['Italy', 224, 245],
   'VA': ['Vatican City', 2, 3],
   'CZ': ['Czech Republic', 58, 58],
-  'DE': ['Germany', 74, 80],
+  'DE': ['Germany', 70, 76],
   'AT': ['Austria', 44, 45],
   'HU': ['Hungary', 36, 37],
   'LU': ['Luxembourg', 17, 19],
