@@ -1,7 +1,7 @@
 countries_dict = {
   'GB': ['United Kingdom', 323, 412],
   'CH': ['Switzerland', 40, 55],
-  'US': ['United States', 3557, 4348],
+  'US': ['United States', 3558, 4349],
   'IT': ['Italy', 351, 531],
   'MX': ['Mexico', 263, 359],
   'ES': ['Spain', 151, 235],
@@ -11,7 +11,7 @@ countries_dict = {
   'JP': ['Japan', 65, 122],
   'CN': ['China', 35, 94],
   'AU': ['Australia', 8, 22],
-  'FR': ['France', 242, 412],
+  'FR': ['France', 243, 413],
   'IE': ['Ireland', 17, 20],
   'NL': ['Netherlands', 53, 65],
   'GR': ['Greece', 81, 131],
