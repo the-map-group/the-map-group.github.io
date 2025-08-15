@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) b37ab61] Backup commit
- 4934 files changed, 1277997 insertions(+)
+[main (root-commit) e811f5a] Backup commit
+ 4970 files changed, 1275210 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -973,6 +973,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/121195437@N06/index.html
  create mode 100644 people/121195437@N06/last_total.py
  create mode 100644 people/121195437@N06/locations.py
+ create mode 100644 people/121195437@N06/log/countries_info.err
+ create mode 100644 people/121195437@N06/log/countries_info.log
+ create mode 100644 people/121195437@N06/log/countries_info.rep
+ create mode 100644 people/121195437@N06/log/index.html
  create mode 120000 people/121195437@N06/map.log
  create mode 120000 people/121195437@N06/matrix.py
  create mode 120000 people/121195437@N06/not_found.py
@@ -1549,6 +1553,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/192276370@N06/index.html
  create mode 100644 people/192276370@N06/last_total.py
  create mode 100644 people/192276370@N06/locations.py
+ create mode 100644 people/192276370@N06/log/countries_info.err
+ create mode 100644 people/192276370@N06/log/countries_info.log
+ create mode 100644 people/192276370@N06/log/countries_info.rep
+ create mode 100644 people/192276370@N06/log/index.html
  create mode 120000 people/192276370@N06/map.log
  create mode 120000 people/192276370@N06/matrix.py
  create mode 120000 people/192276370@N06/not_found.py
@@ -2013,6 +2021,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/51839301@N00/index.html
  create mode 100644 people/51839301@N00/last_total.py
  create mode 100644 people/51839301@N00/locations.py
+ create mode 100644 people/51839301@N00/log/countries_info.err
+ create mode 100644 people/51839301@N00/log/countries_info.log
+ create mode 100644 people/51839301@N00/log/countries_info.rep
+ create mode 100644 people/51839301@N00/log/index.html
  create mode 120000 people/51839301@N00/map.log
  create mode 120000 people/51839301@N00/matrix.py
  create mode 120000 people/51839301@N00/not_found.py
@@ -2217,6 +2229,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/8920963@N03/index.html
  create mode 100644 people/8920963@N03/last_total.py
  create mode 100644 people/8920963@N03/locations.py
+ create mode 100644 people/8920963@N03/log/countries_info.err
+ create mode 100644 people/8920963@N03/log/countries_info.log
+ create mode 100644 people/8920963@N03/log/countries_info.rep
+ create mode 100644 people/8920963@N03/log/index.html
  create mode 120000 people/8920963@N03/map.log
  create mode 120000 people/8920963@N03/matrix.py
  create mode 120000 people/8920963@N03/not_found.py
@@ -3102,6 +3118,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/fraginal/index.html
  create mode 100644 people/fraginal/last_total.py
  create mode 100644 people/fraginal/locations.py
+ create mode 100644 people/fraginal/log/countries_info.err
+ create mode 100644 people/fraginal/log/countries_info.log
+ create mode 100644 people/fraginal/log/countries_info.rep
+ create mode 100644 people/fraginal/log/index.html
  create mode 120000 people/fraginal/map.log
  create mode 120000 people/fraginal/matrix.py
  create mode 120000 people/fraginal/not_found.py
@@ -3122,6 +3142,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/fvega/index.html
  create mode 100644 people/fvega/last_total.py
  create mode 100644 people/fvega/locations.py
+ create mode 100644 people/fvega/log/countries_info.err
+ create mode 100644 people/fvega/log/countries_info.log
+ create mode 100644 people/fvega/log/countries_info.rep
+ create mode 100644 people/fvega/log/index.html
  create mode 120000 people/fvega/map.log
  create mode 120000 people/fvega/matrix.py
  create mode 120000 people/fvega/not_found.py
@@ -3382,6 +3406,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/jenskoschitzki/index.html
  create mode 100644 people/jenskoschitzki/last_total.py
  create mode 100644 people/jenskoschitzki/locations.py
+ create mode 100644 people/jenskoschitzki/log/countries_info.err
+ create mode 100644 people/jenskoschitzki/log/countries_info.log
+ create mode 100644 people/jenskoschitzki/log/countries_info.rep
+ create mode 100644 people/jenskoschitzki/log/index.html
  create mode 120000 people/jenskoschitzki/map.log
  create mode 120000 people/jenskoschitzki/matrix.py
  create mode 120000 people/jenskoschitzki/not_found.py
@@ -3602,6 +3630,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/kimbar/index.html
  create mode 100644 people/kimbar/last_total.py
  create mode 100644 people/kimbar/locations.py
+ create mode 100644 people/kimbar/log/countries_info.err
+ create mode 100644 people/kimbar/log/countries_info.log
+ create mode 100644 people/kimbar/log/countries_info.rep
+ create mode 100644 people/kimbar/log/index.html
  create mode 120000 people/kimbar/map.log
  create mode 120000 people/kimbar/matrix.py
  create mode 120000 people/kimbar/not_found.py
@@ -4881,6 +4913,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/wayloncash/index.html
  create mode 100644 people/wayloncash/last_total.py
  create mode 100644 people/wayloncash/locations.py
+ create mode 100644 people/wayloncash/log/countries_info.err
+ create mode 100644 people/wayloncash/log/countries_info.log
+ create mode 100644 people/wayloncash/log/countries_info.rep
+ create mode 100644 people/wayloncash/log/index.html
  create mode 120000 people/wayloncash/map.log
  create mode 120000 people/wayloncash/matrix.py
  create mode 120000 people/wayloncash/not_found.py
