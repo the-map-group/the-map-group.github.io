@@ -7,5 +7,5 @@ user_info = {
   'location': 'Istanbul, Turkey',
   'countries': 22,
   'markers': 1411,
-  'photos': 1598
+  'photos': 1602
 }
