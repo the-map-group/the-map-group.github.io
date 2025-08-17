@@ -125,5 +125,5 @@ countries_dict = {
   'VN': ['Vietnam', 83, 97],
   'KH': ['Cambodia', 46, 69],
   'TV': ['Tuvalu', 16, 18],
-  'WS': ['Samoa', 1, 1]
+  'WS': ['Samoa', 6, 6]
 }
