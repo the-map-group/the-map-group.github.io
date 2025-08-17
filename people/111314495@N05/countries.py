@@ -21,7 +21,7 @@ countries_dict = {
   'DM': ['Dominica', 2, 2],
   'KY': ['Cayman Islands', 1, 4],
   'PR': ['Puerto Rico', 3, 4],
-  'CZ': ['Czech Republic', 23, 31],
+  'CZ': ['Czech Republic', 24, 36],
   'MX': ['Mexico', 211, 323],
   'IE': ['Ireland', 74, 104],
   'DE': ['Germany', 36, 69],
@@ -58,5 +58,5 @@ countries_dict = {
   'CN': ['China', 3, 3],
   'SG': ['Singapore', 35, 50],
   'NO': ['Norway', 51, 100],
-  'SJ': ['Svalbard and Jan Mayen', 37, 53]
+  'SJ': ['Svalbard and Jan Mayen', 38, 59]
 }
