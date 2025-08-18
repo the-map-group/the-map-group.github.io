@@ -7,5 +7,5 @@ user_info = {
   'location': 'digitale Suppe, Deutschland',
   'countries': 18,
   'markers': 1779,
-  'photos': 2073
+  'photos': 2074
 }
