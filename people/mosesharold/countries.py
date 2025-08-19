@@ -5,7 +5,7 @@ countries_dict = {
   'AW': ['Aruba', 23, 36],
   'SJ': ['Svalbard and Jan Mayen', 108, 141],
   'NZ': ['New Zealand', 278, 318],
-  'NO': ['Norway', 134, 146],
+  'NO': ['Norway', 137, 149],
   'FK': ['Falkland Islands', 40, 65],
   'AQ': ['Antarctica', 44, 47],
   'AR': ['Argentina', 46, 50],
