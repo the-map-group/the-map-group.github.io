@@ -1,5 +1,5 @@
 countries_dict = {
-  'US': ['United States', 3741, 6645],
+  'US': ['United States', 3741, 6646],
   'GB': ['United Kingdom', 52, 95],
   'CA': ['Canada', 1, 1],
   'MX': ['Mexico', 8, 10],
@@ -8,6 +8,6 @@ countries_dict = {
   'TZ': ['Tanzania', 331, 982],
   'NL': ['Netherlands', 1, 1],
   'TR': ['Turkey', 2, 2],
-  'KE': ['Kenya', 310, 549],
+  'KE': ['Kenya', 311, 550],
   'QA': ['Qatar', 3, 3]
 }
