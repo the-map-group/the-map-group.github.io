@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/didifiosi/',
   'location': 'Montelimar, France',
   'countries': 1,
-  'markers': 37,
-  'photos': 1674
+  'markers': 38,
+  'photos': 1680
 }
