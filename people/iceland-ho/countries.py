@@ -1,5 +1,5 @@
 countries_dict = {
-  'IS': ['Iceland', 3012, 3014],
+  'IS': ['Iceland', 3013, 3015],
   'GH': ['Ghana', 7, 7],
   'CN': ['China', 16, 16],
   'FO': ['Faroe Islands', 9, 9],
