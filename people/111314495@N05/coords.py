@@ -4009,5 +4009,9 @@ coords_dict = {
   '50.088517,14.410157': ['CZ', 'Czech Republic'],
   '50.089584,14.418203': ['CZ', 'Czech Republic'],
   '50.091209,14.401338': ['CZ', 'Czech Republic'],
-  '77.015659,15.875254': ['SJ', 'Svalbard and Jan Mayen']
+  '77.015659,15.875254': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.558628,14.517939': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.55876,14.516952': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.559608,14.51531': ['SJ', 'Svalbard and Jan Mayen'],
+  '77.563592,14.503755': ['SJ', 'Svalbard and Jan Mayen']
 }
