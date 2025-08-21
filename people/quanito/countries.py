@@ -45,7 +45,7 @@ countries_dict = {
   'OM': ['Oman', 28, 435],
   'NA': ['Namibia', 59, 758],
   'ZW': ['Zimbabwe', 61, 359],
-  'ZM': ['Zambia', 1, 23],
+  'ZM': ['Zambia', 1, 22],
   'GL': ['Greenland', 65, 660],
   'NO': ['Norway', 477, 1016],
   'KE': ['Kenya', 97, 531],
