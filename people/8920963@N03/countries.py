@@ -3,7 +3,7 @@ countries_dict = {
   'CY': ['Cyprus', 411, 481],
   'NL': ['Netherlands', 6, 6],
   'TY': ['Northern Cyprus', 10, 10],
-  'GR': ['Greece', 2433, 3335],
+  'GR': ['Greece', 2439, 3344],
   'DE': ['Germany', 344, 415],
   'SE': ['Sweden', 132, 173],
   'TR': ['Turkey', 85, 119],
