@@ -9,7 +9,7 @@ countries_dict = {
   'CA': ['Canada', 43, 116],
   'AR': ['Argentina', 89, 126],
   'HU': ['Hungary', 83, 88],
-  'AT': ['Austria', 50, 89],
+  'AT': ['Austria', 48, 85],
   'VN': ['Vietnam', 41, 117],
   'LS': ['Lesotho', 4, 4],
   'SZ': ['Eswatini', 9, 11],
