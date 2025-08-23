@@ -2,7 +2,7 @@ countries_dict = {
   'US': ['United States', 430, 2218],
   'GB': ['United Kingdom', 390, 1853],
   'IE': ['Ireland', 214, 964],
-  'DE': ['Germany', 71, 287],
+  'DE': ['Germany', 72, 288],
   'IT': ['Italy', 3, 3],
   'VA': ['Vatican City', 1, 1],
   'RU': ['Russia', 2, 2],
