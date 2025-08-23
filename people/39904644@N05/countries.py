@@ -10,7 +10,7 @@ countries_dict = {
   'TH': ['Thailand', 2, 2],
   'IS': ['Iceland', 432, 495],
   'SE': ['Sweden', 9, 9],
-  'GR': ['Greece', 49, 55],
+  'GR': ['Greece', 50, 56],
   'PT': ['Portugal', 52, 69],
   'GB': ['United Kingdom', 118, 157],
   'CZ': ['Czech Republic', 6, 6],
