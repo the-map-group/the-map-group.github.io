@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) e61a6e8] Backup commit
- 4970 files changed, 1283608 insertions(+)
+[main (root-commit) 81f3bae] Backup commit
+ 4994 files changed, 1282445 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -1577,6 +1577,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/19239093@N03/index.html
  create mode 100644 people/19239093@N03/last_total.py
  create mode 100644 people/19239093@N03/locations.py
+ create mode 100644 people/19239093@N03/log/countries_info.err
+ create mode 100644 people/19239093@N03/log/countries_info.log
+ create mode 100644 people/19239093@N03/log/countries_info.rep
+ create mode 100644 people/19239093@N03/log/index.html
  create mode 120000 people/19239093@N03/map.log
  create mode 120000 people/19239093@N03/matrix.py
  create mode 120000 people/19239093@N03/not_found.py
@@ -2273,6 +2277,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/adam_swaine/index.html
  create mode 100644 people/adam_swaine/last_total.py
  create mode 100644 people/adam_swaine/locations.py
+ create mode 100644 people/adam_swaine/log/countries_info.err
+ create mode 100644 people/adam_swaine/log/countries_info.log
+ create mode 100644 people/adam_swaine/log/countries_info.rep
+ create mode 100644 people/adam_swaine/log/index.html
  create mode 120000 people/adam_swaine/map.log
  create mode 120000 people/adam_swaine/matrix.py
  create mode 120000 people/adam_swaine/not_found.py
@@ -2335,6 +2343,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/alestaleiro/index.html
  create mode 100644 people/alestaleiro/last_total.py
  create mode 100644 people/alestaleiro/locations.py
+ create mode 100644 people/alestaleiro/log/countries_info.err
+ create mode 100644 people/alestaleiro/log/countries_info.log
+ create mode 100644 people/alestaleiro/log/countries_info.rep
+ create mode 100644 people/alestaleiro/log/index.html
  create mode 120000 people/alestaleiro/map.log
  create mode 120000 people/alestaleiro/matrix.py
  create mode 120000 people/alestaleiro/not_found.py
@@ -3098,6 +3110,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/fraganda/index.html
  create mode 100644 people/fraganda/last_total.py
  create mode 100644 people/fraganda/locations.py
+ create mode 100644 people/fraganda/log/countries_info.err
+ create mode 100644 people/fraganda/log/countries_info.log
+ create mode 100644 people/fraganda/log/countries_info.rep
+ create mode 100644 people/fraganda/log/index.html
  create mode 120000 people/fraganda/map.log
  create mode 120000 people/fraganda/matrix.py
  create mode 120000 people/fraganda/not_found.py
@@ -3490,6 +3506,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/jonahood/index.html
  create mode 100644 people/jonahood/last_total.py
  create mode 100644 people/jonahood/locations.py
+ create mode 100644 people/jonahood/log/countries_info.err
+ create mode 100644 people/jonahood/log/countries_info.log
+ create mode 100644 people/jonahood/log/countries_info.rep
+ create mode 100644 people/jonahood/log/index.html
  create mode 120000 people/jonahood/map.log
  create mode 120000 people/jonahood/matrix.py
  create mode 120000 people/jonahood/not_found.py
@@ -4603,6 +4623,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/starcitizen/index.html
  create mode 100644 people/starcitizen/last_total.py
  create mode 100644 people/starcitizen/locations.py
+ create mode 100644 people/starcitizen/log/countries_info.err
+ create mode 100644 people/starcitizen/log/countries_info.log
+ create mode 100644 people/starcitizen/log/countries_info.rep
+ create mode 100644 people/starcitizen/log/index.html
  create mode 120000 people/starcitizen/map.log
  create mode 120000 people/starcitizen/matrix.py
  create mode 120000 people/starcitizen/not_found.py
