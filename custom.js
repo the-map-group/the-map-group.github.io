@@ -497,6 +497,7 @@ function createOverlay() {
 
   document.body.append(div_overlay);
 
+  setBmcLogoPosition();
   setSelectorPosition();
 
 }
@@ -516,6 +517,7 @@ function openOverlay() {
   document.getElementById("overlay").style.width = "400px";
   document.getElementById("menu").style.display = "none";
   document.getElementById("nav-button").style.margin = "60px 0 0 400px";
+  setBmcLogoPosition();
   setSelectorPosition();
   fitBoundingBox(current_bbox);
 }
@@ -525,6 +527,7 @@ function closeOverlay() {
   document.getElementById("menu").style.display = "block";
   document.getElementById("nav-button").style.display = "block";
   document.getElementById("nav-button").style.margin = "60px 0 0 0";
+  setBmcLogoPosition();
   setSelectorPosition();
   fitBoundingBox(current_bbox);
 }
@@ -538,10 +541,18 @@ function setSelectorPosition() {
   if (document.getElementById("overlay").style.width == "0%") {
     pixels = (window.innerWidth-150)/2;
   } else {
-    pixels = (window.innerWidth+100)/2;
+    pixels = (window.innerWidth+250)/2;
   }
   var selector_position = pixels.toString() + "px";
   document.getElementById("selector").style.left = selector_position;
+}
+
+function setBmcLogoPosition() {
+  if (document.getElementById("overlay").style.width == "0%") {
+    document.getElementById("bmc_logo").style.left = "0px";
+  } else {
+    document.getElementById("bmc_logo").style.left = "400px";
+  }
 }
 
 function addListenerToPeople(member) {
@@ -618,6 +629,7 @@ function addBmcLogo() {
   bmc_link.setAttribute("href", "https://buymeacoffee.com/haraldo");
   bmc_link.setAttribute("target", "_blank")
   var bmc_logo = document.createElement("IMG");
+  bmc_logo.setAttribute("id", "bmc_logo");
   bmc_logo.setAttribute("class", "bmc_logo");
   bmc_logo.setAttribute("src", "res/bmc-button.svg");
   bmc_link.appendChild(bmc_logo);
