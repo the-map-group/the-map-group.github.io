@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/fraganda/',
   'location': 'Ghent, Belgium',
   'countries': 16,
-  'markers': 347,
-  'photos': 348
+  'markers': 348,
+  'photos': 349
 }
