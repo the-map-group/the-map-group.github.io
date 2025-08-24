@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/davidstanleytravel/',
   'location': 'Nanaimo, Canada',
   'countries': 128,
-  'markers': 8124,
-  'photos': 9453
+  'markers': 8125,
+  'photos': 9454
 }
