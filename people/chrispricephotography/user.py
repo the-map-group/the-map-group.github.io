@@ -7,5 +7,5 @@ user_info = {
   'location': 'Blacksburg, VA, USA',
   'countries': 10,
   'markers': 1134,
-  'photos': 1603
+  'photos': 1604
 }
