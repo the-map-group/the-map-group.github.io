@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/hereistom/',
   'location': 'Odijk, Netherlands',
   'countries': 12,
-  'markers': 1479,
-  'photos': 1588
+  'markers': 1480,
+  'photos': 1589
 }
