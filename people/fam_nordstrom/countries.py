@@ -1,5 +1,5 @@
 countries_dict = {
-  'ES': ['Spain', 625, 2588],
+  'ES': ['Spain', 628, 2593],
   'CN': ['China', 580, 2443],
   'IT': ['Italy', 204, 438],
   'VA': ['Vatican City', 33, 187],
@@ -8,7 +8,7 @@ countries_dict = {
   'FI': ['Finland', 43, 65],
   'FR': ['France', 2, 257],
   'MA': ['Morocco', 57, 463],
-  'CZ': ['Czech Republic', 69, 211],
+  'CZ': ['Czech Republic', 72, 216],
   'OM': ['Oman', 2, 2],
   'GB': ['United Kingdom', 17, 24],
   'IN': ['India', 1006, 3617],
