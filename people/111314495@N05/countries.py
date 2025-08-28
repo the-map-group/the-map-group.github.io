@@ -36,7 +36,7 @@ countries_dict = {
   'RU': ['Russia', 10, 12],
   'BS': ['Bahamas', 2, 2],
   'GT': ['Guatemala', 11, 13],
-  'DK': ['Denmark', 68, 91],
+  'DK': ['Denmark', 68, 90],
   'SE': ['Sweden', 2, 2],
   'FK': ['Falkland Islands', 37, 121],
   'GS': ['South Georgia and South Sandwich Islands', 22, 77],
