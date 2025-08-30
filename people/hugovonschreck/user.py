@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/hugovonschreck/',
   'location': 'Linsengericht, Germany',
   'countries': 11,
-  'markers': 1579,
-  'photos': 6487
+  'markers': 1580,
+  'photos': 6488
 }
