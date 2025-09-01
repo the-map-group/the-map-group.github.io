@@ -58,5 +58,5 @@ countries_dict = {
   'CN': ['China', 3, 3],
   'SG': ['Singapore', 35, 50],
   'NO': ['Norway', 51, 105],
-  'SJ': ['Svalbard and Jan Mayen', 47, 74]
+  'SJ': ['Svalbard and Jan Mayen', 51, 79]
 }
