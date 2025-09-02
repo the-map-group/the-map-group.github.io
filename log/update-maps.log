@@ -3104,3 +3104,49 @@ Added marker 1/3
 Added marker 2/3
 Added marker 3/3
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: glock_20_shooter...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Steve Gonzales'
+128 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: stepanov2876...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Pasha Vonapets'
+193 photos in the photostream
+2 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 0 photo(s) in 0 marker(s)
+Adding marker(s) to map...
+Map already has 39 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+58671 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 425 marker(s)Batch 2/10 | 1000 photo(s) in 759 marker(s)Batch 3/10 | 1500 photo(s) in 1125 marker(s)Batch 4/10 | 2000 photo(s) in 1524 marker(s)Batch 5/10 | 2500 photo(s) in 1942 marker(s)Batch 6/10 | 2570 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 2753 marker(s)
+Added 3 new photo(s) to existing markers
+6 new marker(s) will be added to the map
+Max number of markers reached. Removing 6 marker(s)...
+Added marker 1/6Added marker 2/6Added marker 3/6Added marker 4/6Added marker 5/6Added marker 6/6
+Finished!
