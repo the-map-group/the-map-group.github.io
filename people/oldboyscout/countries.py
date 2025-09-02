@@ -24,7 +24,7 @@ countries_dict = {
   'TZ': ['Tanzania', 105, 107],
   'EG': ['Egypt', 216, 256],
   'JP': ['Japan', 6, 8],
-  'ZW': ['Zimbabwe', 48, 50],
+  'ZW': ['Zimbabwe', 49, 51],
   'ZM': ['Zambia', 3, 3],
   'BW': ['Botswana', 1, 1]
 }
