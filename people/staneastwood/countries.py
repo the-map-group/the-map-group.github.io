@@ -5,7 +5,7 @@ countries_dict = {
   'NO': ['Norway', 365, 1836],
   'IE': ['Ireland', 21, 192],
   'ES': ['Spain', 67, 695],
-  'FR': ['France', 32, 340],
+  'FR': ['France', 33, 406],
   'GI': ['Gibraltar', 1, 94],
   'PT': ['Portugal', 43, 358],
   'IM': ['Isle of Man', 994, 1810],
