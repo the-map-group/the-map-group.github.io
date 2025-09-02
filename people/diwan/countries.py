@@ -21,6 +21,6 @@ countries_dict = {
   'CZ': ['Czech Republic', 61, 62],
   'AE': ['United Arab Emirates', 67, 69],
   'ID': ['Indonesia', 1, 1],
-  'MC': ['Monaco', 14, 14],
+  'MC': ['Monaco', 15, 15],
   'SE': ['Sweden', 8, 8]
 }
