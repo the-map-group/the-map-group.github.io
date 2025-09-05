@@ -9,7 +9,7 @@ countries_dict = {
   'KP': ['North Korea', 53, 53],
   'KR': ['South Korea', 22, 25],
   'KY': ['Cayman Islands', 12, 12],
-  'FJ': ['Fiji', 36, 43],
+  'FJ': ['Fiji', 37, 44],
   'PF': ['French Polynesia', 1, 1],
   'LY': ['Libya', 47, 47],
   'TM': ['Turkmenistan', 50, 50],
@@ -127,5 +127,5 @@ countries_dict = {
   'TV': ['Tuvalu', 16, 18],
   'WS': ['Samoa', 15, 15],
   'TO': ['Tonga', 9, 9],
-  'CR': ['Costa Rica', 22, 22]
+  'CR': ['Costa Rica', 31, 31]
 }
