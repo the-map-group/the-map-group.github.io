@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/diwan/',
   'location': 'Magdeburg, Germany',
   'countries': 24,
-  'markers': 8622,
-  'photos': 9158
+  'markers': 8623,
+  'photos': 9159
 }
