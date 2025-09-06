@@ -1,8 +1,8 @@
 countries_dict = {
-  'US': ['United States', 6535, 10552],
+  'US': ['United States', 6536, 10553],
   'AR': ['Argentina', 279, 473],
   'AQ': ['Antarctica', 67, 94],
-  'CA': ['Canada', 1787, 2583],
+  'CA': ['Canada', 1787, 2590],
   'IT': ['Italy', 269, 353],
   'ES': ['Spain', 215, 306],
   'AU': ['Australia', 207, 263],
