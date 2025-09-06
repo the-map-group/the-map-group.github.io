@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/188257341@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/michealfrankstraus/',
   'location': 'Portland-on-Willamette, USA',
-  'countries': 36,
-  'markers': 1596,
-  'photos': 1698
+  'countries': 37,
+  'markers': 1597,
+  'photos': 1699
 }
