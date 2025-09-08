@@ -26,7 +26,7 @@ countries_dict = {
   'MY': ['Malaysia', 3, 15],
   'EG': ['Egypt', 1, 1],
   'CY': ['Cyprus', 1, 4],
-  'MX': ['Mexico', 2, 6],
+  'MX': ['Mexico', 2, 7],
   'UZ': ['Uzbekistan', 4, 13],
   'AE': ['United Arab Emirates', 6, 12],
   'AZ': ['Azerbaijan', 4, 6],
