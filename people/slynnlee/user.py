@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/slynnlee/',
   'location': '',
   'countries': 14,
-  'markers': 1247,
-  'photos': 5519
+  'markers': 1248,
+  'photos': 5522
 }
