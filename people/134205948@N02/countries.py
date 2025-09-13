@@ -1,5 +1,5 @@
 countries_dict = {
-  'IT': ['Italy', 6080, 6727],
+  'IT': ['Italy', 6081, 6729],
   'CH': ['Switzerland', 841, 957],
   'FR': ['France', 147, 170],
   'GB': ['United Kingdom', 17, 17],
