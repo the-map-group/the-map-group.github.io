@@ -7,5 +7,5 @@ user_info = {
   'location': 'BRIVIO, Italia',
   'countries': 53,
   'markers': 7000,
-  'photos': 11235
+  'photos': 11241
 }
