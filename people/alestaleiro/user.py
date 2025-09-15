@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/99949037@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/alestaleiro/',
   'location': 'Praia do Estaleiro - B. Camboriú, BRASIL',
-  'countries': 26,
-  'markers': 4020,
-  'photos': 5468
+  'countries': 27,
+  'markers': 4021,
+  'photos': 5469
 }
