@@ -7,5 +7,5 @@ user_info = {
   'location': 'Portland-on-Willamette, USA',
   'countries': 37,
   'markers': 1601,
-  'photos': 1704
+  'photos': 1705
 }
