@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/wayloncash/',
   'location': '',
   'countries': 28,
-  'markers': 23651,
-  'photos': 48471
+  'markers': 23678,
+  'photos': 48504
 }
