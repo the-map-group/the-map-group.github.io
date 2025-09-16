@@ -1,6 +1,6 @@
 countries_dict = {
   'IT': ['Italy', 149, 219],
-  'US': ['United States', 1270, 2471],
+  'US': ['United States', 1271, 2472],
   'GB': ['United Kingdom', 169, 301],
   'ZA': ['South Africa', 125, 276],
   'PE': ['Peru', 66, 167],
@@ -57,6 +57,6 @@ countries_dict = {
   'ID': ['Indonesia', 35, 116],
   'CN': ['China', 3, 3],
   'SG': ['Singapore', 35, 50],
-  'NO': ['Norway', 73, 130],
+  'NO': ['Norway', 78, 135],
   'SJ': ['Svalbard and Jan Mayen', 51, 79]
 }
