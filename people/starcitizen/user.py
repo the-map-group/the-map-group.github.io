@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/starcitizen/',
   'location': '',
   'countries': 10,
-  'markers': 3641,
-  'photos': 3752
+  'markers': 3642,
+  'photos': 3753
 }
