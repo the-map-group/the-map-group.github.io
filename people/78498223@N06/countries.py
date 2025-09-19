@@ -6,7 +6,7 @@ countries_dict = {
   'RU': ['Russia', 1, 1],
   'SD': ['Sudan', 2, 2],
   'FR': ['France', 13, 14],
-  'US': ['United States', 33, 37],
+  'US': ['United States', 33, 38],
   'TN': ['Tunisia', 2, 2],
   'ES': ['Spain', 5, 6],
   'GB': ['United Kingdom', 9, 15],

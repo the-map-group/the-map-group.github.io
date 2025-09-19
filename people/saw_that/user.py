@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/88196436@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/saw_that/',
   'location': 'Iqaluit, Nunavut, Canada',
-  'countries': 18,
-  'markers': 1404,
-  'photos': 2798
+  'countries': 19,
+  'markers': 1416,
+  'photos': 2828
 }

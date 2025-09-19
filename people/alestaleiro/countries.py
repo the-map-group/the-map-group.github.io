@@ -25,5 +25,5 @@ countries_dict = {
   'AT': ['Austria', 8, 10],
   'ME': ['Montenegro', 5, 5],
   'AL': ['Albania', 22, 27],
-  'NO': ['Norway', 17, 17]
+  'NO': ['Norway', 18, 18]
 }
