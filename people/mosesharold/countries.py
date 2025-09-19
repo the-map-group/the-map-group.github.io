@@ -55,7 +55,7 @@ countries_dict = {
   'BB': ['Barbados', 20, 25],
   'NL': ['Netherlands', 10, 10],
   'CO': ['Colombia', 12, 31],
-  'PA': ['Panama', 22, 34],
+  'PA': ['Panama', 25, 37],
   'BS': ['Bahamas', 4, 6],
   'TC': ['Turks and Caicos Islands', 1, 2],
   'RU': ['Russia', 2, 2],
