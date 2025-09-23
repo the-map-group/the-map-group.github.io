@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48px"
+   viewBox="0 -960 960 960"
+   width="48px"
+   fill="#5f6368"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="flag.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.86"
+     inkscape:cx="23.935091"
+     inkscape:cy="24.087221"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 131,-85.59292 V -866 h 415.29176 l 20.63658,91.81262 H 826 V -324.7328 H 502.52064 L 482.2365,-415.47766 H 231.35338 v 329.88474 z"
+     id="path1"
+     style="fill:#999999;stroke-width:1.06754" />
+</svg>

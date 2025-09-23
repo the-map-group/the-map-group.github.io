@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   sodipodi:docname="saint-helena.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs61" /><sodipodi:namedview
+   id="namedview59"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.2875855"
+   inkscape:cx="256.29365"
+   inkscape:cy="267.94337"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   style="fill:#0052B4;"
+   d="M512,256c0,141.384-114.616,256-256,256S0,397.384,0,256C0,256.061,256,0.028,256,0  C397.384,0,512,114.616,512,256z"
+   id="path2" />
+<g
+   id="g10">
+	<path
+   style="fill:#F0F0F0;"
+   d="M256,0c-0.016,0-0.028,0-0.043,0H256L256,0z"
+   id="path4" />
+	<path
+   style="fill:#F0F0F0;"
+   d="M255.315,256H256c0-0.23,0-0.454,0-0.685C255.772,255.544,255.544,255.772,255.315,256z"
+   id="path6" />
+	<path
+   style="fill:#F0F0F0;"
+   d="M256,133.565C256,88.52,256,59.005,256,0h-0.043C114.592,0.024,0,114.629,0,256h133.565v-75.211   L208.777,256h46.539c0.228-0.228,0.456-0.456,0.685-0.685c0-17.247,0-32.636,0-46.537l-75.213-75.213H256z"
+   id="path8" />
+</g>
+<g
+   id="g16">
+	<path
+   style="fill:#D80027;"
+   d="M129.515,33.391C89.476,56.19,56.19,89.476,33.391,129.515V256h66.783V100.176v-0.002H256   c0-21.063,0-41.129,0-66.783H129.515z"
+   id="path12" />
+	<path
+   style="fill:#D80027;"
+   d="M256,224.519l-90.953-90.953h-31.481v0.002L255.998,256H256C256,256,256,234.293,256,224.519z"
+   id="path14" />
+</g>
+
+<path
+   style="fill:#338AF3;"
+   d="M289.391,133.565V256c0,59.639,77.913,77.913,77.913,77.913s77.913-18.274,77.913-77.913V133.565  H289.391z"
+   id="path20" />
+
+<g
+   id="g28">
+</g>
+<g
+   id="g30">
+</g>
+<g
+   id="g32">
+</g>
+<g
+   id="g34">
+</g>
+<g
+   id="g36">
+</g>
+<g
+   id="g38">
+</g>
+<g
+   id="g40">
+</g>
+<g
+   id="g42">
+</g>
+<g
+   id="g44">
+</g>
+<g
+   id="g46">
+</g>
+<g
+   id="g48">
+</g>
+<g
+   id="g50">
+</g>
+<g
+   id="g52">
+</g>
+<g
+   id="g54">
+</g>
+<g
+   id="g56">
+</g>
+<rect
+   style="fill:#666666;fill-opacity:0;stroke-width:485.204"
+   id="rect6775"
+   width="146.81004"
+   height="69.734764"
+   x="289.3381"
+   y="133.96416" /><rect
+   style="fill:#aa8800;fill-opacity:0;stroke-width:485.204"
+   id="rect6863"
+   width="40.884521"
+   height="19.498772"
+   x="450.9877"
+   y="432.74692" /><rect
+   style="fill:#bdb000;fill-opacity:1;stroke-width:485.204"
+   id="rect7716"
+   width="155.32956"
+   height="59.801865"
+   x="289.68948"
+   y="133.58336"
+   ry="0" /></svg>

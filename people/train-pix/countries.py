@@ -1,0 +1,20 @@
+countries_dict = {
+  'GB': ['United Kingdom', 9194, 20914],
+  'HR': ['Croatia', 5, 9],
+  'DE': ['Germany', 375, 485],
+  'AT': ['Austria', 71, 95],
+  'HU': ['Hungary', 22, 32],
+  'RS': ['Serbia', 3, 3],
+  'FR': ['France', 452, 673],
+  'CH': ['Switzerland', 1177, 1889],
+  'BE': ['Belgium', 6, 7],
+  'CA': ['Canada', 2, 3],
+  'LU': ['Luxembourg', 2, 9],
+  'MC': ['Monaco', 3, 3],
+  'ZA': ['South Africa', 311, 320],
+  'SZ': ['Eswatini', 6, 7],
+  'IM': ['Isle of Man', 20, 55],
+  'IT': ['Italy', 25, 47],
+  'ES': ['Spain', 1, 3],
+  'BA': ['Bosnia and Herzegovina', 12, 20]
+}

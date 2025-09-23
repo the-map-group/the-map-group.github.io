@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <meta name="norton-safeweb-site-verification" content="529-VSXGKYNO9WULY80AYZOW0D30Z8G-7P71OMWW1A0TPWVMHR1R4U-MZOQRJH3OUQSMV30K912M2X-88QAUG1F0E4276NCY99QQOEEC99WW2GBPZ0MLXT6ZWK3D6F6U" />
+  <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+
+  <!-- change path if needed -->
+  <script src="../../mapbox_token.js"></script>
+
+  <style>
+  body { margin: 0; padding: 0; }
+  #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+  </style>
+
+  <!-- Begin of customization includes -->
+  <link href="../../style.css" rel="stylesheet" />
+  <!-- End of customization includes -->
+
+</head>
+
+<body>
+
+  <div id="map"></div>
+
+  <script>
+
+  const searchParams = new URLSearchParams(window.location.search);
+
+  var values = [];
+
+  for (const param of searchParams.values()) {
+    values.push(Number(param));
+  }
+
+  console.log(values);
+
+  var coords = [values[1], values[0]];
+
+  mapboxgl.accessToken = mapbox_token;
+
+  var center = [];
+  var zoom = 6;
+
+  var inc_long = 1;
+  var inc_lat = 1
+
+  if (coords[0] < 0) {
+    inc_long = -1;
+  }
+
+  if (coords[1] < 0) {
+    inc_lat = -1;
+  }
+
+
+  if (values[2] == '1') {
+    center = coords;
+    zoom = 3;
+  } else {
+    center = [coords[0]+inc_long/2, coords[1]+inc_lat/2];
+  }
+
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v11',
+    center: center,
+    zoom: zoom
+  });
+
+  if (values[2] == '1') {
+    // Create a default Marker, colored black, rotated 45 degrees.
+    const marker = new mapboxgl.Marker({ color: 'red' })
+    .setLngLat(coords)
+    .addTo(map);
+  }
+
+  if (values[2] != '1') {
+    map.on('load', () => {
+      map.addSource('route', {
+        'type': 'geojson',
+        'data': {
+          'type': 'Feature',
+          'properties': {},
+          'geometry': {
+            'type': 'LineString',
+            'coordinates': [
+              coords,
+              [coords[0], coords[1]+inc_lat],
+              [coords[0]+inc_long, coords[1]+inc_lat],
+              [coords[0]+inc_long, coords[1]],
+              coords
+            ]
+          }
+        }
+      });
+
+      map.addLayer({
+        'id': 'route',
+        'type': 'line',
+        'source': 'route',
+        'layout': {
+          'line-join': 'round',
+          'line-cap': 'round'
+        },
+        'paint': {
+          'line-color': '#f00',
+          'line-width': 3
+        }
+      });
+    });
+  }
+
+  </script>
+
+  </body>
+  </html>

@@ -1,0 +1,7 @@
+countries_dict = {
+  'BQ': ['Bonaire', 62, 100],
+  'US': ['United States', 40, 52],
+  'CA': ['Canada', 5, 7],
+  'CL': ['Chile', 7, 12],
+  'GB': ['United Kingdom', 2, 2]
+}
