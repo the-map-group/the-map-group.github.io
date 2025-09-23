@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/faillace360/',
   'location': '',
   'countries': 9,
-  'markers': 151,
-  'photos': 155
+  'markers': 152,
+  'photos': 156
 }
