@@ -18,7 +18,7 @@ countries_dict = {
   'EG': ['Egypt', 32, 35],
   'MX': ['Mexico', 4, 4],
   'PT': ['Portugal', 43, 54],
-  'AU': ['Australia', 185, 229],
+  'AU': ['Australia', 188, 232],
   'OM': ['Oman', 44, 58],
   'MY': ['Malaysia', 6, 9],
   'AE': ['United Arab Emirates', 37, 43],
