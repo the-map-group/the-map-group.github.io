@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/196582158@N07/',
   'location': 'Mümliswil, Schweiz/Switzerland',
   'countries': 8,
-  'markers': 482,
-  'photos': 603
+  'markers': 485,
+  'photos': 607
 }
