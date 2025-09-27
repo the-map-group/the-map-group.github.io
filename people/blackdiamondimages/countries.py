@@ -9,7 +9,7 @@ countries_dict = {
   'GB': ['United Kingdom', 6, 6],
   'AT': ['Austria', 25, 33],
   'HR': ['Croatia', 1, 1],
-  'CH': ['Switzerland', 568, 637],
+  'CH': ['Switzerland', 568, 639],
   'DE': ['Germany', 218, 286],
   'SG': ['Singapore', 90, 532],
   'GR': ['Greece', 1, 2],
