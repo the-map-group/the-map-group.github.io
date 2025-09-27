@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/andygocher/',
   'location': 'South Wales, UK',
   'countries': 51,
-  'markers': 637,
-  'photos': 1561
+  'markers': 638,
+  'photos': 1562
 }
