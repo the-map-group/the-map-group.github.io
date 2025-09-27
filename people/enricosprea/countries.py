@@ -17,7 +17,7 @@ countries_dict = {
   'ES': ['Spain', 6, 6],
   'MA': ['Morocco', 65, 67],
   'TR': ['Turkey', 22, 22],
-  'GR': ['Greece', 25, 25],
+  'GR': ['Greece', 26, 26],
   'SA': ['Saudi Arabia', 1, 1],
   'FR': ['France', 9, 9],
   'PL': ['Poland', 19, 19],
