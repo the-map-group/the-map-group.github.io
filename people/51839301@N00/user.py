@@ -7,5 +7,5 @@ user_info = {
   'location': '',
   'countries': 12,
   'markers': 3899,
-  'photos': 5953
+  'photos': 5954
 }
