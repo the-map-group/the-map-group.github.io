@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/misteroy/',
   'location': '',
   'countries': 2,
-  'markers': 4272,
-  'photos': 6110
+  'markers': 4273,
+  'photos': 6111
 }
