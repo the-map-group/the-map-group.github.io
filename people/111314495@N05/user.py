@@ -7,5 +7,5 @@ user_info = {
   'location': 'Beachwood, US',
   'countries': 60,
   'markers': 5762,
-  'photos': 10279
+  'photos': 10280
 }

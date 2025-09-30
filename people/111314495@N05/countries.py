@@ -56,7 +56,7 @@ countries_dict = {
   'CK': ['Cook Islands', 2, 2],
   'ID': ['Indonesia', 35, 116],
   'CN': ['China', 3, 3],
-  'SG': ['Singapore', 35, 50],
+  'SG': ['Singapore', 35, 51],
   'NO': ['Norway', 82, 142],
   'SJ': ['Svalbard and Jan Mayen', 62, 94]
 }
