@@ -4,7 +4,7 @@ countries_dict = {
   'BQ': ['Bonaire', 5, 5],
   'AW': ['Aruba', 23, 36],
   'SJ': ['Svalbard and Jan Mayen', 108, 141],
-  'NZ': ['New Zealand', 279, 319],
+  'NZ': ['New Zealand', 280, 320],
   'NO': ['Norway', 137, 149],
   'FK': ['Falkland Islands', 40, 65],
   'AQ': ['Antarctica', 44, 47],
