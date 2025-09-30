@@ -7,5 +7,5 @@ user_info = {
   'location': 'east Tennessee, USA',
   'countries': 11,
   'markers': 296,
-  'photos': 575
+  'photos': 576
 }
