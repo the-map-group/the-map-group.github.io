@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/kevinpovenz/',
   'location': 'Jenison Michigan, United States',
   'countries': 7,
-  'markers': 887,
-  'photos': 3027
+  'markers': 888,
+  'photos': 3028
 }
