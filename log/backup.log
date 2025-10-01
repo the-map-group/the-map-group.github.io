@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 6dca034] Backup commit
- 5034 files changed, 1277243 insertions(+)
+[main (root-commit) 6a173d6] Backup commit
+ 5054 files changed, 1282075 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -1855,6 +1855,26 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/26915283@N07/photos/index.html
  create mode 100755 people/26915283@N07/update-countries-map-data.py
  create mode 100644 people/26915283@N07/user.py
+ create mode 100644 people/26975404@N06/__pycache__/countries.cpython-311.pyc
+ create mode 100644 people/26975404@N06/__pycache__/countries_members.cpython-311.pyc
+ create mode 100644 people/26975404@N06/__pycache__/user.cpython-311.pyc
+ create mode 120000 people/26975404@N06/api_credentials.py
+ create mode 100644 people/26975404@N06/config.py
+ create mode 100644 people/26975404@N06/coords.py
+ create mode 100644 people/26975404@N06/countries.py
+ create mode 120000 people/26975404@N06/countries_config.py
+ create mode 120000 people/26975404@N06/countries_info.py
+ create mode 120000 people/26975404@N06/countries_members.py
+ create mode 100755 people/26975404@N06/generate-map-data.py
+ create mode 100644 people/26975404@N06/index.html
+ create mode 100644 people/26975404@N06/last_total.py
+ create mode 100644 people/26975404@N06/locations.py
+ create mode 120000 people/26975404@N06/map.log
+ create mode 120000 people/26975404@N06/matrix.py
+ create mode 120000 people/26975404@N06/not_found.py
+ create mode 100644 people/26975404@N06/photos/index.html
+ create mode 100755 people/26975404@N06/update-countries-map-data.py
+ create mode 100644 people/26975404@N06/user.py
  create mode 100644 people/27109078@N05/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/27109078@N05/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/27109078@N05/__pycache__/user.cpython-311.pyc
