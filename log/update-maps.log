@@ -1886,3 +1886,37 @@ Map already has 1148 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: tinokaartovuori...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Tino Kaartovuori'
+157 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Jens Koschitzki...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Jens Koschitzki'
+44588 photos in the photostream
+8 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 8 photo(s) in 6 marker(s)
+Adding marker(s) to map...
+Map already has 8022 marker(s)
+6 new marker(s) will be added to the map
+Added marker 1/6
+Added marker 2/6
+Added marker 3/6
+Added marker 4/6
+Added marker 5/6
+Added marker 6/6
+Finished!
