@@ -4317,3 +4317,25 @@ Map already has 7302 marker(s)
 Added 181 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: pascalvu1...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Pascal VU'
+39156 photos in the photostream
+15 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 15 photo(s) in 5 marker(s)
+Adding marker(s) to map...
+Map already has 6528 marker(s)
+5 new marker(s) will be added to the map
+Added marker 1/5
+Added marker 2/5
+Added marker 3/5
+Added marker 4/5
+Added marker 5/5
+Finished!
