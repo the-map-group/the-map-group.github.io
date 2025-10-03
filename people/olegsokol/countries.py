@@ -16,7 +16,7 @@ countries_dict = {
   'NL': ['Netherlands', 11, 11],
   'GR': ['Greece', 2, 3],
   'GB': ['United Kingdom', 1, 1],
-  'IS': ['Iceland', 23, 29],
+  'IS': ['Iceland', 24, 30],
   'KR': ['South Korea', 8, 8],
   'CA': ['Canada', 10, 13],
   'MX': ['Mexico', 4, 6],
