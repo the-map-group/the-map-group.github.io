@@ -4,7 +4,7 @@ countries_dict = {
   'NL': ['Netherlands', 14, 18],
   'US': ['United States', 831, 1235],
   'CN': ['China', 358, 486],
-  'MY': ['Malaysia', 360, 491],
+  'MY': ['Malaysia', 361, 492],
   'JP': ['Japan', 47, 61],
   'VA': ['Vatican City', 141, 454],
   'IT': ['Italy', 903, 1423],
