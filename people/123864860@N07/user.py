@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm5.staticflickr.com/4691/buddyicons/123864860@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/123864860@N07/',
   'location': 'BRIVIO, Italia',
-  'countries': 53,
-  'markers': 7024,
-  'photos': 11305
+  'countries': 54,
+  'markers': 7025,
+  'photos': 11317
 }

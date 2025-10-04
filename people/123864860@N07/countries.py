@@ -51,5 +51,6 @@ countries_dict = {
   'JP': ['Japan', 42, 149],
   'YE': ['Yemen', 23, 61],
   'FI': ['Finland', 5, 7],
-  'SE': ['Sweden', 14, 19]
+  'SE': ['Sweden', 14, 19],
+  'AT': ['Austria', 1, 12]
 }
