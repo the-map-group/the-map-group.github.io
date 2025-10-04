@@ -3,7 +3,7 @@ countries_dict = {
   'TO': ['Tonga', 7, 7],
   'CN': ['China', 3, 3],
   'US': ['United States', 12, 12],
-  'ID': ['Indonesia', 42, 44],
+  'ID': ['Indonesia', 44, 47],
   'IE': ['Ireland', 25, 26],
   'NZ': ['New Zealand', 30, 30],
   'DE': ['Germany', 92, 97],
