@@ -1,7 +1,7 @@
 countries_dict = {
   'MY': ['Malaysia', 2, 43],
   'TR': ['Turkey', 1, 1],
-  'FR': ['France', 252, 338],
+  'FR': ['France', 253, 339],
   'MA': ['Morocco', 7, 8],
   'MX': ['Mexico', 2, 2],
   'JO': ['Jordan', 4, 5],
