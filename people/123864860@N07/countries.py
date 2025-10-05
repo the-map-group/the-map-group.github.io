@@ -26,7 +26,7 @@ countries_dict = {
   'SM': ['San Marino', 4, 4],
   'SG': ['Singapore', 3, 3],
   'CU': ['Cuba', 17, 25],
-  'IS': ['Iceland', 287, 459],
+  'IS': ['Iceland', 287, 468],
   'SJ': ['Svalbard and Jan Mayen', 193, 288],
   'NZ': ['New Zealand', 237, 369],
   'LS': ['Lesotho', 15, 19],
