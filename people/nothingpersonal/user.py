@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/nothingpersonal/',
   'location': 'London',
   'countries': 16,
-  'markers': 2711,
-  'photos': 3034
+  'markers': 2733,
+  'photos': 3061
 }
