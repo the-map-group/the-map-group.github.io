@@ -3234,3 +3234,51 @@ Map already has 1788 marker(s)
 Added 1 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: giosuèbolis...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Giosuè Bolis'
+365 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: regardphoto04...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Regard  Photo'
+6 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: alestaleiro...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Alejandro David Olivera'
+13489 photos in the photostream
+9 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 9 photo(s) in 9 marker(s)
+Adding marker(s) to map...
+Map already has 4103 marker(s)
+9 new marker(s) will be added to the map
+Added marker 1/9
+Added marker 2/9
+Added marker 3/9
+Added marker 4/9
+Added marker 5/9
+Added marker 6/9
+Added marker 7/9
+Added marker 8/9
+Added marker 9/9
+Finished!
