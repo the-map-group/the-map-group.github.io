@@ -12,7 +12,7 @@ countries_dict = {
   'SE': ['Sweden', 9, 9],
   'GR': ['Greece', 50, 56],
   'PT': ['Portugal', 52, 69],
-  'GB': ['United Kingdom', 124, 163],
+  'GB': ['United Kingdom', 124, 164],
   'CZ': ['Czech Republic', 6, 6],
   'ES': ['Spain', 63, 67],
   'GI': ['Gibraltar', 12, 12],
