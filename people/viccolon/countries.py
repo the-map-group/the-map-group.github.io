@@ -7,7 +7,7 @@ countries_dict = {
   'IL': ['Israel', 4, 6],
   'CU': ['Cuba', 13, 26],
   'FR': ['France', 4, 11],
-  'VN': ['Vietnam', 7, 26],
+  'VN': ['Vietnam', 7, 27],
   'GR': ['Greece', 6, 9],
   'SE': ['Sweden', 3, 4],
   'TR': ['Turkey', 3, 8],
