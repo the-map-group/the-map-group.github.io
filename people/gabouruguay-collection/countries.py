@@ -7,6 +7,6 @@ countries_dict = {
   'DO': ['Dominican Republic', 11, 16],
   'ZA': ['South Africa', 59, 142],
   'ES': ['Spain', 39, 95],
-  'JP': ['Japan', 41, 96],
+  'JP': ['Japan', 41, 97],
   'KR': ['South Korea', 42, 64]
 }
