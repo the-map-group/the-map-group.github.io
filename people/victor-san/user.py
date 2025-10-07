@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/victor-san/',
   'location': '',
   'countries': 1,
-  'markers': 39,
-  'photos': 43
+  'markers': 40,
+  'photos': 44
 }
