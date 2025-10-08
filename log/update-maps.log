@@ -792,3 +792,36 @@ Map already has 3287 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Miguel - AF...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Miguel Angel Flores'
+237 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Liam Cheasty...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Liam Cheasty'
+19104 photos in the photostream
+35 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 35 photo(s) in 27 marker(s)
+Adding marker(s) to map...
+Map already has 3652 marker(s)
+5 new marker(s) will be added to the map
+Added marker 1/5
+Added marker 2/5
+Added marker 3/5
+Added marker 4/5
+Added marker 5/5
+Finished!
