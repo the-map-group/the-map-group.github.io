@@ -29,5 +29,5 @@ countries_dict = {
   'ES': ['Spain', 11, 14],
   'ID': ['Indonesia', 5, 5],
   'PH': ['Philippines', 1, 1],
-  'VN': ['Vietnam', 1, 1]
+  'VN': ['Vietnam', 2, 2]
 }
