@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/38730049@N08/',
   'location': 'Visalia, California, USA',
   'countries': 1,
-  'markers': 1027,
-  'photos': 64899
+  'markers': 1028,
+  'photos': 65027
 }
