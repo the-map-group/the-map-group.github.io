@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm9.staticflickr.com/8536/buddyicons/14463685@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/byhowardsomerville/',
   'location': 'London, UK',
-  'countries': 37,
-  'markers': 881,
-  'photos': 1062
+  'countries': 38,
+  'markers': 882,
+  'photos': 1063
 }

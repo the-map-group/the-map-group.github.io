@@ -35,5 +35,6 @@ countries_dict = {
   'MA': ['Morocco', 5, 6],
   'RO': ['Romania', 5, 5],
   'EG': ['Egypt', 8, 11],
-  'PK': ['Pakistan', 1, 1]
+  'PK': ['Pakistan', 1, 1],
+  'MT': ['Malta', 1, 1]
 }
