@@ -5,6 +5,6 @@ countries_dict = {
   'IT': ['Italy', 2, 75],
   'DO': ['Dominican Republic', 37, 401],
   'JM': ['Jamaica', 155, 188],
-  'AZ': ['Azerbaijan', 95, 115],
+  'AZ': ['Azerbaijan', 96, 116],
   'IN': ['India', 429, 558]
 }
