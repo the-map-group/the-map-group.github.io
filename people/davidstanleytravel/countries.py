@@ -127,5 +127,5 @@ countries_dict = {
   'TV': ['Tuvalu', 16, 18],
   'WS': ['Samoa', 15, 15],
   'TO': ['Tonga', 9, 9],
-  'CR': ['Costa Rica', 68, 72]
+  'CR': ['Costa Rica', 75, 79]
 }
