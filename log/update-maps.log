@@ -1,5712 +1,826 @@
-##### Updating map for member: H. P. Filho...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Haraldo Albergaria'
-1522 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: H. P. Filho
 Getting member information...
-Done!
-
-##### Updating map for member: Christopher Wallace...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Chris Price'
-1614 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Elena Lebedeva (IG: ...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Elena Lebedeva (IG: ellebedeva'
-250 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: hans pohl...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Hans Pohl'
-5998 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 3906 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Steenjep...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Steen Jeppesen'
-18006 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Christopher Wallace
 Getting member information...
-Done!
-
-##### Updating map for member: michael_jeddah...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'michael_jeddah'
-19391 photos in the photostream
-52 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 8289 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: haroldmoses...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Harold  Moses'
-6087 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Elena Lebedeva (IG: 
 Getting member information...
-Done!
-
-##### Updating map for member: Lemmo2009...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Paul'
-6684 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Northern Tony...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Northern Tony'
-147 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: normafincher...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Norma Fincher'
-122572 photos in the photostream
-70 photo(s) deleted from photostream.
-The corresponding markers will alse be deleted
-Extracting photo coordinates and ids...
-Extracting for the last 100000 photos
-Batch 1/200 | 1 photo(s) in 1 marker(s)
-Batch 2/200 | 1 photo(s) in 1 marker(s)
-Batch 3/200 | 5 photo(s) in 4 marker(s)
-Batch 4/200 | 8 photo(s) in 5 marker(s)
-Batch 5/200 | 8 photo(s) in 5 marker(s)
-Batch 6/200 | 8 photo(s) in 5 marker(s)
-Batch 7/200 | 8 photo(s) in 5 marker(s)
-Batch 8/200 | 9 photo(s) in 6 marker(s)
-Batch 9/200 | 9 photo(s) in 6 marker(s)
-Batch 10/200 | 9 photo(s) in 6 marker(s)
-Batch 11/200 | 9 photo(s) in 6 marker(s)
-Batch 12/200 | 9 photo(s) in 6 marker(s)
-Batch 13/200 | 9 photo(s) in 6 marker(s)
-Batch 14/200 | 9 photo(s) in 6 marker(s)
-Batch 15/200 | 9 photo(s) in 6 marker(s)
-Batch 16/200 | 9 photo(s) in 6 marker(s)
-Batch 17/200 | 9 photo(s) in 6 marker(s)
-Batch 18/200 | 9 photo(s) in 6 marker(s)
-Batch 19/200 | 9 photo(s) in 6 marker(s)
-Batch 20/200 | 10 photo(s) in 7 marker(s)
-Batch 21/200 | 10 photo(s) in 7 marker(s)
-Batch 22/200 | 10 photo(s) in 7 marker(s)
-Batch 23/200 | 10 photo(s) in 7 marker(s)
-Batch 24/200 | 10 photo(s) in 7 marker(s)
-Batch 25/200 | 11 photo(s) in 8 marker(s)
-Batch 26/200 | 11 photo(s) in 8 marker(s)
-Batch 27/200 | 11 photo(s) in 8 marker(s)
-Batch 28/200 | 11 photo(s) in 8 marker(s)
-Batch 29/200 | 11 photo(s) in 8 marker(s)
-Batch 30/200 | 11 photo(s) in 8 marker(s)
-Batch 31/200 | 11 photo(s) in 8 marker(s)
-Batch 32/200 | 11 photo(s) in 8 marker(s)
-Batch 33/200 | 11 photo(s) in 8 marker(s)
-Batch 34/200 | 224 photo(s) in 9 marker(s)
-Batch 35/200 | 224 photo(s) in 9 marker(s)
-Batch 36/200 | 224 photo(s) in 9 marker(s)
-Batch 37/200 | 224 photo(s) in 9 marker(s)
-Batch 38/200 | 224 photo(s) in 9 marker(s)
-Batch 39/200 | 224 photo(s) in 9 marker(s)
-Batch 40/200 | 224 photo(s) in 9 marker(s)
-Batch 41/200 | 224 photo(s) in 9 marker(s)
-Batch 42/200 | 318 photo(s) in 12 marker(s)
-Batch 43/200 | 453 photo(s) in 12 marker(s)
-Batch 44/200 | 526 photo(s) in 13 marker(s)
-Batch 45/200 | 912 photo(s) in 13 marker(s)
-Batch 46/200 | 912 photo(s) in 13 marker(s)
-Batch 47/200 | 912 photo(s) in 13 marker(s)
-Batch 48/200 | 912 photo(s) in 13 marker(s)
-Batch 49/200 | 912 photo(s) in 13 marker(s)
-Batch 50/200 | 912 photo(s) in 13 marker(s)
-Batch 51/200 | 912 photo(s) in 13 marker(s)
-Batch 52/200 | 913 photo(s) in 14 marker(s)
-Batch 53/200 | 913 photo(s) in 14 marker(s)
-Batch 54/200 | 913 photo(s) in 14 marker(s)
-Batch 55/200 | 913 photo(s) in 14 marker(s)
-Batch 56/200 | 913 photo(s) in 14 marker(s)
-Batch 57/200 | 913 photo(s) in 14 marker(s)
-Batch 58/200 | 913 photo(s) in 14 marker(s)
-Batch 59/200 | 913 photo(s) in 14 marker(s)
-Batch 60/200 | 913 photo(s) in 14 marker(s)
-Batch 61/200 | 913 photo(s) in 14 marker(s)
-Batch 62/200 | 914 photo(s) in 15 marker(s)
-Batch 63/200 | 914 photo(s) in 15 marker(s)
-Batch 64/200 | 914 photo(s) in 15 marker(s)
-Batch 65/200 | 914 photo(s) in 15 marker(s)
-Batch 66/200 | 914 photo(s) in 15 marker(s)
-Batch 67/200 | 914 photo(s) in 15 marker(s)
-Batch 68/200 | 914 photo(s) in 15 marker(s)
-Batch 69/200 | 914 photo(s) in 15 marker(s)
-Batch 70/200 | 914 photo(s) in 15 marker(s)
-Batch 71/200 | 915 photo(s) in 16 marker(s)
-Batch 72/200 | 915 photo(s) in 16 marker(s)
-Batch 73/200 | 915 photo(s) in 16 marker(s)
-Batch 74/200 | 915 photo(s) in 16 marker(s)
-Batch 75/200 | 915 photo(s) in 16 marker(s)
-Batch 76/200 | 915 photo(s) in 16 marker(s)
-Batch 77/200 | 915 photo(s) in 16 marker(s)
-Batch 78/200 | 916 photo(s) in 16 marker(s)
-Batch 79/200 | 916 photo(s) in 16 marker(s)
-Batch 80/200 | 916 photo(s) in 16 marker(s)
-Batch 81/200 | 916 photo(s) in 16 marker(s)
-Batch 82/200 | 917 photo(s) in 17 marker(s)
-Batch 83/200 | 917 photo(s) in 17 marker(s)
-Batch 84/200 | 917 photo(s) in 17 marker(s)
-Batch 85/200 | 1098 photo(s) in 18 marker(s)
-Batch 86/200 | 1437 photo(s) in 19 marker(s)
-Batch 87/200 | 1439 photo(s) in 19 marker(s)
-Batch 88/200 | 1496 photo(s) in 19 marker(s)
-Batch 89/200 | 1934 photo(s) in 19 marker(s)
-Batch 90/200 | 2051 photo(s) in 19 marker(s)
-Batch 91/200 | 2053 photo(s) in 21 marker(s)
-Batch 92/200 | 2053 photo(s) in 21 marker(s)
-Batch 93/200 | 2053 photo(s) in 21 marker(s)
-Batch 94/200 | 2053 photo(s) in 21 marker(s)
-Batch 95/200 | 2053 photo(s) in 21 marker(s)
-Batch 96/200 | 2053 photo(s) in 21 marker(s)
-Batch 97/200 | 2053 photo(s) in 21 marker(s)
-Batch 98/200 | 2053 photo(s) in 21 marker(s)
-Batch 99/200 | 2053 photo(s) in 21 marker(s)
-Batch 100/200 | 2053 photo(s) in 21 marker(s)
-Batch 101/200 | 2053 photo(s) in 21 marker(s)
-Batch 102/200 | 2053 photo(s) in 21 marker(s)
-Batch 103/200 | 2053 photo(s) in 21 marker(s)
-Batch 104/200 | 2053 photo(s) in 21 marker(s)
-Batch 105/200 | 2053 photo(s) in 21 marker(s)
-Batch 106/200 | 2053 photo(s) in 21 marker(s)
-Batch 107/200 | 2053 photo(s) in 21 marker(s)
-Batch 108/200 | 2175 photo(s) in 24 marker(s)
-Batch 109/200 | 2459 photo(s) in 27 marker(s)
-Batch 110/200 | 2932 photo(s) in 30 marker(s)
-Batch 111/200 | 3289 photo(s) in 32 marker(s)
-Batch 112/200 | 3570 photo(s) in 33 marker(s)
-Batch 113/200 | 4062 photo(s) in 38 marker(s)
-Batch 114/200 | 4323 photo(s) in 42 marker(s)
-Batch 115/200 | 4633 photo(s) in 43 marker(s)
-Batch 116/200 | 4964 photo(s) in 44 marker(s)
-Batch 117/200 | 5354 photo(s) in 47 marker(s)
-Batch 118/200 | 5770 photo(s) in 48 marker(s)
-Batch 119/200 | 6257 photo(s) in 50 marker(s)
-Batch 120/200 | 6717 photo(s) in 52 marker(s)
-Batch 121/200 | 6834 photo(s) in 52 marker(s)
-Batch 122/200 | 6835 photo(s) in 53 marker(s)
-Batch 123/200 | 6835 photo(s) in 53 marker(s)
-Batch 124/200 | 6835 photo(s) in 53 marker(s)
-Batch 125/200 | 6835 photo(s) in 53 marker(s)
-Batch 126/200 | 6836 photo(s) in 54 marker(s)
-Batch 127/200 | 6836 photo(s) in 54 marker(s)
-Batch 128/200 | 6836 photo(s) in 54 marker(s)
-Batch 129/200 | 6932 photo(s) in 55 marker(s)
-Batch 130/200 | 7432 photo(s) in 56 marker(s)
-Batch 131/200 | 7932 photo(s) in 57 marker(s)
-Batch 132/200 | 8432 photo(s) in 58 marker(s)
-Batch 133/200 | 8924 photo(s) in 59 marker(s)
-Batch 134/200 | 9424 photo(s) in 60 marker(s)
-Batch 135/200 | 9924 photo(s) in 60 marker(s)
-Batch 136/200 | 10423 photo(s) in 61 marker(s)
-Batch 137/200 | 10923 photo(s) in 61 marker(s)
-Batch 138/200 | 11423 photo(s) in 62 marker(s)
-Batch 139/200 | 11922 photo(s) in 63 marker(s)
-Batch 140/200 | 12365 photo(s) in 64 marker(s)
-Batch 141/200 | 12837 photo(s) in 64 marker(s)
-Batch 142/200 | 12837 photo(s) in 64 marker(s)
-Batch 143/200 | 12837 photo(s) in 64 marker(s)
-Batch 144/200 | 12838 photo(s) in 65 marker(s)
-Batch 145/200 | 13157 photo(s) in 67 marker(s)
-Batch 146/200 | 13656 photo(s) in 69 marker(s)
-Batch 147/200 | 14156 photo(s) in 70 marker(s)
-Batch 148/200 | 14656 photo(s) in 72 marker(s)
-Batch 149/200 | 15156 photo(s) in 72 marker(s)
-Batch 150/200 | 15654 photo(s) in 72 marker(s)
-Batch 151/200 | 15956 photo(s) in 73 marker(s)
-Batch 152/200 | 16300 photo(s) in 74 marker(s)
-Batch 153/200 | 16562 photo(s) in 74 marker(s)
-Batch 154/200 | 16695 photo(s) in 75 marker(s)
-Batch 155/200 | 17056 photo(s) in 75 marker(s)
-Batch 156/200 | 17343 photo(s) in 75 marker(s)
-Batch 157/200 | 17394 photo(s) in 75 marker(s)
-Batch 158/200 | 17819 photo(s) in 78 marker(s)
-Batch 159/200 | 18319 photo(s) in 79 marker(s)
-Batch 160/200 | 18819 photo(s) in 81 marker(s)
-Batch 161/200 | 19311 photo(s) in 81 marker(s)
-Batch 162/200 | 19485 photo(s) in 83 marker(s)
-Batch 163/200 | 19985 photo(s) in 84 marker(s)
-Batch 164/200 | 20485 photo(s) in 84 marker(s)
-Batch 165/200 | 20984 photo(s) in 84 marker(s)
-Batch 166/200 | 21212 photo(s) in 87 marker(s)
-Batch 167/200 | 21711 photo(s) in 90 marker(s)
-Batch 168/200 | 22211 photo(s) in 92 marker(s)
-Batch 169/200 | 22710 photo(s) in 94 marker(s)
-Batch 170/200 | 22983 photo(s) in 95 marker(s)
-Batch 171/200 | 23390 photo(s) in 96 marker(s)
-Batch 172/200 | 23844 photo(s) in 96 marker(s)
-Batch 173/200 | 24344 photo(s) in 97 marker(s)
-Batch 174/200 | 24844 photo(s) in 98 marker(s)
-Batch 175/200 | 25230 photo(s) in 98 marker(s)
-Batch 176/200 | 25567 photo(s) in 98 marker(s)
-Batch 177/200 | 25971 photo(s) in 102 marker(s)
-Batch 178/200 | 26394 photo(s) in 103 marker(s)
-Batch 179/200 | 26894 photo(s) in 103 marker(s)
-Batch 180/200 | 27385 photo(s) in 103 marker(s)
-Batch 181/200 | 27743 photo(s) in 104 marker(s)
-Batch 182/200 | 28181 photo(s) in 109 marker(s)
-Batch 183/200 | 28665 photo(s) in 113 marker(s)
-Batch 184/200 | 29164 photo(s) in 115 marker(s)
-Batch 185/200 | 29651 photo(s) in 118 marker(s)
-Batch 186/200 | 30146 photo(s) in 121 marker(s)
-Batch 187/200 | 30635 photo(s) in 124 marker(s)
-Batch 188/200 | 30985 photo(s) in 127 marker(s)
-Batch 189/200 | 31479 photo(s) in 131 marker(s)
-Batch 190/200 | 31926 photo(s) in 134 marker(s)
-Batch 191/200 | 32323 photo(s) in 136 marker(s)
-Batch 192/200 | 32629 photo(s) in 139 marker(s)
-Batch 193/200 | 32801 photo(s) in 140 marker(s)
-Batch 194/200 | 33011 photo(s) in 141 marker(s)
-Batch 195/200 | 33175 photo(s) in 143 marker(s)
-Batch 196/200 | 33508 photo(s) in 145 marker(s)
-Batch 197/200 | 33518 photo(s) in 145 marker(s)
-Batch 198/200 | 33518 photo(s) in 145 marker(s)
-Batch 199/200 | 33533 photo(s) in 145 marker(s)
-Batch 200/200 | 33569 photo(s) in 145 marker(s)
-Adding marker(s) to map...
-145 new marker(s) will be added to the map
-Added marker 1/145
-Added marker 2/145
-Added marker 3/145
-Added marker 4/145
-Added marker 5/145
-Added marker 6/145
-Added marker 7/145
-Added marker 8/145
-Added marker 9/145
-Added marker 10/145
-Added marker 11/145
-Added marker 12/145
-Added marker 13/145
-Added marker 14/145
-Added marker 15/145
-Added marker 16/145
-Added marker 17/145
-Added marker 18/145
-Added marker 19/145
-Added marker 20/145
-Added marker 21/145
-Added marker 22/145
-Added marker 23/145
-Added marker 24/145
-Added marker 25/145
-Added marker 26/145
-Added marker 27/145
-Added marker 28/145
-Added marker 29/145
-Added marker 30/145
-Added marker 31/145
-Added marker 32/145
-Added marker 33/145
-Added marker 34/145
-Added marker 35/145
-Added marker 36/145
-Added marker 37/145
-Added marker 38/145
-Added marker 39/145
-Added marker 40/145
-Added marker 41/145
-Added marker 42/145
-Added marker 43/145
-Added marker 44/145
-Added marker 45/145
-Added marker 46/145
-Added marker 47/145
-Added marker 48/145
-Added marker 49/145
-Added marker 50/145
-Added marker 51/145
-Added marker 52/145
-Added marker 53/145
-Added marker 54/145
-Added marker 55/145
-Added marker 56/145
-Added marker 57/145
-Added marker 58/145
-Added marker 59/145
-Added marker 60/145
-Added marker 61/145
-Added marker 62/145
-Added marker 63/145
-Added marker 64/145
-Added marker 65/145
-Added marker 66/145
-Added marker 67/145
-Added marker 68/145
-Added marker 69/145
-Added marker 70/145
-Added marker 71/145
-Added marker 72/145
-Added marker 73/145
-Added marker 74/145
-Added marker 75/145
-Added marker 76/145
-Added marker 77/145
-Added marker 78/145
-Added marker 79/145
-Added marker 80/145
-Added marker 81/145
-Added marker 82/145
-Added marker 83/145
-Added marker 84/145
-Added marker 85/145
-Added marker 86/145
-Added marker 87/145
-Added marker 88/145
-Added marker 89/145
-Added marker 90/145
-Added marker 91/145
-Added marker 92/145
-Added marker 93/145
-Added marker 94/145
-Added marker 95/145
-Added marker 96/145
-Added marker 97/145
-Added marker 98/145
-Added marker 99/145
-Added marker 100/145
-Added marker 101/145
-Added marker 102/145
-Added marker 103/145
-Added marker 104/145
-Added marker 105/145
-Added marker 106/145
-Added marker 107/145
-Added marker 108/145
-Added marker 109/145
-Added marker 110/145
-Added marker 111/145
-Added marker 112/145
-Added marker 113/145
-Added marker 114/145
-Added marker 115/145
-Added marker 116/145
-Added marker 117/145
-Added marker 118/145
-Added marker 119/145
-Added marker 120/145
-Added marker 121/145
-Added marker 122/145
-Added marker 123/145
-Added marker 124/145
-Added marker 125/145
-Added marker 126/145
-Added marker 127/145
-Added marker 128/145
-Added marker 129/145
-Added marker 130/145
-Added marker 131/145
-Added marker 132/145
-Added marker 133/145
-Added marker 134/145
-Added marker 135/145
-Added marker 136/145
-Added marker 137/145
-Added marker 138/145
-Added marker 139/145
-Added marker 140/145
-Added marker 141/145
-Added marker 142/145
-Added marker 143/145
-Added marker 144/145
-Added marker 145/145
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Andy.Gocher...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Andy Gocher'
-1562 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: hans pohl
 Getting member information...
-Done!
-
-##### Updating map for member: alfsan...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Alfonso Santelia'
-1380 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Dmitry Djouce...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Dmitry Djouce'
-3323 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Joseph Hollick...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Joseph Hollick'
-22992 photos in the photostream
-11 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 11 photo(s) in 11 marker(s)
-Adding marker(s) to map...
-Map already has 14099 marker(s)
-Added 1 new photo(s) to existing markers
-10 new marker(s) will be added to the map
-Added marker 1/10
-Added marker 2/10
-Added marker 3/10
-Added marker 4/10
-Added marker 5/10
-Added marker 6/10
-Added marker 7/10
-Added marker 8/10
-Added marker 9/10
-Added marker 10/10
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: CJphoto83...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'CJphoto83'
-102 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Steenjep
 Getting member information...
-Done!
-
-##### Updating map for member: ManxieB- sorry, stru...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Barbara Lawrence'
-4572 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: philippeguillot21...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Philippe Guillot'
-45297 photos in the photostream
-8 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 8 photo(s) in 8 marker(s)
-Adding marker(s) to map...
-Map already has 17273 marker(s)
-Added 1 new photo(s) to existing markers
-7 new marker(s) will be added to the map
-Added marker 1/7
-Added marker 2/7
-Added marker 3/7
-Added marker 4/7
-Added marker 5/7
-Added marker 6/7
-Added marker 7/7
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Brit 70013 fan...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'CLIFF BANCROFT'
-1434 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: michael_jeddah
 Getting member information...
-Done!
-
-##### Updating map for member: Fernando Sa Rapita...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Fernando Vega ( on holiday )'
-5639 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Susie_D52...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Susie'
-17487 photos in the photostream
-33 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 200 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Eugenio GV Costa...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Eugenio Costa'
-673 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: haroldmoses
 Getting member information...
-Done!
-
-##### Updating map for member: Quel.R.R...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Raquel Rampasio'
-58 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: javiernoval...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Javier Noval'
-816 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: bobbyblack51...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'GEORGE'
-37200 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Jason Frels...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Jason'
-233 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 159 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: 7.5 mil views - Than...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Stanley Eastwood'
-40246 photos in the photostream
-119 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 119 photo(s) in 2 marker(s)
-Adding marker(s) to map...
-Map already has 7303 marker(s)
-2 new marker(s) will be added to the map
-Added marker 1/2
-Added marker 2/2
+INFO: Map has already been generated for member: Lemmo2009
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: pascalvu1...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Pascal VU'
-39300 photos in the photostream
-34 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 34 photo(s) in 11 marker(s)
-Adding marker(s) to map...
-Map already has 6587 marker(s)
-Added 2 new photo(s) to existing markers
-10 new marker(s) will be added to the map
-Added marker 1/10
-Added marker 2/10
-Added marker 3/10
-Added marker 4/10
-Added marker 5/10
-Added marker 6/10
-Added marker 7/10
-Added marker 8/10
-Added marker 9/10
-Added marker 10/10
+INFO: Map has already been generated for member: Northern Tony
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: jklovelacephotograph...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Jeffrey Lovelace'
-77 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: normafincher
 Getting member information...
-Done!
-
-##### Updating map for member: Beatrix MK...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Beatrix'
-1455 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Black Diamond Images...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Black Diamond Images'
-31343 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 17429 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: GSB Photography...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'GSB Photography'
-208 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Andy.Gocher
 Getting member information...
-Done!
-
-##### Updating map for member: giovannicampus...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'giovanni Campus'
-4801 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: jamesgreig@dr.com...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'James Greig'
-951 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Howard Somerville (1...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Howard Somerville'
-4492 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 883 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: █ Slices of Light ✴ ...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for '█ Slices of Light ✴ █▀ ▀ ▀'
-5539 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: alfsan
 Getting member information...
-Done!
-
-##### Updating map for member: Miguel - AF...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Miguel Angel Flores'
-237 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Liam Cheasty...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Liam Cheasty'
-19132 photos in the photostream
-16 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 16 photo(s) in 13 marker(s)
-Adding marker(s) to map...
-Map already has 3659 marker(s)
-2 new marker(s) will be added to the map
-Added marker 1/2
-Added marker 2/2
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: karen_ds1101...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Karen'
-1628 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Dmitry Djouce
 Getting member information...
-Done!
-
-##### Updating map for member: m01229...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'm01229'
-38111 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: xray_jets...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Peter K'
-309 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: pepemartin2006...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Mário  Martins (Pepe Martín)'
-194 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: sebastiánaguilar...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Sebastián Aguilar'
-20109 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: peter.rath...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'peter.rath'
-748 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Francois Le Rumeur...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Francois Le Rumeur'
-348 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Bernard Spragg...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Bernard Spragg. NZ'
-4995 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: tquist24...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'tquist24'
-4675 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: panoround hutter...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Frederic Hutter'
-911 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 141 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Mani_H....
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Manfred Hermann'
-1511 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Joseph Hollick
 Getting member information...
-Done!
-
-##### Updating map for member: Rosie Chilton...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Rosie Chilton'
-3262 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: K@moeiras...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'KAMO KAMOEIRAS'
-2832 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: paco zerpa...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'paco zerpa'
-837 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Joe Dyndale...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Joe Dyndale'
-53 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: dimitri.verledens...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Dimitri Verledens'
-1805 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Mars Ryan Hartdegen...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Mars Ryan Hartdegen'
-93 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 1 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Florian106...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Florian106'
-7363 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 5372 marker(s)
-No new markers were added to the map
+INFO: Map has already been generated for member: CJphoto83
+Getting member information...
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: xd_travel...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Mike X-d'
-10804 photos in the photostream
-9 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 8 photo(s) in 7 marker(s)
-Adding marker(s) to map...
-Map already has 5773 marker(s)
-7 new marker(s) will be added to the map
-Added marker 1/7
-Added marker 2/7
-Added marker 3/7
-Added marker 4/7
-Added marker 5/7
-Added marker 6/7
-Added marker 7/7
+INFO: Map has already been generated for member: ManxieB- sorry, stru
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Nicolas Hoizey...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Nicolas Hoizey'
-517 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: philippeguillot21
 Getting member information...
-Done!
-
-##### Updating map for member: ByronDelgado...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Byron Delgado'
-640 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: diwan...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Dirk Wandel'
-9825 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 8654 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: andreybogdanov...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Andrey Bogdanov'
-969 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Brit 70013 fan
 Getting member information...
-Done!
-
-##### Updating map for member: Oleg S ....
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Oleg S'
-955 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: HereIsTom...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Tom Jutte'
-1592 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Michael Thornquist...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'SeaSide Signs ~ Vancouver, Can'
-827 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Gmlskis...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'George Landis'
-65045 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: victor san...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'victor san'
-934 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: malioli...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Oliver Švob'
-16642 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 2480 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: fam_nordstrom...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Pierre Nordström'
-22498 photos in the photostream
-5 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 5 photo(s) in 5 marker(s)
-Adding marker(s) to map...
-Map already has 6670 marker(s)
-5 new marker(s) will be added to the map
-Added marker 1/5
-Added marker 2/5
-Added marker 3/5
-Added marker 4/5
-Added marker 5/5
+INFO: Map has already been generated for member: Fernando Sa Rapita
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Harald Schulz...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Harri Schulz'
-9488 photos in the photostream
-3 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 3 photo(s) in 3 marker(s)
-Adding marker(s) to map...
-Map already has 4720 marker(s)
-3 new marker(s) will be added to the map
-Added marker 1/3
-Added marker 2/3
-Added marker 3/3
+INFO: Map has already been generated for member: Susie_D52
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: VicColon...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'VicColon'
-426 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Eugenio GV Costa
 Getting member information...
-Done!
-
-##### Updating map for member: S LYNN LEE...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'S Lynn Lee'
-6300 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: TIA International Ph...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'TIA INTERNATIONAL PHOTOGRAPHY'
-1746 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: salix.caprea...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Iva'
-302 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: faun070...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'faun070'
-80780 photos in the photostream
-60 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 17166 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Robert.Pittman...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Robert Pittman'
-2646 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 2428 marker(s)
-Added 1 new photo(s) to existing markers
-No new markers were added to the map
+INFO: Map has already been generated for member: Quel.R.R
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: benbobjr...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Ben Abel'
-51929 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: javiernoval
 Getting member information...
-Done!
-
-##### Updating map for member: seacult...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'seacult seacult'
-128 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Jеdd...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Jed Jedd'
-584 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Edouard55...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Edouard'
-11662 photos in the photostream
-5 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 5 photo(s) in 2 marker(s)
-Adding marker(s) to map...
-Map already has 8559 marker(s)
-Added 3 new photo(s) to existing markers
-1 new marker(s) will be added to the map
-Added marker 1/1
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Ludo's World...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Lцdо\/іс M'
-5101 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: bobbyblack51
 Getting member information...
-Done!
-
-##### Updating map for member: Joao de Mio...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Joao de Mio'
-472 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: perunique :)...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Vedran Peruničić'
-219 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: aroubin - Yay! 5 MIL...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'aroubin - Yay! 5 MILLION views'
-10958 photos in the photostream
-18 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 13 photo(s) in 13 marker(s)
-Adding marker(s) to map...
-Map already has 2463 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: mpfau64...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Michael Pfau'
-23393 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Jason Frels
 Getting member information...
-Done!
-
-##### Updating map for member: mikaelsoderberg...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'mikaelsoderberg'
-580 photos in the photostream
-3 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 323 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Fernando Forniés Rev...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Fernando Forniés Revuelta'
-12036 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: 7.5 mil views - Than
 Getting member information...
-Done!
-
-##### Updating map for member: InnAtElmwood...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'K & R'
-1118 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Kevin Povenz...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Kevin Povenz'
-3551 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Hugo von Schreck...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Heinz Dieter  Heil'
-9147 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 1590 marker(s)
-Added 1 new photo(s) to existing markers
-No new markers were added to the map
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: MiroFedurco...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Miroslav Fedurco'
-298 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: pascalvu1
 Getting member information...
-Done!
-
-##### Updating map for member: Steve W3...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Steve Weston'
-1209 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: MountMan Photo temp....
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'MountMan Photo'
-3343 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: giorgiorodano46...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Giorgio Rodano'
-10154 photos in the photostream
-3 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 3 photo(s) in 3 marker(s)
-Adding marker(s) to map...
-Map already has 7189 marker(s)
-Added 1 new photo(s) to existing markers
-2 new marker(s) will be added to the map
-Added marker 1/2
-Added marker 2/2
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Atila Yumusakkaya...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Atila Yumusakkaya'
-1878 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 1424 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
+INFO: Map has already been generated for member: jklovelacephotograph
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Gerald (Wayne) Prout...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Gerald (Wayne) Prout'
-9141 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Beatrix MK
 Getting member information...
-Done!
-
-##### Updating map for member: Sacred_Spiral_Photog...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Sacred_Spiral_Photography'
-640 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Visavis.....
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Viktor Kirilko'
-457 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: mark.paradox...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Mark  PARADOX'
-963 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: asarstudios...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Asar Studios'
-19890 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Guildfordian...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Guildfordian'
-1784 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: khoitran1957...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'khoi tranduc'
-833 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: NiBe60...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Bernhard Niedermeier'
-1185 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 550 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: MesphotosAmateur....
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'MesphotosAmateur.'
-153 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Black Diamond Images
 Getting member information...
-Done!
-
-##### Updating map for member: sculptorli...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'sculptorli'
-501 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: jeanpaulneveu...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'JEAN PAUL NEVEU'
-2743 photos in the photostream
-2 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 2 photo(s) in 2 marker(s)
-Adding marker(s) to map...
-Map already has 41 marker(s)
-Added 2 new photo(s) to existing markers
-No new markers were added to the map
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Fotos Avulso...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Fotos Avulso'
-705 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: GSB Photography
 Getting member information...
-Done!
-
-##### Updating map for member: gsegelken...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'gsegelken'
-30729 photos in the photostream
-1 photo(s) deleted from photostream.
-The corresponding markers will alse be deleted
-Extracting photo coordinates and ids...
-Batch 1/62 | 140 photo(s) in 137 marker(s)
-Batch 2/62 | 164 photo(s) in 156 marker(s)
-Batch 3/62 | 448 photo(s) in 399 marker(s)
-Batch 4/62 | 627 photo(s) in 564 marker(s)
-Batch 5/62 | 714 photo(s) in 647 marker(s)
-Batch 6/62 | 944 photo(s) in 874 marker(s)
-Batch 7/62 | 1249 photo(s) in 1167 marker(s)
-Batch 8/62 | 1313 photo(s) in 1222 marker(s)
-Batch 9/62 | 1380 photo(s) in 1286 marker(s)
-Batch 10/62 | 1483 photo(s) in 1375 marker(s)
-Batch 11/62 | 1585 photo(s) in 1469 marker(s)
-Batch 12/62 | 1660 photo(s) in 1525 marker(s)
-Batch 13/62 | 1685 photo(s) in 1545 marker(s)
-Batch 14/62 | 1704 photo(s) in 1555 marker(s)
-Batch 15/62 | 1767 photo(s) in 1590 marker(s)
-Batch 16/62 | 1783 photo(s) in 1600 marker(s)
-Batch 17/62 | 1852 photo(s) in 1657 marker(s)
-Batch 18/62 | 1902 photo(s) in 1703 marker(s)
-Batch 19/62 | 1936 photo(s) in 1734 marker(s)
-Batch 20/62 | 1995 photo(s) in 1788 marker(s)
-Batch 21/62 | 2072 photo(s) in 1859 marker(s)
-Batch 22/62 | 2136 photo(s) in 1922 marker(s)
-Batch 23/62 | 2194 photo(s) in 1973 marker(s)
-Batch 24/62 | 2218 photo(s) in 1997 marker(s)
-Batch 25/62 | 2245 photo(s) in 2021 marker(s)
-Batch 26/62 | 2265 photo(s) in 2041 marker(s)
-Batch 27/62 | 2285 photo(s) in 2060 marker(s)
-Batch 28/62 | 2294 photo(s) in 2067 marker(s)
-Batch 29/62 | 2312 photo(s) in 2085 marker(s)
-Batch 30/62 | 2370 photo(s) in 2133 marker(s)
-Batch 31/62 | 2398 photo(s) in 2160 marker(s)
-Batch 32/62 | 2409 photo(s) in 2171 marker(s)
-Batch 33/62 | 2413 photo(s) in 2175 marker(s)
-Batch 34/62 | 2441 photo(s) in 2202 marker(s)
-Batch 35/62 | 2459 photo(s) in 2219 marker(s)
-Batch 36/62 | 2488 photo(s) in 2246 marker(s)
-Batch 37/62 | 2496 photo(s) in 2253 marker(s)
-Batch 38/62 | 2503 photo(s) in 2260 marker(s)
-Batch 39/62 | 2515 photo(s) in 2271 marker(s)
-Batch 40/62 | 2524 photo(s) in 2278 marker(s)
-Batch 41/62 | 2546 photo(s) in 2298 marker(s)
-Batch 42/62 | 2569 photo(s) in 2319 marker(s)
-Batch 43/62 | 2592 photo(s) in 2341 marker(s)
-Batch 44/62 | 2592 photo(s) in 2341 marker(s)
-Batch 45/62 | 2595 photo(s) in 2343 marker(s)
-Batch 46/62 | 2596 photo(s) in 2344 marker(s)
-Batch 47/62 | 2602 photo(s) in 2350 marker(s)
-Batch 48/62 | 2602 photo(s) in 2350 marker(s)
-Batch 49/62 | 2611 photo(s) in 2358 marker(s)
-Batch 50/62 | 2624 photo(s) in 2370 marker(s)
-Batch 51/62 | 2639 photo(s) in 2382 marker(s)
-Batch 52/62 | 2664 photo(s) in 2405 marker(s)
-Batch 53/62 | 2666 photo(s) in 2407 marker(s)
-Batch 54/62 | 2667 photo(s) in 2408 marker(s)
-Batch 55/62 | 2667 photo(s) in 2408 marker(s)
-Batch 56/62 | 2667 photo(s) in 2408 marker(s)
-Batch 57/62 | 2670 photo(s) in 2410 marker(s)
-Batch 58/62 | 2690 photo(s) in 2430 marker(s)
-Batch 59/62 | 2692 photo(s) in 2432 marker(s)
-Batch 60/62 | 2701 photo(s) in 2441 marker(s)
-Batch 61/62 | 2711 photo(s) in 2451 marker(s)
-Batch 62/62 | 2718 photo(s) in 2458 marker(s)
-Adding marker(s) to map...
-2458 new marker(s) will be added to the map
-Added marker 1/2458
-Added marker 2/2458
-Added marker 3/2458
-Added marker 4/2458
-Added marker 5/2458
-Added marker 6/2458
-Added marker 7/2458
-Added marker 8/2458
-Added marker 9/2458
-Added marker 10/2458
-Added marker 11/2458
-Added marker 12/2458
-Added marker 13/2458
-Added marker 14/2458
-Added marker 15/2458
-Added marker 16/2458
-Added marker 17/2458
-Added marker 18/2458
-Added marker 19/2458
-Added marker 20/2458
-Added marker 21/2458
-Added marker 22/2458
-Added marker 23/2458
-Added marker 24/2458
-Added marker 25/2458
-Added marker 26/2458
-Added marker 27/2458
-Added marker 28/2458
-Added marker 29/2458
-Added marker 30/2458
-Added marker 31/2458
-Added marker 32/2458
-Added marker 33/2458
-Added marker 34/2458
-Added marker 35/2458
-Added marker 36/2458
-Added marker 37/2458
-Added marker 38/2458
-Added marker 39/2458
-Added marker 40/2458
-Added marker 41/2458
-Added marker 42/2458
-Added marker 43/2458
-Added marker 44/2458
-Added marker 45/2458
-Added marker 46/2458
-Added marker 47/2458
-Added marker 48/2458
-Added marker 49/2458
-Added marker 50/2458
-Added marker 51/2458
-Added marker 52/2458
-Added marker 53/2458
-Added marker 54/2458
-Added marker 55/2458
-Added marker 56/2458
-Added marker 57/2458
-Added marker 58/2458
-Added marker 59/2458
-Added marker 60/2458
-Added marker 61/2458
-Added marker 62/2458
-Added marker 63/2458
-Added marker 64/2458
-Added marker 65/2458
-Added marker 66/2458
-Added marker 67/2458
-Added marker 68/2458
-Added marker 69/2458
-Added marker 70/2458
-Added marker 71/2458
-Added marker 72/2458
-Added marker 73/2458
-Added marker 74/2458
-Added marker 75/2458
-Added marker 76/2458
-Added marker 77/2458
-Added marker 78/2458
-Added marker 79/2458
-Added marker 80/2458
-Added marker 81/2458
-Added marker 82/2458
-Added marker 83/2458
-Added marker 84/2458
-Added marker 85/2458
-Added marker 86/2458
-Added marker 87/2458
-Added marker 88/2458
-Added marker 89/2458
-Added marker 90/2458
-Added marker 91/2458
-Added marker 92/2458
-Added marker 93/2458
-Added marker 94/2458
-Added marker 95/2458
-Added marker 96/2458
-Added marker 97/2458
-Added marker 98/2458
-Added marker 99/2458
-Added marker 100/2458
-Added marker 101/2458
-Added marker 102/2458
-Added marker 103/2458
-Added marker 104/2458
-Added marker 105/2458
-Added marker 106/2458
-Added marker 107/2458
-Added marker 108/2458
-Added marker 109/2458
-Added marker 110/2458
-Added marker 111/2458
-Added marker 112/2458
-Added marker 113/2458
-Added marker 114/2458
-Added marker 115/2458
-Added marker 116/2458
-Added marker 117/2458
-Added marker 118/2458
-Added marker 119/2458
-Added marker 120/2458
-Added marker 121/2458
-Added marker 122/2458
-Added marker 123/2458
-Added marker 124/2458
-Added marker 125/2458
-Added marker 126/2458
-Added marker 127/2458
-Added marker 128/2458
-Added marker 129/2458
-Added marker 130/2458
-Added marker 131/2458
-Added marker 132/2458
-Added marker 133/2458
-Added marker 134/2458
-Added marker 135/2458
-Added marker 136/2458
-Added marker 137/2458
-Added marker 138/2458
-Added marker 139/2458
-Added marker 140/2458
-Added marker 141/2458
-Added marker 142/2458
-Added marker 143/2458
-Added marker 144/2458
-Added marker 145/2458
-Added marker 146/2458
-Added marker 147/2458
-Added marker 148/2458
-Added marker 149/2458
-Added marker 150/2458
-Added marker 151/2458
-Added marker 152/2458
-Added marker 153/2458
-Added marker 154/2458
-Added marker 155/2458
-Added marker 156/2458
-Added marker 157/2458
-Added marker 158/2458
-Added marker 159/2458
-Added marker 160/2458
-Added marker 161/2458
-Added marker 162/2458
-Added marker 163/2458
-Added marker 164/2458
-Added marker 165/2458
-Added marker 166/2458
-Added marker 167/2458
-Added marker 168/2458
-Added marker 169/2458
-Added marker 170/2458
-Added marker 171/2458
-Added marker 172/2458
-Added marker 173/2458
-Added marker 174/2458
-Added marker 175/2458
-Added marker 176/2458
-Added marker 177/2458
-Added marker 178/2458
-Added marker 179/2458
-Added marker 180/2458
-Added marker 181/2458
-Added marker 182/2458
-Added marker 183/2458
-Added marker 184/2458
-Added marker 185/2458
-Added marker 186/2458
-Added marker 187/2458
-Added marker 188/2458
-Added marker 189/2458
-Added marker 190/2458
-Added marker 191/2458
-Added marker 192/2458
-Added marker 193/2458
-Added marker 194/2458
-Added marker 195/2458
-Added marker 196/2458
-Added marker 197/2458
-Added marker 198/2458
-Added marker 199/2458
-Added marker 200/2458
-Added marker 201/2458
-Added marker 202/2458
-Added marker 203/2458
-Added marker 204/2458
-Added marker 205/2458
-Added marker 206/2458
-Added marker 207/2458
-Added marker 208/2458
-Added marker 209/2458
-Added marker 210/2458
-Added marker 211/2458
-Added marker 212/2458
-Added marker 213/2458
-Added marker 214/2458
-Added marker 215/2458
-Added marker 216/2458
-Added marker 217/2458
-Added marker 218/2458
-Added marker 219/2458
-Added marker 220/2458
-Added marker 221/2458
-Added marker 222/2458
-Added marker 223/2458
-Added marker 224/2458
-Added marker 225/2458
-Added marker 226/2458
-Added marker 227/2458
-Added marker 228/2458
-Added marker 229/2458
-Added marker 230/2458
-Added marker 231/2458
-Added marker 232/2458
-Added marker 233/2458
-Added marker 234/2458
-Added marker 235/2458
-Added marker 236/2458
-Added marker 237/2458
-Added marker 238/2458
-Added marker 239/2458
-Added marker 240/2458
-Added marker 241/2458
-Added marker 242/2458
-Added marker 243/2458
-Added marker 244/2458
-Added marker 245/2458
-Added marker 246/2458
-Added marker 247/2458
-Added marker 248/2458
-Added marker 249/2458
-Added marker 250/2458
-Added marker 251/2458
-Added marker 252/2458
-Added marker 253/2458
-Added marker 254/2458
-Added marker 255/2458
-Added marker 256/2458
-Added marker 257/2458
-Added marker 258/2458
-Added marker 259/2458
-Added marker 260/2458
-Added marker 261/2458
-Added marker 262/2458
-Added marker 263/2458
-Added marker 264/2458
-Added marker 265/2458
-Added marker 266/2458
-Added marker 267/2458
-Added marker 268/2458
-Added marker 269/2458
-Added marker 270/2458
-Added marker 271/2458
-Added marker 272/2458
-Added marker 273/2458
-Added marker 274/2458
-Added marker 275/2458
-Added marker 276/2458
-Added marker 277/2458
-Added marker 278/2458
-Added marker 279/2458
-Added marker 280/2458
-Added marker 281/2458
-Added marker 282/2458
-Added marker 283/2458
-Added marker 284/2458
-Added marker 285/2458
-Added marker 286/2458
-Added marker 287/2458
-Added marker 288/2458
-Added marker 289/2458
-Added marker 290/2458
-Added marker 291/2458
-Added marker 292/2458
-Added marker 293/2458
-Added marker 294/2458
-Added marker 295/2458
-Added marker 296/2458
-Added marker 297/2458
-Added marker 298/2458
-Added marker 299/2458
-Added marker 300/2458
-Added marker 301/2458
-Added marker 302/2458
-Added marker 303/2458
-Added marker 304/2458
-Added marker 305/2458
-Added marker 306/2458
-Added marker 307/2458
-Added marker 308/2458
-Added marker 309/2458
-Added marker 310/2458
-Added marker 311/2458
-Added marker 312/2458
-Added marker 313/2458
-Added marker 314/2458
-Added marker 315/2458
-Added marker 316/2458
-Added marker 317/2458
-Added marker 318/2458
-Added marker 319/2458
-Added marker 320/2458
-Added marker 321/2458
-Added marker 322/2458
-Added marker 323/2458
-Added marker 324/2458
-Added marker 325/2458
-Added marker 326/2458
-Added marker 327/2458
-Added marker 328/2458
-Added marker 329/2458
-Added marker 330/2458
-Added marker 331/2458
-Added marker 332/2458
-Added marker 333/2458
-Added marker 334/2458
-Added marker 335/2458
-Added marker 336/2458
-Added marker 337/2458
-Added marker 338/2458
-Added marker 339/2458
-Added marker 340/2458
-Added marker 341/2458
-Added marker 342/2458
-Added marker 343/2458
-Added marker 344/2458
-Added marker 345/2458
-Added marker 346/2458
-Added marker 347/2458
-Added marker 348/2458
-Added marker 349/2458
-Added marker 350/2458
-Added marker 351/2458
-Added marker 352/2458
-Added marker 353/2458
-Added marker 354/2458
-Added marker 355/2458
-Added marker 356/2458
-Added marker 357/2458
-Added marker 358/2458
-Added marker 359/2458
-Added marker 360/2458
-Added marker 361/2458
-Added marker 362/2458
-Added marker 363/2458
-Added marker 364/2458
-Added marker 365/2458
-Added marker 366/2458
-Added marker 367/2458
-Added marker 368/2458
-Added marker 369/2458
-Added marker 370/2458
-Added marker 371/2458
-Added marker 372/2458
-Added marker 373/2458
-Added marker 374/2458
-Added marker 375/2458
-Added marker 376/2458
-Added marker 377/2458
-Added marker 378/2458
-Added marker 379/2458
-Added marker 380/2458
-Added marker 381/2458
-Added marker 382/2458
-Added marker 383/2458
-Added marker 384/2458
-Added marker 385/2458
-Added marker 386/2458
-Added marker 387/2458
-Added marker 388/2458
-Added marker 389/2458
-Added marker 390/2458
-Added marker 391/2458
-Added marker 392/2458
-Added marker 393/2458
-Added marker 394/2458
-Added marker 395/2458
-Added marker 396/2458
-Added marker 397/2458
-Added marker 398/2458
-Added marker 399/2458
-Added marker 400/2458
-Added marker 401/2458
-Added marker 402/2458
-Added marker 403/2458
-Added marker 404/2458
-Added marker 405/2458
-Added marker 406/2458
-Added marker 407/2458
-Added marker 408/2458
-Added marker 409/2458
-Added marker 410/2458
-Added marker 411/2458
-Added marker 412/2458
-Added marker 413/2458
-Added marker 414/2458
-Added marker 415/2458
-Added marker 416/2458
-Added marker 417/2458
-Added marker 418/2458
-Added marker 419/2458
-Added marker 420/2458
-Added marker 421/2458
-Added marker 422/2458
-Added marker 423/2458
-Added marker 424/2458
-Added marker 425/2458
-Added marker 426/2458
-Added marker 427/2458
-Added marker 428/2458
-Added marker 429/2458
-Added marker 430/2458
-Added marker 431/2458
-Added marker 432/2458
-Added marker 433/2458
-Added marker 434/2458
-Added marker 435/2458
-Added marker 436/2458
-Added marker 437/2458
-Added marker 438/2458
-Added marker 439/2458
-Added marker 440/2458
-Added marker 441/2458
-Added marker 442/2458
-Added marker 443/2458
-Added marker 444/2458
-Added marker 445/2458
-Added marker 446/2458
-Added marker 447/2458
-Added marker 448/2458
-Added marker 449/2458
-Added marker 450/2458
-Added marker 451/2458
-Added marker 452/2458
-Added marker 453/2458
-Added marker 454/2458
-Added marker 455/2458
-Added marker 456/2458
-Added marker 457/2458
-Added marker 458/2458
-Added marker 459/2458
-Added marker 460/2458
-Added marker 461/2458
-Added marker 462/2458
-Added marker 463/2458
-Added marker 464/2458
-Added marker 465/2458
-Added marker 466/2458
-Added marker 467/2458
-Added marker 468/2458
-Added marker 469/2458
-Added marker 470/2458
-Added marker 471/2458
-Added marker 472/2458
-Added marker 473/2458
-Added marker 474/2458
-Added marker 475/2458
-Added marker 476/2458
-Added marker 477/2458
-Added marker 478/2458
-Added marker 479/2458
-Added marker 480/2458
-Added marker 481/2458
-Added marker 482/2458
-Added marker 483/2458
-Added marker 484/2458
-Added marker 485/2458
-Added marker 486/2458
-Added marker 487/2458
-Added marker 488/2458
-Added marker 489/2458
-Added marker 490/2458
-Added marker 491/2458
-Added marker 492/2458
-Added marker 493/2458
-Added marker 494/2458
-Added marker 495/2458
-Added marker 496/2458
-Added marker 497/2458
-Added marker 498/2458
-Added marker 499/2458
-Added marker 500/2458
-Added marker 501/2458
-Added marker 502/2458
-Added marker 503/2458
-Added marker 504/2458
-Added marker 505/2458
-Added marker 506/2458
-Added marker 507/2458
-Added marker 508/2458
-Added marker 509/2458
-Added marker 510/2458
-Added marker 511/2458
-Added marker 512/2458
-Added marker 513/2458
-Added marker 514/2458
-Added marker 515/2458
-Added marker 516/2458
-Added marker 517/2458
-Added marker 518/2458
-Added marker 519/2458
-Added marker 520/2458
-Added marker 521/2458
-Added marker 522/2458
-Added marker 523/2458
-Added marker 524/2458
-Added marker 525/2458
-Added marker 526/2458
-Added marker 527/2458
-Added marker 528/2458
-Added marker 529/2458
-Added marker 530/2458
-Added marker 531/2458
-Added marker 532/2458
-Added marker 533/2458
-Added marker 534/2458
-Added marker 535/2458
-Added marker 536/2458
-Added marker 537/2458
-Added marker 538/2458
-Added marker 539/2458
-Added marker 540/2458
-Added marker 541/2458
-Added marker 542/2458
-Added marker 543/2458
-Added marker 544/2458
-Added marker 545/2458
-Added marker 546/2458
-Added marker 547/2458
-Added marker 548/2458
-Added marker 549/2458
-Added marker 550/2458
-Added marker 551/2458
-Added marker 552/2458
-Added marker 553/2458
-Added marker 554/2458
-Added marker 555/2458
-Added marker 556/2458
-Added marker 557/2458
-Added marker 558/2458
-Added marker 559/2458
-Added marker 560/2458
-Added marker 561/2458
-Added marker 562/2458
-Added marker 563/2458
-Added marker 564/2458
-Added marker 565/2458
-Added marker 566/2458
-Added marker 567/2458
-Added marker 568/2458
-Added marker 569/2458
-Added marker 570/2458
-Added marker 571/2458
-Added marker 572/2458
-Added marker 573/2458
-Added marker 574/2458
-Added marker 575/2458
-Added marker 576/2458
-Added marker 577/2458
-Added marker 578/2458
-Added marker 579/2458
-Added marker 580/2458
-Added marker 581/2458
-Added marker 582/2458
-Added marker 583/2458
-Added marker 584/2458
-Added marker 585/2458
-Added marker 586/2458
-Added marker 587/2458
-Added marker 588/2458
-Added marker 589/2458
-Added marker 590/2458
-Added marker 591/2458
-Added marker 592/2458
-Added marker 593/2458
-Added marker 594/2458
-Added marker 595/2458
-Added marker 596/2458
-Added marker 597/2458
-Added marker 598/2458
-Added marker 599/2458
-Added marker 600/2458
-Added marker 601/2458
-Added marker 602/2458
-Added marker 603/2458
-Added marker 604/2458
-Added marker 605/2458
-Added marker 606/2458
-Added marker 607/2458
-Added marker 608/2458
-Added marker 609/2458
-Added marker 610/2458
-Added marker 611/2458
-Added marker 612/2458
-Added marker 613/2458
-Added marker 614/2458
-Added marker 615/2458
-Added marker 616/2458
-Added marker 617/2458
-Added marker 618/2458
-Added marker 619/2458
-Added marker 620/2458
-Added marker 621/2458
-Added marker 622/2458
-Added marker 623/2458
-Added marker 624/2458
-Added marker 625/2458
-Added marker 626/2458
-Added marker 627/2458
-Added marker 628/2458
-Added marker 629/2458
-Added marker 630/2458
-Added marker 631/2458
-Added marker 632/2458
-Added marker 633/2458
-Added marker 634/2458
-Added marker 635/2458
-Added marker 636/2458
-Added marker 637/2458
-Added marker 638/2458
-Added marker 639/2458
-Added marker 640/2458
-Added marker 641/2458
-Added marker 642/2458
-Added marker 643/2458
-Added marker 644/2458
-Added marker 645/2458
-Added marker 646/2458
-Added marker 647/2458
-Added marker 648/2458
-Added marker 649/2458
-Added marker 650/2458
-Added marker 651/2458
-Added marker 652/2458
-Added marker 653/2458
-Added marker 654/2458
-Added marker 655/2458
-Added marker 656/2458
-Added marker 657/2458
-Added marker 658/2458
-Added marker 659/2458
-Added marker 660/2458
-Added marker 661/2458
-Added marker 662/2458
-Added marker 663/2458
-Added marker 664/2458
-Added marker 665/2458
-Added marker 666/2458
-Added marker 667/2458
-Added marker 668/2458
-Added marker 669/2458
-Added marker 670/2458
-Added marker 671/2458
-Added marker 672/2458
-Added marker 673/2458
-Added marker 674/2458
-Added marker 675/2458
-Added marker 676/2458
-Added marker 677/2458
-Added marker 678/2458
-Added marker 679/2458
-Added marker 680/2458
-Added marker 681/2458
-Added marker 682/2458
-Added marker 683/2458
-Added marker 684/2458
-Added marker 685/2458
-Added marker 686/2458
-Added marker 687/2458
-Added marker 688/2458
-Added marker 689/2458
-Added marker 690/2458
-Added marker 691/2458
-Added marker 692/2458
-Added marker 693/2458
-Added marker 694/2458
-Added marker 695/2458
-Added marker 696/2458
-Added marker 697/2458
-Added marker 698/2458
-Added marker 699/2458
-Added marker 700/2458
-Added marker 701/2458
-Added marker 702/2458
-Added marker 703/2458
-Added marker 704/2458
-Added marker 705/2458
-Added marker 706/2458
-Added marker 707/2458
-Added marker 708/2458
-Added marker 709/2458
-Added marker 710/2458
-Added marker 711/2458
-Added marker 712/2458
-Added marker 713/2458
-Added marker 714/2458
-Added marker 715/2458
-Added marker 716/2458
-Added marker 717/2458
-Added marker 718/2458
-Added marker 719/2458
-Added marker 720/2458
-Added marker 721/2458
-Added marker 722/2458
-Added marker 723/2458
-Added marker 724/2458
-Added marker 725/2458
-Added marker 726/2458
-Added marker 727/2458
-Added marker 728/2458
-Added marker 729/2458
-Added marker 730/2458
-Added marker 731/2458
-Added marker 732/2458
-Added marker 733/2458
-Added marker 734/2458
-Added marker 735/2458
-Added marker 736/2458
-Added marker 737/2458
-Added marker 738/2458
-Added marker 739/2458
-Added marker 740/2458
-Added marker 741/2458
-Added marker 742/2458
-Added marker 743/2458
-Added marker 744/2458
-Added marker 745/2458
-Added marker 746/2458
-Added marker 747/2458
-Added marker 748/2458
-Added marker 749/2458
-Added marker 750/2458
-Added marker 751/2458
-Added marker 752/2458
-Added marker 753/2458
-Added marker 754/2458
-Added marker 755/2458
-Added marker 756/2458
-Added marker 757/2458
-Added marker 758/2458
-Added marker 759/2458
-Added marker 760/2458
-Added marker 761/2458
-Added marker 762/2458
-Added marker 763/2458
-Added marker 764/2458
-Added marker 765/2458
-Added marker 766/2458
-Added marker 767/2458
-Added marker 768/2458
-Added marker 769/2458
-Added marker 770/2458
-Added marker 771/2458
-Added marker 772/2458
-Added marker 773/2458
-Added marker 774/2458
-Added marker 775/2458
-Added marker 776/2458
-Added marker 777/2458
-Added marker 778/2458
-Added marker 779/2458
-Added marker 780/2458
-Added marker 781/2458
-Added marker 782/2458
-Added marker 783/2458
-Added marker 784/2458
-Added marker 785/2458
-Added marker 786/2458
-Added marker 787/2458
-Added marker 788/2458
-Added marker 789/2458
-Added marker 790/2458
-Added marker 791/2458
-Added marker 792/2458
-Added marker 793/2458
-Added marker 794/2458
-Added marker 795/2458
-Added marker 796/2458
-Added marker 797/2458
-Added marker 798/2458
-Added marker 799/2458
-Added marker 800/2458
-Added marker 801/2458
-Added marker 802/2458
-Added marker 803/2458
-Added marker 804/2458
-Added marker 805/2458
-Added marker 806/2458
-Added marker 807/2458
-Added marker 808/2458
-Added marker 809/2458
-Added marker 810/2458
-Added marker 811/2458
-Added marker 812/2458
-Added marker 813/2458
-Added marker 814/2458
-Added marker 815/2458
-Added marker 816/2458
-Added marker 817/2458
-Added marker 818/2458
-Added marker 819/2458
-Added marker 820/2458
-Added marker 821/2458
-Added marker 822/2458
-Added marker 823/2458
-Added marker 824/2458
-Added marker 825/2458
-Added marker 826/2458
-Added marker 827/2458
-Added marker 828/2458
-Added marker 829/2458
-Added marker 830/2458
-Added marker 831/2458
-Added marker 832/2458
-Added marker 833/2458
-Added marker 834/2458
-Added marker 835/2458
-Added marker 836/2458
-Added marker 837/2458
-Added marker 838/2458
-Added marker 839/2458
-Added marker 840/2458
-Added marker 841/2458
-Added marker 842/2458
-Added marker 843/2458
-Added marker 844/2458
-Added marker 845/2458
-Added marker 846/2458
-Added marker 847/2458
-Added marker 848/2458
-Added marker 849/2458
-Added marker 850/2458
-Added marker 851/2458
-Added marker 852/2458
-Added marker 853/2458
-Added marker 854/2458
-Added marker 855/2458
-Added marker 856/2458
-Added marker 857/2458
-Added marker 858/2458
-Added marker 859/2458
-Added marker 860/2458
-Added marker 861/2458
-Added marker 862/2458
-Added marker 863/2458
-Added marker 864/2458
-Added marker 865/2458
-Added marker 866/2458
-Added marker 867/2458
-Added marker 868/2458
-Added marker 869/2458
-Added marker 870/2458
-Added marker 871/2458
-Added marker 872/2458
-Added marker 873/2458
-Added marker 874/2458
-Added marker 875/2458
-Added marker 876/2458
-Added marker 877/2458
-Added marker 878/2458
-Added marker 879/2458
-Added marker 880/2458
-Added marker 881/2458
-Added marker 882/2458
-Added marker 883/2458
-Added marker 884/2458
-Added marker 885/2458
-Added marker 886/2458
-Added marker 887/2458
-Added marker 888/2458
-Added marker 889/2458
-Added marker 890/2458
-Added marker 891/2458
-Added marker 892/2458
-Added marker 893/2458
-Added marker 894/2458
-Added marker 895/2458
-Added marker 896/2458
-Added marker 897/2458
-Added marker 898/2458
-Added marker 899/2458
-Added marker 900/2458
-Added marker 901/2458
-Added marker 902/2458
-Added marker 903/2458
-Added marker 904/2458
-Added marker 905/2458
-Added marker 906/2458
-Added marker 907/2458
-Added marker 908/2458
-Added marker 909/2458
-Added marker 910/2458
-Added marker 911/2458
-Added marker 912/2458
-Added marker 913/2458
-Added marker 914/2458
-Added marker 915/2458
-Added marker 916/2458
-Added marker 917/2458
-Added marker 918/2458
-Added marker 919/2458
-Added marker 920/2458
-Added marker 921/2458
-Added marker 922/2458
-Added marker 923/2458
-Added marker 924/2458
-Added marker 925/2458
-Added marker 926/2458
-Added marker 927/2458
-Added marker 928/2458
-Added marker 929/2458
-Added marker 930/2458
-Added marker 931/2458
-Added marker 932/2458
-Added marker 933/2458
-Added marker 934/2458
-Added marker 935/2458
-Added marker 936/2458
-Added marker 937/2458
-Added marker 938/2458
-Added marker 939/2458
-Added marker 940/2458
-Added marker 941/2458
-Added marker 942/2458
-Added marker 943/2458
-Added marker 944/2458
-Added marker 945/2458
-Added marker 946/2458
-Added marker 947/2458
-Added marker 948/2458
-Added marker 949/2458
-Added marker 950/2458
-Added marker 951/2458
-Added marker 952/2458
-Added marker 953/2458
-Added marker 954/2458
-Added marker 955/2458
-Added marker 956/2458
-Added marker 957/2458
-Added marker 958/2458
-Added marker 959/2458
-Added marker 960/2458
-Added marker 961/2458
-Added marker 962/2458
-Added marker 963/2458
-Added marker 964/2458
-Added marker 965/2458
-Added marker 966/2458
-Added marker 967/2458
-Added marker 968/2458
-Added marker 969/2458
-Added marker 970/2458
-Added marker 971/2458
-Added marker 972/2458
-Added marker 973/2458
-Added marker 974/2458
-Added marker 975/2458
-Added marker 976/2458
-Added marker 977/2458
-Added marker 978/2458
-Added marker 979/2458
-Added marker 980/2458
-Added marker 981/2458
-Added marker 982/2458
-Added marker 983/2458
-Added marker 984/2458
-Added marker 985/2458
-Added marker 986/2458
-Added marker 987/2458
-Added marker 988/2458
-Added marker 989/2458
-Added marker 990/2458
-Added marker 991/2458
-Added marker 992/2458
-Added marker 993/2458
-Added marker 994/2458
-Added marker 995/2458
-Added marker 996/2458
-Added marker 997/2458
-Added marker 998/2458
-Added marker 999/2458
-Added marker 1000/2458
-Added marker 1001/2458
-Added marker 1002/2458
-Added marker 1003/2458
-Added marker 1004/2458
-Added marker 1005/2458
-Added marker 1006/2458
-Added marker 1007/2458
-Added marker 1008/2458
-Added marker 1009/2458
-Added marker 1010/2458
-Added marker 1011/2458
-Added marker 1012/2458
-Added marker 1013/2458
-Added marker 1014/2458
-Added marker 1015/2458
-Added marker 1016/2458
-Added marker 1017/2458
-Added marker 1018/2458
-Added marker 1019/2458
-Added marker 1020/2458
-Added marker 1021/2458
-Added marker 1022/2458
-Added marker 1023/2458
-Added marker 1024/2458
-Added marker 1025/2458
-Added marker 1026/2458
-Added marker 1027/2458
-Added marker 1028/2458
-Added marker 1029/2458
-Added marker 1030/2458
-Added marker 1031/2458
-Added marker 1032/2458
-Added marker 1033/2458
-Added marker 1034/2458
-Added marker 1035/2458
-Added marker 1036/2458
-Added marker 1037/2458
-Added marker 1038/2458
-Added marker 1039/2458
-Added marker 1040/2458
-Added marker 1041/2458
-Added marker 1042/2458
-Added marker 1043/2458
-Added marker 1044/2458
-Added marker 1045/2458
-Added marker 1046/2458
-Added marker 1047/2458
-Added marker 1048/2458
-Added marker 1049/2458
-Added marker 1050/2458
-Added marker 1051/2458
-Added marker 1052/2458
-Added marker 1053/2458
-Added marker 1054/2458
-Added marker 1055/2458
-Added marker 1056/2458
-Added marker 1057/2458
-Added marker 1058/2458
-Added marker 1059/2458
-Added marker 1060/2458
-Added marker 1061/2458
-Added marker 1062/2458
-Added marker 1063/2458
-Added marker 1064/2458
-Added marker 1065/2458
-Added marker 1066/2458
-Added marker 1067/2458
-Added marker 1068/2458
-Added marker 1069/2458
-Added marker 1070/2458
-Added marker 1071/2458
-Added marker 1072/2458
-Added marker 1073/2458
-Added marker 1074/2458
-Added marker 1075/2458
-Added marker 1076/2458
-Added marker 1077/2458
-Added marker 1078/2458
-Added marker 1079/2458
-Added marker 1080/2458
-Added marker 1081/2458
-Added marker 1082/2458
-Added marker 1083/2458
-Added marker 1084/2458
-Added marker 1085/2458
-Added marker 1086/2458
-Added marker 1087/2458
-Added marker 1088/2458
-Added marker 1089/2458
-Added marker 1090/2458
-Added marker 1091/2458
-Added marker 1092/2458
-Added marker 1093/2458
-Added marker 1094/2458
-Added marker 1095/2458
-Added marker 1096/2458
-Added marker 1097/2458
-Added marker 1098/2458
-Added marker 1099/2458
-Added marker 1100/2458
-Added marker 1101/2458
-Added marker 1102/2458
-Added marker 1103/2458
-Added marker 1104/2458
-Added marker 1105/2458
-Added marker 1106/2458
-Added marker 1107/2458
-Added marker 1108/2458
-Added marker 1109/2458
-Added marker 1110/2458
-Added marker 1111/2458
-Added marker 1112/2458
-Added marker 1113/2458
-Added marker 1114/2458
-Added marker 1115/2458
-Added marker 1116/2458
-Added marker 1117/2458
-Added marker 1118/2458
-Added marker 1119/2458
-Added marker 1120/2458
-Added marker 1121/2458
-Added marker 1122/2458
-Added marker 1123/2458
-Added marker 1124/2458
-Added marker 1125/2458
-Added marker 1126/2458
-Added marker 1127/2458
-Added marker 1128/2458
-Added marker 1129/2458
-Added marker 1130/2458
-Added marker 1131/2458
-Added marker 1132/2458
-Added marker 1133/2458
-Added marker 1134/2458
-Added marker 1135/2458
-Added marker 1136/2458
-Added marker 1137/2458
-Added marker 1138/2458
-Added marker 1139/2458
-Added marker 1140/2458
-Added marker 1141/2458
-Added marker 1142/2458
-Added marker 1143/2458
-Added marker 1144/2458
-Added marker 1145/2458
-Added marker 1146/2458
-Added marker 1147/2458
-Added marker 1148/2458
-Added marker 1149/2458
-Added marker 1150/2458
-Added marker 1151/2458
-Added marker 1152/2458
-Added marker 1153/2458
-Added marker 1154/2458
-Added marker 1155/2458
-Added marker 1156/2458
-Added marker 1157/2458
-Added marker 1158/2458
-Added marker 1159/2458
-Added marker 1160/2458
-Added marker 1161/2458
-Added marker 1162/2458
-Added marker 1163/2458
-Added marker 1164/2458
-Added marker 1165/2458
-Added marker 1166/2458
-Added marker 1167/2458
-Added marker 1168/2458
-Added marker 1169/2458
-Added marker 1170/2458
-Added marker 1171/2458
-Added marker 1172/2458
-Added marker 1173/2458
-Added marker 1174/2458
-Added marker 1175/2458
-Added marker 1176/2458
-Added marker 1177/2458
-Added marker 1178/2458
-Added marker 1179/2458
-Added marker 1180/2458
-Added marker 1181/2458
-Added marker 1182/2458
-Added marker 1183/2458
-Added marker 1184/2458
-Added marker 1185/2458
-Added marker 1186/2458
-Added marker 1187/2458
-Added marker 1188/2458
-Added marker 1189/2458
-Added marker 1190/2458
-Added marker 1191/2458
-Added marker 1192/2458
-Added marker 1193/2458
-Added marker 1194/2458
-Added marker 1195/2458
-Added marker 1196/2458
-Added marker 1197/2458
-Added marker 1198/2458
-Added marker 1199/2458
-Added marker 1200/2458
-Added marker 1201/2458
-Added marker 1202/2458
-Added marker 1203/2458
-Added marker 1204/2458
-Added marker 1205/2458
-Added marker 1206/2458
-Added marker 1207/2458
-Added marker 1208/2458
-Added marker 1209/2458
-Added marker 1210/2458
-Added marker 1211/2458
-Added marker 1212/2458
-Added marker 1213/2458
-Added marker 1214/2458
-Added marker 1215/2458
-Added marker 1216/2458
-Added marker 1217/2458
-Added marker 1218/2458
-Added marker 1219/2458
-Added marker 1220/2458
-Added marker 1221/2458
-Added marker 1222/2458
-Added marker 1223/2458
-Added marker 1224/2458
-Added marker 1225/2458
-Added marker 1226/2458
-Added marker 1227/2458
-Added marker 1228/2458
-Added marker 1229/2458
-Added marker 1230/2458
-Added marker 1231/2458
-Added marker 1232/2458
-Added marker 1233/2458
-Added marker 1234/2458
-Added marker 1235/2458
-Added marker 1236/2458
-Added marker 1237/2458
-Added marker 1238/2458
-Added marker 1239/2458
-Added marker 1240/2458
-Added marker 1241/2458
-Added marker 1242/2458
-Added marker 1243/2458
-Added marker 1244/2458
-Added marker 1245/2458
-Added marker 1246/2458
-Added marker 1247/2458
-Added marker 1248/2458
-Added marker 1249/2458
-Added marker 1250/2458
-Added marker 1251/2458
-Added marker 1252/2458
-Added marker 1253/2458
-Added marker 1254/2458
-Added marker 1255/2458
-Added marker 1256/2458
-Added marker 1257/2458
-Added marker 1258/2458
-Added marker 1259/2458
-Added marker 1260/2458
-Added marker 1261/2458
-Added marker 1262/2458
-Added marker 1263/2458
-Added marker 1264/2458
-Added marker 1265/2458
-Added marker 1266/2458
-Added marker 1267/2458
-Added marker 1268/2458
-Added marker 1269/2458
-Added marker 1270/2458
-Added marker 1271/2458
-Added marker 1272/2458
-Added marker 1273/2458
-Added marker 1274/2458
-Added marker 1275/2458
-Added marker 1276/2458
-Added marker 1277/2458
-Added marker 1278/2458
-Added marker 1279/2458
-Added marker 1280/2458
-Added marker 1281/2458
-Added marker 1282/2458
-Added marker 1283/2458
-Added marker 1284/2458
-Added marker 1285/2458
-Added marker 1286/2458
-Added marker 1287/2458
-Added marker 1288/2458
-Added marker 1289/2458
-Added marker 1290/2458
-Added marker 1291/2458
-Added marker 1292/2458
-Added marker 1293/2458
-Added marker 1294/2458
-Added marker 1295/2458
-Added marker 1296/2458
-Added marker 1297/2458
-Added marker 1298/2458
-Added marker 1299/2458
-Added marker 1300/2458
-Added marker 1301/2458
-Added marker 1302/2458
-Added marker 1303/2458
-Added marker 1304/2458
-Added marker 1305/2458
-Added marker 1306/2458
-Added marker 1307/2458
-Added marker 1308/2458
-Added marker 1309/2458
-Added marker 1310/2458
-Added marker 1311/2458
-Added marker 1312/2458
-Added marker 1313/2458
-Added marker 1314/2458
-Added marker 1315/2458
-Added marker 1316/2458
-Added marker 1317/2458
-Added marker 1318/2458
-Added marker 1319/2458
-Added marker 1320/2458
-Added marker 1321/2458
-Added marker 1322/2458
-Added marker 1323/2458
-Added marker 1324/2458
-Added marker 1325/2458
-Added marker 1326/2458
-Added marker 1327/2458
-Added marker 1328/2458
-Added marker 1329/2458
-Added marker 1330/2458
-Added marker 1331/2458
-Added marker 1332/2458
-Added marker 1333/2458
-Added marker 1334/2458
-Added marker 1335/2458
-Added marker 1336/2458
-Added marker 1337/2458
-Added marker 1338/2458
-Added marker 1339/2458
-Added marker 1340/2458
-Added marker 1341/2458
-Added marker 1342/2458
-Added marker 1343/2458
-Added marker 1344/2458
-Added marker 1345/2458
-Added marker 1346/2458
-Added marker 1347/2458
-Added marker 1348/2458
-Added marker 1349/2458
-Added marker 1350/2458
-Added marker 1351/2458
-Added marker 1352/2458
-Added marker 1353/2458
-Added marker 1354/2458
-Added marker 1355/2458
-Added marker 1356/2458
-Added marker 1357/2458
-Added marker 1358/2458
-Added marker 1359/2458
-Added marker 1360/2458
-Added marker 1361/2458
-Added marker 1362/2458
-Added marker 1363/2458
-Added marker 1364/2458
-Added marker 1365/2458
-Added marker 1366/2458
-Added marker 1367/2458
-Added marker 1368/2458
-Added marker 1369/2458
-Added marker 1370/2458
-Added marker 1371/2458
-Added marker 1372/2458
-Added marker 1373/2458
-Added marker 1374/2458
-Added marker 1375/2458
-Added marker 1376/2458
-Added marker 1377/2458
-Added marker 1378/2458
-Added marker 1379/2458
-Added marker 1380/2458
-Added marker 1381/2458
-Added marker 1382/2458
-Added marker 1383/2458
-Added marker 1384/2458
-Added marker 1385/2458
-Added marker 1386/2458
-Added marker 1387/2458
-Added marker 1388/2458
-Added marker 1389/2458
-Added marker 1390/2458
-Added marker 1391/2458
-Added marker 1392/2458
-Added marker 1393/2458
-Added marker 1394/2458
-Added marker 1395/2458
-Added marker 1396/2458
-Added marker 1397/2458
-Added marker 1398/2458
-Added marker 1399/2458
-Added marker 1400/2458
-Added marker 1401/2458
-Added marker 1402/2458
-Added marker 1403/2458
-Added marker 1404/2458
-Added marker 1405/2458
-Added marker 1406/2458
-Added marker 1407/2458
-Added marker 1408/2458
-Added marker 1409/2458
-Added marker 1410/2458
-Added marker 1411/2458
-Added marker 1412/2458
-Added marker 1413/2458
-Added marker 1414/2458
-Added marker 1415/2458
-Added marker 1416/2458
-Added marker 1417/2458
-Added marker 1418/2458
-Added marker 1419/2458
-Added marker 1420/2458
-Added marker 1421/2458
-Added marker 1422/2458
-Added marker 1423/2458
-Added marker 1424/2458
-Added marker 1425/2458
-Added marker 1426/2458
-Added marker 1427/2458
-Added marker 1428/2458
-Added marker 1429/2458
-Added marker 1430/2458
-Added marker 1431/2458
-Added marker 1432/2458
-Added marker 1433/2458
-Added marker 1434/2458
-Added marker 1435/2458
-Added marker 1436/2458
-Added marker 1437/2458
-Added marker 1438/2458
-Added marker 1439/2458
-Added marker 1440/2458
-Added marker 1441/2458
-Added marker 1442/2458
-Added marker 1443/2458
-Added marker 1444/2458
-Added marker 1445/2458
-Added marker 1446/2458
-Added marker 1447/2458
-Added marker 1448/2458
-Added marker 1449/2458
-Added marker 1450/2458
-Added marker 1451/2458
-Added marker 1452/2458
-Added marker 1453/2458
-Added marker 1454/2458
-Added marker 1455/2458
-Added marker 1456/2458
-Added marker 1457/2458
-Added marker 1458/2458
-Added marker 1459/2458
-Added marker 1460/2458
-Added marker 1461/2458
-Added marker 1462/2458
-Added marker 1463/2458
-Added marker 1464/2458
-Added marker 1465/2458
-Added marker 1466/2458
-Added marker 1467/2458
-Added marker 1468/2458
-Added marker 1469/2458
-Added marker 1470/2458
-Added marker 1471/2458
-Added marker 1472/2458
-Added marker 1473/2458
-Added marker 1474/2458
-Added marker 1475/2458
-Added marker 1476/2458
-Added marker 1477/2458
-Added marker 1478/2458
-Added marker 1479/2458
-Added marker 1480/2458
-Added marker 1481/2458
-Added marker 1482/2458
-Added marker 1483/2458
-Added marker 1484/2458
-Added marker 1485/2458
-Added marker 1486/2458
-Added marker 1487/2458
-Added marker 1488/2458
-Added marker 1489/2458
-Added marker 1490/2458
-Added marker 1491/2458
-Added marker 1492/2458
-Added marker 1493/2458
-Added marker 1494/2458
-Added marker 1495/2458
-Added marker 1496/2458
-Added marker 1497/2458
-Added marker 1498/2458
-Added marker 1499/2458
-Added marker 1500/2458
-Added marker 1501/2458
-Added marker 1502/2458
-Added marker 1503/2458
-Added marker 1504/2458
-Added marker 1505/2458
-Added marker 1506/2458
-Added marker 1507/2458
-Added marker 1508/2458
-Added marker 1509/2458
-Added marker 1510/2458
-Added marker 1511/2458
-Added marker 1512/2458
-Added marker 1513/2458
-Added marker 1514/2458
-Added marker 1515/2458
-Added marker 1516/2458
-Added marker 1517/2458
-Added marker 1518/2458
-Added marker 1519/2458
-Added marker 1520/2458
-Added marker 1521/2458
-Added marker 1522/2458
-Added marker 1523/2458
-Added marker 1524/2458
-Added marker 1525/2458
-Added marker 1526/2458
-Added marker 1527/2458
-Added marker 1528/2458
-Added marker 1529/2458
-Added marker 1530/2458
-Added marker 1531/2458
-Added marker 1532/2458
-Added marker 1533/2458
-Added marker 1534/2458
-Added marker 1535/2458
-Added marker 1536/2458
-Added marker 1537/2458
-Added marker 1538/2458
-Added marker 1539/2458
-Added marker 1540/2458
-Added marker 1541/2458
-Added marker 1542/2458
-Added marker 1543/2458
-Added marker 1544/2458
-Added marker 1545/2458
-Added marker 1546/2458
-Added marker 1547/2458
-Added marker 1548/2458
-Added marker 1549/2458
-Added marker 1550/2458
-Added marker 1551/2458
-Added marker 1552/2458
-Added marker 1553/2458
-Added marker 1554/2458
-Added marker 1555/2458
-Added marker 1556/2458
-Added marker 1557/2458
-Added marker 1558/2458
-Added marker 1559/2458
-Added marker 1560/2458
-Added marker 1561/2458
-Added marker 1562/2458
-Added marker 1563/2458
-Added marker 1564/2458
-Added marker 1565/2458
-Added marker 1566/2458
-Added marker 1567/2458
-Added marker 1568/2458
-Added marker 1569/2458
-Added marker 1570/2458
-Added marker 1571/2458
-Added marker 1572/2458
-Added marker 1573/2458
-Added marker 1574/2458
-Added marker 1575/2458
-Added marker 1576/2458
-Added marker 1577/2458
-Added marker 1578/2458
-Added marker 1579/2458
-Added marker 1580/2458
-Added marker 1581/2458
-Added marker 1582/2458
-Added marker 1583/2458
-Added marker 1584/2458
-Added marker 1585/2458
-Added marker 1586/2458
-Added marker 1587/2458
-Added marker 1588/2458
-Added marker 1589/2458
-Added marker 1590/2458
-Added marker 1591/2458
-Added marker 1592/2458
-Added marker 1593/2458
-Added marker 1594/2458
-Added marker 1595/2458
-Added marker 1596/2458
-Added marker 1597/2458
-Added marker 1598/2458
-Added marker 1599/2458
-Added marker 1600/2458
-Added marker 1601/2458
-Added marker 1602/2458
-Added marker 1603/2458
-Added marker 1604/2458
-Added marker 1605/2458
-Added marker 1606/2458
-Added marker 1607/2458
-Added marker 1608/2458
-Added marker 1609/2458
-Added marker 1610/2458
-Added marker 1611/2458
-Added marker 1612/2458
-Added marker 1613/2458
-Added marker 1614/2458
-Added marker 1615/2458
-Added marker 1616/2458
-Added marker 1617/2458
-Added marker 1618/2458
-Added marker 1619/2458
-Added marker 1620/2458
-Added marker 1621/2458
-Added marker 1622/2458
-Added marker 1623/2458
-Added marker 1624/2458
-Added marker 1625/2458
-Added marker 1626/2458
-Added marker 1627/2458
-Added marker 1628/2458
-Added marker 1629/2458
-Added marker 1630/2458
-Added marker 1631/2458
-Added marker 1632/2458
-Added marker 1633/2458
-Added marker 1634/2458
-Added marker 1635/2458
-Added marker 1636/2458
-Added marker 1637/2458
-Added marker 1638/2458
-Added marker 1639/2458
-Added marker 1640/2458
-Added marker 1641/2458
-Added marker 1642/2458
-Added marker 1643/2458
-Added marker 1644/2458
-Added marker 1645/2458
-Added marker 1646/2458
-Added marker 1647/2458
-Added marker 1648/2458
-Added marker 1649/2458
-Added marker 1650/2458
-Added marker 1651/2458
-Added marker 1652/2458
-Added marker 1653/2458
-Added marker 1654/2458
-Added marker 1655/2458
-Added marker 1656/2458
-Added marker 1657/2458
-Added marker 1658/2458
-Added marker 1659/2458
-Added marker 1660/2458
-Added marker 1661/2458
-Added marker 1662/2458
-Added marker 1663/2458
-Added marker 1664/2458
-Added marker 1665/2458
-Added marker 1666/2458
-Added marker 1667/2458
-Added marker 1668/2458
-Added marker 1669/2458
-Added marker 1670/2458
-Added marker 1671/2458
-Added marker 1672/2458
-Added marker 1673/2458
-Added marker 1674/2458
-Added marker 1675/2458
-Added marker 1676/2458
-Added marker 1677/2458
-Added marker 1678/2458
-Added marker 1679/2458
-Added marker 1680/2458
-Added marker 1681/2458
-Added marker 1682/2458
-Added marker 1683/2458
-Added marker 1684/2458
-Added marker 1685/2458
-Added marker 1686/2458
-Added marker 1687/2458
-Added marker 1688/2458
-Added marker 1689/2458
-Added marker 1690/2458
-Added marker 1691/2458
-Added marker 1692/2458
-Added marker 1693/2458
-Added marker 1694/2458
-Added marker 1695/2458
-Added marker 1696/2458
-Added marker 1697/2458
-Added marker 1698/2458
-Added marker 1699/2458
-Added marker 1700/2458
-Added marker 1701/2458
-Added marker 1702/2458
-Added marker 1703/2458
-Added marker 1704/2458
-Added marker 1705/2458
-Added marker 1706/2458
-Added marker 1707/2458
-Added marker 1708/2458
-Added marker 1709/2458
-Added marker 1710/2458
-Added marker 1711/2458
-Added marker 1712/2458
-Added marker 1713/2458
-Added marker 1714/2458
-Added marker 1715/2458
-Added marker 1716/2458
-Added marker 1717/2458
-Added marker 1718/2458
-Added marker 1719/2458
-Added marker 1720/2458
-Added marker 1721/2458
-Added marker 1722/2458
-Added marker 1723/2458
-Added marker 1724/2458
-Added marker 1725/2458
-Added marker 1726/2458
-Added marker 1727/2458
-Added marker 1728/2458
-Added marker 1729/2458
-Added marker 1730/2458
-Added marker 1731/2458
-Added marker 1732/2458
-Added marker 1733/2458
-Added marker 1734/2458
-Added marker 1735/2458
-Added marker 1736/2458
-Added marker 1737/2458
-Added marker 1738/2458
-Added marker 1739/2458
-Added marker 1740/2458
-Added marker 1741/2458
-Added marker 1742/2458
-Added marker 1743/2458
-Added marker 1744/2458
-Added marker 1745/2458
-Added marker 1746/2458
-Added marker 1747/2458
-Added marker 1748/2458
-Added marker 1749/2458
-Added marker 1750/2458
-Added marker 1751/2458
-Added marker 1752/2458
-Added marker 1753/2458
-Added marker 1754/2458
-Added marker 1755/2458
-Added marker 1756/2458
-Added marker 1757/2458
-Added marker 1758/2458
-Added marker 1759/2458
-Added marker 1760/2458
-Added marker 1761/2458
-Added marker 1762/2458
-Added marker 1763/2458
-Added marker 1764/2458
-Added marker 1765/2458
-Added marker 1766/2458
-Added marker 1767/2458
-Added marker 1768/2458
-Added marker 1769/2458
-Added marker 1770/2458
-Added marker 1771/2458
-Added marker 1772/2458
-Added marker 1773/2458
-Added marker 1774/2458
-Added marker 1775/2458
-Added marker 1776/2458
-Added marker 1777/2458
-Added marker 1778/2458
-Added marker 1779/2458
-Added marker 1780/2458
-Added marker 1781/2458
-Added marker 1782/2458
-Added marker 1783/2458
-Added marker 1784/2458
-Added marker 1785/2458
-Added marker 1786/2458
-Added marker 1787/2458
-Added marker 1788/2458
-Added marker 1789/2458
-Added marker 1790/2458
-Added marker 1791/2458
-Added marker 1792/2458
-Added marker 1793/2458
-Added marker 1794/2458
-Added marker 1795/2458
-Added marker 1796/2458
-Added marker 1797/2458
-Added marker 1798/2458
-Added marker 1799/2458
-Added marker 1800/2458
-Added marker 1801/2458
-Added marker 1802/2458
-Added marker 1803/2458
-Added marker 1804/2458
-Added marker 1805/2458
-Added marker 1806/2458
-Added marker 1807/2458
-Added marker 1808/2458
-Added marker 1809/2458
-Added marker 1810/2458
-Added marker 1811/2458
-Added marker 1812/2458
-Added marker 1813/2458
-Added marker 1814/2458
-Added marker 1815/2458
-Added marker 1816/2458
-Added marker 1817/2458
-Added marker 1818/2458
-Added marker 1819/2458
-Added marker 1820/2458
-Added marker 1821/2458
-Added marker 1822/2458
-Added marker 1823/2458
-Added marker 1824/2458
-Added marker 1825/2458
-Added marker 1826/2458
-Added marker 1827/2458
-Added marker 1828/2458
-Added marker 1829/2458
-Added marker 1830/2458
-Added marker 1831/2458
-Added marker 1832/2458
-Added marker 1833/2458
-Added marker 1834/2458
-Added marker 1835/2458
-Added marker 1836/2458
-Added marker 1837/2458
-Added marker 1838/2458
-Added marker 1839/2458
-Added marker 1840/2458
-Added marker 1841/2458
-Added marker 1842/2458
-Added marker 1843/2458
-Added marker 1844/2458
-Added marker 1845/2458
-Added marker 1846/2458
-Added marker 1847/2458
-Added marker 1848/2458
-Added marker 1849/2458
-Added marker 1850/2458
-Added marker 1851/2458
-Added marker 1852/2458
-Added marker 1853/2458
-Added marker 1854/2458
-Added marker 1855/2458
-Added marker 1856/2458
-Added marker 1857/2458
-Added marker 1858/2458
-Added marker 1859/2458
-Added marker 1860/2458
-Added marker 1861/2458
-Added marker 1862/2458
-Added marker 1863/2458
-Added marker 1864/2458
-Added marker 1865/2458
-Added marker 1866/2458
-Added marker 1867/2458
-Added marker 1868/2458
-Added marker 1869/2458
-Added marker 1870/2458
-Added marker 1871/2458
-Added marker 1872/2458
-Added marker 1873/2458
-Added marker 1874/2458
-Added marker 1875/2458
-Added marker 1876/2458
-Added marker 1877/2458
-Added marker 1878/2458
-Added marker 1879/2458
-Added marker 1880/2458
-Added marker 1881/2458
-Added marker 1882/2458
-Added marker 1883/2458
-Added marker 1884/2458
-Added marker 1885/2458
-Added marker 1886/2458
-Added marker 1887/2458
-Added marker 1888/2458
-Added marker 1889/2458
-Added marker 1890/2458
-Added marker 1891/2458
-Added marker 1892/2458
-Added marker 1893/2458
-Added marker 1894/2458
-Added marker 1895/2458
-Added marker 1896/2458
-Added marker 1897/2458
-Added marker 1898/2458
-Added marker 1899/2458
-Added marker 1900/2458
-Added marker 1901/2458
-Added marker 1902/2458
-Added marker 1903/2458
-Added marker 1904/2458
-Added marker 1905/2458
-Added marker 1906/2458
-Added marker 1907/2458
-Added marker 1908/2458
-Added marker 1909/2458
-Added marker 1910/2458
-Added marker 1911/2458
-Added marker 1912/2458
-Added marker 1913/2458
-Added marker 1914/2458
-Added marker 1915/2458
-Added marker 1916/2458
-Added marker 1917/2458
-Added marker 1918/2458
-Added marker 1919/2458
-Added marker 1920/2458
-Added marker 1921/2458
-Added marker 1922/2458
-Added marker 1923/2458
-Added marker 1924/2458
-Added marker 1925/2458
-Added marker 1926/2458
-Added marker 1927/2458
-Added marker 1928/2458
-Added marker 1929/2458
-Added marker 1930/2458
-Added marker 1931/2458
-Added marker 1932/2458
-Added marker 1933/2458
-Added marker 1934/2458
-Added marker 1935/2458
-Added marker 1936/2458
-Added marker 1937/2458
-Added marker 1938/2458
-Added marker 1939/2458
-Added marker 1940/2458
-Added marker 1941/2458
-Added marker 1942/2458
-Added marker 1943/2458
-Added marker 1944/2458
-Added marker 1945/2458
-Added marker 1946/2458
-Added marker 1947/2458
-Added marker 1948/2458
-Added marker 1949/2458
-Added marker 1950/2458
-Added marker 1951/2458
-Added marker 1952/2458
-Added marker 1953/2458
-Added marker 1954/2458
-Added marker 1955/2458
-Added marker 1956/2458
-Added marker 1957/2458
-Added marker 1958/2458
-Added marker 1959/2458
-Added marker 1960/2458
-Added marker 1961/2458
-Added marker 1962/2458
-Added marker 1963/2458
-Added marker 1964/2458
-Added marker 1965/2458
-Added marker 1966/2458
-Added marker 1967/2458
-Added marker 1968/2458
-Added marker 1969/2458
-Added marker 1970/2458
-Added marker 1971/2458
-Added marker 1972/2458
-Added marker 1973/2458
-Added marker 1974/2458
-Added marker 1975/2458
-Added marker 1976/2458
-Added marker 1977/2458
-Added marker 1978/2458
-Added marker 1979/2458
-Added marker 1980/2458
-Added marker 1981/2458
-Added marker 1982/2458
-Added marker 1983/2458
-Added marker 1984/2458
-Added marker 1985/2458
-Added marker 1986/2458
-Added marker 1987/2458
-Added marker 1988/2458
-Added marker 1989/2458
-Added marker 1990/2458
-Added marker 1991/2458
-Added marker 1992/2458
-Added marker 1993/2458
-Added marker 1994/2458
-Added marker 1995/2458
-Added marker 1996/2458
-Added marker 1997/2458
-Added marker 1998/2458
-Added marker 1999/2458
-Added marker 2000/2458
-Added marker 2001/2458
-Added marker 2002/2458
-Added marker 2003/2458
-Added marker 2004/2458
-Added marker 2005/2458
-Added marker 2006/2458
-Added marker 2007/2458
-Added marker 2008/2458
-Added marker 2009/2458
-Added marker 2010/2458
-Added marker 2011/2458
-Added marker 2012/2458
-Added marker 2013/2458
-Added marker 2014/2458
-Added marker 2015/2458
-Added marker 2016/2458
-Added marker 2017/2458
-Added marker 2018/2458
-Added marker 2019/2458
-Added marker 2020/2458
-Added marker 2021/2458
-Added marker 2022/2458
-Added marker 2023/2458
-Added marker 2024/2458
-Added marker 2025/2458
-Added marker 2026/2458
-Added marker 2027/2458
-Added marker 2028/2458
-Added marker 2029/2458
-Added marker 2030/2458
-Added marker 2031/2458
-Added marker 2032/2458
-Added marker 2033/2458
-Added marker 2034/2458
-Added marker 2035/2458
-Added marker 2036/2458
-Added marker 2037/2458
-Added marker 2038/2458
-Added marker 2039/2458
-Added marker 2040/2458
-Added marker 2041/2458
-Added marker 2042/2458
-Added marker 2043/2458
-Added marker 2044/2458
-Added marker 2045/2458
-Added marker 2046/2458
-Added marker 2047/2458
-Added marker 2048/2458
-Added marker 2049/2458
-Added marker 2050/2458
-Added marker 2051/2458
-Added marker 2052/2458
-Added marker 2053/2458
-Added marker 2054/2458
-Added marker 2055/2458
-Added marker 2056/2458
-Added marker 2057/2458
-Added marker 2058/2458
-Added marker 2059/2458
-Added marker 2060/2458
-Added marker 2061/2458
-Added marker 2062/2458
-Added marker 2063/2458
-Added marker 2064/2458
-Added marker 2065/2458
-Added marker 2066/2458
-Added marker 2067/2458
-Added marker 2068/2458
-Added marker 2069/2458
-Added marker 2070/2458
-Added marker 2071/2458
-Added marker 2072/2458
-Added marker 2073/2458
-Added marker 2074/2458
-Added marker 2075/2458
-Added marker 2076/2458
-Added marker 2077/2458
-Added marker 2078/2458
-Added marker 2079/2458
-Added marker 2080/2458
-Added marker 2081/2458
-Added marker 2082/2458
-Added marker 2083/2458
-Added marker 2084/2458
-Added marker 2085/2458
-Added marker 2086/2458
-Added marker 2087/2458
-Added marker 2088/2458
-Added marker 2089/2458
-Added marker 2090/2458
-Added marker 2091/2458
-Added marker 2092/2458
-Added marker 2093/2458
-Added marker 2094/2458
-Added marker 2095/2458
-Added marker 2096/2458
-Added marker 2097/2458
-Added marker 2098/2458
-Added marker 2099/2458
-Added marker 2100/2458
-Added marker 2101/2458
-Added marker 2102/2458
-Added marker 2103/2458
-Added marker 2104/2458
-Added marker 2105/2458
-Added marker 2106/2458
-Added marker 2107/2458
-Added marker 2108/2458
-Added marker 2109/2458
-Added marker 2110/2458
-Added marker 2111/2458
-Added marker 2112/2458
-Added marker 2113/2458
-Added marker 2114/2458
-Added marker 2115/2458
-Added marker 2116/2458
-Added marker 2117/2458
-Added marker 2118/2458
-Added marker 2119/2458
-Added marker 2120/2458
-Added marker 2121/2458
-Added marker 2122/2458
-Added marker 2123/2458
-Added marker 2124/2458
-Added marker 2125/2458
-Added marker 2126/2458
-Added marker 2127/2458
-Added marker 2128/2458
-Added marker 2129/2458
-Added marker 2130/2458
-Added marker 2131/2458
-Added marker 2132/2458
-Added marker 2133/2458
-Added marker 2134/2458
-Added marker 2135/2458
-Added marker 2136/2458
-Added marker 2137/2458
-Added marker 2138/2458
-Added marker 2139/2458
-Added marker 2140/2458
-Added marker 2141/2458
-Added marker 2142/2458
-Added marker 2143/2458
-Added marker 2144/2458
-Added marker 2145/2458
-Added marker 2146/2458
-Added marker 2147/2458
-Added marker 2148/2458
-Added marker 2149/2458
-Added marker 2150/2458
-Added marker 2151/2458
-Added marker 2152/2458
-Added marker 2153/2458
-Added marker 2154/2458
-Added marker 2155/2458
-Added marker 2156/2458
-Added marker 2157/2458
-Added marker 2158/2458
-Added marker 2159/2458
-Added marker 2160/2458
-Added marker 2161/2458
-Added marker 2162/2458
-Added marker 2163/2458
-Added marker 2164/2458
-Added marker 2165/2458
-Added marker 2166/2458
-Added marker 2167/2458
-Added marker 2168/2458
-Added marker 2169/2458
-Added marker 2170/2458
-Added marker 2171/2458
-Added marker 2172/2458
-Added marker 2173/2458
-Added marker 2174/2458
-Added marker 2175/2458
-Added marker 2176/2458
-Added marker 2177/2458
-Added marker 2178/2458
-Added marker 2179/2458
-Added marker 2180/2458
-Added marker 2181/2458
-Added marker 2182/2458
-Added marker 2183/2458
-Added marker 2184/2458
-Added marker 2185/2458
-Added marker 2186/2458
-Added marker 2187/2458
-Added marker 2188/2458
-Added marker 2189/2458
-Added marker 2190/2458
-Added marker 2191/2458
-Added marker 2192/2458
-Added marker 2193/2458
-Added marker 2194/2458
-Added marker 2195/2458
-Added marker 2196/2458
-Added marker 2197/2458
-Added marker 2198/2458
-Added marker 2199/2458
-Added marker 2200/2458
-Added marker 2201/2458
-Added marker 2202/2458
-Added marker 2203/2458
-Added marker 2204/2458
-Added marker 2205/2458
-Added marker 2206/2458
-Added marker 2207/2458
-Added marker 2208/2458
-Added marker 2209/2458
-Added marker 2210/2458
-Added marker 2211/2458
-Added marker 2212/2458
-Added marker 2213/2458
-Added marker 2214/2458
-Added marker 2215/2458
-Added marker 2216/2458
-Added marker 2217/2458
-Added marker 2218/2458
-Added marker 2219/2458
-Added marker 2220/2458
-Added marker 2221/2458
-Added marker 2222/2458
-Added marker 2223/2458
-Added marker 2224/2458
-Added marker 2225/2458
-Added marker 2226/2458
-Added marker 2227/2458
-Added marker 2228/2458
-Added marker 2229/2458
-Added marker 2230/2458
-Added marker 2231/2458
-Added marker 2232/2458
-Added marker 2233/2458
-Added marker 2234/2458
-Added marker 2235/2458
-Added marker 2236/2458
-Added marker 2237/2458
-Added marker 2238/2458
-Added marker 2239/2458
-Added marker 2240/2458
-Added marker 2241/2458
-Added marker 2242/2458
-Added marker 2243/2458
-Added marker 2244/2458
-Added marker 2245/2458
-Added marker 2246/2458
-Added marker 2247/2458
-Added marker 2248/2458
-Added marker 2249/2458
-Added marker 2250/2458
-Added marker 2251/2458
-Added marker 2252/2458
-Added marker 2253/2458
-Added marker 2254/2458
-Added marker 2255/2458
-Added marker 2256/2458
-Added marker 2257/2458
-Added marker 2258/2458
-Added marker 2259/2458
-Added marker 2260/2458
-Added marker 2261/2458
-Added marker 2262/2458
-Added marker 2263/2458
-Added marker 2264/2458
-Added marker 2265/2458
-Added marker 2266/2458
-Added marker 2267/2458
-Added marker 2268/2458
-Added marker 2269/2458
-Added marker 2270/2458
-Added marker 2271/2458
-Added marker 2272/2458
-Added marker 2273/2458
-Added marker 2274/2458
-Added marker 2275/2458
-Added marker 2276/2458
-Added marker 2277/2458
-Added marker 2278/2458
-Added marker 2279/2458
-Added marker 2280/2458
-Added marker 2281/2458
-Added marker 2282/2458
-Added marker 2283/2458
-Added marker 2284/2458
-Added marker 2285/2458
-Added marker 2286/2458
-Added marker 2287/2458
-Added marker 2288/2458
-Added marker 2289/2458
-Added marker 2290/2458
-Added marker 2291/2458
-Added marker 2292/2458
-Added marker 2293/2458
-Added marker 2294/2458
-Added marker 2295/2458
-Added marker 2296/2458
-Added marker 2297/2458
-Added marker 2298/2458
-Added marker 2299/2458
-Added marker 2300/2458
-Added marker 2301/2458
-Added marker 2302/2458
-Added marker 2303/2458
-Added marker 2304/2458
-Added marker 2305/2458
-Added marker 2306/2458
-Added marker 2307/2458
-Added marker 2308/2458
-Added marker 2309/2458
-Added marker 2310/2458
-Added marker 2311/2458
-Added marker 2312/2458
-Added marker 2313/2458
-Added marker 2314/2458
-Added marker 2315/2458
-Added marker 2316/2458
-Added marker 2317/2458
-Added marker 2318/2458
-Added marker 2319/2458
-Added marker 2320/2458
-Added marker 2321/2458
-Added marker 2322/2458
-Added marker 2323/2458
-Added marker 2324/2458
-Added marker 2325/2458
-Added marker 2326/2458
-Added marker 2327/2458
-Added marker 2328/2458
-Added marker 2329/2458
-Added marker 2330/2458
-Added marker 2331/2458
-Added marker 2332/2458
-Added marker 2333/2458
-Added marker 2334/2458
-Added marker 2335/2458
-Added marker 2336/2458
-Added marker 2337/2458
-Added marker 2338/2458
-Added marker 2339/2458
-Added marker 2340/2458
-Added marker 2341/2458
-Added marker 2342/2458
-Added marker 2343/2458
-Added marker 2344/2458
-Added marker 2345/2458
-Added marker 2346/2458
-Added marker 2347/2458
-Added marker 2348/2458
-Added marker 2349/2458
-Added marker 2350/2458
-Added marker 2351/2458
-Added marker 2352/2458
-Added marker 2353/2458
-Added marker 2354/2458
-Added marker 2355/2458
-Added marker 2356/2458
-Added marker 2357/2458
-Added marker 2358/2458
-Added marker 2359/2458
-Added marker 2360/2458
-Added marker 2361/2458
-Added marker 2362/2458
-Added marker 2363/2458
-Added marker 2364/2458
-Added marker 2365/2458
-Added marker 2366/2458
-Added marker 2367/2458
-Added marker 2368/2458
-Added marker 2369/2458
-Added marker 2370/2458
-Added marker 2371/2458
-Added marker 2372/2458
-Added marker 2373/2458
-Added marker 2374/2458
-Added marker 2375/2458
-Added marker 2376/2458
-Added marker 2377/2458
-Added marker 2378/2458
-Added marker 2379/2458
-Added marker 2380/2458
-Added marker 2381/2458
-Added marker 2382/2458
-Added marker 2383/2458
-Added marker 2384/2458
-Added marker 2385/2458
-Added marker 2386/2458
-Added marker 2387/2458
-Added marker 2388/2458
-Added marker 2389/2458
-Added marker 2390/2458
-Added marker 2391/2458
-Added marker 2392/2458
-Added marker 2393/2458
-Added marker 2394/2458
-Added marker 2395/2458
-Added marker 2396/2458
-Added marker 2397/2458
-Added marker 2398/2458
-Added marker 2399/2458
-Added marker 2400/2458
-Added marker 2401/2458
-Added marker 2402/2458
-Added marker 2403/2458
-Added marker 2404/2458
-Added marker 2405/2458
-Added marker 2406/2458
-Added marker 2407/2458
-Added marker 2408/2458
-Added marker 2409/2458
-Added marker 2410/2458
-Added marker 2411/2458
-Added marker 2412/2458
-Added marker 2413/2458
-Added marker 2414/2458
-Added marker 2415/2458
-Added marker 2416/2458
-Added marker 2417/2458
-Added marker 2418/2458
-Added marker 2419/2458
-Added marker 2420/2458
-Added marker 2421/2458
-Added marker 2422/2458
-Added marker 2423/2458
-Added marker 2424/2458
-Added marker 2425/2458
-Added marker 2426/2458
-Added marker 2427/2458
-Added marker 2428/2458
-Added marker 2429/2458
-Added marker 2430/2458
-Added marker 2431/2458
-Added marker 2432/2458
-Added marker 2433/2458
-Added marker 2434/2458
-Added marker 2435/2458
-Added marker 2436/2458
-Added marker 2437/2458
-Added marker 2438/2458
-Added marker 2439/2458
-Added marker 2440/2458
-Added marker 2441/2458
-Added marker 2442/2458
-Added marker 2443/2458
-Added marker 2444/2458
-Added marker 2445/2458
-Added marker 2446/2458
-Added marker 2447/2458
-Added marker 2448/2458
-Added marker 2449/2458
-Added marker 2450/2458
-Added marker 2451/2458
-Added marker 2452/2458
-Added marker 2453/2458
-Added marker 2454/2458
-Added marker 2455/2458
-Added marker 2456/2458
-Added marker 2457/2458
-Added marker 2458/2458
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Robert C. Abraham...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Robert C. Abraham'
-380 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: giovannicampus
 Getting member information...
-Done!
-
-##### Updating map for member: Paul268869...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'paul manley'
-146 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: _Veit_...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Veit'
-978 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Joe Bob Brim...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Joseph Brimacombe'
-1668 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: driver04...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'driver04'
-22 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Domikawa4...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'dominique FILLION'
-672 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 287 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: CrËOS Photographie...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Sébastien Croës'
-3415 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: jamesgreig@dr.com
 Getting member information...
-Done!
-
-##### Updating map for member: Brunswick Forge...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'John McNeely Hudson'
-10712 photos in the photostream
-7 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 7 photo(s) in 6 marker(s)
-Adding marker(s) to map...
-Map already has 4850 marker(s)
-Added 7 new photo(s) to existing markers
-No new markers were added to the map
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: cyclingshepherd...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'cyclingshepherd'
-999 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Howard Somerville (1
 Getting member information...
-Done!
-
-##### Updating map for member: Robin Shepperson Pho...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Robin Shepperson'
-810 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Ron Fisher...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Ron Fisher'
-30929 photos in the photostream
-4 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 4 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 11691 marker(s)
-Added 4 new photo(s) to existing markers
-No new markers were added to the map
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: khrawlings...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'khrawlings'
-5087 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 3001 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
+INFO: Map has already been generated for member: █ Slices of Light ✴ 
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Ignacio M. Jiménez...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Nacho'
-1840 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Miguel - AF
 Getting member information...
-Done!
-
-##### Updating map for member: tinokaartovuori...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Tino Kaartovuori'
-157 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Jens Koschitzki...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Jens Koschitzki'
-44748 photos in the photostream
-16 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 16 photo(s) in 8 marker(s)
-Adding marker(s) to map...
-Map already has 8139 marker(s)
-Added 9 new photo(s) to existing markers
-7 new marker(s) will be added to the map
-Added marker 1/7
-Added marker 2/7
-Added marker 3/7
-Added marker 4/7
-Added marker 5/7
-Added marker 6/7
-Added marker 7/7
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Jesús 56...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Jesus Villarreal'
-501 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Liam Cheasty
 Getting member information...
-Done!
-
-##### Updating map for member: Matjaž Skrinar...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Matjaž Skrinar'
-2867 photos in the photostream
-21 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 374 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: 七福神...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Shichifuku Jin'
-37585 photos in the photostream
-9 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 9 photo(s) in 9 marker(s)
-Adding marker(s) to map...
-Map already has 3293 marker(s)
-No new markers were added to the map
+INFO: Map has already been generated for member: karen_ds1101
+Getting member information...
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Gray Moon Gallery...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Gray Moon Gallery'
-456 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: m01229
 Getting member information...
-Done!
-
-##### Updating map for member: ΚΣ1960...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'ΚΣ1960'
-4140 photos in the photostream
-30 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 4 photo(s) in 2 marker(s)
-Adding marker(s) to map...
-Map already has 352 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: PINOY PHOTOGRAPHER...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'PINOY PHOTOGRAPHER'
-61326 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: xray_jets
 Getting member information...
-Done!
-
-##### Updating map for member: fragandaphoto...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'fragandaphoto'
-498 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: thunderbird-72...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'thunderbird-72'
-3659 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Massimo Francesconi...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Massimo Francesconi'
-107 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Alexander Sand Halvo...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Alexander Sand Halvorsen'
-622 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: ForceMajeureMonteneg...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'ForceMajeureMontenegro'
-1573 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Jo 0405...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Jo 0405'
-1804 photos in the photostream
-2 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 182 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: amalthus...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'amalthus'
-1000 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: pepemartin2006
 Getting member information...
-Done!
-
-##### Updating map for member: Gaz 1984...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Gary Bond'
-20352 photos in the photostream
-37 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 37 photo(s) in 7 marker(s)
-Adding marker(s) to map...
-Map already has 12926 marker(s)
-Added 37 new photo(s) to existing markers
-No new markers were added to the map
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Bilderschreiber...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Martin Thum'
-4208 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: sebastiánaguilar
 Getting member information...
-Done!
-
-##### Updating map for member: giosuèbolis...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Giosuè Bolis'
-365 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: regardphoto04...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Regard  Photo'
-6 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: alestaleiro...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Alejandro David Olivera'
-13568 photos in the photostream
-20 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 10 photo(s) in 8 marker(s)
-Adding marker(s) to map...
-Map already has 4142 marker(s)
-Added 1 new photo(s) to existing markers
-1 new marker(s) will be added to the map
-Added marker 1/1
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Adam Swaine...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Adam Swaine'
-27235 photos in the photostream
-10 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 10 photo(s) in 10 marker(s)
-Adding marker(s) to map...
-Map already has 17856 marker(s)
-10 new marker(s) will be added to the map
-Added marker 1/10
-Added marker 2/10
-Added marker 3/10
-Added marker 4/10
-Added marker 5/10
-Added marker 6/10
-Added marker 7/10
-Added marker 8/10
-Added marker 9/10
-Added marker 10/10
+INFO: Map has already been generated for member: peter.rath
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Crystal.Rain...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Dmitry Ivanov'
-3517 photos in the photostream
-21 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 4 photo(s) in 4 marker(s)
-Adding marker(s) to map...
-Map already has 1005 marker(s)
-Added 2 new photo(s) to existing markers
-2 new marker(s) will be added to the map
-Added marker 1/2
-Added marker 2/2
+INFO: Map has already been generated for member: Francois Le Rumeur
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Miguelanxo...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Miguel RC'
-460 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Bernard Spragg
 Getting member information...
-Done!
+Finished!
 
-##### Updating map for member: acase1968...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Al Case'
-2015 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: tquist24
 Getting member information...
-Done!
+Finished!
 
-##### Updating map for member: ValKamch...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'ValKamch'
-5583 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: panoround hutter
 Getting member information...
-Done!
+Finished!
 
-##### Updating map for member: SeaLord 50+...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'SeaLord 50+'
-307 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Mani_H.
 Getting member information...
-Done!
+Finished!
 
-##### Updating map for member: zimwizdotcom...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'zimwizdotcom'
-2779 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Rosie Chilton
 Getting member information...
-Done!
+Finished!
 
-##### Updating map for member: Luigibalza...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Luigibalza'
-11473 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: K@moeiras
 Getting member information...
-Done!
+Finished!
+
+INFO: Map has already been generated for member: paco zerpa
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Joe Dyndale
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: dimitri.verledens
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Mars Ryan Hartdegen
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Florian106
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: xd_travel
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Nicolas Hoizey
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: ByronDelgado
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: diwan
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: andreybogdanov
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Oleg S .
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: HereIsTom
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Michael Thornquist
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Gmlskis
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: victor san
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: malioli
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: fam_nordstrom
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Harald Schulz
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: VicColon
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: S LYNN LEE
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: TIA International Ph
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: salix.caprea
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: faun070
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Robert.Pittman
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: benbobjr
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: seacult
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Jеdd
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Edouard55
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Ludo's World
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Joao de Mio
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: perunique :)
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: aroubin - Yay! 5 MIL
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: mpfau64
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: mikaelsoderberg
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Fernando Forniés Rev
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: InnAtElmwood
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Kevin Povenz
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Hugo von Schreck
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: MiroFedurco
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Steve W3
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: MountMan Photo temp.
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: giorgiorodano46
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Atila Yumusakkaya
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Gerald (Wayne) Prout
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Sacred_Spiral_Photog
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Visavis..
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: mark.paradox
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: asarstudios
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Guildfordian
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: khoitran1957
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: NiBe60
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: MesphotosAmateur.
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: sculptorli
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: jeanpaulneveu
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Fotos Avulso
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: gsegelken
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Robert C. Abraham
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Paul268869
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: _Veit_
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Joe Bob Brim
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: driver04
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Domikawa4
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: CrËOS Photographie
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Brunswick Forge
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: cyclingshepherd
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Robin Shepperson Pho
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Ron Fisher
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: khrawlings
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Ignacio M. Jiménez
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: tinokaartovuori
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Jens Koschitzki
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Jesús 56
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Matjaž Skrinar
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: 七福神
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Gray Moon Gallery
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: ΚΣ1960
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: PINOY PHOTOGRAPHER
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: fragandaphoto
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: thunderbird-72
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Massimo Francesconi
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Alexander Sand Halvo
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: ForceMajeureMonteneg
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Jo 0405
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: amalthus
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Gaz 1984
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Bilderschreiber
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: giosuèbolis
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: regardphoto04
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: alestaleiro
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Adam Swaine
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Crystal.Rain
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Miguelanxo
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: acase1968
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: ValKamch
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: SeaLord 50+
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: zimwizdotcom
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Luigibalza
+Getting member information...
+Finished!
 
 ##### Updating map for member: Sharon Mollerus...
 Getting locations and countries...
 Starting 'Flickr Map' script...
-ERROR: FATAL: Unable to get user id
-Error: 201: Sorry, the Flickr API service is not currently available.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: The Gidinski...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Gary Giddens'
-7494 photos in the photostream
-23 new photo(s) added
+Generating map for 'Sharon Mollerus'
+32846 photos in the photostream
+87 new photo(s) added
 Extracting photo coordinates and ids...
 Batch 1/1 | 0 photo(s) in 0 marker(s)
 Adding marker(s) to map...
-Map already has 983 marker(s)
+Map already has 3631 marker(s)
 No new markers were added to the map
 Finished!
 Everything is up-to-date. Nothing to commit!
 Getting member information...
 Done!
 
-##### Updating map for member: Rubem Jr...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Rubem Porto Jr'
-31893 photos in the photostream
-23 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 21 photo(s) in 12 marker(s)
-Adding marker(s) to map...
-Map already has 8429 marker(s)
-No new markers were added to the map
+INFO: Map has already been generated for member: The Gidinski
+Getting member information...
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: suntrana3...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Jim Smith'
-1111 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Rubem Jr
 Getting member information...
-Done!
-
-##### Updating map for member: enrico sprea...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Enrico Sprea'
-979 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: karsaiag...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'András Karsai'
-677 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: alcides OTA...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'alcidesota@yahoo.com-OFF-For S'
-15667 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Patrice Dardoize...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Patrice Dardoize'
-1303 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Stratman2...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Stratman2 (taking care of Joey'
-9776 photos in the photostream
-7 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 522 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: mstraus52...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Micheal Straus'
-1851 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 1614 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
+INFO: Map has already been generated for member: suntrana3
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: OMNIBUS DUBITANDUM...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'OMNIBUS DUBITANDUM'
-36795 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: enrico sprea
 Getting member information...
-Done!
-
-##### Updating map for member: Faillace360...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Faillace'
-168 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: CoronaViking (mounta...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'CoronaViking (mountain photogr'
-4266 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 3658 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Ian & Marg...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Ian & Marg'
-1214 photos in the photostream
-2 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 1073 marker(s)
-No new markers were added to the map
+INFO: Map has already been generated for member: karsaiag
+Getting member information...
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: grand Yann...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Yann Pinczon du Sel'
-1399 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: alcides OTA
 Getting member information...
-Done!
-
-##### Updating map for member: marionkaminski...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Marion Kaminski'
-2512 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: instagram: Alex_Prem...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Alex Premoli'
-110 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Gabriel Paladino Ibá...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Gabriel Paladino Ibáñez'
-4089 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 921 marker(s)
-Added 1 new photo(s) to existing markers
-No new markers were added to the map
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: - Ozymandias -...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for '- Ozymandias -'
-43727 photos in the photostream
-30 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 30 photo(s) in 28 marker(s)
-Adding marker(s) to map...
-Map already has 36297 marker(s)
-28 new marker(s) will be added to the map
-Added marker 1/28
-Added marker 2/28
-Added marker 3/28
-Added marker 4/28
-Added marker 5/28
-Added marker 6/28
-Added marker 7/28
-Added marker 8/28
-Added marker 9/28
-Added marker 10/28
-Added marker 11/28
-Added marker 12/28
-Added marker 13/28
-Added marker 14/28
-Added marker 15/28
-Added marker 16/28
-Added marker 17/28
-Added marker 18/28
-Added marker 19/28
-Added marker 20/28
-Added marker 21/28
-Added marker 22/28
-Added marker 23/28
-Added marker 24/28
-Added marker 25/28
-Added marker 26/28
-Added marker 27/28
-Added marker 28/28
+INFO: Map has already been generated for member: Patrice Dardoize
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: dwightcarr_77...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Dwight Carr'
-12 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Stratman2
 Getting member information...
-Done!
-
-##### Updating map for member: D-Stanley...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'David Stanley'
-9608 photos in the photostream
-5 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 5 photo(s) in 5 marker(s)
-Adding marker(s) to map...
-Map already has 8221 marker(s)
-5 new marker(s) will be added to the map
-Added marker 1/5
-Added marker 2/5
-Added marker 3/5
-Added marker 4/5
-Added marker 5/5
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Steve O'Day...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Steve'
-341 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: mstraus52
 Getting member information...
-Done!
-
-##### Updating map for member: Thanks for 11.3 Mill...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Joe (Josè) Garcia'
-806 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: enrico377...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Enrico Veneruso'
-339 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: cnmark...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Markus Bahlmann'
-5417 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: diffendale...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Dan Diffendale'
-16470 photos in the photostream
-8 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 8 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 2201 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: PeterThoeny...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Peter Thoeny - Quality HDR Pho'
-4304 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: OMNIBUS DUBITANDUM
 Getting member information...
-Done!
-
-##### Updating map for member: CravingEscape...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'CravingEscape'
-1224 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Gérard Cachon...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Gérard  Cachon'
-175 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: ReNato '59...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'ReNato '59'
-1934 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Fabrizio Lucchese...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Fabrizio LUCCHESE'
-1413 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Mister Oy...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Dave Green'
-9250 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: wa2wider...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'wa2wider'
-12293 photos in the photostream
-50 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 225 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Julian Munilla Rio...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Julian Munilla Rio'
-1631 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Faillace360
 Getting member information...
-Done!
-
-##### Updating map for member: Atif Hussain Photogr...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Atif Hussain Photography'
-996 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: yves62160...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'YVES NEVEJANS'
-4344 photos in the photostream
-2 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 2 photo(s) in 2 marker(s)
-Adding marker(s) to map...
-Map already has 2040 marker(s)
-Added 1 new photo(s) to existing markers
-1 new marker(s) will be added to the map
-Added marker 1/1
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: kimbar/Thanks for 6....
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Kim'
-14120 photos in the photostream
-2 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 2 photo(s) in 2 marker(s)
-Adding marker(s) to map...
-Map already has 6765 marker(s)
-Added 1 new photo(s) to existing markers
-1 new marker(s) will be added to the map
-Added marker 1/1
+INFO: Map has already been generated for member: CoronaViking (mounta
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Urban Florida Photog...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Urban Florida Photographer'
-13840 photos in the photostream
-4 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 4 photo(s) in 4 marker(s)
-Adding marker(s) to map...
-Map already has 8532 marker(s)
-Added 2 new photo(s) to existing markers
-2 new marker(s) will be added to the map
-Added marker 1/2
-Added marker 2/2
+INFO: Map has already been generated for member: Ian & Marg
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: Yabba Link...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Imbella  Ecos'
-53 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: grand Yann
 Getting member information...
-Done!
-
-##### Updating map for member: Thad Roan - Bridgepi...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Thaddeus Roan'
-6049 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: I saw_that...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'I saw_that'
-4638 photos in the photostream
-3 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 3 photo(s) in 3 marker(s)
-Adding marker(s) to map...
-Map already has 1419 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: glancingshots.uk...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'jonathan hood'
-17978 photos in the photostream
-305 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 176 marker(s)
-No new markers were added to the map
+INFO: Map has already been generated for member: marionkaminski
+Getting member information...
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Al Case...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Al Case'
-871 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: instagram: Alex_Prem
 Getting member information...
-Done!
-
-##### Updating map for member: mouzhik...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'mouzhik'
-1746 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Wes Iversen...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Wes Iversen'
-3700 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 2328 marker(s)
-Added 1 new photo(s) to existing markers
-No new markers were added to the map
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: ceri1965...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'ceri1965'
-201 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: Gabriel Paladino Ibá
 Getting member information...
-Done!
-
-##### Updating map for member: sarahstierch...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Sarah Stierch'
-18898 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: Pieter Lommerse...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Charles in Shanghai'
-923 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
-
-##### Updating map for member: INMSpace...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Eduard Neyburg'
-250 photos in the photostream
-1 photo(s) deleted from photostream.
-The corresponding markers will alse be deleted
-Extracting photo coordinates and ids...
-Batch 1/1 | 107 photo(s) in 107 marker(s)
-Adding marker(s) to map...
-107 new marker(s) will be added to the map
-Added marker 1/107
-Added marker 2/107
-Added marker 3/107
-Added marker 4/107
-Added marker 5/107
-Added marker 6/107
-Added marker 7/107
-Added marker 8/107
-Added marker 9/107
-Added marker 10/107
-Added marker 11/107
-Added marker 12/107
-Added marker 13/107
-Added marker 14/107
-Added marker 15/107
-Added marker 16/107
-Added marker 17/107
-Added marker 18/107
-Added marker 19/107
-Added marker 20/107
-Added marker 21/107
-Added marker 22/107
-Added marker 23/107
-Added marker 24/107
-Added marker 25/107
-Added marker 26/107
-Added marker 27/107
-Added marker 28/107
-Added marker 29/107
-Added marker 30/107
-Added marker 31/107
-Added marker 32/107
-Added marker 33/107
-Added marker 34/107
-Added marker 35/107
-Added marker 36/107
-Added marker 37/107
-Added marker 38/107
-Added marker 39/107
-Added marker 40/107
-Added marker 41/107
-Added marker 42/107
-Added marker 43/107
-Added marker 44/107
-Added marker 45/107
-Added marker 46/107
-Added marker 47/107
-Added marker 48/107
-Added marker 49/107
-Added marker 50/107
-Added marker 51/107
-Added marker 52/107
-Added marker 53/107
-Added marker 54/107
-Added marker 55/107
-Added marker 56/107
-Added marker 57/107
-Added marker 58/107
-Added marker 59/107
-Added marker 60/107
-Added marker 61/107
-Added marker 62/107
-Added marker 63/107
-Added marker 64/107
-Added marker 65/107
-Added marker 66/107
-Added marker 67/107
-Added marker 68/107
-Added marker 69/107
-Added marker 70/107
-Added marker 71/107
-Added marker 72/107
-Added marker 73/107
-Added marker 74/107
-Added marker 75/107
-Added marker 76/107
-Added marker 77/107
-Added marker 78/107
-Added marker 79/107
-Added marker 80/107
-Added marker 81/107
-Added marker 82/107
-Added marker 83/107
-Added marker 84/107
-Added marker 85/107
-Added marker 86/107
-Added marker 87/107
-Added marker 88/107
-Added marker 89/107
-Added marker 90/107
-Added marker 91/107
-Added marker 92/107
-Added marker 93/107
-Added marker 94/107
-Added marker 95/107
-Added marker 96/107
-Added marker 97/107
-Added marker 98/107
-Added marker 99/107
-Added marker 100/107
-Added marker 101/107
-Added marker 102/107
-Added marker 103/107
-Added marker 104/107
-Added marker 105/107
-Added marker 106/107
-Added marker 107/107
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Wayloncash...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Wayloncash'
-70286 photos in the photostream
-15 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 23925 marker(s)
-No new markers were added to the map
+INFO: Map has already been generated for member: - Ozymandias -
+Getting member information...
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: haniarodak...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Hanna Rodak'
-12 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: dwightcarr_77
 Getting member information...
-Done!
-
-##### Updating map for member: spelio...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'spelio'
-54905 photos in the photostream
-108 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 4297 marker(s)
-No new markers were added to the map
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: glock_20_shooter...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Steve Gonzales'
-140 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 51 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
+INFO: Map has already been generated for member: D-Stanley
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: stepanov2876...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Pasha Vonapets'
-199 photos in the photostream
-6 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 0 photo(s) in 0 marker(s)
-Adding marker(s) to map...
-Map already has 39 marker(s)
-No new markers were added to the map
+INFO: Map has already been generated for member: Steve O'Day
+Getting member information...
 Finished!
-Everything is up-to-date. Nothing to commit!
-Getting member information...
-Done!
 
-##### Updating map for member: Seppi49...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Josef Eggenschwiler'
-3928 photos in the photostream
-1 new photo(s) added
-Extracting photo coordinates and ids...
-Batch 1/1 | 1 photo(s) in 1 marker(s)
-Adding marker(s) to map...
-Map already has 492 marker(s)
-1 new marker(s) will be added to the map
-Added marker 1/1
+INFO: Map has already been generated for member: Thanks for 11.3 Mill
+Getting member information...
 Finished!
-Commiting map data...
-Done!
-Getting member information...
-Done!
 
-##### Updating map for member: koothenholly...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Chris'
-2083 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Everything is up-to-date. Nothing to commit!
+INFO: Map has already been generated for member: enrico377
 Getting member information...
-Done!
+Finished!
+
+INFO: Map has already been generated for member: cnmark
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: diffendale
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: PeterThoeny
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: CravingEscape
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Gérard Cachon
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: ReNato '59
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Fabrizio Lucchese
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Mister Oy
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: wa2wider
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Julian Munilla Rio
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Atif Hussain Photogr
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: yves62160
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: kimbar/Thanks for 6.
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Urban Florida Photog
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Yabba Link
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Thad Roan - Bridgepi
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: I saw_that
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: glancingshots.uk
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Al Case
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: mouzhik
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Wes Iversen
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: ceri1965
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: sarahstierch
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Pieter Lommerse
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: INMSpace
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Wayloncash
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: haniarodak
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: spelio
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: glock_20_shooter
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: stepanov2876
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Seppi49
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: koothenholly
+Getting member information...
+Finished!
 
 ##### Updating Group's Map...
 Generating map for 'The Map Group'
@@ -5716,16 +830,7 @@ Extracting for the last 5000 photos
 Batch 1/10 | 500 photo(s) in 420 marker(s)Batch 2/10 | 1000 photo(s) in 819 marker(s)Batch 3/10 | 1500 photo(s) in 1228 marker(s)Batch 4/10 | 2000 photo(s) in 1571 marker(s)Batch 5/10 | 2500 photo(s) in 1948 marker(s)Batch 6/10 | 2566 photo(s) in 2000 marker(s)
 Maximum number of markers on map reached!
 Adding marker(s) to map...
-Map already has 3742 marker(s)
-Added 4 new photo(s) to existing markers
-23 new marker(s) will be added to the map
-Max number of markers reached. Removing 23 marker(s)...
-Added marker 1/23Added marker 2/23Added marker 3/23Added marker 4/23Added marker 5/23Added marker 6/23Added marker 7/23Added marker 8/23Added marker 9/23Added marker 10/23Added marker 11/23Added marker 12/23Added marker 13/23Added marker 14/23Added marker 15/23Added marker 16/23Added marker 17/23Added marker 18/23Added marker 19/23Added marker 20/23Added marker 21/23Added marker 22/23Added marker 23/23
+Map already has 3765 marker(s)
+Max number of markers reached. Removing 0 marker(s)...
+No new markers were added to the map
 Finished!
-Commiting map data...
-Done!
-
-RUN ERROR: At least one FATAL ERROR ocurred during the maps updates.
-
-##### Removing members which have left the group...
-No member has left the group!
