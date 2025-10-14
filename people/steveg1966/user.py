@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/steveg1966/',
   'location': 'Mesa, AZ, USA',
   'countries': 1,
-  'markers': 51,
-  'photos': 75
+  'markers': 52,
+  'photos': 76
 }
