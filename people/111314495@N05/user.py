@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm8.staticflickr.com/7396/buddyicons/111314495@N05_r.jpg',
   'url': 'https://www.flickr.com/photos/111314495@N05/',
   'location': 'Beachwood, US',
-  'countries': 60,
-  'markers': 5773,
-  'photos': 10293
+  'countries': 61,
+  'markers': 5780,
+  'photos': 10301
 }
