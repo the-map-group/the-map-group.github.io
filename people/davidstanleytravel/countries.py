@@ -43,7 +43,7 @@ countries_dict = {
   'TT': ['Trinidad and Tobago', 22, 26],
   'GY': ['Guyana', 53, 60],
   'SR': ['Suriname', 49, 58],
-  'PT': ['Portugal', 130, 152],
+  'PT': ['Portugal', 134, 156],
   'AR': ['Argentina', 75, 79],
   'FK': ['Falkland Islands', 31, 39],
   'GS': ['South Georgia and South Sandwich Islands', 30, 48],
@@ -127,5 +127,5 @@ countries_dict = {
   'TV': ['Tuvalu', 16, 18],
   'WS': ['Samoa', 15, 15],
   'TO': ['Tonga', 9, 9],
-  'CR': ['Costa Rica', 75, 79]
+  'CR': ['Costa Rica', 76, 80]
 }
