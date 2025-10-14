@@ -5,7 +5,7 @@ countries_dict = {
   'MX': ['Mexico', 8, 10],
   'IT': ['Italy', 351, 492],
   'VA': ['Vatican City', 16, 20],
-  'TZ': ['Tanzania', 331, 982],
+  'TZ': ['Tanzania', 331, 989],
   'NL': ['Netherlands', 1, 1],
   'TR': ['Turkey', 2, 2],
   'KE': ['Kenya', 330, 586],
