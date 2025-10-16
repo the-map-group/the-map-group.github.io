@@ -22,7 +22,7 @@ countries_dict = {
   'TR': ['Turkey', 97, 132],
   'IQ': ['Iraq', 118, 133],
   'EH': ['Western Sahara', 21, 21],
-  'MA': ['Morocco', 24, 24],
+  'MA': ['Morocco', 25, 25],
   'LR': ['Liberia', 10, 10],
   'CA': ['Canada', 881, 966],
   'SV': ['El Salvador', 28, 28],
