@@ -9,7 +9,7 @@ countries_dict = {
   'CN': ['China', 45, 56],
   'MT': ['Malta', 11, 13],
   'CZ': ['Czech Republic', 15, 17],
-  'IN': ['India', 10, 11],
+  'IN': ['India', 11, 12],
   'TR': ['Turkey', 8, 8],
   'ES': ['Spain', 14, 17],
   'PT': ['Portugal', 20, 26],
