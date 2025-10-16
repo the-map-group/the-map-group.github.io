@@ -41,7 +41,7 @@ countries_dict = {
   'IE': ['Ireland', 163, 242],
   'NO': ['Norway', 461, 603],
   'UZ': ['Uzbekistan', 99, 257],
-  'KZ': ['Kazakhstan', 128, 331],
+  'KZ': ['Kazakhstan', 134, 342],
   'ER': ['Eritrea', 3, 3],
   'AU': ['Australia', 56, 95],
   'ES': ['Spain', 51, 175],
