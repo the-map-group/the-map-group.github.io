@@ -28,7 +28,7 @@ countries_dict = {
   'RS': ['Serbia', 1300, 1401],
   'NL': ['Netherlands', 1, 4],
   'LU': ['Luxembourg', 76, 79],
-  'KR': ['South Korea', 1611, 1695],
+  'KR': ['South Korea', 1642, 1727],
   'CN': ['China', 13, 13],
   'RU': ['Russia', 3, 3]
 }
