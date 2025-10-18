@@ -1,7 +1,7 @@
 countries_dict = {
   'IS': ['Iceland', 102, 121],
   'AW': ['Aruba', 20, 30],
-  'GI': ['Gibraltar', 9, 10],
+  'GI': ['Gibraltar', 12, 13],
   'ES': ['Spain', 122, 142],
   'GB': ['United Kingdom', 193, 210],
   'FO': ['Faroe Islands', 5, 10],
@@ -22,7 +22,7 @@ countries_dict = {
   'TR': ['Turkey', 97, 132],
   'IQ': ['Iraq', 118, 133],
   'EH': ['Western Sahara', 21, 21],
-  'MA': ['Morocco', 28, 29],
+  'MA': ['Morocco', 29, 30],
   'LR': ['Liberia', 10, 10],
   'CA': ['Canada', 881, 966],
   'SV': ['El Salvador', 28, 28],
