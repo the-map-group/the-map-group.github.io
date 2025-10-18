@@ -7,7 +7,7 @@ countries_dict = {
   'VA': ['Vatican City', 1, 1],
   'RU': ['Russia', 2, 2],
   'CU': ['Cuba', 1, 1],
-  'NL': ['Netherlands', 29, 39],
+  'NL': ['Netherlands', 30, 40],
   'AU': ['Australia', 11, 13],
   'AT': ['Austria', 3, 11],
   'PT': ['Portugal', 1, 2],
