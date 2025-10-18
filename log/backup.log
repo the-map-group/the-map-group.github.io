@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 2355f39] Backup commit
- 5054 files changed, 1279929 insertions(+)
+[main (root-commit) bc25b23] Backup commit
+ 5070 files changed, 1284134 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -2978,6 +2978,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/didifiosi/index.html
  create mode 100644 people/didifiosi/last_total.py
  create mode 100644 people/didifiosi/locations.py
+ create mode 100644 people/didifiosi/log/countries_info.err
+ create mode 100644 people/didifiosi/log/countries_info.log
+ create mode 100644 people/didifiosi/log/countries_info.rep
+ create mode 100644 people/didifiosi/log/index.html
  create mode 120000 people/didifiosi/map.log
  create mode 120000 people/didifiosi/matrix.py
  create mode 120000 people/didifiosi/not_found.py
@@ -3590,6 +3594,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/justaslice/index.html
  create mode 100644 people/justaslice/last_total.py
  create mode 100644 people/justaslice/locations.py
+ create mode 100644 people/justaslice/log/countries_info.err
+ create mode 100644 people/justaslice/log/countries_info.log
+ create mode 100644 people/justaslice/log/countries_info.rep
+ create mode 100644 people/justaslice/log/index.html
  create mode 120000 people/justaslice/map.log
  create mode 120000 people/justaslice/matrix.py
  create mode 120000 people/justaslice/not_found.py
@@ -3694,6 +3702,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/khrawlings/index.html
  create mode 100644 people/khrawlings/last_total.py
  create mode 100644 people/khrawlings/locations.py
+ create mode 100644 people/khrawlings/log/countries_info.err
+ create mode 100644 people/khrawlings/log/countries_info.log
+ create mode 100644 people/khrawlings/log/countries_info.rep
+ create mode 100644 people/khrawlings/log/index.html
  create mode 120000 people/khrawlings/map.log
  create mode 120000 people/khrawlings/matrix.py
  create mode 120000 people/khrawlings/not_found.py
@@ -3846,6 +3858,10 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/manfred_h/index.html
  create mode 100644 people/manfred_h/last_total.py
  create mode 100644 people/manfred_h/locations.py
+ create mode 100644 people/manfred_h/log/countries_info.err
+ create mode 100644 people/manfred_h/log/countries_info.log
+ create mode 100644 people/manfred_h/log/countries_info.rep
+ create mode 100644 people/manfred_h/log/index.html
  create mode 120000 people/manfred_h/map.log
  create mode 120000 people/manfred_h/matrix.py
  create mode 120000 people/manfred_h/not_found.py
