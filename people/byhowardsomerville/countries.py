@@ -23,7 +23,7 @@ countries_dict = {
   'IN': ['India', 79, 131],
   'EE': ['Estonia', 1, 1],
   'AR': ['Argentina', 1, 1],
-  'MM': ['Myanmar', 8, 16],
+  'MM': ['Myanmar', 9, 17],
   'BT': ['Bhutan', 4, 9],
   'NP': ['Nepal', 1, 4],
   'IL': ['Israel', 2, 2],
