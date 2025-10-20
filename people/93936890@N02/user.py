@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/93936890@N02/',
   'location': 'Victoria, B.C., Canada',
   'countries': 43,
-  'markers': 889,
-  'photos': 1287
+  'markers': 890,
+  'photos': 1288
 }
