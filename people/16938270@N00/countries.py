@@ -5,7 +5,7 @@ countries_dict = {
   'US': ['United States', 12, 12],
   'ID': ['Indonesia', 58, 66],
   'IE': ['Ireland', 25, 26],
-  'NZ': ['New Zealand', 30, 30],
+  'NZ': ['New Zealand', 32, 32],
   'DE': ['Germany', 92, 97],
   'SB': ['Solomon Islands', 34, 37],
   'BE': ['Belgium', 31, 34],
