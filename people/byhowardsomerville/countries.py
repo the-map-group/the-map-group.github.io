@@ -1,5 +1,5 @@
 countries_dict = {
-  'GB': ['United Kingdom', 601, 663],
+  'GB': ['United Kingdom', 602, 664],
   'PF': ['French Polynesia', 2, 2],
   'ES': ['Spain', 15, 17],
   'PT': ['Portugal', 7, 8],
@@ -20,7 +20,7 @@ countries_dict = {
   'IS': ['Iceland', 4, 4],
   'MY': ['Malaysia', 5, 6],
   'PL': ['Poland', 4, 4],
-  'IN': ['India', 79, 132],
+  'IN': ['India', 79, 133],
   'EE': ['Estonia', 1, 1],
   'AR': ['Argentina', 1, 1],
   'MM': ['Myanmar', 9, 17],
