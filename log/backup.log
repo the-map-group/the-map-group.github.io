@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) f519865] Backup commit
- 5070 files changed, 1284481 insertions(+)
+[main (root-commit) 63669a8] Backup commit
+ 5070 files changed, 1284895 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
