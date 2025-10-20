@@ -28,7 +28,7 @@ countries_dict = {
   'NL': ['Netherlands', 2, 7],
   'AT': ['Austria', 1, 4],
   'JE': ['Jersey', 1, 2],
-  'GB': ['United Kingdom', 324, 920],
+  'GB': ['United Kingdom', 355, 980],
   'EG': ['Egypt', 30, 330],
   'AR': ['Argentina', 29, 235],
   'CL': ['Chile', 4, 45],
