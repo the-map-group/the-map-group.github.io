@@ -10,6 +10,6 @@ countries_dict = {
   'LY': ['Libya', 3, 3],
   'TR': ['Turkey', 2, 2],
   'VA': ['Vatican City', 1, 1],
-  'NL': ['Netherlands', 5, 5],
+  'NL': ['Netherlands', 6, 6],
   'BE': ['Belgium', 1, 1]
 }

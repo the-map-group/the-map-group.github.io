@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/146445851@N04/',
   'location': 'Lecco, Italia',
   'countries': 13,
-  'markers': 235,
-  'photos': 290
+  'markers': 236,
+  'photos': 291
 }
