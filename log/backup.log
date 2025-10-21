@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 63669a8] Backup commit
- 5070 files changed, 1284895 insertions(+)
+[main (root-commit) acc9add] Backup commit
+ 5069 files changed, 1298947 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -786,7 +786,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 icons/photographer.svg
  create mode 100644 icons/place.svg
  create mode 100644 index.html
- create mode 100644 last_total.py
  create mode 100644 locations.py
  create mode 100644 log/backup.log
  create mode 100644 log/countries_info.err
