@@ -4921,3 +4921,38 @@ Added marker 26/28
 Added marker 27/28
 Added marker 28/28
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: haniarodak...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Hanna Rodak'
+12 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: spelio...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'spelio'
+55013 photos in the photostream
+91 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 13 photo(s) in 13 marker(s)
+Adding marker(s) to map...
+Map already has 4305 marker(s)
+7 new marker(s) will be added to the map
+Added marker 1/7
+Added marker 2/7
+Added marker 3/7
+Added marker 4/7
+Added marker 5/7
+Added marker 6/7
+Added marker 7/7
+Finished!
