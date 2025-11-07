@@ -4899,5 +4899,17 @@ coords_dict = {
   '50.091236,14.402228': ['CZ', 'Czech Republic'],
   '50.089316,14.406745': ['CZ', 'Czech Republic'],
   '50.091766,14.40446': ['CZ', 'Czech Republic'],
-  '50.09158,14.403687': ['CZ', 'Czech Republic']
+  '50.09158,14.403687': ['CZ', 'Czech Republic'],
+  '50.088545,14.402421': ['CZ', 'Czech Republic'],
+  '50.093219,14.421958': ['CZ', 'Czech Republic'],
+  '50.088641,14.406208': ['CZ', 'Czech Republic'],
+  '50.094513,14.432301': ['CZ', 'Czech Republic'],
+  '50.092875,14.417796': ['CZ', 'Czech Republic'],
+  '50.093191,14.421186': ['CZ', 'Czech Republic'],
+  '50.093294,14.417195': ['CZ', 'Czech Republic'],
+  '50.092448,14.41418': ['CZ', 'Czech Republic'],
+  '50.092819,14.417195': ['CZ', 'Czech Republic'],
+  '50.090355,14.411916': ['CZ', 'Czech Republic'],
+  '50.091656,14.412785': ['CZ', 'Czech Republic'],
+  '50.093081,14.414952': ['CZ', 'Czech Republic']
 }
