@@ -6,45 +6,37 @@ INFO: Map has already been generated for member: Christopher Wallace
 Getting member information...
 Finished!
 
-##### Updating map for member: Elena Lebedeva (IG: ...
-Getting locations and countries...
-Starting 'Flickr Map' script...
-Generating map for 'Elena Lebedeva (IG: ellebedeva'
-250 photos in the photostream
-No changes on number of photos since last run.
-Aborted.
-Commiting map data...
-Done!
+INFO: Map has already been generated for member: Elena Lebedeva (IG: 
 Getting member information...
-Done!
+Finished!
 
-##### Updating map for member: Steenjep...
+INFO: Map has already been generated for member: hans pohl
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: Steenjep
+Getting member information...
+Finished!
+
+INFO: Map has already been generated for member: michael_jeddah
+Getting member information...
+Finished!
+
+##### Updating map for member: haroldmoses...
 Getting locations and countries...
 Starting 'Flickr Map' script...
-Generating map for 'Steen Jeppesen'
-18019 photos in the photostream
-9 new photo(s) added
+Generating map for 'Harold  Moses'
+6093 photos in the photostream
+6 new photo(s) added
 Extracting photo coordinates and ids...
-ERROR: Unable to get photos
-HTTPSConnectionPool(host='api.flickr.com', port=443): Max retries exceeded with url: /services/rest/?api_key=b93353033a936e7e5fa5957098442a56&user_id=8920963%40N03&privacy_filter=1&content_types=0&extras=geo%2Ctags%2Curl_sq&page=1&per_page=500&method=flickr.people.getPhotos&format=json&nojsoncallback=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7f9cee10>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
-Trying again...
-ERROR: Unable to get photos
-HTTPSConnectionPool(host='api.flickr.com', port=443): Max retries exceeded with url: /services/rest/?api_key=b93353033a936e7e5fa5957098442a56&user_id=8920963%40N03&privacy_filter=1&content_types=0&extras=geo%2Ctags%2Curl_sq&page=1&per_page=500&method=flickr.people.getPhotos&format=json&nojsoncallback=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7f9cce50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
-Trying again...
-ERROR: Unable to get photos
-HTTPSConnectionPool(host='api.flickr.com', port=443): Max retries exceeded with url: /services/rest/?api_key=b93353033a936e7e5fa5957098442a56&user_id=8920963%40N03&privacy_filter=1&content_types=0&extras=geo%2Ctags%2Curl_sq&page=1&per_page=500&method=flickr.people.getPhotos&format=json&nojsoncallback=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7f9cd150>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
-Trying again...
-Batch 1/1 | 9 photo(s) in 9 marker(s)
+Batch 1/1 | 6 photo(s) in 6 marker(s)
 Adding marker(s) to map...
-Map already has 12488 marker(s)
-Added 1 new photo(s) to existing markers
-8 new marker(s) will be added to the map
-Added marker 1/8
-Added marker 2/8
-Added marker 3/8
-Added marker 4/8
-Added marker 5/8
-Added marker 6/8
-Added marker 7/8
-Added marker 8/8
+Map already has 3539 marker(s)
+6 new marker(s) will be added to the map
+Added marker 1/6
+Added marker 2/6
+Added marker 3/6
+Added marker 4/6
+Added marker 5/6
+Added marker 6/6
 Finished!

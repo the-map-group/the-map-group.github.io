@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm7.staticflickr.com/6222/buddyicons/57729348@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/mosesharold/',
   'location': 'SPENNYMOOR, United Kingdom',
-  'countries': 76,
-  'markers': 3539,
-  'photos': 4862
+  'countries': 77,
+  'markers': 3545,
+  'photos': 4868
 }

@@ -4,12 +4,12 @@ countries_dict = {
   'BQ': ['Bonaire', 5, 5],
   'AW': ['Aruba', 23, 36],
   'SJ': ['Svalbard and Jan Mayen', 108, 141],
-  'NZ': ['New Zealand', 280, 320],
+  'NZ': ['New Zealand', 281, 321],
   'NO': ['Norway', 137, 149],
   'FK': ['Falkland Islands', 40, 65],
   'AQ': ['Antarctica', 44, 47],
   'AR': ['Argentina', 46, 50],
-  'US': ['United States', 303, 407],
+  'US': ['United States', 305, 409],
   'CA': ['Canada', 82, 109],
   'GB': ['United Kingdom', 470, 659],
   'FO': ['Faroe Islands', 6, 16],
@@ -74,5 +74,6 @@ countries_dict = {
   'MV': ['Maldives', 1, 1],
   'KE': ['Kenya', 12, 19],
   'SH': ['Saint Helena', 4, 4],
-  'CV': ['Cape Verde', 2, 2]
+  'CV': ['Cape Verde', 2, 2],
+  'FJ': ['Fiji', 1, 1]
 }
