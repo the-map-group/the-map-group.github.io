@@ -4434,3 +4434,45 @@ Added 1 new photo(s) to existing markers
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: ReNato '59...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'ReNato '59'
+1934 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Fabrizio Lucchese...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Fabrizio LUCCHESE'
+1427 photos in the photostream
+14 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 14 photo(s) in 14 marker(s)
+Adding marker(s) to map...
+Map already has 1404 marker(s)
+14 new marker(s) will be added to the map
+Added marker 1/14
+Added marker 2/14
+Added marker 3/14
+Added marker 4/14
+Added marker 5/14
+Added marker 6/14
+Added marker 7/14
+Added marker 8/14
+Added marker 9/14
+Added marker 10/14
+Added marker 11/14
+Added marker 12/14
+Added marker 13/14
+Added marker 14/14
+Finished!
