@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/enricoveneruso/',
   'location': 'Napoli, Italia',
   'countries': 10,
-  'markers': 324,
-  'photos': 327
+  'markers': 325,
+  'photos': 328
 }
