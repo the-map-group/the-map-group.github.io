@@ -1694,3 +1694,40 @@ Map already has 1028 marker(s)
 Added 446 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: victor san...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'victor san'
+934 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: malioli...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Oliver Švob'
+16681 photos in the photostream
+27 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 15 photo(s) in 14 marker(s)
+Adding marker(s) to map...
+Map already has 2487 marker(s)
+Added 6 new photo(s) to existing markers
+8 new marker(s) will be added to the map
+Added marker 1/8
+Added marker 2/8
+Added marker 3/8
+Added marker 4/8
+Added marker 5/8
+Added marker 6/8
+Added marker 7/8
+Added marker 8/8
+Finished!
