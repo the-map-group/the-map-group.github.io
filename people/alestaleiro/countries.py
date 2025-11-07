@@ -1,10 +1,10 @@
 countries_dict = {
-  'BR': ['Brazil', 2609, 3694],
+  'BR': ['Brazil', 2610, 3696],
   'AR': ['Argentina', 218, 242],
   'CL': ['Chile', 26, 31],
   'PE': ['Peru', 14, 24],
   'IT': ['Italy', 232, 279],
-  'FR': ['France', 33, 36],
+  'FR': ['France', 34, 37],
   'DE': ['Germany', 26, 31],
   'BE': ['Belgium', 2, 2],
   'NL': ['Netherlands', 10, 17],
@@ -12,8 +12,8 @@ countries_dict = {
   'ZA': ['South Africa', 131, 168],
   'EG': ['Egypt', 119, 157],
   'AE': ['United Arab Emirates', 27, 40],
-  'GB': ['United Kingdom', 54, 57],
-  'ES': ['Spain', 200, 264],
+  'GB': ['United Kingdom', 69, 73],
+  'ES': ['Spain', 242, 319],
   'MA': ['Morocco', 96, 135],
   'PT': ['Portugal', 84, 97],
   'HU': ['Hungary', 35, 43],
@@ -25,5 +25,5 @@ countries_dict = {
   'AT': ['Austria', 8, 10],
   'ME': ['Montenegro', 5, 5],
   'AL': ['Albania', 22, 27],
-  'NO': ['Norway', 18, 18]
+  'NO': ['Norway', 64, 69]
 }
