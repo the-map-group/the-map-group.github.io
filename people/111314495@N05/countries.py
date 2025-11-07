@@ -1,6 +1,6 @@
 countries_dict = {
   'IT': ['Italy', 149, 219],
-  'US': ['United States', 1271, 2472],
+  'US': ['United States', 1272, 2473],
   'GB': ['United Kingdom', 169, 301],
   'ZA': ['South Africa', 125, 276],
   'PE': ['Peru', 66, 167],
@@ -51,13 +51,13 @@ countries_dict = {
   'MD': ['Moldova', 9, 13],
   'GR': ['Greece', 113, 168],
   'PA': ['Panama', 99, 175],
-  'CO': ['Colombia', 124, 333],
+  'CO': ['Colombia', 124, 334],
   'PF': ['French Polynesia', 142, 210],
   'CK': ['Cook Islands', 2, 2],
   'ID': ['Indonesia', 35, 116],
   'CN': ['China', 3, 3],
   'SG': ['Singapore', 35, 51],
-  'NO': ['Norway', 88, 148],
+  'NO': ['Norway', 88, 155],
   'SJ': ['Svalbard and Jan Mayen', 67, 101],
-  'FJ': ['Fiji', 9, 14]
+  'FJ': ['Fiji', 27, 42]
 }
