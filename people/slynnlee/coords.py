@@ -805,5 +805,8 @@ coords_dict = {
   '53.343307,-6.257251': ['IE', 'Ireland'],
   '53.234348,-0.536292': ['GB', 'United Kingdom'],
   '52.080442,4.314257': ['NL', 'Netherlands'],
-  '52.079914,4.310437': ['NL', 'Netherlands']
+  '52.079914,4.310437': ['NL', 'Netherlands'],
+  '52.08027,4.313634': ['NL', 'Netherlands'],
+  '52.080026,4.313999': ['NL', 'Netherlands'],
+  '52.080237,4.314536': ['NL', 'Netherlands']
 }
