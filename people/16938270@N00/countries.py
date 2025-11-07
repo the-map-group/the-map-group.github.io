@@ -1,11 +1,11 @@
 countries_dict = {
-  'AU': ['Australia', 537, 582],
+  'AU': ['Australia', 544, 589],
   'TO': ['Tonga', 7, 7],
   'CN': ['China', 3, 3],
   'US': ['United States', 12, 12],
   'ID': ['Indonesia', 58, 66],
   'IE': ['Ireland', 25, 26],
-  'NZ': ['New Zealand', 32, 32],
+  'NZ': ['New Zealand', 38, 38],
   'DE': ['Germany', 92, 97],
   'SB': ['Solomon Islands', 34, 37],
   'BE': ['Belgium', 31, 34],
