@@ -2,7 +2,7 @@ countries_dict = {
   'AU': ['Australia', 16, 27],
   'UG': ['Uganda', 7, 23],
   'MK': ['North Macedonia', 1, 4],
-  'GB': ['United Kingdom', 1003, 1315],
+  'GB': ['United Kingdom', 1010, 1322],
   'XK': ['Kosovo', 4, 120],
   'IN': ['India', 8, 35],
   'KH': ['Cambodia', 25, 75],
@@ -20,5 +20,5 @@ countries_dict = {
   'PT': ['Portugal', 201, 205],
   'ZM': ['Zambia', 6, 6],
   'AE': ['United Arab Emirates', 1, 2],
-  'KZ': ['Kazakhstan', 13, 14]
+  'KZ': ['Kazakhstan', 15, 16]
 }
