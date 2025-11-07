@@ -1,6 +1,6 @@
 countries_dict = {
   'TH': ['Thailand', 11, 51],
-  'FR': ['France', 3062, 15460],
+  'FR': ['France', 3082, 15581],
   'LA': ['Laos', 5, 57],
   'KH': ['Cambodia', 1, 24],
   'IT': ['Italy', 391, 2046],
@@ -28,7 +28,7 @@ countries_dict = {
   'NL': ['Netherlands', 2, 7],
   'AT': ['Austria', 1, 4],
   'JE': ['Jersey', 1, 2],
-  'GB': ['United Kingdom', 416, 1115],
+  'GB': ['United Kingdom', 570, 1392],
   'EG': ['Egypt', 30, 330],
   'AR': ['Argentina', 29, 235],
   'CL': ['Chile', 4, 45],
