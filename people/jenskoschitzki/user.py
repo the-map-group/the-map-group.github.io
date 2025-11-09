@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/jenskoschitzki/',
   'location': 'Munich, Germany',
   'countries': 15,
-  'markers': 8288,
-  'photos': 36236
+  'markers': 8291,
+  'photos': 36244
 }
