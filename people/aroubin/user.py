@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm2.staticflickr.com/1805/buddyicons/37775553@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/aroubin/',
   'location': '',
-  'countries': 8,
-  'markers': 2498,
-  'photos': 8365
+  'countries': 9,
+  'markers': 2531,
+  'photos': 8407
 }
