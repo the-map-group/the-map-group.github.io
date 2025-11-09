@@ -14,7 +14,7 @@ countries_dict = {
   'PL': ['Poland', 20, 20],
   'DE': ['Germany', 37, 39],
   'CZ': ['Czech Republic', 37, 43],
-  'SG': ['Singapore', 53, 61],
+  'SG': ['Singapore', 55, 63],
   'FR': ['France', 108, 193],
   'MC': ['Monaco', 2, 2],
   'CH': ['Switzerland', 5, 5],
