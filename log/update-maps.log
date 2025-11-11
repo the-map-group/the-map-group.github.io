@@ -11577,3 +11577,33 @@ Map already has 530 marker(s)
 Added marker 1/2
 Added marker 2/2
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: koothenholly...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Chris'
+2090 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+60807 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 380 marker(s)Batch 2/10 | 1000 photo(s) in 793 marker(s)Batch 3/10 | 1500 photo(s) in 1190 marker(s)Batch 4/10 | 2000 photo(s) in 1576 marker(s)Batch 5/10 | 2500 photo(s) in 1980 marker(s)Batch 6/10 | 2528 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 4396 marker(s)
+Added 10 new photo(s) to existing markers
+21 new marker(s) will be added to the map
+Max number of markers reached. Removing 21 marker(s)...
+Added marker 1/21Added marker 2/21Added marker 3/21Added marker 4/21Added marker 5/21Added marker 6/21Added marker 7/21Added marker 8/21Added marker 9/21Added marker 10/21Added marker 11/21Added marker 12/21Added marker 13/21Added marker 14/21Added marker 15/21Added marker 16/21Added marker 17/21Added marker 18/21Added marker 19/21Added marker 20/21Added marker 21/21
+Finished!
