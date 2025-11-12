@@ -12,7 +12,7 @@ countries_dict = {
   'ZA': ['South Africa', 131, 168],
   'EG': ['Egypt', 119, 157],
   'AE': ['United Arab Emirates', 27, 40],
-  'GB': ['United Kingdom', 90, 114],
+  'GB': ['United Kingdom', 94, 119],
   'ES': ['Spain', 242, 319],
   'MA': ['Morocco', 96, 135],
   'PT': ['Portugal', 84, 97],
