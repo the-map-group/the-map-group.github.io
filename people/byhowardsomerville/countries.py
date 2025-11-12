@@ -31,7 +31,7 @@ countries_dict = {
   'VN': ['Vietnam', 3, 7],
   'MG': ['Madagascar', 7, 13],
   'ID': ['Indonesia', 1, 1],
-  'CN': ['China', 5, 13],
+  'CN': ['China', 13, 21],
   'MA': ['Morocco', 5, 6],
   'RO': ['Romania', 5, 5],
   'EG': ['Egypt', 8, 11],
