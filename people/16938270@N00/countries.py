@@ -8,7 +8,7 @@ countries_dict = {
   'NZ': ['New Zealand', 38, 38],
   'DE': ['Germany', 92, 97],
   'SB': ['Solomon Islands', 34, 37],
-  'BE': ['Belgium', 32, 35],
+  'BE': ['Belgium', 33, 36],
   'FI': ['Finland', 8, 8],
   'TR': ['Turkey', 64, 73],
   'GB': ['United Kingdom', 31, 32],
