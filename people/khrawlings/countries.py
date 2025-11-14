@@ -20,5 +20,5 @@ countries_dict = {
   'PT': ['Portugal', 201, 205],
   'ZM': ['Zambia', 6, 6],
   'AE': ['United Arab Emirates', 1, 2],
-  'KZ': ['Kazakhstan', 15, 16]
+  'KZ': ['Kazakhstan', 16, 17]
 }
