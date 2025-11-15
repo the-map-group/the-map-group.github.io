@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 8c4d099] Backup commit
- 5082 files changed, 1289554 insertions(+)
+[main (root-commit) 2c42755] Backup commit
+ 5122 files changed, 1296397 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -2027,6 +2027,26 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/38730049@N08/photos/index.html
  create mode 100755 people/38730049@N08/update-countries-map-data.py
  create mode 100644 people/38730049@N08/user.py
+ create mode 100644 people/39442644@N03/__pycache__/countries.cpython-311.pyc
+ create mode 100644 people/39442644@N03/__pycache__/countries_members.cpython-311.pyc
+ create mode 100644 people/39442644@N03/__pycache__/user.cpython-311.pyc
+ create mode 120000 people/39442644@N03/api_credentials.py
+ create mode 100644 people/39442644@N03/config.py
+ create mode 100644 people/39442644@N03/coords.py
+ create mode 100644 people/39442644@N03/countries.py
+ create mode 120000 people/39442644@N03/countries_config.py
+ create mode 120000 people/39442644@N03/countries_info.py
+ create mode 120000 people/39442644@N03/countries_members.py
+ create mode 100755 people/39442644@N03/generate-map-data.py
+ create mode 100644 people/39442644@N03/index.html
+ create mode 100644 people/39442644@N03/last_total.py
+ create mode 100644 people/39442644@N03/locations.py
+ create mode 120000 people/39442644@N03/map.log
+ create mode 120000 people/39442644@N03/matrix.py
+ create mode 120000 people/39442644@N03/not_found.py
+ create mode 100644 people/39442644@N03/photos/index.html
+ create mode 100755 people/39442644@N03/update-countries-map-data.py
+ create mode 100644 people/39442644@N03/user.py
  create mode 100644 people/39904644@N05/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/39904644@N05/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/39904644@N05/__pycache__/user.cpython-311.pyc
@@ -4439,6 +4459,26 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/rubempjr/photos/index.html
  create mode 100755 people/rubempjr/update-countries-map-data.py
  create mode 100644 people/rubempjr/user.py
+ create mode 100644 people/samkong33/__pycache__/countries.cpython-311.pyc
+ create mode 100644 people/samkong33/__pycache__/countries_members.cpython-311.pyc
+ create mode 100644 people/samkong33/__pycache__/user.cpython-311.pyc
+ create mode 120000 people/samkong33/api_credentials.py
+ create mode 100644 people/samkong33/config.py
+ create mode 100644 people/samkong33/coords.py
+ create mode 100644 people/samkong33/countries.py
+ create mode 120000 people/samkong33/countries_config.py
+ create mode 120000 people/samkong33/countries_info.py
+ create mode 120000 people/samkong33/countries_members.py
+ create mode 100755 people/samkong33/generate-map-data.py
+ create mode 100644 people/samkong33/index.html
+ create mode 100644 people/samkong33/last_total.py
+ create mode 100644 people/samkong33/locations.py
+ create mode 120000 people/samkong33/map.log
+ create mode 120000 people/samkong33/matrix.py
+ create mode 120000 people/samkong33/not_found.py
+ create mode 100644 people/samkong33/photos/index.html
+ create mode 100755 people/samkong33/update-countries-map-data.py
+ create mode 100644 people/samkong33/user.py
  create mode 100644 people/santelia/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/santelia/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/santelia/__pycache__/user.cpython-311.pyc
