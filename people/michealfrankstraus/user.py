@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/michealfrankstraus/',
   'location': 'Portland-on-Willamette, USA',
   'countries': 37,
-  'markers': 1640,
-  'photos': 1748
+  'markers': 1641,
+  'photos': 1749
 }
