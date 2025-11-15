@@ -119,7 +119,7 @@ countries_dict = {
   'SI': ['Slovenia', 2, 3],
   'HR': ['Croatia', 51, 58],
   'ME': ['Montenegro', 27, 30],
-  'MT': ['Malta', 21, 27],
+  'MT': ['Malta', 25, 34],
   'VA': ['Vatican City', 5, 5],
   'MC': ['Monaco', 9, 14],
   'VN': ['Vietnam', 83, 97],
