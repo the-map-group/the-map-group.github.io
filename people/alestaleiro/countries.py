@@ -1,5 +1,5 @@
 countries_dict = {
-  'BR': ['Brazil', 2610, 3696],
+  'BR': ['Brazil', 2611, 3697],
   'AR': ['Argentina', 218, 242],
   'CL': ['Chile', 26, 31],
   'PE': ['Peru', 14, 24],
@@ -12,7 +12,7 @@ countries_dict = {
   'ZA': ['South Africa', 131, 168],
   'EG': ['Egypt', 119, 157],
   'AE': ['United Arab Emirates', 27, 40],
-  'GB': ['United Kingdom', 101, 128],
+  'GB': ['United Kingdom', 110, 138],
   'ES': ['Spain', 242, 319],
   'MA': ['Morocco', 96, 135],
   'PT': ['Portugal', 84, 97],
