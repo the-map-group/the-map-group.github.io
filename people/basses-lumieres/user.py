@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/basses-lumieres/',
   'location': 'Terre, France',
   'countries': 3,
-  'markers': 182,
-  'photos': 776
+  'markers': 183,
+  'photos': 781
 }
