@@ -7,5 +7,5 @@ user_info = {
   'location': 'Imbil, Australia',
   'countries': 35,
   'markers': 1096,
-  'photos': 1176
+  'photos': 1177
 }
