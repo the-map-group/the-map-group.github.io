@@ -1,7 +1,7 @@
 countries_dict = {
   'CN': ['China', 112, 138],
   'JP': ['Japan', 84, 85],
-  'US': ['United States', 326, 341],
+  'US': ['United States', 327, 342],
   'KR': ['South Korea', 52, 52],
   'DE': ['Germany', 105, 127],
   'EC': ['Ecuador', 3, 3],
