@@ -5228,3 +5228,60 @@ Added marker 1/3
 Added marker 2/3
 Added marker 3/3
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: koothenholly...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Chris'
+2090 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Cranky Oldman...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Cranky Oldman'
+2444 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: datsamkong...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Sam Kong'
+682 photos in the photostream
+1 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 0 photo(s) in 0 marker(s)
+Adding marker(s) to map...
+Map already has 59 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+61064 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 499 photo(s) in 362 marker(s)Batch 2/10 | 999 photo(s) in 766 marker(s)Batch 3/10 | 1499 photo(s) in 1174 marker(s)Batch 4/10 | 1999 photo(s) in 1571 marker(s)Batch 5/10 | 2499 photo(s) in 1964 marker(s)Batch 6/10 | 2545 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 4598 marker(s)
+Added 3 new photo(s) to existing markers
+17 new marker(s) will be added to the map
+Max number of markers reached. Removing 17 marker(s)...
+Added marker 1/17Added marker 2/17Added marker 3/17Added marker 4/17Added marker 5/17Added marker 6/17Added marker 7/17Added marker 8/17Added marker 9/17Added marker 10/17Added marker 11/17Added marker 12/17Added marker 13/17Added marker 14/17Added marker 15/17Added marker 16/17Added marker 17/17
+Finished!
