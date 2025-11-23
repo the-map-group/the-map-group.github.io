@@ -410,3 +410,12 @@
 ##### koothenholly:
 
 ##### Cranky Oldman:
+
+##### datsamkong:
+
+##### benlarhome:
+--> 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+--> 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+--> 'LC: Saint Lucia' = 'St Lucia' => 'LC: St Lucia'
+---> MapBox: (-34.597606, -58.433189) => 'AR: Buenos Aires'
+---> 'AR: Buenos Aires' = 'Argentina' => 'AR: Argentina'
