@@ -13645,3 +13645,23 @@ Extracting photo coordinates and ids...
 Adding marker(s) to map...
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Member has no geottaged photos. Sending e-mail...
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+61117 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 499 photo(s) in 364 marker(s)Batch 2/10 | 999 photo(s) in 764 marker(s)Batch 3/10 | 1499 photo(s) in 1169 marker(s)Batch 4/10 | 1999 photo(s) in 1567 marker(s)Batch 5/10 | 2499 photo(s) in 1963 marker(s)Batch 6/10 | 2550 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 4627 marker(s)
+Added 5 new photo(s) to existing markers
+26 new marker(s) will be added to the map
+Max number of markers reached. Removing 26 marker(s)...
+Added marker 1/26Added marker 2/26Added marker 3/26Added marker 4/26Added marker 5/26Added marker 6/26Added marker 7/26Added marker 8/26Added marker 9/26Added marker 10/26Added marker 11/26Added marker 12/26Added marker 13/26Added marker 14/26Added marker 15/26Added marker 16/26Added marker 17/26Added marker 18/26Added marker 19/26Added marker 20/26Added marker 21/26Added marker 22/26Added marker 23/26Added marker 24/26Added marker 25/26Added marker 26/26
+Finished!
