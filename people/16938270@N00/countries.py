@@ -27,7 +27,7 @@ countries_dict = {
   'VU': ['Vanuatu', 8, 8],
   'KE': ['Kenya', 1, 1],
   'BI': ['Burundi', 9, 9],
-  'KR': ['South Korea', 3, 3],
+  'KR': ['South Korea', 4, 4],
   'ZW': ['Zimbabwe', 1, 1],
   'ZA': ['South Africa', 1, 1],
   'TL': ['East Timor', 2, 2],
