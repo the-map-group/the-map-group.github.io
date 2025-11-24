@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/dandiffendale/',
   'location': 'Pisa, Italy',
   'countries': 17,
-  'markers': 2215,
-  'photos': 16054
+  'markers': 2221,
+  'photos': 16085
 }
