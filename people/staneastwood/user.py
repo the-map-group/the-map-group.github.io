@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/63713558@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/staneastwood/',
   'location': '',
-  'countries': 18,
-  'markers': 7345,
-  'photos': 40452
+  'countries': 19,
+  'markers': 7375,
+  'photos': 40543
 }
