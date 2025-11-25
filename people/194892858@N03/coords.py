@@ -1,2 +1,0 @@
-coords_dict = {
-}
