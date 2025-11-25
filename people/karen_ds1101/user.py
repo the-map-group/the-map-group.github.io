@@ -4,8 +4,8 @@ user_info = {
   'name': 'Karen',
   'avatar': 'https://farm6.staticflickr.com/5507/buddyicons/51073972@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/karen_ds1101/',
-  'location': 'On the way to Cairns, Australia',
+  'location': 'Cairns, Australia',
   'countries': 15,
-  'markers': 1144,
-  'photos': 1353
+  'markers': 1150,
+  'photos': 1359
 }
