@@ -17,5 +17,5 @@ countries_dict = {
   'FI': ['Finland', 17, 63],
   'RU': ['Russia', 3, 30],
   'BE': ['Belgium', 27, 70],
-  'JE': ['Jersey', 30, 91]
+  'JE': ['Jersey', 36, 149]
 }
