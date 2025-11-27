@@ -115,7 +115,7 @@ countries_dict = {
   'DK': ['Denmark', 13, 13],
   'EE': ['Estonia', 12, 13],
   'FI': ['Finland', 81, 95],
-  'IT': ['Italy', 180, 226],
+  'IT': ['Italy', 183, 232],
   'SI': ['Slovenia', 2, 3],
   'HR': ['Croatia', 51, 58],
   'ME': ['Montenegro', 27, 30],
