@@ -19,7 +19,7 @@ countries_dict = {
   'GG': ['Guernsey', 4, 5],
   'LC': ['St Lucia', 3, 3],
   'NO': ['Norway', 1, 1],
-  'HN': ['Honduras', 5, 6],
+  'HN': ['Honduras', 5, 7],
   'CU': ['Cuba', 5, 6],
   'HT': ['Haiti', 5, 6],
   'OM': ['Oman', 3, 3],
