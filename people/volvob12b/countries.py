@@ -3,7 +3,7 @@ countries_dict = {
   'CA': ['Canada', 165, 229],
   'AU': ['Australia', 237, 335],
   'US': ['United States', 324, 479],
-  'BN': ['Brunei', 39, 51],
+  'BN': ['Brunei', 40, 52],
   'CN': ['China', 147, 178],
   'MY': ['Malaysia', 35, 50],
   'TH': ['Thailand', 22, 25],
