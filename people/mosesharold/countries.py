@@ -13,7 +13,7 @@ countries_dict = {
   'CA': ['Canada', 82, 109],
   'GB': ['United Kingdom', 470, 659],
   'FO': ['Faroe Islands', 6, 16],
-  'IS': ['Iceland', 169, 307],
+  'IS': ['Iceland', 171, 309],
   'GL': ['Greenland', 124, 209],
   'EG': ['Egypt', 32, 35],
   'MX': ['Mexico', 4, 4],
