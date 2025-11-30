@@ -23,7 +23,7 @@ countries_dict = {
   'PA': ['Panama', 91, 92],
   'TZ': ['Tanzania', 105, 107],
   'EG': ['Egypt', 216, 256],
-  'JP': ['Japan', 6, 8],
+  'JP': ['Japan', 7, 9],
   'ZW': ['Zimbabwe', 50, 50],
   'ZM': ['Zambia', 3, 3],
   'BW': ['Botswana', 15, 17]
