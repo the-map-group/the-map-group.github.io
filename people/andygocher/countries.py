@@ -22,7 +22,7 @@ countries_dict = {
   'TH': ['Thailand', 6, 15],
   'TW': ['Taiwan', 3, 24],
   'XK': ['Kosovo', 1, 2],
-  'DE': ['Germany', 12, 29],
+  'DE': ['Germany', 14, 31],
   'EC': ['Ecuador', 2, 3],
   'CH': ['Switzerland', 7, 11],
   'AT': ['Austria', 13, 37],
