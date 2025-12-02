@@ -7,5 +7,5 @@ user_info = {
   'location': 'Berkeley, CA, U.S.',
   'countries': 69,
   'markers': 6856,
-  'photos': 9264
+  'photos': 9266
 }
