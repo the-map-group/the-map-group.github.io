@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/tiascapes/',
   'location': 'Seattle, Washington, USA',
   'countries': 11,
-  'markers': 872,
-  'photos': 1249
+  'markers': 873,
+  'photos': 1250
 }
