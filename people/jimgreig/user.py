@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/jimgreig/',
   'location': 'Leicestershire, England',
   'countries': 2,
-  'markers': 749,
-  'photos': 915
+  'markers': 750,
+  'photos': 916
 }
