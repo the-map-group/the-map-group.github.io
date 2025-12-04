@@ -4,7 +4,7 @@ countries_dict = {
   'PT': ['Portugal', 2689, 4061],
   'IT': ['Italy', 13, 16],
   'FR': ['France', 176, 360],
-  'ES': ['Spain', 580, 840],
+  'ES': ['Spain', 580, 841],
   'MT': ['Malta', 88, 109],
   'CA': ['Canada', 2, 3],
   'US': ['United States', 5, 5],
