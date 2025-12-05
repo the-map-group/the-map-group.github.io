@@ -6,7 +6,7 @@ countries_dict = {
   'LV': ['Latvia', 2, 2],
   'EE': ['Estonia', 1, 1],
   'LT': ['Lithuania', 3, 4],
-  'DE': ['Germany', 1760, 2711],
+  'DE': ['Germany', 1762, 2713],
   'IT': ['Italy', 20, 37],
   'SM': ['San Marino', 1, 2],
   'MC': ['Monaco', 1, 1],
@@ -26,5 +26,5 @@ countries_dict = {
   'DK': ['Denmark', 67, 70],
   'GB': ['United Kingdom', 135, 170],
   'FI': ['Finland', 163, 191],
-  'BE': ['Belgium', 9, 17]
+  'BE': ['Belgium', 10, 18]
 }
