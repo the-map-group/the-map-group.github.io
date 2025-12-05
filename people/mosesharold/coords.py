@@ -2075,5 +2075,9 @@ coords_dict = {
   '-14.276777,-170.680718': ['AS', 'American Samoa'],
   '-13.833089,-171.762528': ['WS', 'Samoa'],
   '-17.538028,-149.572001': ['PF', 'French Polynesia'],
-  '-17.482654,-149.821929': ['PF', 'French Polynesia']
+  '-17.482654,-149.821929': ['PF', 'French Polynesia'],
+  '-17.492395,-149.85918': ['PF', 'French Polynesia'],
+  '-17.542365,-149.574716': ['PF', 'French Polynesia'],
+  '-17.541956,-149.573535': ['PF', 'French Polynesia'],
+  '-17.542099,-149.574244': ['PF', 'French Polynesia']
 }
