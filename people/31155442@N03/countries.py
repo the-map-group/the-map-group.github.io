@@ -12,7 +12,7 @@ countries_dict = {
   'EE': ['Estonia', 49, 65],
   'CO': ['Colombia', 54, 68],
   'AT': ['Austria', 15, 23],
-  'PA': ['Panama', 78, 125],
+  'PA': ['Panama', 79, 130],
   'CR': ['Costa Rica', 60, 70],
   'CL': ['Chile', 16, 35],
   'SG': ['Singapore', 86, 107],
