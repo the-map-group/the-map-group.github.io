@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/clairity/',
   'location': 'Minneapolis, United States',
   'countries': 7,
-  'markers': 3632,
-  'photos': 14216
+  'markers': 3633,
+  'photos': 14217
 }
