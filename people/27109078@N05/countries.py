@@ -22,6 +22,7 @@ countries_dict = {
   'PT': ['Portugal', 4, 1136],
   'ES': ['Spain', 1, 1],
   'GR': ['Greece', 1, 2],
+  'EG': ['Egypt', 1, 1],
   'EC': ['Ecuador', 4, 687],
   'ME': ['Montenegro', 1, 1],
   'TR': ['Turkey', 2, 4]
