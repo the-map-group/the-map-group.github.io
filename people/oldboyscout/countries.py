@@ -26,5 +26,6 @@ countries_dict = {
   'JP': ['Japan', 7, 9],
   'ZW': ['Zimbabwe', 50, 50],
   'ZM': ['Zambia', 3, 3],
-  'BW': ['Botswana', 15, 17]
+  'BW': ['Botswana', 15, 17],
+  'KR': ['South Korea', 1, 1]
 }
