@@ -21,6 +21,6 @@ countries_dict = {
   'ES': ['Spain', 1, 1],
   'JO': ['Jordan', 52, 52],
   'AM': ['Armenia', 74, 74],
-  'UZ': ['Uzbekistan', 114, 114],
+  'UZ': ['Uzbekistan', 117, 117],
   'TJ': ['Tajikistan', 1, 1]
 }
