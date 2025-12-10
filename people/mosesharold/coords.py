@@ -2082,5 +2082,8 @@ coords_dict = {
   '-17.542099,-149.574244': ['PF', 'French Polynesia'],
   '21.942965,-159.311113': ['US', 'United States'],
   '22.228904,-159.401589': ['US', 'United States'],
-  '22.044913,-157.368164': ['US', 'United States']
+  '22.044913,-157.368164': ['US', 'United States'],
+  '33.62148,-118.402404': ['US', 'United States'],
+  '33.669496,-118.278808': ['US', 'United States'],
+  '33.746609,-118.274345': ['US', 'United States']
 }
