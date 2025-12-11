@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/volvob12b/',
   'location': 'Christchurch, New Zealand',
   'countries': 11,
-  'markers': 3660,
-  'photos': 4865
+  'markers': 3661,
+  'photos': 4866
 }
