@@ -75,5 +75,5 @@ countries_dict = {
   'KE': ['Kenya', 12, 19],
   'SH': ['Saint Helena', 4, 4],
   'CV': ['Cape Verde', 2, 2],
-  'FJ': ['Fiji', 4, 4]
+  'FJ': ['Fiji', 6, 6]
 }
