@@ -6,7 +6,7 @@ countries_dict = {
   'US': ['United States', 424, 1208],
   'MX': ['Mexico', 2, 31],
   'AT': ['Austria', 264, 1209],
-  'IT': ['Italy', 668, 2350],
+  'IT': ['Italy', 670, 2352],
   'HU': ['Hungary', 10, 238],
   'PT': ['Portugal', 185, 336],
   'SM': ['San Marino', 6, 29],
