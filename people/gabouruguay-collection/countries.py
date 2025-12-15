@@ -3,7 +3,7 @@ countries_dict = {
   'PE': ['Peru', 40, 86],
   'MX': ['Mexico', 26, 295],
   'CL': ['Chile', 7, 15],
-  'AR': ['Argentina', 46, 136],
+  'AR': ['Argentina', 47, 137],
   'DO': ['Dominican Republic', 11, 16],
   'ZA': ['South Africa', 59, 143],
   'ES': ['Spain', 39, 96],
