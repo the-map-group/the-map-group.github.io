@@ -13,7 +13,7 @@ countries_dict = {
   'CO': ['Colombia', 54, 68],
   'AT': ['Austria', 15, 23],
   'PA': ['Panama', 79, 130],
-  'CR': ['Costa Rica', 60, 70],
+  'CR': ['Costa Rica', 62, 73],
   'CL': ['Chile', 16, 35],
   'SG': ['Singapore', 86, 107],
   'RU': ['Russia', 123, 204],
