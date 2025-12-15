@@ -5,5 +5,5 @@ countries_dict = {
   'BE': ['Belgium', 159, 392],
   'LU': ['Luxembourg', 4, 53],
   'PT': ['Portugal', 9, 29],
-  'GB': ['United Kingdom', 17, 55]
+  'GB': ['United Kingdom', 18, 56]
 }
