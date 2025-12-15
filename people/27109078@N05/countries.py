@@ -8,7 +8,7 @@ countries_dict = {
   'DE': ['Germany', 3, 140],
   'PL': ['Poland', 8, 3738],
   'IS': ['Iceland', 6, 810],
-  'AE': ['United Arab Emirates', 3, 1755],
+  'AE': ['United Arab Emirates', 3, 1754],
   'KN': ['Saint Kitts and Nevis', 1, 186],
   'AG': ['Antigua and Barbuda', 1, 378],
   'LC': ['St Lucia', 1, 295],
