@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/79080/',
   'location': 'Halifax, Nova Scotia, Canada',
   'countries': 15,
-  'markers': 246,
-  'photos': 275
+  'markers': 247,
+  'photos': 276
 }
