@@ -5,7 +5,7 @@ countries_dict = {
   'KH': ['Cambodia', 1, 24],
   'IT': ['Italy', 391, 2046],
   'SC': ['Seychelles', 9, 28],
-  'MA': ['Morocco', 189, 833],
+  'MA': ['Morocco', 207, 861],
   'US': ['United States', 51, 299],
   'TR': ['Turkey', 2, 77],
   'AU': ['Australia', 11, 67],
