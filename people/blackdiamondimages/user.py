@@ -7,5 +7,5 @@ user_info = {
   'location': 'Mid North Coast, NSW, Australia',
   'countries': 38,
   'markers': 17615,
-  'photos': 22626
+  'photos': 22627
 }
