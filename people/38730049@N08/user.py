@@ -7,5 +7,5 @@ user_info = {
   'location': 'Visalia, California, USA',
   'countries': 1,
   'markers': 1028,
-  'photos': 65597
+  'photos': 65596
 }
