@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/39442644@N03/',
   'location': 'Espoo, Finland / Suomi',
   'countries': 16,
-  'markers': 1931,
-  'photos': 2043
+  'markers': 1933,
+  'photos': 2045
 }
