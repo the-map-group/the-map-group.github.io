@@ -48,7 +48,7 @@ countries_dict = {
   'SG': ['Singapore', 7, 7],
   'IN': ['India', 20, 21],
   'LK': ['Sri Lanka', 9, 11],
-  'PF': ['French Polynesia', 37, 47],
+  'PF': ['French Polynesia', 39, 50],
   'ER': ['Eritrea', 3, 3],
   'GP': ['Guadeloupe', 7, 8],
   'KN': ['Saint Kitts and Nevis', 6, 9],
