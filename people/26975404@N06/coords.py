@@ -818,5 +818,6 @@ coords_dict = {
   '54.597248,-3.139344': ['GB', 'United Kingdom'],
   '54.53049,-3.386503': ['GB', 'United Kingdom'],
   '54.567473,-3.301048': ['GB', 'United Kingdom'],
-  '54.445492,-3.001756': ['GB', 'United Kingdom']
+  '54.445492,-3.001756': ['GB', 'United Kingdom'],
+  '54.650463,-3.361279': ['GB', 'United Kingdom']
 }
