@@ -17,7 +17,7 @@ countries_dict = {
   'BE': ['Belgium', 2, 3],
   'XK': ['Kosovo', 2, 2],
   'BA': ['Bosnia and Herzegovina', 3, 3],
-  'NP': ['Nepal', 22, 30],
+  'NP': ['Nepal', 22, 31],
   'BS': ['Bahamas', 1, 1],
   'GR': ['Greece', 3, 3],
   'RU': ['Russia', 5, 5],
