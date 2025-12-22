@@ -1,5 +1,5 @@
 countries_dict = {
-  'US': ['United States', 6751, 10871],
+  'US': ['United States', 6752, 10872],
   'AR': ['Argentina', 279, 473],
   'AQ': ['Antarctica', 67, 94],
   'CA': ['Canada', 1860, 2736],
@@ -45,7 +45,7 @@ countries_dict = {
   'VA': ['Vatican City', 25, 31],
   'BE': ['Belgium', 60, 66],
   'VI': ['U.S. Virgin Islands', 8, 19],
-  'PR': ['Puerto Rico', 11, 18],
+  'PR': ['Puerto Rico', 12, 19],
   'BR': ['Brazil', 4, 5],
   'MQ': ['Martinique', 10, 12],
   'VE': ['Venezuela', 9, 12],
