@@ -8,6 +8,6 @@ countries_dict = {
   'TZ': ['Tanzania', 331, 990],
   'NL': ['Netherlands', 1, 1],
   'TR': ['Turkey', 2, 2],
-  'KE': ['Kenya', 336, 608],
+  'KE': ['Kenya', 336, 609],
   'QA': ['Qatar', 5, 6]
 }
