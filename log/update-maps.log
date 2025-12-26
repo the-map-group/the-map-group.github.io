@@ -4053,3 +4053,22 @@ Map already has 10484 marker(s)
 Added 2 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+61876 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 426 marker(s)Batch 2/10 | 998 photo(s) in 822 marker(s)Batch 3/10 | 1498 photo(s) in 1170 marker(s)Batch 4/10 | 1998 photo(s) in 1574 marker(s)Batch 5/10 | 2498 photo(s) in 1960 marker(s)Batch 6/10 | 2542 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 5214 marker(s)
+Added 1 new photo(s) to existing markers
+16 new marker(s) will be added to the map
+Max number of markers reached. Removing 16 marker(s)...
+Added marker 1/16Added marker 2/16Added marker 3/16Added marker 4/16Added marker 5/16Added marker 6/16Added marker 7/16Added marker 8/16Added marker 9/16Added marker 10/16Added marker 11/16Added marker 12/16Added marker 13/16Added marker 14/16Added marker 15/16Added marker 16/16
+Finished!
