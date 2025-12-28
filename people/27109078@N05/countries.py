@@ -10,7 +10,7 @@ countries_dict = {
   'IS': ['Iceland', 6, 810],
   'AE': ['United Arab Emirates', 3, 1754],
   'KN': ['Saint Kitts and Nevis', 1, 186],
-  'AG': ['Antigua and Barbuda', 1, 378],
+  'AG': ['Antigua and Barbuda', 1, 376],
   'LC': ['St Lucia', 1, 295],
   'BB': ['Barbados', 1, 121],
   'PR': ['Puerto Rico', 1, 631],
