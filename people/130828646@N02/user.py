@@ -7,5 +7,5 @@ user_info = {
   'location': 'Entre-Deux, Réunion',
   'countries': 39,
   'markers': 17538,
-  'photos': 44769
+  'photos': 44772
 }
