@@ -14,7 +14,7 @@ countries_dict = {
   'LC': ['St Lucia', 1, 295],
   'BB': ['Barbados', 1, 121],
   'PR': ['Puerto Rico', 1, 631],
-  'JP': ['Japan', 10, 4556],
+  'JP': ['Japan', 10, 4554],
   'IN': ['India', 4, 2878],
   'CR': ['Costa Rica', 6, 3123],
   'VN': ['Vietnam', 2, 2],
