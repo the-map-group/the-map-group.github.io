@@ -60,7 +60,7 @@ countries_dict = {
   'NP': ['Nepal', 52, 52],
   'BR': ['Brazil', 12, 12],
   'EC': ['Ecuador', 4, 4],
-  'PT': ['Portugal', 1, 1],
+  'PT': ['Portugal', 3, 3],
   'CM': ['Cameroon', 35, 36],
   'TH': ['Thailand', 14, 15],
   'MM': ['Myanmar', 3, 3],
