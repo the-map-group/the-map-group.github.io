@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/28018306@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/ggphoto36/',
   'location': 'Monmouth, Oregon, United States',
-  'countries': 6,
-  'markers': 984,
-  'photos': 1031
+  'countries': 7,
+  'markers': 985,
+  'photos': 1032
 }
