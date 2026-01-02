@@ -32,5 +32,6 @@ countries_dict = {
   'AZ': ['Azerbaijan', 4, 6],
   'VA': ['Vatican City', 1, 3],
   'KH': ['Cambodia', 1, 1],
-  'MM': ['Myanmar', 3, 3]
+  'MM': ['Myanmar', 3, 3],
+  'PH': ['Philippines', 1, 1]
 }
