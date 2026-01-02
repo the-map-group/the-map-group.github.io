@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/michael_from_berlin/',
   'location': 'Berlin, Germany',
   'countries': 107,
-  'markers': 8291,
-  'photos': 8836
+  'markers': 8293,
+  'photos': 8838
 }
