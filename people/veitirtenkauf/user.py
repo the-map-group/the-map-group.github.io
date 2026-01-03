@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/veitirtenkauf/',
   'location': '',
   'countries': 2,
-  'markers': 65,
-  'photos': 969
+  'markers': 66,
+  'photos': 970
 }
