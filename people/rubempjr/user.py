@@ -7,5 +7,5 @@ user_info = {
   'location': 'Rio de Janeiro, Brasil',
   'countries': 13,
   'markers': 8551,
-  'photos': 22218
+  'photos': 22219
 }
