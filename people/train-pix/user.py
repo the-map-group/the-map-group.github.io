@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/train-pix/',
   'location': 'Farnborough, England',
   'countries': 18,
-  'markers': 11715,
-  'photos': 24710
+  'markers': 11716,
+  'photos': 24711
 }
