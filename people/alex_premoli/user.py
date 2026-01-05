@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/alex_premoli/',
   'location': '',
   'countries': 1,
-  'markers': 9,
-  'photos': 9
+  'markers': 7,
+  'photos': 7
 }
