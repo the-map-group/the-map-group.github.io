@@ -1,8 +1,8 @@
 countries_dict = {
-  'IT': ['Italy', 965, 7669],
+  'IT': ['Italy', 971, 7689],
   'GR': ['Greece', 644, 4176],
   'EG': ['Egypt', 34, 397],
-  'GB': ['United Kingdom', 54, 351],
+  'GB': ['United Kingdom', 56, 360],
   'FR': ['France', 2, 2],
   'US': ['United States', 251, 1454],
   'VA': ['Vatican City', 11, 173],
