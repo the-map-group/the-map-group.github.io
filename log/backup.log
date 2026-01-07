@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) c991bb3] Backup commit
- 5164 files changed, 1318009 insertions(+)
+[main (root-commit) a7c317f] Backup commit
+ 5144 files changed, 1309089 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -5049,26 +5049,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/visavis/photos/index.html
  create mode 100755 people/visavis/update-countries-map-data.py
  create mode 100644 people/visavis/user.py
- create mode 100644 people/volvob12b/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/volvob12b/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/volvob12b/__pycache__/user.cpython-311.pyc
- create mode 120000 people/volvob12b/api_credentials.py
- create mode 100644 people/volvob12b/config.py
- create mode 100644 people/volvob12b/coords.py
- create mode 100644 people/volvob12b/countries.py
- create mode 120000 people/volvob12b/countries_config.py
- create mode 120000 people/volvob12b/countries_info.py
- create mode 120000 people/volvob12b/countries_members.py
- create mode 100755 people/volvob12b/generate-map-data.py
- create mode 100644 people/volvob12b/index.html
- create mode 100644 people/volvob12b/last_total.py
- create mode 100644 people/volvob12b/locations.py
- create mode 120000 people/volvob12b/map.log
- create mode 120000 people/volvob12b/matrix.py
- create mode 120000 people/volvob12b/not_found.py
- create mode 100644 people/volvob12b/photos/index.html
- create mode 100755 people/volvob12b/update-countries-map-data.py
- create mode 100644 people/volvob12b/user.py
  create mode 100644 people/wa2wider/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/wa2wider/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/wa2wider/__pycache__/user.cpython-311.pyc
