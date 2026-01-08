@@ -23,5 +23,5 @@ countries_dict = {
   'DK': ['Denmark', 9, 12],
   'NO': ['Norway', 312, 389],
   'BR': ['Brazil', 35, 40],
-  'PE': ['Peru', 619, 1990]
+  'PE': ['Peru', 621, 1995]
 }
