@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/khoitranduc/',
   'location': 'Hanoi, Vietnam',
   'countries': 2,
-  'markers': 482,
-  'photos': 803
+  'markers': 483,
+  'photos': 804
 }
