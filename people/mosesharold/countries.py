@@ -8,7 +8,7 @@ countries_dict = {
   'NO': ['Norway', 137, 150],
   'FK': ['Falkland Islands', 40, 65],
   'AQ': ['Antarctica', 44, 47],
-  'AR': ['Argentina', 46, 50],
+  'AR': ['Argentina', 58, 62],
   'US': ['United States', 314, 420],
   'CA': ['Canada', 82, 109],
   'GB': ['United Kingdom', 470, 659],
