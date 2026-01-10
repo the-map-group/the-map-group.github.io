@@ -31,5 +31,5 @@ countries_dict = {
   'KR': ['South Korea', 3524, 3838],
   'CN': ['China', 13, 13],
   'RU': ['Russia', 3, 3],
-  'EG': ['Egypt', 5, 5]
+  'EG': ['Egypt', 6, 6]
 }
