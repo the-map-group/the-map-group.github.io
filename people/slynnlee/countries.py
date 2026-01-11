@@ -11,6 +11,6 @@ countries_dict = {
   'AU': ['Australia', 11, 13],
   'AT': ['Austria', 3, 11],
   'PT': ['Portugal', 1, 2],
-  'FR': ['France', 76, 107],
+  'FR': ['France', 76, 110],
   'GD': ['Grenada', 8, 9]
 }
