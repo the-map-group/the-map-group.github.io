@@ -1198,3 +1198,24 @@ Map already has 2528 marker(s)
 Added 1 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: fam_nordstrom...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Pierre Nordström'
+22847 photos in the photostream
+5 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 5 photo(s) in 4 marker(s)
+Adding marker(s) to map...
+Map already has 6807 marker(s)
+Added 1 new photo(s) to existing markers
+3 new marker(s) will be added to the map
+Added marker 1/3
+Added marker 2/3
+Added marker 3/3
+Finished!
