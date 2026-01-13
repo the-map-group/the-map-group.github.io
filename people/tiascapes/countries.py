@@ -9,5 +9,6 @@ countries_dict = {
   'MY': ['Malaysia', 7, 8],
   'SG': ['Singapore', 7, 7],
   'GH': ['Ghana', 2, 2],
-  'CA': ['Canada', 5, 5]
+  'CA': ['Canada', 5, 5],
+  'NZ': ['New Zealand', 1, 1]
 }

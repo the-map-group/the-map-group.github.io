@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/12744878@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/tiascapes/',
   'location': 'Seattle, Washington, USA',
-  'countries': 11,
-  'markers': 874,
-  'photos': 1251
+  'countries': 12,
+  'markers': 875,
+  'photos': 1252
 }
