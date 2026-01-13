@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm3.staticflickr.com/2880/buddyicons/61804295@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/spelio/',
   'location': '',
-  'countries': 0,
-  'markers': 0,
-  'photos': 0
+  'countries': 7,
+  'markers': 5131,
+  'photos': 6802
 }
