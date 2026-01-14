@@ -14,5 +14,5 @@ countries_dict = {
   'BO': ['Bolivia', 1, 1],
   'IS': ['Iceland', 16, 28],
   'JO': ['Jordan', 3, 9],
-  'NO': ['Norway', 14, 19]
+  'NO': ['Norway', 15, 20]
 }
