@@ -30,7 +30,7 @@ countries_dict = {
   'MA': ['Morocco', 6, 12],
   'DO': ['Dominican Republic', 1, 11],
   'GI': ['Gibraltar', 7, 27],
-  'FR': ['France', 225, 402],
+  'FR': ['France', 228, 406],
   'EC': ['Ecuador', 139, 303],
   'BZ': ['Belize', 55, 97],
   'RU': ['Russia', 10, 12],
