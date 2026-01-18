@@ -681,3 +681,38 @@ Map already has 161 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: 7.75 mil views - Tha...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Stanley Eastwood'
+41163 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: pascalvu1...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Pascal VU'
+40939 photos in the photostream
+15 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 15 photo(s) in 7 marker(s)
+Adding marker(s) to map...
+Map already has 7230 marker(s)
+7 new marker(s) will be added to the map
+Added marker 1/7
+Added marker 2/7
+Added marker 3/7
+Added marker 4/7
+Added marker 5/7
+Added marker 6/7
+Added marker 7/7
+Finished!
