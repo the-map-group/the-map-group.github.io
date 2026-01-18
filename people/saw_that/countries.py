@@ -6,7 +6,7 @@ countries_dict = {
   'FR': ['France', 14, 19],
   'DE': ['Germany', 3, 4],
   'CD': ['Democratic Republic of the Congo', 1, 1],
-  'CU': ['Cuba', 147, 326],
+  'CU': ['Cuba', 147, 327],
   'ET': ['Ethiopia', 1, 1],
   'TW': ['Taiwan', 1, 1],
   'CN': ['China', 1, 1],
