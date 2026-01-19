@@ -6,7 +6,7 @@ countries_dict = {
   'US': ['United States', 8, 288],
   'TH': ['Thailand', 4, 1987],
   'DE': ['Germany', 3, 140],
-  'PL': ['Poland', 8, 3711],
+  'PL': ['Poland', 8, 3704],
   'IS': ['Iceland', 6, 810],
   'AE': ['United Arab Emirates', 3, 1752],
   'KN': ['Saint Kitts and Nevis', 1, 186],
