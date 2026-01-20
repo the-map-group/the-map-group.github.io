@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/1one/',
   'location': '2020年から鎌倉と東京, ♞7FJ♘-TOKYO -♥A -☀東京♌',
   'countries': 8,
-  'markers': 3303,
-  'photos': 37303
+  'markers': 3304,
+  'photos': 37304
 }
