@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm4.staticflickr.com/3218/buddyicons/32557441@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/santelia/',
   'location': 'Milano, Italia',
-  'countries': 33,
-  'markers': 738,
-  'photos': 1145
+  'countries': 34,
+  'markers': 740,
+  'photos': 1147
 }

@@ -12,7 +12,7 @@ countries_dict = {
   'AT': ['Austria', 1, 1],
   'FR': ['France', 23, 28],
   'LV': ['Latvia', 2, 9],
-  'DE': ['Germany', 8, 11],
+  'DE': ['Germany', 9, 12],
   'LT': ['Lithuania', 1, 2],
   'GI': ['Gibraltar', 1, 1],
   'GR': ['Greece', 22, 37],
@@ -31,5 +31,6 @@ countries_dict = {
   'BE': ['Belgium', 2, 2],
   'PT': ['Portugal', 2, 3],
   'NO': ['Norway', 4, 4],
-  'DK': ['Denmark', 5, 6]
+  'DK': ['Denmark', 5, 6],
+  'IS': ['Iceland', 1, 1]
 }
