@@ -3,7 +3,7 @@ countries_dict = {
   'DE': ['Germany', 23, 24],
   'IS': ['Iceland', 820, 1068],
   'CH': ['Switzerland', 7, 7],
-  'FI': ['Finland', 88, 121],
+  'FI': ['Finland', 89, 122],
   'NL': ['Netherlands', 19, 20],
   'GB': ['United Kingdom', 774, 914],
   'IE': ['Ireland', 208, 254],
