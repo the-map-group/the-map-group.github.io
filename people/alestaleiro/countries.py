@@ -3,7 +3,7 @@ countries_dict = {
   'AR': ['Argentina', 218, 242],
   'CL': ['Chile', 26, 31],
   'PE': ['Peru', 14, 24],
-  'IT': ['Italy', 251, 303],
+  'IT': ['Italy', 256, 312],
   'FR': ['France', 199, 258],
   'DE': ['Germany', 26, 31],
   'BE': ['Belgium', 2, 2],
