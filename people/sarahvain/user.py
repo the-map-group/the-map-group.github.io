@@ -7,5 +7,5 @@ user_info = {
   'location': 'Sonoma, CA, USA',
   'countries': 14,
   'markers': 13821,
-  'photos': 18959
+  'photos': 18960
 }
