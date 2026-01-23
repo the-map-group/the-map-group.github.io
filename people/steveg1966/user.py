@@ -7,5 +7,5 @@ user_info = {
   'location': 'Mesa, AZ, USA',
   'countries': 1,
   'markers': 65,
-  'photos': 100
+  'photos': 101
 }
