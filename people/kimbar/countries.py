@@ -8,7 +8,7 @@ countries_dict = {
   'DE': ['Germany', 298, 331],
   'HR': ['Croatia', 15, 23],
   'SK': ['Slovakia', 3, 5],
-  'JP': ['Japan', 65, 124],
+  'JP': ['Japan', 67, 126],
   'CN': ['China', 35, 94],
   'AU': ['Australia', 8, 22],
   'FR': ['France', 245, 415],
