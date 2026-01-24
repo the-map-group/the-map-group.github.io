@@ -2,10 +2,10 @@ user_info = {
   'id': '201893571@N02',
   'alias': '201893571@N02',
   'name': 'Dominic Woodward',
-  'avatar': 'https://raw.githubusercontent.com/the-map-group/the-map-group.github.io/refs/heads/main/icons/photographer.svg',
+  'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/201893571@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/201893571@N02/',
   'location': '',
   'countries': 13,
-  'markers': 93,
-  'photos': 128
+  'markers': 94,
+  'photos': 129
 }
