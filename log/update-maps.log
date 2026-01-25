@@ -2800,3 +2800,33 @@ Added 1 new photo(s) to existing markers
 Added marker 1/2
 Added marker 2/2
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: dccwoodward...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Dominic Woodward'
+130 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+62610 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 457 marker(s)Batch 2/10 | 1000 photo(s) in 878 marker(s)Batch 3/10 | 1499 photo(s) in 1274 marker(s)Batch 4/10 | 1998 photo(s) in 1620 marker(s)Batch 5/10 | 2493 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 5842 marker(s)
+Added 4 new photo(s) to existing markers
+17 new marker(s) will be added to the map
+Max number of markers reached. Removing 17 marker(s)...
+Added marker 1/17Added marker 2/17Added marker 3/17Added marker 4/17Added marker 5/17Added marker 6/17Added marker 7/17Added marker 8/17Added marker 9/17Added marker 10/17Added marker 11/17Added marker 12/17Added marker 13/17Added marker 14/17Added marker 15/17Added marker 16/17Added marker 17/17
+Finished!
