@@ -7,5 +7,5 @@ user_info = {
   'location': 'Magdeburg, Germany',
   'countries': 25,
   'markers': 8734,
-  'photos': 9280
+  'photos': 9281
 }
