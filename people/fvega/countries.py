@@ -8,5 +8,5 @@ countries_dict = {
   'GB': ['United Kingdom', 774, 914],
   'IE': ['Ireland', 208, 254],
   'NO': ['Norway', 193, 245],
-  'SE': ['Sweden', 126, 157]
+  'SE': ['Sweden', 128, 160]
 }
