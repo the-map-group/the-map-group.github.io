@@ -7,5 +7,5 @@ user_info = {
   'location': 'Lecco, Italia',
   'countries': 13,
   'markers': 236,
-  'photos': 292
+  'photos': 293
 }
