@@ -4,8 +4,8 @@ user_info = {
   'name': 'Steve Gonzales',
   'avatar': 'https://farm4.staticflickr.com/3804/buddyicons/101499638@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/steveg1966/',
-  'location': 'Mesa, AZ, USA',
+  'location': 'Ellisville, MS, USA',
   'countries': 1,
   'markers': 65,
-  'photos': 101
+  'photos': 102
 }
