@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/16938270@N00/',
   'location': 'Imbil, Australia',
   'countries': 35,
-  'markers': 1158,
-  'photos': 1250
+  'markers': 1160,
+  'photos': 1252
 }
