@@ -1,4 +1,4 @@
 countries_dict = {
-  'GB': ['United Kingdom', 4272, 6123],
+  'GB': ['United Kingdom', 4273, 6124],
   'PT': ['Portugal', 10, 11]
 }
