@@ -16,7 +16,7 @@ countries_dict = {
   'BS': ['Bahamas', 9, 10],
   'ES': ['Spain', 40, 45],
   'PT': ['Portugal', 3, 3],
-  'GG': ['Guernsey', 4, 5],
+  'GG': ['Guernsey', 5, 6],
   'LC': ['St Lucia', 3, 3],
   'NO': ['Norway', 1, 1],
   'HN': ['Honduras', 5, 7],
