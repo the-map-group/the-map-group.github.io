@@ -6,7 +6,7 @@ countries_dict = {
   'KZ': ['Kazakhstan', 2, 3],
   'IT': ['Italy', 30, 54],
   'SA': ['Saudi Arabia', 4, 4],
-  'FR': ['France', 38, 98],
+  'FR': ['France', 39, 99],
   'ES': ['Spain', 38, 72],
   'BR': ['Brazil', 5, 8],
   'GR': ['Greece', 3, 17],
