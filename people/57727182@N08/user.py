@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/57727182@N08/',
   'location': 'Kilwinning',
   'countries': 12,
-  'markers': 464,
-  'photos': 14205
+  'markers': 465,
+  'photos': 14223
 }
