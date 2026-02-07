@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/samkong33/',
   'location': 'Madison, USA',
   'countries': 1,
-  'markers': 60,
-  'photos': 61
+  'markers': 61,
+  'photos': 62
 }
