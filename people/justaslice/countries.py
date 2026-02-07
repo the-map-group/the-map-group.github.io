@@ -2,7 +2,7 @@ countries_dict = {
   'CA': ['Canada', 1, 1],
   'TH': ['Thailand', 6, 9],
   'NL': ['Netherlands', 14, 18],
-  'US': ['United States', 869, 1276],
+  'US': ['United States', 870, 1278],
   'CN': ['China', 366, 494],
   'MY': ['Malaysia', 397, 534],
   'JP': ['Japan', 47, 61],
