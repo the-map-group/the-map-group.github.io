@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/miguelanxo57/',
   'location': 'Santiago de Compostela, Spain',
   'countries': 9,
-  'markers': 404,
-  'photos': 454
+  'markers': 405,
+  'photos': 455
 }
