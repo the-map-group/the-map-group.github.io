@@ -1,10 +1,10 @@
 countries_dict = {
-  'IT': ['Italy', 125, 141],
+  'IT': ['Italy', 126, 142],
   'MA': ['Morocco', 12, 14],
   'FR': ['France', 75, 87],
   'PT': ['Portugal', 14, 22],
-  'ME': ['Montenegro', 827, 924],
-  'ES': ['Spain', 115, 134],
+  'ME': ['Montenegro', 828, 925],
+  'ES': ['Spain', 116, 135],
   'HR': ['Croatia', 54, 61],
   'CZ': ['Czech Republic', 52, 61],
   'GR': ['Greece', 86, 97],
