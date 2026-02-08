@@ -7,5 +7,5 @@ user_info = {
   'location': 'Maribor, Slovenia',
   'countries': 4,
   'markers': 384,
-  'photos': 410
+  'photos': 411
 }
