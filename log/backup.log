@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) e0686a7] Backup commit
- 5164 files changed, 1319649 insertions(+)
+[main (root-commit) a4fc994] Backup commit
+ 5184 files changed, 1334998 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -3826,6 +3826,26 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/kimbar/photos/index.html
  create mode 100755 people/kimbar/update-countries-map-data.py
  create mode 100644 people/kimbar/user.py
+ create mode 100644 people/kpmst7/__pycache__/countries.cpython-311.pyc
+ create mode 100644 people/kpmst7/__pycache__/countries_members.cpython-311.pyc
+ create mode 100644 people/kpmst7/__pycache__/user.cpython-311.pyc
+ create mode 120000 people/kpmst7/api_credentials.py
+ create mode 100644 people/kpmst7/config.py
+ create mode 100644 people/kpmst7/coords.py
+ create mode 100644 people/kpmst7/countries.py
+ create mode 120000 people/kpmst7/countries_config.py
+ create mode 120000 people/kpmst7/countries_info.py
+ create mode 120000 people/kpmst7/countries_members.py
+ create mode 100755 people/kpmst7/generate-map-data.py
+ create mode 100644 people/kpmst7/index.html
+ create mode 100644 people/kpmst7/last_total.py
+ create mode 100644 people/kpmst7/locations.py
+ create mode 120000 people/kpmst7/map.log
+ create mode 120000 people/kpmst7/matrix.py
+ create mode 120000 people/kpmst7/not_found.py
+ create mode 100644 people/kpmst7/photos/index.html
+ create mode 100755 people/kpmst7/update-countries-map-data.py
+ create mode 100644 people/kpmst7/user.py
  create mode 100644 people/lemmo2009/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/lemmo2009/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/lemmo2009/__pycache__/user.cpython-311.pyc
