@@ -2,7 +2,7 @@ countries_dict = {
   'BS': ['Bahamas', 9, 10],
   'US': ['United States', 45, 57],
   'CA': ['Canada', 1, 1],
-  'IE': ['Ireland', 8, 8],
+  'IE': ['Ireland', 8, 9],
   'CZ': ['Czech Republic', 5, 7],
   'SK': ['Slovakia', 3, 4],
   'MA': ['Morocco', 2, 6],
