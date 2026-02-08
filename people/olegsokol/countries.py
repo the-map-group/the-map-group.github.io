@@ -3,7 +3,7 @@ countries_dict = {
   'JP': ['Japan', 11, 11],
   'TW': ['Taiwan', 5, 5],
   'SE': ['Sweden', 11, 12],
-  'FR': ['France', 36, 37],
+  'FR': ['France', 37, 38],
   'PR': ['Puerto Rico', 9, 9],
   'DE': ['Germany', 26, 26],
   'CN': ['China', 46, 57],
