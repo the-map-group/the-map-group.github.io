@@ -2163,3 +2163,36 @@ Added marker 32/34
 Added marker 33/34
 Added marker 34/34
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: dwightcarr_77...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Dwight Carr'
+12 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: D-Stanley...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'David Stanley'
+10130 photos in the photostream
+6 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 6 photo(s) in 5 marker(s)
+Adding marker(s) to map...
+Map already has 8623 marker(s)
+Added 2 new photo(s) to existing markers
+4 new marker(s) will be added to the map
+Added marker 1/4
+Added marker 2/4
+Added marker 3/4
+Added marker 4/4
+Finished!
