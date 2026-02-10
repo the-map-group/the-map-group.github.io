@@ -4,7 +4,7 @@ countries_dict = {
   'CN': ['China', 3, 3],
   'US': ['United States', 12, 12],
   'ID': ['Indonesia', 58, 67],
-  'IE': ['Ireland', 28, 31],
+  'IE': ['Ireland', 29, 32],
   'NZ': ['New Zealand', 38, 38],
   'DE': ['Germany', 93, 98],
   'SB': ['Solomon Islands', 34, 37],
