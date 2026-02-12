@@ -8,5 +8,6 @@ countries_dict = {
   'HR': ['Croatia', 1, 1],
   'FR': ['France', 6, 6],
   'US': ['United States', 37, 37],
-  'TN': ['Tunisia', 2, 2]
+  'TN': ['Tunisia', 2, 2],
+  'DE': ['Germany', 1, 1]
 }
