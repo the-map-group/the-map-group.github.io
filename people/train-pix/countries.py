@@ -2,7 +2,7 @@ countries_dict = {
   'GB': ['United Kingdom', 9236, 21130],
   'HR': ['Croatia', 5, 9],
   'DE': ['Germany', 375, 485],
-  'AT': ['Austria', 71, 95],
+  'AT': ['Austria', 71, 96],
   'HU': ['Hungary', 22, 32],
   'RS': ['Serbia', 3, 3],
   'FR': ['France', 452, 674],
