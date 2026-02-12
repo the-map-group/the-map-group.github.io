@@ -22,7 +22,7 @@ countries_dict = {
   'MK': ['North Macedonia', 20, 29],
   'BG': ['Bulgaria', 19, 19],
   'SI': ['Slovenia', 3, 3],
-  'HR': ['Croatia', 11, 20],
+  'HR': ['Croatia', 14, 24],
   'IN': ['India', 1, 1],
   'RS': ['Serbia', 1, 1],
   'NL': ['Netherlands', 15, 15],
