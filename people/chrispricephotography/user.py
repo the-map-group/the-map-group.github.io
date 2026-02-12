@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/chrispricephotography/',
   'location': 'Blacksburg, VA, USA',
   'countries': 10,
-  'markers': 1172,
-  'photos': 1661
+  'markers': 1173,
+  'photos': 1662
 }
