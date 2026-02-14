@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/19239093@N03/',
   'location': 'Strasbourg, France',
   'countries': 3,
-  'markers': 8851,
-  'photos': 11794
+  'markers': 8856,
+  'photos': 11799
 }
