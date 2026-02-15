@@ -4,7 +4,7 @@ countries_dict = {
   'CN': ['China', 18, 19],
   'EE': ['Estonia', 1, 1],
   'AU': ['Australia', 32, 47],
-  'GB': ['United Kingdom', 16, 23],
+  'GB': ['United Kingdom', 18, 25],
   'CH': ['Switzerland', 10, 11],
   'ES': ['Spain', 25, 32],
   'LK': ['Sri Lanka', 1, 1],
