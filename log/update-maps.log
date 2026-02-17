@@ -2742,3 +2742,44 @@ Map already has 99 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: The Very Best of Yur...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Yuri Novitsky'
+230 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: kpmst7...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'kpmst7'
+6382 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+69562 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 377 marker(s)Batch 2/10 | 1000 photo(s) in 684 marker(s)Batch 3/10 | 1500 photo(s) in 1081 marker(s)Batch 4/10 | 2000 photo(s) in 1435 marker(s)Batch 5/10 | 2500 photo(s) in 1760 marker(s)Batch 6/10 | 2850 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 8157 marker(s)
+Added 4 new photo(s) to existing markers
+17 new marker(s) will be added to the map
+Max number of markers reached. Removing 17 marker(s)...
+Added marker 1/17Added marker 2/17Added marker 3/17Added marker 4/17Added marker 5/17Added marker 6/17Added marker 7/17Added marker 8/17Added marker 9/17Added marker 10/17Added marker 11/17Added marker 12/17Added marker 13/17Added marker 14/17Added marker 15/17Added marker 16/17Added marker 17/17
+Finished!
