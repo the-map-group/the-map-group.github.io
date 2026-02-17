@@ -12,7 +12,7 @@ countries_dict = {
   'IM': ['Isle of Man', 1, 2],
   'TH': ['Thailand', 4, 4],
   'IT': ['Italy', 8, 9],
-  'FR': ['France', 21, 23],
+  'FR': ['France', 21, 24],
   'DE': ['Germany', 20, 23],
   'BE': ['Belgium', 2, 3],
   'XK': ['Kosovo', 2, 2],
