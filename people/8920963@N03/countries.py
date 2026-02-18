@@ -1,5 +1,5 @@
 countries_dict = {
-  'DK': ['Denmark', 7143, 10884],
+  'DK': ['Denmark', 7144, 10885],
   'CY': ['Cyprus', 411, 481],
   'NL': ['Netherlands', 6, 6],
   'TY': ['Northern Cyprus', 10, 10],
