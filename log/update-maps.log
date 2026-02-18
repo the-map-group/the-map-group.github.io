@@ -2471,3 +2471,25 @@ Map already has 6975 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Urban Florida Photog...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Urban Florida Photographer'
+14313 photos in the photostream
+19 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 5 photo(s) in 5 marker(s)
+Adding marker(s) to map...
+Map already has 8934 marker(s)
+5 new marker(s) will be added to the map
+Added marker 1/5
+Added marker 2/5
+Added marker 3/5
+Added marker 4/5
+Added marker 5/5
+Finished!
