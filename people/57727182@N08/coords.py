@@ -243,5 +243,8 @@ coords_dict = {
   '43.844927,4.359683': ['FR', 'France'],
   '54.211175,-0.288777': ['GB', 'United Kingdom'],
   '54.210749,-0.288863': ['GB', 'United Kingdom'],
-  '54.211225,-0.28882': ['GB', 'United Kingdom']
+  '54.211225,-0.28882': ['GB', 'United Kingdom'],
+  '53.742391,-0.201745': ['GB', 'United Kingdom'],
+  '53.742569,-0.201745': ['GB', 'United Kingdom'],
+  '53.742492,-0.202002': ['GB', 'United Kingdom']
 }
