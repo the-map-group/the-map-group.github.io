@@ -7,5 +7,5 @@ countries_dict = {
   'JM': ['Jamaica', 155, 188],
   'AZ': ['Azerbaijan', 96, 116],
   'IN': ['India', 429, 558],
-  'GR': ['Greece', 65, 82]
+  'GR': ['Greece', 66, 83]
 }
