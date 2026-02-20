@@ -4,7 +4,7 @@ countries_dict = {
   'CH': ['Switzerland', 18, 43],
   'AT': ['Austria', 16, 28],
   'FR': ['France', 92, 204],
-  'IT': ['Italy', 115, 313],
+  'IT': ['Italy', 117, 315],
   'LU': ['Luxembourg', 6, 16],
   'HR': ['Croatia', 7, 18],
   'PL': ['Poland', 1, 3],
