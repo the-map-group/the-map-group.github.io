@@ -12,5 +12,5 @@ countries_dict = {
   'AD': ['Andorra', 3, 6],
   'ES': ['Spain', 5, 8],
   'PT': ['Portugal', 2, 5],
-  'BE': ['Belgium', 3, 3]
+  'BE': ['Belgium', 4, 4]
 }
