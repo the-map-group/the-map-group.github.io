@@ -377,3 +377,24 @@ Map already has 779 marker(s)
 1 new marker(s) will be added to the map
 Added marker 1/1
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Black Diamond Images...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Black Diamond Images'
+31756 photos in the photostream
+4 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 4 photo(s) in 4 marker(s)
+Adding marker(s) to map...
+Map already has 17698 marker(s)
+4 new marker(s) will be added to the map
+Added marker 1/4
+Added marker 2/4
+Added marker 3/4
+Added marker 4/4
+Finished!
