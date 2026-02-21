@@ -6,7 +6,7 @@ countries_dict = {
   'AE': ['United Arab Emirates', 91, 227],
   'OM': ['Oman', 339, 722],
   'IN': ['India', 37, 87],
-  'SC': ['Seychelles', 278, 415],
+  'SC': ['Seychelles', 280, 421],
   'ZA': ['South Africa', 308, 491],
   'SZ': ['Eswatini', 22, 49],
   'CH': ['Switzerland', 4, 4],
