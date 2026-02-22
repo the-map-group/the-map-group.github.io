@@ -1,9 +1,9 @@
 countries_dict = {
-  'GB': ['United Kingdom', 37315, 48958],
+  'GB': ['United Kingdom', 37336, 49049],
   'AE': ['United Arab Emirates', 167, 175],
   'AU': ['Australia', 422, 778],
   'NL': ['Netherlands', 29, 33],
-  'US': ['United States', 234, 654],
+  'US': ['United States', 237, 664],
   'IT': ['Italy', 327, 496],
   'BE': ['Belgium', 114, 266],
   'DK': ['Denmark', 40, 140],
