@@ -32,5 +32,5 @@ countries_dict = {
   'PT': ['Portugal', 2, 3],
   'NO': ['Norway', 4, 4],
   'DK': ['Denmark', 5, 6],
-  'IS': ['Iceland', 2, 2]
+  'IS': ['Iceland', 3, 3]
 }
