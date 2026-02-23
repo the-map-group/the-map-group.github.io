@@ -5,7 +5,7 @@ countries_dict = {
   'ES': ['Spain', 22, 24],
   'AD': ['Andorra', 2, 2],
   'ST': ['Sao Tome and Principe', 103, 110],
-  'US': ['United States', 3, 3],
+  'US': ['United States', 4, 4],
   'IT': ['Italy', 1, 1],
   'CV': ['Cape Verde', 35, 39]
 }
