@@ -5,5 +5,6 @@ countries_dict = {
   'BB': ['Barbados', 1, 1],
   'PR': ['Puerto Rico', 2, 2],
   'SK': ['Slovakia', 3, 6],
-  'GP': ['Guadeloupe', 1, 2]
+  'GP': ['Guadeloupe', 1, 2],
+  'HU': ['Hungary', 1, 1]
 }

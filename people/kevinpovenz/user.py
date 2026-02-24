@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/19613665@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/kevinpovenz/',
   'location': 'Jenison Michigan, United States',
-  'countries': 7,
-  'markers': 905,
-  'photos': 3109
+  'countries': 8,
+  'markers': 906,
+  'photos': 3110
 }
