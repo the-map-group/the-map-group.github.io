@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/atila_y/',
   'location': 'Istanbul, Turkey',
   'countries': 22,
-  'markers': 1431,
-  'photos': 1634
+  'markers': 1432,
+  'photos': 1636
 }
