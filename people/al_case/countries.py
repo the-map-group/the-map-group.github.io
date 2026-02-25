@@ -10,7 +10,7 @@ countries_dict = {
   'DE': ['Germany', 4, 4],
   'CH': ['Switzerland', 14, 14],
   'KR': ['South Korea', 8, 8],
-  'IT': ['Italy', 8, 8],
+  'IT': ['Italy', 9, 9],
   'NO': ['Norway', 4, 4],
   'HU': ['Hungary', 4, 4],
   'EE': ['Estonia', 5, 5],
