@@ -60,7 +60,7 @@ countries_dict = {
   'MY': ['Malaysia', 1, 2],
   'OM': ['Oman', 4, 11],
   'SC': ['Seychelles', 3, 5],
-  'CZ': ['Czech Republic', 87, 100],
+  'CZ': ['Czech Republic', 88, 102],
   'CU': ['Cuba', 73, 114],
   'CO': ['Colombia', 82, 104],
   'HN': ['Honduras', 5, 5],
