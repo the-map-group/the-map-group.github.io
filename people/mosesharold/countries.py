@@ -63,7 +63,7 @@ countries_dict = {
   'FR': ['France', 11, 14],
   'TH': ['Thailand', 6, 7],
   'MG': ['Madagascar', 12, 20],
-  'MA': ['Morocco', 2, 2],
+  'MA': ['Morocco', 3, 3],
   'GI': ['Gibraltar', 6, 7],
   'VG': ['British Virgin Islands', 2, 2],
   'CW': ['Curaçao', 9, 12],
