@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/oldboyscout/',
   'location': '',
   'countries': 29,
-  'markers': 2522,
-  'photos': 2809
+  'markers': 2524,
+  'photos': 2811
 }
