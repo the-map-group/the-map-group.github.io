@@ -1,5 +1,5 @@
 countries_dict = {
-  'AU': ['Australia', 13400, 16507],
+  'AU': ['Australia', 13411, 16531],
   'NZ': ['New Zealand', 716, 892],
   'IT': ['Italy', 16, 16],
   'AL': ['Albania', 2, 2],
@@ -9,12 +9,12 @@ countries_dict = {
   'GB': ['United Kingdom', 6, 6],
   'AT': ['Austria', 25, 33],
   'HR': ['Croatia', 1, 1],
-  'CH': ['Switzerland', 573, 645],
+  'CH': ['Switzerland', 576, 648],
   'DE': ['Germany', 218, 286],
   'SG': ['Singapore', 90, 532],
   'GR': ['Greece', 1, 2],
   'US': ['United States', 871, 1032],
-  'CA': ['Canada', 384, 557],
+  'CA': ['Canada', 385, 566],
   'JP': ['Japan', 46, 47],
   'CL': ['Chile', 123, 299],
   'NF': ['Norfolk Island', 275, 282],
@@ -32,9 +32,10 @@ countries_dict = {
   'TR': ['Turkey', 21, 32],
   'BG': ['Bulgaria', 3, 11],
   'RO': ['Romania', 11, 24],
+  'IS': ['Iceland', 1, 1],
   'IE': ['Ireland', 2, 2],
   'VN': ['Vietnam', 392, 413],
   'LI': ['Liechtenstein', 22, 23],
-  'FJ': ['Fiji', 7, 8],
+  'FJ': ['Fiji', 8, 9],
   'MY': ['Malaysia', 1, 1]
 }

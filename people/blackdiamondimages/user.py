@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm6.staticflickr.com/5084/buddyicons/97974874@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/blackdiamondimages/',
   'location': 'Mid North Coast, NSW, Australia',
-  'countries': 38,
-  'markers': 17712,
-  'photos': 22748
+  'countries': 39,
+  'markers': 17729,
+  'photos': 22786
 }
