@@ -1,6 +1,6 @@
 countries_dict = {
   'PE': ['Peru', 7, 12],
-  'US': ['United States', 8790, 13720],
+  'US': ['United States', 8808, 13734],
   'GT': ['Guatemala', 15, 23],
   'ES': ['Spain', 17, 32],
   'CA': ['Canada', 6, 13],
@@ -16,7 +16,7 @@ countries_dict = {
   'CW': ['Curaçao', 12, 41],
   'HN': ['Honduras', 30, 61],
   'TC': ['Turks and Caicos Islands', 2, 37],
-  'CU': ['Cuba', 8, 9],
+  'CU': ['Cuba', 4, 5],
   'IT': ['Italy', 1, 3],
   'HR': ['Croatia', 8, 10],
   'TR': ['Turkey', 10, 19],
