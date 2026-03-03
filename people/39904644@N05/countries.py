@@ -8,7 +8,7 @@ countries_dict = {
   'NO': ['Norway', 224, 245],
   'AT': ['Austria', 26, 26],
   'TH': ['Thailand', 2, 2],
-  'IS': ['Iceland', 433, 498],
+  'IS': ['Iceland', 434, 499],
   'SE': ['Sweden', 9, 9],
   'GR': ['Greece', 50, 56],
   'PT': ['Portugal', 52, 69],
