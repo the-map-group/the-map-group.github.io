@@ -48,7 +48,7 @@ countries_dict = {
   'KR': ['South Korea', 1, 1],
   'IN': ['India', 520, 544],
   'PL': ['Poland', 318, 325],
-  'CA': ['Canada', 92, 93],
+  'CA': ['Canada', 93, 94],
   'JO': ['Jordan', 330, 354],
   'MG': ['Madagascar', 392, 413],
   'PT': ['Portugal', 630, 637],
