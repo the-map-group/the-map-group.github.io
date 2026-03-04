@@ -1,5 +1,5 @@
 countries_dict = {
-  'BR': ['Brazil', 2657, 3757],
+  'BR': ['Brazil', 2658, 3758],
   'AR': ['Argentina', 218, 242],
   'CL': ['Chile', 26, 31],
   'PE': ['Peru', 14, 24],
