@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/mikaelsoederberg/',
   'location': '',
   'countries': 5,
-  'markers': 406,
-  'photos': 482
+  'markers': 411,
+  'photos': 488
 }
