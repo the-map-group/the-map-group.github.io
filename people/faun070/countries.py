@@ -1,7 +1,7 @@
 countries_dict = {
   'IT': ['Italy', 712, 2006],
   'RU': ['Russia', 852, 2768],
-  'US': ['United States', 2474, 4176],
+  'US': ['United States', 2475, 4177],
   'MX': ['Mexico', 1, 1],
   'VA': ['Vatican City', 6, 22],
   'NL': ['Netherlands', 1479, 5868],
