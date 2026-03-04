@@ -2,7 +2,7 @@ countries_dict = {
   'US': ['United States', 6936, 11255],
   'AR': ['Argentina', 279, 473],
   'AQ': ['Antarctica', 67, 94],
-  'CA': ['Canada', 1901, 2857],
+  'CA': ['Canada', 1907, 2868],
   'IT': ['Italy', 269, 353],
   'ES': ['Spain', 215, 306],
   'AU': ['Australia', 207, 263],
