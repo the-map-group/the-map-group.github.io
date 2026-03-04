@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm8.staticflickr.com/7322/buddyicons/86411192@N06_r.jpg',
   'url': 'https://www.flickr.com/photos/lucchesefabrizio/',
   'location': 'Udine, Italy',
-  'countries': 24,
-  'markers': 1437,
-  'photos': 1445
+  'countries': 25,
+  'markers': 1439,
+  'photos': 1447
 }

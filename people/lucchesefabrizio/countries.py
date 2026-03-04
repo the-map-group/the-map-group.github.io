@@ -2,7 +2,7 @@ countries_dict = {
   'AT': ['Austria', 141, 142],
   'RO': ['Romania', 145, 145],
   'SI': ['Slovenia', 10, 10],
-  'IT': ['Italy', 495, 499],
+  'IT': ['Italy', 496, 500],
   'PL': ['Poland', 10, 10],
   'NP': ['Nepal', 5, 5],
   'DE': ['Germany', 109, 109],
@@ -22,5 +22,6 @@ countries_dict = {
   'JO': ['Jordan', 52, 52],
   'AM': ['Armenia', 74, 74],
   'UZ': ['Uzbekistan', 119, 119],
-  'TJ': ['Tajikistan', 1, 1]
+  'TJ': ['Tajikistan', 1, 1],
+  'IE': ['Ireland', 1, 1]
 }
