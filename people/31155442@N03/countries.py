@@ -58,6 +58,6 @@ countries_dict = {
   'PT': ['Portugal', 121, 144],
   'MA': ['Morocco', 16, 19],
   'GI': ['Gibraltar', 7, 10],
-  'MT': ['Malta', 81, 116],
+  'MT': ['Malta', 89, 125],
   'GD': ['Grenada', 6, 21]
 }
