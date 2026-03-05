@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/201893571@N02_r.jpg',
   'url': 'https://www.flickr.com/photos/201893571@N02/',
   'location': '',
-  'countries': 14,
-  'markers': 102,
-  'photos': 139
+  'countries': 15,
+  'markers': 103,
+  'photos': 140
 }
