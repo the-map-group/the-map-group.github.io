@@ -247,5 +247,8 @@ coords_dict = {
   '53.742391,-0.201745': ['GB', 'United Kingdom'],
   '53.742569,-0.201745': ['GB', 'United Kingdom'],
   '53.742492,-0.202002': ['GB', 'United Kingdom'],
-  '54.279075,-0.400485': ['GB', 'United Kingdom']
+  '54.279075,-0.400485': ['GB', 'United Kingdom'],
+  '53.373773,-3.186635': ['GB', 'United Kingdom'],
+  '54.110942,-0.977783': ['GB', 'United Kingdom'],
+  '54.572061,-1.933593': ['GB', 'United Kingdom']
 }
