@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/benandlarry/',
   'location': 'Canada',
   'countries': 33,
-  'markers': 10612,
-  'photos': 50823
+  'markers': 10613,
+  'photos': 50825
 }
