@@ -6,7 +6,7 @@ countries_dict = {
   'RU': ['Russia', 21, 21],
   'AM': ['Armenia', 31, 33],
   'JO': ['Jordan', 12, 12],
-  'AE': ['United Arab Emirates', 14, 14],
+  'AE': ['United Arab Emirates', 13, 13],
   'HR': ['Croatia', 4, 4],
   'HU': ['Hungary', 2, 2],
   'AT': ['Austria', 5, 5],
