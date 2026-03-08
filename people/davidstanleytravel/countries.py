@@ -3,7 +3,7 @@ countries_dict = {
   'AW': ['Aruba', 20, 30],
   'GI': ['Gibraltar', 18, 23],
   'ES': ['Spain', 239, 296],
-  'GB': ['United Kingdom', 207, 226],
+  'GB': ['United Kingdom', 210, 231],
   'FO': ['Faroe Islands', 5, 10],
   'CN': ['China', 259, 300],
   'KP': ['North Korea', 53, 53],
