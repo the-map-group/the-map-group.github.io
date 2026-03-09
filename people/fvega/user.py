@@ -7,5 +7,5 @@ user_info = {
   'location': 'Sa Rapita, Spain',
   'countries': 10,
   'markers': 3779,
-  'photos': 5926
+  'photos': 5928
 }
