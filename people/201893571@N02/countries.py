@@ -16,5 +16,6 @@ countries_dict = {
   'IT': ['Italy', 1, 1],
   'VA': ['Vatican City', 1, 1],
   'FR': ['France', 1, 1],
-  'NL': ['Netherlands', 1, 1]
+  'NL': ['Netherlands', 1, 1],
+  'GB': ['United Kingdom', 1, 1]
 }
