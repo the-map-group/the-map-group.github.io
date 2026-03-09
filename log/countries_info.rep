@@ -1414,3 +1414,5 @@
 ---> MapBox: (-54.816294, -68.269976) => 'AR: Argentina'
 ---> MapBox: (-54.807761, -68.30325) => 'AR: Argentina'
 ---> MapBox: (-54.826733, -68.343256) => 'AR: Argentina'
+--> 'RE: Réunion' = 'Reunion' => 'RE: Reunion'
+---> MapBox: (-50.221167, -73.005974) => 'AR: Argentina'
