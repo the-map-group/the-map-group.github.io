@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/spelio/',
   'location': '',
   'countries': 7,
-  'markers': 6314,
-  'photos': 8715
+  'markers': 6317,
+  'photos': 8739
 }
