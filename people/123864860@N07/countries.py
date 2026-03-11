@@ -1,7 +1,7 @@
 countries_dict = {
   'IT': ['Italy', 499, 911],
   'US': ['United States', 637, 1076],
-  'DO': ['Dominican Republic', 75, 133],
+  'DO': ['Dominican Republic', 79, 138],
   'DJ': ['Djibouti', 42, 69],
   'MM': ['Myanmar', 468, 568],
   'CA': ['Canada', 157, 233],
