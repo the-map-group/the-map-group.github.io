@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 0b9e3a9] Backup commit
- 5224 files changed, 1338622 insertions(+)
+[main (root-commit) c2fca73] Backup commit
+ 5246 files changed, 1344557 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -191,6 +191,8 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 countries/gw/index.html
  create mode 100644 countries/gy/country_code.js
  create mode 100644 countries/gy/index.html
+ create mode 100644 countries/hk/country_code.js
+ create mode 100644 countries/hk/index.html
  create mode 100644 countries/hn/country_code.js
  create mode 100644 countries/hn/index.html
  create mode 100644 countries/hr/country_code.js
@@ -3666,6 +3668,26 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/joeinpenticton/photos/index.html
  create mode 100755 people/joeinpenticton/update-countries-map-data.py
  create mode 100644 people/joeinpenticton/user.py
+ create mode 100644 people/joerg1975/__pycache__/countries.cpython-311.pyc
+ create mode 100644 people/joerg1975/__pycache__/countries_members.cpython-311.pyc
+ create mode 100644 people/joerg1975/__pycache__/user.cpython-311.pyc
+ create mode 120000 people/joerg1975/api_credentials.py
+ create mode 100644 people/joerg1975/config.py
+ create mode 100644 people/joerg1975/coords.py
+ create mode 100644 people/joerg1975/countries.py
+ create mode 120000 people/joerg1975/countries_config.py
+ create mode 120000 people/joerg1975/countries_info.py
+ create mode 120000 people/joerg1975/countries_members.py
+ create mode 100755 people/joerg1975/generate-map-data.py
+ create mode 100644 people/joerg1975/index.html
+ create mode 100644 people/joerg1975/last_total.py
+ create mode 100644 people/joerg1975/locations.py
+ create mode 120000 people/joerg1975/map.log
+ create mode 120000 people/joerg1975/matrix.py
+ create mode 120000 people/joerg1975/not_found.py
+ create mode 100644 people/joerg1975/photos/index.html
+ create mode 100755 people/joerg1975/update-countries-map-data.py
+ create mode 100644 people/joerg1975/user.py
  create mode 100644 people/jonahood/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/jonahood/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/jonahood/__pycache__/user.cpython-311.pyc
