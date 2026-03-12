@@ -23,5 +23,5 @@ countries_dict = {
   'AM': ['Armenia', 74, 74],
   'UZ': ['Uzbekistan', 119, 119],
   'TJ': ['Tajikistan', 1, 1],
-  'IE': ['Ireland', 2, 2]
+  'IE': ['Ireland', 3, 3]
 }
