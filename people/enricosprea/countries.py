@@ -1,9 +1,9 @@
 countries_dict = {
-  'IT': ['Italy', 650, 656],
-  'DE': ['Germany', 25, 25],
+  'IT': ['Italy', 646, 652],
   'UA': ['Ukraine', 2, 2],
   'GB': ['United Kingdom', 23, 23],
   'RU': ['Russia', 21, 21],
+  'DE': ['Germany', 24, 24],
   'AM': ['Armenia', 31, 33],
   'JO': ['Jordan', 12, 12],
   'AE': ['United Arab Emirates', 13, 13],
@@ -11,9 +11,8 @@ countries_dict = {
   'HU': ['Hungary', 2, 2],
   'AT': ['Austria', 5, 5],
   'EG': ['Egypt', 17, 17],
-  'US': ['United States', 3, 3],
+  'US': ['United States', 2, 2],
   'CZ': ['Czech Republic', 1, 1],
-  'CH': ['Switzerland', 4, 4],
   'ES': ['Spain', 6, 6],
   'MA': ['Morocco', 65, 67],
   'TR': ['Turkey', 22, 22],
@@ -21,5 +20,6 @@ countries_dict = {
   'SA': ['Saudi Arabia', 1, 1],
   'FR': ['France', 9, 9],
   'PL': ['Poland', 19, 19],
+  'CH': ['Switzerland', 3, 3],
   'TN': ['Tunisia', 14, 14]
 }
