@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm4.staticflickr.com/3877/buddyicons/55069387@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/seasidesigns/',
   'location': 'Vancouver, Canada',
-  'countries': 0,
-  'markers': 0,
-  'photos': 0
+  'countries': 2,
+  'markers': 141,
+  'photos': 188
 }
