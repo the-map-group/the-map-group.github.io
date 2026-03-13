@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm1.staticflickr.com/205/buddyicons/7633518@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/sarahvain/',
   'location': 'Sonoma, CA, USA',
-  'countries': 0,
-  'markers': 0,
-  'photos': 0
+  'countries': 14,
+  'markers': 13878,
+  'photos': 19023
 }
