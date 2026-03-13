@@ -6123,5 +6123,9 @@ coords_dict = {
   '53.346756,-6.28137': ['IE', 'Ireland'],
   '54.59684,-5.929336': ['GB', 'United Kingdom'],
   '54.584208,-5.936213': ['GB', 'United Kingdom'],
-  '54.582318,-5.935655': ['GB', 'United Kingdom']
+  '54.582318,-5.935655': ['GB', 'United Kingdom'],
+  '54.461304,-6.08573': ['GB', 'United Kingdom'],
+  '54.460574,-6.086063': ['GB', 'United Kingdom'],
+  '54.460933,-6.085857': ['GB', 'United Kingdom'],
+  '54.461054,-6.087103': ['GB', 'United Kingdom']
 }
