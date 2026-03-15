@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/enricosprea/',
   'location': 'Brianza, Italia',
   'countries': 23,
-  'markers': 968,
-  'photos': 978
+  'markers': 969,
+  'photos': 979
 }
