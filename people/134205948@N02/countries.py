@@ -7,5 +7,6 @@ countries_dict = {
   'VA': ['Vatican City', 11, 13],
   'AT': ['Austria', 2, 2],
   'SI': ['Slovenia', 3, 3],
-  'US': ['United States', 2, 2]
+  'US': ['United States', 2, 2],
+  'AR': ['Argentina', 1, 1]
 }
