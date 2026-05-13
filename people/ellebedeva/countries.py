@@ -1,0 +1,21 @@
+countries_dict = {
+  'RU': ['Russia', 109, 115],
+  'ES': ['Spain', 36, 38],
+  'FI': ['Finland', 12, 13],
+  'HU': ['Hungary', 1, 1],
+  'MA': ['Morocco', 2, 3],
+  'GR': ['Greece', 3, 3],
+  'EG': ['Egypt', 2, 2],
+  'CH': ['Switzerland', 12, 12],
+  'AT': ['Austria', 2, 2],
+  'CZ': ['Czech Republic', 5, 5],
+  'BY': ['Belarus', 1, 1],
+  'GB': ['United Kingdom', 3, 3],
+  'LI': ['Liechtenstein', 1, 1],
+  'IT': ['Italy', 4, 4],
+  'MT': ['Malta', 7, 8],
+  'KZ': ['Kazakhstan', 16, 16],
+  'AX': ['Aland Islands', 2, 2],
+  'PT': ['Portugal', 10, 12],
+  'MN': ['Mongolia', 1, 1]
+}

@@ -1,0 +1,11 @@
+user_info = {
+  'id': '123864860@N07',
+  'alias': '123864860@N07',
+  'name': 'Luigibalza',
+  'avatar': 'https://farm5.staticflickr.com/4691/buddyicons/123864860@N07_r.jpg',
+  'url': 'https://www.flickr.com/photos/123864860@N07/',
+  'location': 'BRIVIO, Italia',
+  'countries': 55,
+  'markers': 7189,
+  'photos': 11751
+}
