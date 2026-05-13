@@ -22,7 +22,7 @@ countries_dict = {
   'MX': ['Mexico', 61, 70],
   'CN': ['China', 251, 372],
   'BS': ['Bahamas', 34, 44],
-  'KR': ['South Korea', 41, 48],
+  'KR': ['South Korea', 42, 49],
   'JP': ['Japan', 83, 121],
   'SE': ['Sweden', 73, 97],
   'UY': ['Uruguay', 54, 95],
