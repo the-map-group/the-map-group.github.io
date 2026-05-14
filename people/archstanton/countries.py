@@ -7,7 +7,7 @@ countries_dict = {
   'MT': ['Malta', 166, 179],
   'FR': ['France', 125, 211],
   'IT': ['Italy', 2415, 3035],
-  'US': ['United States', 7207, 8375],
+  'US': ['United States', 7245, 8413],
   'TR': ['Turkey', 3261, 4605],
   'HR': ['Croatia', 215, 244],
   'BA': ['Bosnia and Herzegovina', 1, 1],
