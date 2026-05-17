@@ -1,5 +1,5 @@
 countries_dict = {
-  'US': ['United States', 459, 593],
+  'US': ['United States', 460, 594],
   'JP': ['Japan', 11, 11],
   'TW': ['Taiwan', 5, 5],
   'SE': ['Sweden', 11, 12],
