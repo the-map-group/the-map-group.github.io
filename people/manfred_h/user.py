@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/manfred_h/',
   'location': 'Hamm-Bockum, Germany',
   'countries': 8,
-  'markers': 809,
-  'photos': 1564
+  'markers': 810,
+  'photos': 1565
 }
