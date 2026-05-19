@@ -1307,5 +1307,6 @@ coords_dict = {
   '43.344037,17.810445': ['BA', 'Bosnia and Herzegovina'],
   '42.439553,19.262571': ['ME', 'Montenegro'],
   '42.438714,19.264749': ['ME', 'Montenegro'],
-  '42.441097,19.261809': ['ME', 'Montenegro']
+  '42.441097,19.261809': ['ME', 'Montenegro'],
+  '42.455355,19.263944': ['ME', 'Montenegro']
 }
