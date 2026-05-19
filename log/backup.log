@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 3b3fbf4] Backup commit
- 5246 files changed, 1358470 insertions(+)
+[main (root-commit) dfe89ad] Backup commit
+ 5226 files changed, 1357335 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -2737,26 +2737,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/benbobjr/photos/index.html
  create mode 100755 people/benbobjr/update-countries-map-data.py
  create mode 100644 people/benbobjr/user.py
- create mode 100644 people/bennett-cachon/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/bennett-cachon/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/bennett-cachon/__pycache__/user.cpython-311.pyc
- create mode 120000 people/bennett-cachon/api_credentials.py
- create mode 100644 people/bennett-cachon/config.py
- create mode 100644 people/bennett-cachon/coords.py
- create mode 100644 people/bennett-cachon/countries.py
- create mode 120000 people/bennett-cachon/countries_config.py
- create mode 120000 people/bennett-cachon/countries_info.py
- create mode 120000 people/bennett-cachon/countries_members.py
- create mode 100755 people/bennett-cachon/generate-map-data.py
- create mode 100644 people/bennett-cachon/index.html
- create mode 100644 people/bennett-cachon/last_total.py
- create mode 100644 people/bennett-cachon/locations.py
- create mode 120000 people/bennett-cachon/map.log
- create mode 120000 people/bennett-cachon/matrix.py
- create mode 120000 people/bennett-cachon/not_found.py
- create mode 100644 people/bennett-cachon/photos/index.html
- create mode 100755 people/bennett-cachon/update-countries-map-data.py
- create mode 100644 people/bennett-cachon/user.py
  create mode 100644 people/blackdiamondimages/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/blackdiamondimages/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/blackdiamondimages/__pycache__/user.cpython-311.pyc
