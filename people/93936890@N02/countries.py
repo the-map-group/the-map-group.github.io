@@ -43,5 +43,5 @@ countries_dict = {
   'JE': ['Jersey', 1, 2],
   'CO': ['Colombia', 2, 2],
   'AU': ['Australia', 1, 1],
-  'NZ': ['New Zealand', 2, 2]
+  'NZ': ['New Zealand', 3, 3]
 }
