@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/staneastwood/',
   'location': '',
   'countries': 19,
-  'markers': 7618,
-  'photos': 42606
+  'markers': 7640,
+  'photos': 42653
 }
