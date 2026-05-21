@@ -22,9 +22,9 @@ countries_dict = {
   'HR': ['Croatia', 4, 11],
   'GR': ['Greece', 9, 13],
   'SE': ['Sweden', 323, 395],
-  'NL': ['Netherlands', 340, 397],
+  'NL': ['Netherlands', 341, 399],
   'DK': ['Denmark', 67, 70],
   'GB': ['United Kingdom', 135, 170],
-  'FI': ['Finland', 229, 281],
+  'FI': ['Finland', 230, 282],
   'BE': ['Belgium', 21, 38]
 }
