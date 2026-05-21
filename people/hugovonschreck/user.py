@@ -7,5 +7,5 @@ user_info = {
   'location': 'Linsengericht, Germany',
   'countries': 11,
   'markers': 1614,
-  'photos': 6693
+  'photos': 6695
 }
