@@ -14,7 +14,7 @@ countries_dict = {
   'EG': ['Egypt', 1, 1],
   'CZ': ['Czech Republic', 26, 26],
   'MA': ['Morocco', 22, 23],
-  'FR': ['France', 32, 32],
+  'FR': ['France', 33, 33],
   'RU': ['Russia', 50, 50],
   'IS': ['Iceland', 59, 60],
   'PT': ['Portugal', 17, 17],
