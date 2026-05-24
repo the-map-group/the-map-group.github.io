@@ -39,7 +39,7 @@ countries_dict = {
   'FR': ['France', 126, 152],
   'SC': ['Seychelles', 58, 76],
   'ET': ['Ethiopia', 56, 112],
-  'MX': ['Mexico', 148, 178],
+  'MX': ['Mexico', 150, 183],
   'TT': ['Trinidad and Tobago', 22, 26],
   'GY': ['Guyana', 53, 60],
   'SR': ['Suriname', 49, 58],
