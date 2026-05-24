@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/jasonfrels/',
   'location': 'USA',
   'countries': 6,
-  'markers': 163,
-  'photos': 188
+  'markers': 165,
+  'photos': 190
 }
