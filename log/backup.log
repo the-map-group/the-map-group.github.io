@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 804c144] Backup commit
- 5226 files changed, 1358621 insertions(+)
+[main (root-commit) db8284d] Backup commit
+ 5246 files changed, 1359422 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -3248,6 +3248,26 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/faun070/photos/index.html
  create mode 100755 people/faun070/update-countries-map-data.py
  create mode 100644 people/faun070/user.py
+ create mode 100644 people/flaviofilipini/__pycache__/countries.cpython-311.pyc
+ create mode 100644 people/flaviofilipini/__pycache__/countries_members.cpython-311.pyc
+ create mode 100644 people/flaviofilipini/__pycache__/user.cpython-311.pyc
+ create mode 120000 people/flaviofilipini/api_credentials.py
+ create mode 100644 people/flaviofilipini/config.py
+ create mode 100644 people/flaviofilipini/coords.py
+ create mode 100644 people/flaviofilipini/countries.py
+ create mode 120000 people/flaviofilipini/countries_config.py
+ create mode 120000 people/flaviofilipini/countries_info.py
+ create mode 120000 people/flaviofilipini/countries_members.py
+ create mode 100755 people/flaviofilipini/generate-map-data.py
+ create mode 100644 people/flaviofilipini/index.html
+ create mode 100644 people/flaviofilipini/last_total.py
+ create mode 100644 people/flaviofilipini/locations.py
+ create mode 120000 people/flaviofilipini/map.log
+ create mode 120000 people/flaviofilipini/matrix.py
+ create mode 120000 people/flaviofilipini/not_found.py
+ create mode 100644 people/flaviofilipini/photos/index.html
+ create mode 100755 people/flaviofilipini/update-countries-map-data.py
+ create mode 100644 people/flaviofilipini/user.py
  create mode 100644 people/fotosavulso/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/fotosavulso/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/fotosavulso/__pycache__/user.cpython-311.pyc
