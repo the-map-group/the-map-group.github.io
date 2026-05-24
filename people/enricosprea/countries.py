@@ -3,7 +3,7 @@ countries_dict = {
   'UA': ['Ukraine', 2, 2],
   'GB': ['United Kingdom', 23, 23],
   'RU': ['Russia', 21, 21],
-  'DE': ['Germany', 24, 24],
+  'DE': ['Germany', 25, 25],
   'AM': ['Armenia', 31, 33],
   'JO': ['Jordan', 12, 12],
   'AE': ['United Arab Emirates', 13, 13],
