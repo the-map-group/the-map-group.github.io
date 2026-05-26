@@ -2803,3 +2803,20 @@ Map already has 97 marker(s)
 Added 1 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Generating map for new member: Adversativo...
+Starting 'Flickr Map' script...
+Generating map for 'Mizzio'
+1930 photos in the photostream
+Extracting photo coordinates and ids...
+Batch 1/4 | 0 photo(s) in 0 marker(s)
+Batch 2/4 | 0 photo(s) in 0 marker(s)
+Batch 3/4 | 0 photo(s) in 0 marker(s)
+Batch 4/4 | 0 photo(s) in 0 marker(s)
+Adding marker(s) to map...
+No new markers were added to the map
+Finished!
