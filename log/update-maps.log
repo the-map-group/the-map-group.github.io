@@ -2820,3 +2820,23 @@ Batch 4/4 | 0 photo(s) in 0 marker(s)
 Adding marker(s) to map...
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Member has no geottaged photos. Sending e-mail...
+Getting member information...
+Done!
+
+##### Updating Group's Map...
+Generating map for 'The Map Group'
+72102 photos in the pool
+Extracting photo coordinates and ids...
+Extracting for the last 5000 photos
+Batch 1/10 | 500 photo(s) in 418 marker(s)Batch 2/10 | 1000 photo(s) in 822 marker(s)Batch 3/10 | 1500 photo(s) in 1133 marker(s)Batch 4/10 | 2000 photo(s) in 1544 marker(s)Batch 5/10 | 2496 photo(s) in 1920 marker(s)Batch 6/10 | 2585 photo(s) in 2000 marker(s)
+Maximum number of markers on map reached!
+Adding marker(s) to map...
+Map already has 10200 marker(s)
+Added 11 new photo(s) to existing markers
+11 new marker(s) will be added to the map
+Max number of markers reached. Removing 11 marker(s)...
+Added marker 1/11Added marker 2/11Added marker 3/11Added marker 4/11Added marker 5/11Added marker 6/11Added marker 7/11Added marker 8/11Added marker 9/11Added marker 10/11Added marker 11/11
+Finished!
