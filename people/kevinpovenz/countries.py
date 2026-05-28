@@ -8,6 +8,6 @@ countries_dict = {
   'GP': ['Guadeloupe', 1, 2],
   'HU': ['Hungary', 1, 1],
   'BZ': ['Belize', 2, 2],
-  'MX': ['Mexico', 2, 2],
+  'MX': ['Mexico', 3, 3],
   'HN': ['Honduras', 1, 1]
 }
