@@ -1070,5 +1070,10 @@ coords_dict = {
   '16.916294,-89.829518': ['GT', 'Guatemala'],
   '15.273486,-89.04152': ['GT', 'Guatemala'],
   '25.857111,-81.033325': ['US', 'United States'],
-  '25.857105,-81.033325': ['US', 'United States']
+  '25.857105,-81.033325': ['US', 'United States'],
+  '24.882838,-80.690842': ['US', 'United States'],
+  '24.882827,-80.69082': ['US', 'United States'],
+  '24.883188,-80.690764': ['US', 'United States'],
+  '24.8824,-80.690773': ['US', 'United States'],
+  '24.959222,-80.57107': ['US', 'United States']
 }
