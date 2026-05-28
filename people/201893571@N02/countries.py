@@ -7,7 +7,7 @@ countries_dict = {
   'SK': ['Slovakia', 3, 4],
   'MA': ['Morocco', 2, 6],
   'HU': ['Hungary', 6, 8],
-  'AT': ['Austria', 5, 8],
+  'AT': ['Austria', 5, 7],
   'DE': ['Germany', 3, 5],
   'AD': ['Andorra', 3, 6],
   'ES': ['Spain', 5, 8],
