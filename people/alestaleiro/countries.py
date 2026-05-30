@@ -4,7 +4,7 @@ countries_dict = {
   'CL': ['Chile', 26, 31],
   'PE': ['Peru', 14, 24],
   'IT': ['Italy', 501, 642],
-  'FR': ['France', 199, 258],
+  'FR': ['France', 200, 259],
   'DE': ['Germany', 26, 31],
   'BE': ['Belgium', 2, 2],
   'NL': ['Netherlands', 10, 17],
@@ -12,7 +12,7 @@ countries_dict = {
   'ZA': ['South Africa', 131, 168],
   'EG': ['Egypt', 119, 157],
   'AE': ['United Arab Emirates', 27, 40],
-  'GB': ['United Kingdom', 148, 197],
+  'GB': ['United Kingdom', 148, 199],
   'ES': ['Spain', 242, 319],
   'MA': ['Morocco', 96, 135],
   'PT': ['Portugal', 84, 97],
@@ -25,5 +25,5 @@ countries_dict = {
   'AT': ['Austria', 8, 10],
   'ME': ['Montenegro', 5, 5],
   'AL': ['Albania', 22, 27],
-  'NO': ['Norway', 64, 69]
+  'NO': ['Norway', 65, 70]
 }
