@@ -1090,5 +1090,14 @@ coords_dict = {
   '24.704363,-81.1035': ['US', 'United States'],
   '24.704647,-81.097039': ['US', 'United States'],
   '24.703336,-81.093789': ['US', 'United States'],
-  '24.708919,-81.083817': ['US', 'United States']
+  '24.708919,-81.083817': ['US', 'United States'],
+  '24.731655,-81.016312': ['US', 'United States'],
+  '24.731655,-81.016303': ['US', 'United States'],
+  '24.731783,-81.016648': ['US', 'United States'],
+  '24.659886,-81.274331': ['US', 'United States'],
+  '24.654513,-81.281531': ['US', 'United States'],
+  '24.551052,-81.800506': ['US', 'United States'],
+  '24.556497,-81.807006': ['US', 'United States'],
+  '24.556494,-81.807023': ['US', 'United States'],
+  '24.559186,-81.806795': ['US', 'United States']
 }
