@@ -1,7 +1,7 @@
 countries_dict = {
-  'RU': ['Russia', 276, 368],
+  'RU': ['Russia', 277, 369],
   'DK': ['Denmark', 8, 11],
-  'GB': ['United Kingdom', 942, 1043],
+  'GB': ['United Kingdom', 941, 1042],
   'UA': ['Ukraine', 140, 149],
   'FR': ['France', 377, 418],
   'NL': ['Netherlands', 70, 71],
@@ -14,5 +14,5 @@ countries_dict = {
   'AT': ['Austria', 44, 45],
   'HU': ['Hungary', 36, 37],
   'LU': ['Luxembourg', 17, 19],
-  'CH': ['Switzerland', 131, 145]
+  'CH': ['Switzerland', 132, 146]
 }
