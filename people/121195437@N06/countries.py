@@ -21,10 +21,10 @@ countries_dict = {
   'HU': ['Hungary', 5, 6],
   'HR': ['Croatia', 4, 11],
   'GR': ['Greece', 9, 13],
-  'SE': ['Sweden', 330, 404],
+  'SE': ['Sweden', 332, 406],
   'NL': ['Netherlands', 347, 407],
   'DK': ['Denmark', 67, 70],
   'GB': ['United Kingdom', 135, 170],
-  'FI': ['Finland', 234, 289],
+  'FI': ['Finland', 236, 291],
   'BE': ['Belgium', 21, 38]
 }
