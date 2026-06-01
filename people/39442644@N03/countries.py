@@ -2,7 +2,7 @@ countries_dict = {
   'ES': ['Spain', 349, 376],
   'FI': ['Finland', 358, 365],
   'FR': ['France', 146, 162],
-  'US': ['United States', 907, 958],
+  'US': ['United States', 908, 959],
   'CZ': ['Czech Republic', 5, 5],
   'DE': ['Germany', 187, 198],
   'CU': ['Cuba', 4, 4],
@@ -11,7 +11,7 @@ countries_dict = {
   'PL': ['Poland', 4, 5],
   'NO': ['Norway', 10, 10],
   'CA': ['Canada', 16, 16],
-  'SE': ['Sweden', 56, 57],
+  'SE': ['Sweden', 57, 58],
   'IT': ['Italy', 1, 1],
   'LU': ['Luxembourg', 3, 3],
   'DK': ['Denmark', 5, 6]
