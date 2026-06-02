@@ -6,7 +6,7 @@ countries_dict = {
   'VA': ['Vatican City', 49, 55],
   'FI': ['Finland', 73, 75],
   'PT': ['Portugal', 182, 184],
-  'US': ['United States', 241, 247],
+  'US': ['United States', 242, 248],
   'TR': ['Turkey', 173, 185],
   'FR': ['France', 243, 261],
   'MT': ['Malta', 166, 168],
