@@ -117,7 +117,7 @@ countries_dict = {
   'FI': ['Finland', 81, 95],
   'IT': ['Italy', 214, 279],
   'SI': ['Slovenia', 2, 3],
-  'HR': ['Croatia', 52, 59],
+  'HR': ['Croatia', 57, 64],
   'ME': ['Montenegro', 27, 30],
   'MT': ['Malta', 32, 47],
   'VA': ['Vatican City', 5, 5],
