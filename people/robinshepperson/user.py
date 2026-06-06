@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/robinshepperson/',
   'location': 'Storkow, Germany',
   'countries': 1,
-  'markers': 107,
-  'photos': 187
+  'markers': 108,
+  'photos': 188
 }
