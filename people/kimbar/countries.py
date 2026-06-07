@@ -31,7 +31,7 @@ countries_dict = {
   'PE': ['Peru', 42, 81],
   'RU': ['Russia', 37, 62],
   'PL': ['Poland', 3, 12],
-  'MA': ['Morocco', 136, 275],
+  'MA': ['Morocco', 138, 277],
   'TW': ['Taiwan', 13, 24],
   'PT': ['Portugal', 127, 278],
   'FO': ['Faroe Islands', 5, 12],
