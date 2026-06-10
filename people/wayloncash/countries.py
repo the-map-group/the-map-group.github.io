@@ -1,5 +1,5 @@
 countries_dict = {
-  'ES': ['Spain', 20544, 33172],
+  'ES': ['Spain', 20569, 33199],
   'DE': ['Germany', 1687, 8789],
   'FR': ['France', 220, 1118],
   'CH': ['Switzerland', 203, 249],
@@ -18,7 +18,7 @@ countries_dict = {
   'MC': ['Monaco', 7, 9],
   'GR': ['Greece', 136, 180],
   'TR': ['Turkey', 42, 62],
-  'NA': ['Namibia', 13, 16],
+  'NA': ['Namibia', 18, 22],
   'MK': ['North Macedonia', 20, 29],
   'BG': ['Bulgaria', 19, 19],
   'SI': ['Slovenia', 3, 3],
