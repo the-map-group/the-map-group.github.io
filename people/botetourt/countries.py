@@ -3,7 +3,7 @@ countries_dict = {
   'GB': ['United Kingdom', 52, 95],
   'CA': ['Canada', 1, 1],
   'MX': ['Mexico', 8, 10],
-  'IT': ['Italy', 351, 494],
+  'IT': ['Italy', 351, 495],
   'VA': ['Vatican City', 16, 20],
   'TZ': ['Tanzania', 332, 998],
   'NL': ['Netherlands', 1, 1],
