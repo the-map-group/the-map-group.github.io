@@ -53,5 +53,6 @@ countries_dict = {
   'FI': ['Finland', 5, 7],
   'SE': ['Sweden', 14, 19],
   'AT': ['Austria', 1, 12],
-  'GI': ['Gibraltar', 7, 10]
+  'GI': ['Gibraltar', 7, 10],
+  'GB': ['United Kingdom', 5, 5]
 }
