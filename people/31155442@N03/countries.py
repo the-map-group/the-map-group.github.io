@@ -33,7 +33,7 @@ countries_dict = {
   'NL': ['Netherlands', 220, 258],
   'DK': ['Denmark', 72, 89],
   'DE': ['Germany', 57, 62],
-  'GT': ['Guatemala', 74, 97],
+  'GT': ['Guatemala', 80, 112],
   'HR': ['Croatia', 51, 70],
   'GR': ['Greece', 166, 266],
   'TC': ['Turks and Caicos Islands', 62, 96],
