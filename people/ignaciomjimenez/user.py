@@ -7,5 +7,5 @@ user_info = {
   'location': 'Úbeda, España',
   'countries': 6,
   'markers': 1170,
-  'photos': 1533
+  'photos': 1534
 }
