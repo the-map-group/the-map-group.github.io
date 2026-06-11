@@ -1,5 +1,5 @@
 countries_dict = {
-  'US': ['United States', 7062, 11583],
+  'US': ['United States', 7062, 11584],
   'AR': ['Argentina', 279, 474],
   'AQ': ['Antarctica', 67, 94],
   'CA': ['Canada', 1953, 2980],
@@ -14,7 +14,7 @@ countries_dict = {
   'AT': ['Austria', 15, 23],
   'PA': ['Panama', 79, 130],
   'CR': ['Costa Rica', 62, 73],
-  'CL': ['Chile', 16, 35],
+  'CL': ['Chile', 17, 39],
   'SG': ['Singapore', 86, 107],
   'RU': ['Russia', 123, 204],
   'TH': ['Thailand', 78, 88],
