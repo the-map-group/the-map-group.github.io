@@ -13,7 +13,7 @@ countries_dict = {
   'ES': ['Spain', 5, 8],
   'PT': ['Portugal', 2, 6],
   'BE': ['Belgium', 4, 4],
-  'IT': ['Italy', 5, 5],
+  'IT': ['Italy', 6, 6],
   'FR': ['France', 1, 1],
   'GB': ['United Kingdom', 1, 1],
   'NL': ['Netherlands', 2, 3],
