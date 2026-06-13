@@ -14,7 +14,7 @@ countries_dict = {
   'PT': ['Portugal', 52, 69],
   'GB': ['United Kingdom', 129, 170],
   'CZ': ['Czech Republic', 6, 6],
-  'ES': ['Spain', 63, 67],
+  'ES': ['Spain', 64, 68],
   'GI': ['Gibraltar', 12, 12],
   'FO': ['Faroe Islands', 41, 43]
 }
