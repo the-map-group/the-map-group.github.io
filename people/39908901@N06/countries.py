@@ -19,5 +19,5 @@ countries_dict = {
   'AT': ['Austria', 100, 231],
   'DE': ['Germany', 47, 187],
   'MX': ['Mexico', 2, 2],
-  'JP': ['Japan', 284, 545]
+  'JP': ['Japan', 291, 573]
 }
