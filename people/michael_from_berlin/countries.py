@@ -28,7 +28,7 @@ countries_dict = {
   'IR': ['Iran', 10, 10],
   'SY': ['Syria', 3, 3],
   'AT': ['Austria', 9, 9],
-  'DE': ['Germany', 4465, 4662],
+  'DE': ['Germany', 4466, 4663],
   'ET': ['Ethiopia', 44, 65],
   'EG': ['Egypt', 41, 42],
   'AE': ['United Arab Emirates', 74, 76],
