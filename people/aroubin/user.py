@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/aroubin/',
   'location': '',
   'countries': 10,
-  'markers': 2607,
-  'photos': 8513
+  'markers': 2613,
+  'photos': 8520
 }
