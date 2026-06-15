@@ -43,7 +43,7 @@ members_list = [
   ['144107033@N04', '144107033@N04', 'Sebastián Aguilar', "https://farm6.staticflickr.com/5199/buddyicons/144107033@N04_r.jpg", 15396, 20107, 3],
   ['189226334@N08', 'peterrath', 'peter.rath', "https://farm66.staticflickr.com/65535/buddyicons/189226334@N08_r.jpg", 391, 711, 13],
   ['100112015@N06', '100112015@N06', 'Francois Le Rumeur', "https://farm66.staticflickr.com/65535/buddyicons/100112015@N06_r.jpg", 175, 250, 3],
-  ['123895834@N08', '123895834@N08', 'tquist24', "https://farm66.staticflickr.com/65535/buddyicons/123895834@N08_r.jpg", 3315, 4336, 12],
+  ['123895834@N08', '123895834@N08', 'Francois Le Rumeur', "https://farm66.staticflickr.com/65535/buddyicons/100112015@N06_r.jpg", 175, 250, 3],
   ['35555507@N03', 'hutterdesign', 'Frederic Hutter', "https://farm4.staticflickr.com/3853/buddyicons/35555507@N03_r.jpg", 141, 168, 24],
   ['165713115@N07', 'manfred_h', 'Mani_H.', "https://farm2.staticflickr.com/1869/buddyicons/165713115@N07_r.jpg", 813, 1575, 8],
   ['31248131@N05', '31248131@N05', 'Rosie Chilton', "https://farm66.staticflickr.com/65535/buddyicons/31248131@N05_r.jpg", 181, 281, 1],
