@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/pixscapes/',
   'location': '',
   'countries': 6,
-  'markers': 46,
-  'photos': 57
+  'markers': 47,
+  'photos': 58
 }
