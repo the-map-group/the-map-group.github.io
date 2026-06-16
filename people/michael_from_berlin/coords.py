@@ -3823,5 +3823,6 @@ coords_dict = {
   '-9.035985,13.452759': ['AO', 'Angola'],
   '0.374219,6.739254': ['ST', 'Sao Tome and Principe'],
   '0.377952,6.711144': ['ST', 'Sao Tome and Principe'],
-  '0.375377,6.713032': ['ST', 'Sao Tome and Principe']
+  '0.375377,6.713032': ['ST', 'Sao Tome and Principe'],
+  '52.164027,14.086191': ['DE', 'Germany']
 }
