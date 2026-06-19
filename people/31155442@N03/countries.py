@@ -24,7 +24,7 @@ countries_dict = {
   'BS': ['Bahamas', 34, 44],
   'KR': ['South Korea', 42, 49],
   'JP': ['Japan', 83, 121],
-  'SE': ['Sweden', 79, 114],
+  'SE': ['Sweden', 81, 119],
   'UY': ['Uruguay', 54, 95],
   'VN': ['Vietnam', 118, 218],
   'IS': ['Iceland', 238, 329],
