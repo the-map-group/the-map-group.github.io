@@ -1,6 +1,6 @@
 countries_dict = {
   'TH': ['Thailand', 11, 51],
-  'FR': ['France', 3453, 16652],
+  'FR': ['France', 3452, 16658],
   'LA': ['Laos', 5, 57],
   'KH': ['Cambodia', 1, 24],
   'IT': ['Italy', 391, 2046],
@@ -33,7 +33,7 @@ countries_dict = {
   'AR': ['Argentina', 29, 235],
   'CL': ['Chile', 4, 45],
   'DE': ['Germany', 45, 424],
-  'SG': ['Singapore', 115, 360],
+  'SG': ['Singapore', 116, 359],
   'ES': ['Spain', 39, 171],
   'IS': ['Iceland', 243, 1091],
   'JO': ['Jordan', 31, 401],
@@ -51,5 +51,5 @@ countries_dict = {
   'KE': ['Kenya', 97, 531],
   'SI': ['Slovenia', 86, 218],
   'FO': ['Faroe Islands', 112, 222],
-  'NZ': ['New Zealand', 1187, 2358]
+  'NZ': ['New Zealand', 1191, 2363]
 }
