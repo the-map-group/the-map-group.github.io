@@ -8,7 +8,7 @@ countries_dict = {
   'FI': ['Finland', 43, 65],
   'FR': ['France', 2, 257],
   'MA': ['Morocco', 57, 463],
-  'CZ': ['Czech Republic', 206, 570],
+  'CZ': ['Czech Republic', 206, 573],
   'OM': ['Oman', 2, 2],
   'GB': ['United Kingdom', 17, 24],
   'IN': ['India', 1006, 3617],
@@ -21,7 +21,7 @@ countries_dict = {
   'CL': ['Chile', 5, 55],
   'UY': ['Uruguay', 173, 224],
   'DK': ['Denmark', 9, 12],
-  'NO': ['Norway', 315, 394],
+  'NO': ['Norway', 316, 396],
   'BR': ['Brazil', 35, 40],
   'PE': ['Peru', 668, 2104]
 }
