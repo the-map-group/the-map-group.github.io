@@ -1,6 +1,6 @@
 countries_dict = {
-  'IT': ['Italy', 500, 920],
-  'US': ['United States', 638, 1081],
+  'IT': ['Italy', 501, 925],
+  'US': ['United States', 646, 1104],
   'DO': ['Dominican Republic', 80, 152],
   'DJ': ['Djibouti', 42, 69],
   'MM': ['Myanmar', 468, 568],
@@ -38,7 +38,7 @@ countries_dict = {
   'TR': ['Turkey', 29, 50],
   'RU': ['Russia', 31, 43],
   'FJ': ['Fiji', 68, 93],
-  'IE': ['Ireland', 175, 261],
+  'IE': ['Ireland', 181, 268],
   'NO': ['Norway', 478, 626],
   'UZ': ['Uzbekistan', 99, 257],
   'KZ': ['Kazakhstan', 136, 352],
@@ -46,7 +46,7 @@ countries_dict = {
   'AU': ['Australia', 56, 95],
   'ES': ['Spain', 55, 204],
   'CZ': ['Czech Republic', 37, 113],
-  'SI': ['Slovenia', 88, 184],
+  'SI': ['Slovenia', 88, 194],
   'HR': ['Croatia', 91, 208],
   'JP': ['Japan', 51, 189],
   'YE': ['Yemen', 23, 61],
@@ -54,5 +54,5 @@ countries_dict = {
   'SE': ['Sweden', 14, 19],
   'AT': ['Austria', 1, 12],
   'GI': ['Gibraltar', 7, 10],
-  'GB': ['United Kingdom', 6, 10]
+  'GB': ['United Kingdom', 7, 19]
 }
