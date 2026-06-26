@@ -1,14 +1,14 @@
 countries_dict = {
-  'ES': ['Spain', 748, 2911],
+  'ES': ['Spain', 748, 2914],
   'CN': ['China', 580, 2443],
   'IT': ['Italy', 204, 438],
   'VA': ['Vatican City', 33, 187],
-  'SE': ['Sweden', 589, 1224],
+  'SE': ['Sweden', 591, 1226],
   'US': ['United States', 669, 1081],
   'FI': ['Finland', 43, 65],
   'FR': ['France', 2, 257],
   'MA': ['Morocco', 57, 463],
-  'CZ': ['Czech Republic', 206, 573],
+  'CZ': ['Czech Republic', 207, 576],
   'OM': ['Oman', 2, 2],
   'GB': ['United Kingdom', 17, 24],
   'IN': ['India', 1006, 3617],
@@ -17,11 +17,11 @@ countries_dict = {
   'KE': ['Kenya', 5, 5],
   'UG': ['Uganda', 284, 1868],
   'BE': ['Belgium', 1, 158],
-  'AR': ['Argentina', 651, 1241],
+  'AR': ['Argentina', 651, 1244],
   'CL': ['Chile', 5, 55],
   'UY': ['Uruguay', 173, 224],
   'DK': ['Denmark', 9, 12],
-  'NO': ['Norway', 316, 396],
+  'NO': ['Norway', 316, 398],
   'BR': ['Brazil', 35, 40],
-  'PE': ['Peru', 668, 2104]
+  'PE': ['Peru', 668, 2106]
 }
