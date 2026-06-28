@@ -7278,5 +7278,8 @@ coords_dict = {
   '26.336319,-81.437859': ['US', 'United States'],
   '26.648532,-81.868114': ['US', 'United States'],
   '26.657277,-81.884422': ['US', 'United States'],
-  '26.336299,-81.43782': ['US', 'United States']
+  '26.336299,-81.43782': ['US', 'United States'],
+  '26.636027,-81.889457': ['US', 'United States'],
+  '26.664104,-81.887998': ['US', 'United States'],
+  '26.637485,-81.887741': ['US', 'United States']
 }
