@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/joeinpenticton/',
   'location': 'Penticton, British Columbia, Canada',
   'countries': 7,
-  'markers': 854,
-  'photos': 865
+  'markers': 855,
+  'photos': 866
 }
