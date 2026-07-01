@@ -8,7 +8,7 @@ countries_dict = {
   'PT': ['Portugal', 183, 185],
   'US': ['United States', 243, 249],
   'TR': ['Turkey', 173, 185],
-  'FR': ['France', 245, 263],
+  'FR': ['France', 246, 264],
   'MT': ['Malta', 166, 170],
   'LV': ['Latvia', 42, 43],
   'EE': ['Estonia', 29, 31],
