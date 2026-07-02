@@ -9,7 +9,7 @@ countries_dict = {
   'FK': ['Falkland Islands', 64, 91],
   'AQ': ['Antarctica', 69, 81],
   'AR': ['Argentina', 64, 70],
-  'US': ['United States', 339, 455],
+  'US': ['United States', 341, 458],
   'CA': ['Canada', 83, 110],
   'GB': ['United Kingdom', 483, 679],
   'FO': ['Faroe Islands', 6, 16],
