@@ -5,7 +5,7 @@ countries_dict = {
   'HU': ['Hungary', 2, 3],
   'IT': ['Italy', 11, 30],
   'IL': ['Israel', 4, 6],
-  'CU': ['Cuba', 13, 27],
+  'CU': ['Cuba', 14, 28],
   'FR': ['France', 4, 11],
   'VN': ['Vietnam', 9, 32],
   'GR': ['Greece', 6, 9],

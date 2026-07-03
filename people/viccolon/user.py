@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/viccolon/',
   'location': 'St. Petersburg, Russia',
   'countries': 35,
-  'markers': 185,
-  'photos': 435
+  'markers': 186,
+  'photos': 436
 }
