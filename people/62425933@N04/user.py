@@ -4,8 +4,8 @@ user_info = {
   'name': 'Wes Iversen',
   'avatar': 'https://farm3.staticflickr.com/2562/buddyicons/62425933@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/62425933@N04/',
-  'location': '',
+  'location': 'Crystal Lake, Illinois, USA',
   'countries': 2,
-  'markers': 2401,
-  'photos': 3804
+  'markers': 2402,
+  'photos': 3805
 }
