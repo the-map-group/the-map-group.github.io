@@ -15,7 +15,7 @@ countries_dict = {
   'AR': ['Argentina', 78, 96],
   'CL': ['Chile', 268, 352],
   'CN': ['China', 370, 715],
-  'FK': ['Falkland Islands', 200, 423],
+  'FK': ['Falkland Islands', 204, 431],
   'GS': ['South Georgia and South Sandwich Islands', 162, 231],
   'MX': ['Mexico', 149, 201],
   'PT': ['Portugal', 194, 209],
