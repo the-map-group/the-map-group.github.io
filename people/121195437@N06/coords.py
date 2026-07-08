@@ -3832,5 +3832,6 @@ coords_dict = {
   '46.204797,6.150672': ['CH', 'Switzerland'],
   '46.744336,8.508336': ['CH', 'Switzerland'],
   '52.33683,4.876347': ['NL', 'Netherlands'],
-  '46.593497,8.457275': ['CH', 'Switzerland']
+  '46.593497,8.457275': ['CH', 'Switzerland'],
+  '46.004838,8.958333': ['CH', 'Switzerland']
 }
