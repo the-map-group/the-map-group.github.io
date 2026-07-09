@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/seasidesigns/',
   'location': 'Vancouver, Canada',
   'countries': 2,
-  'markers': 141,
-  'photos': 188
+  'markers': 142,
+  'photos': 189
 }
