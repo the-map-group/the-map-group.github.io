@@ -120,7 +120,7 @@ countries_dict = {
   'HR': ['Croatia', 59, 66],
   'ME': ['Montenegro', 27, 30],
   'MT': ['Malta', 32, 47],
-  'VA': ['Vatican City', 8, 8],
+  'VA': ['Vatican City', 11, 13],
   'MC': ['Monaco', 9, 14],
   'VN': ['Vietnam', 83, 97],
   'KH': ['Cambodia', 46, 69],
