@@ -1,7 +1,7 @@
 countries_dict = {
   'GB': ['United Kingdom', 327, 420],
   'CH': ['Switzerland', 40, 55],
-  'US': ['United States', 4070, 4893],
+  'US': ['United States', 4071, 4894],
   'IT': ['Italy', 353, 533],
   'MX': ['Mexico', 266, 362],
   'ES': ['Spain', 153, 238],
@@ -61,7 +61,7 @@ countries_dict = {
   'OM': ['Oman', 4, 11],
   'SC': ['Seychelles', 3, 5],
   'CZ': ['Czech Republic', 88, 103],
-  'CU': ['Cuba', 77, 118],
+  'CU': ['Cuba', 78, 119],
   'CO': ['Colombia', 82, 104],
   'HN': ['Honduras', 5, 5],
   'GT': ['Guatemala', 5, 5],
