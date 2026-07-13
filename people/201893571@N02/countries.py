@@ -1,6 +1,6 @@
 countries_dict = {
   'BS': ['Bahamas', 6, 6],
-  'US': ['United States', 55, 65],
+  'US': ['United States', 56, 66],
   'CA': ['Canada', 1, 1],
   'IE': ['Ireland', 6, 6],
   'CZ': ['Czech Republic', 5, 7],
@@ -18,5 +18,5 @@ countries_dict = {
   'GB': ['United Kingdom', 1, 1],
   'NL': ['Netherlands', 2, 3],
   'VA': ['Vatican City', 2, 4],
-  'MX': ['Mexico', 1, 2]
+  'MX': ['Mexico', 1, 3]
 }
