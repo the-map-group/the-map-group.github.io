@@ -7,5 +7,5 @@ user_info = {
   'location': 'Crystal Lake, Illinois, USA',
   'countries': 2,
   'markers': 2406,
-  'photos': 3813
+  'photos': 3814
 }
