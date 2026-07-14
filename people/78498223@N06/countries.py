@@ -1,7 +1,7 @@
 countries_dict = {
   'NL': ['Netherlands', 2, 2],
   'LB': ['Lebanon', 5, 5],
-  'GR': ['Greece', 122, 1454],
+  'GR': ['Greece', 122, 1455],
   'RS': ['Serbia', 1, 1],
   'RU': ['Russia', 1, 1],
   'SD': ['Sudan', 2, 2],
