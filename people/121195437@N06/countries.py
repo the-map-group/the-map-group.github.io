@@ -2,11 +2,11 @@ countries_dict = {
   'CA': ['Canada', 19, 42],
   'US': ['United States', 124, 591],
   'FR': ['France', 579, 741],
-  'CH': ['Switzerland', 370, 491],
+  'CH': ['Switzerland', 371, 492],
   'LV': ['Latvia', 2, 2],
   'EE': ['Estonia', 1, 1],
   'LT': ['Lithuania', 3, 4],
-  'DE': ['Germany', 1874, 2881],
+  'DE': ['Germany', 1875, 2883],
   'IT': ['Italy', 36, 53],
   'SM': ['San Marino', 1, 2],
   'MC': ['Monaco', 1, 1],
@@ -25,6 +25,6 @@ countries_dict = {
   'NL': ['Netherlands', 377, 446],
   'DK': ['Denmark', 67, 70],
   'GB': ['United Kingdom', 135, 170],
-  'FI': ['Finland', 249, 311],
+  'FI': ['Finland', 249, 312],
   'BE': ['Belgium', 21, 38]
 }
