@@ -21,7 +21,7 @@ countries_dict = {
   'SE': ['Sweden', 40, 46],
   'FR': ['France', 40, 49],
   'SK': ['Slovakia', 24, 26],
-  'IT': ['Italy', 32, 38],
+  'IT': ['Italy', 33, 39],
   'VA': ['Vatican City', 4, 5],
   'CZ': ['Czech Republic', 25, 38],
   'NL': ['Netherlands', 3, 7],
