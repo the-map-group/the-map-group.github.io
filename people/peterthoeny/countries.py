@@ -3,7 +3,7 @@ countries_dict = {
   'CH': ['Switzerland', 227, 391],
   'CN': ['China', 72, 96],
   'IT': ['Italy', 34, 52],
-  'JP': ['Japan', 141, 164],
+  'JP': ['Japan', 142, 165],
   'EE': ['Estonia', 1, 1],
   'GL': ['Greenland', 5, 5],
   'NO': ['Norway', 1, 1],
