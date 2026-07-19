@@ -65,7 +65,7 @@ countries_dict = {
   'CO': ['Colombia', 82, 104],
   'HN': ['Honduras', 5, 5],
   'GT': ['Guatemala', 5, 5],
-  'JO': ['Jordan', 1, 7],
+  'JO': ['Jordan', 2, 9],
   'BS': ['Bahamas', 1, 2],
   'CA': ['Canada', 3, 3]
 }
