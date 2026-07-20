@@ -30,7 +30,7 @@ countries_dict = {
   'LU': ['Luxembourg', 76, 79],
   'KR': ['South Korea', 7040, 7782],
   'CN': ['China', 13, 13],
-  'RU': ['Russia', 3, 3],
+  'RU': ['Russia', 6, 6],
   'EG': ['Egypt', 11, 11],
   'LT': ['Lithuania', 2, 2],
   'LV': ['Latvia', 1, 1]
