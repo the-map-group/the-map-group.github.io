@@ -4032,5 +4032,12 @@ coords_dict = {
   '46.427161,8.093497': ['CH', 'Switzerland'],
   '46.427188,8.09355': ['CH', 'Switzerland'],
   '46.427119,8.093536': ['CH', 'Switzerland'],
-  '46.427519,8.093327': ['CH', 'Switzerland']
+  '46.427519,8.093327': ['CH', 'Switzerland'],
+  '46.470182,8.242081': ['CH', 'Switzerland'],
+  '46.561261,8.367086': ['CH', 'Switzerland'],
+  '46.563044,8.370733': ['CH', 'Switzerland'],
+  '46.563038,8.370758': ['CH', 'Switzerland'],
+  '46.56305,8.371013': ['CH', 'Switzerland'],
+  '46.564461,8.377602': ['CH', 'Switzerland'],
+  '46.564461,8.377608': ['CH', 'Switzerland']
 }
