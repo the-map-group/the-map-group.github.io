@@ -33,5 +33,6 @@ countries_dict = {
   'RU': ['Russia', 6, 6],
   'EG': ['Egypt', 11, 11],
   'LT': ['Lithuania', 2, 2],
-  'LV': ['Latvia', 1, 1]
+  'LV': ['Latvia', 1, 1],
+  'EE': ['Estonia', 2, 2]
 }
