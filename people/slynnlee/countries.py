@@ -1,6 +1,6 @@
 countries_dict = {
   'US': ['United States', 452, 2287],
-  'GB': ['United Kingdom', 391, 1859],
+  'GB': ['United Kingdom', 392, 1860],
   'IE': ['Ireland', 214, 964],
   'DE': ['Germany', 72, 288],
   'IT': ['Italy', 3, 3],
