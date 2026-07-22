@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/kimbar/',
   'location': 'Berkeley, CA, U.S.',
   'countries': 69,
-  'markers': 7213,
-  'photos': 9660
+  'markers': 7215,
+  'photos': 9663
 }
