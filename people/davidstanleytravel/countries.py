@@ -36,7 +36,7 @@ countries_dict = {
   'IR': ['Iran', 100, 117],
   'KM': ['Comoros', 35, 42],
   'YT': ['Mayotte', 16, 18],
-  'FR': ['France', 138, 165],
+  'FR': ['France', 142, 170],
   'SC': ['Seychelles', 58, 76],
   'ET': ['Ethiopia', 56, 112],
   'MX': ['Mexico', 181, 220],
