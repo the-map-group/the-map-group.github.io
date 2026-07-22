@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/karen_ds1101/',
   'location': 'Cairns, Australia',
   'countries': 15,
-  'markers': 1153,
-  'photos': 1362
+  'markers': 1165,
+  'photos': 1374
 }
