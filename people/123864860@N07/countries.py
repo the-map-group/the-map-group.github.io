@@ -28,7 +28,7 @@ countries_dict = {
   'CU': ['Cuba', 17, 25],
   'IS': ['Iceland', 305, 515],
   'SJ': ['Svalbard and Jan Mayen', 193, 288],
-  'NZ': ['New Zealand', 257, 398],
+  'NZ': ['New Zealand', 261, 406],
   'LS': ['Lesotho', 15, 19],
   'PY': ['Paraguay', 3, 9],
   'CH': ['Switzerland', 4, 4],
