@@ -6,7 +6,7 @@ countries_dict = {
   'CN': ['China', 15, 18],
   'MY': ['Malaysia', 5, 5],
   'ID': ['Indonesia', 9, 10],
-  'US': ['United States', 279, 396],
+  'US': ['United States', 279, 397],
   'CA': ['Canada', 110, 128],
   'SG': ['Singapore', 5, 6],
   'IM': ['Isle of Man', 1, 2],
