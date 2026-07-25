@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/alestaleiro/',
   'location': 'Praia do Estaleiro - B. Camboriú, BRASIL',
   'countries': 28,
-  'markers': 5025,
-  'photos': 6766
+  'markers': 5026,
+  'photos': 6768
 }
