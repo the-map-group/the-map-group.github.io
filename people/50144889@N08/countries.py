@@ -20,7 +20,7 @@ countries_dict = {
   'LC': ['St Lucia', 3, 3],
   'NO': ['Norway', 1, 1],
   'HN': ['Honduras', 6, 8],
-  'CU': ['Cuba', 5, 6],
+  'CU': ['Cuba', 5, 8],
   'HT': ['Haiti', 5, 6],
   'OM': ['Oman', 3, 3],
   'IN': ['India', 6, 6],
