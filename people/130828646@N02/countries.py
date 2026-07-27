@@ -10,7 +10,7 @@ countries_dict = {
   'ZA': ['South Africa', 308, 491],
   'SZ': ['Eswatini', 22, 49],
   'CH': ['Switzerland', 12, 14],
-  'IT': ['Italy', 679, 1151],
+  'IT': ['Italy', 691, 1170],
   'ES': ['Spain', 405, 689],
   'TR': ['Turkey', 63, 72],
   'SY': ['Syria', 15, 19],
