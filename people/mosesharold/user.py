@@ -7,5 +7,5 @@ user_info = {
   'location': 'SPENNYMOOR, United Kingdom',
   'countries': 78,
   'markers': 3748,
-  'photos': 5136
+  'photos': 5139
 }
