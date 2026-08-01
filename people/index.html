@@ -30,18 +30,8 @@
 <body>
 
   <div id="map" onclick="closeOverlay()"></div>
-  <div id="menu">
-    <input id="mercator" type="radio" name="ptoggle" value="mercator" style="height:10px" checked="checked" />
-    <label for="mercator">map</label>
-    <input id="globe" type="radio" name="ptoggle" value="globe" style="height:10px" />
-    <label for="globe">globe</label>
-    <input id="streets-v11" type="radio" name="rtoggle" value="streets" style="height:10px" checked="checked" />
-    <label for="streets-v11">streets</label>
-    <input id="outdoors-v11" type="radio" name="rtoggle" value="outdoors" style="height:10px" />
-    <label for="outdoors-v11">outdoors</label>
-    <input id="satellite-v9" type="radio" name="rtoggle" value="satellite" style="height:10px" />
-    <label for="satellite-v9">satellite</label>
-  </div>
+
+  <div id="menu" class="menu"></div>
 
   <script>
 
@@ -99,16 +89,6 @@
   map.on('moveend', () => {
     spinGlobe();
   });
-
-  var layerList = document.getElementById('menu');
-  var inputs = layerList.getElementsByTagName('input');
-
-  for (var i = 0; i < 2; i++) {
-    inputs[i].onclick = switchProjection;
-  }
-  for (var i = 2; i < inputs.length; i++) {
-    inputs[i].onclick = switchLayer;
-  }
 
   var initial_bbox = [];
   var current_bbox = [];

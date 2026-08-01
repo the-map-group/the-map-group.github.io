@@ -304,3 +304,26 @@ a:hover {
   width: 100%;
   padding: 25px 0 25px 0;
 }
+
+.menu {
+  position: absolute;
+  display: none;
+  z-index: 9;
+  background: #fff;
+  margin: 5px;
+  padding: 10px 15px 10px 10px;
+  transition: 0.5s;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
+  border-radius: 15px 15px 15px 15px;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  cursor: default;
+}
+
+.menu_separator {
+  margin: 0px 8px -5px 14px;
+  height: 20px;
+  width: 1.2px;
+}
