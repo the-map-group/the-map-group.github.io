@@ -462,7 +462,7 @@ function createMapStyleMenu() {
 
   var menu_separator = document.createElement('IMG');
   menu_separator.setAttribute('class', 'menu_separator');
-  menu_separator.setAttribute('src', 'icons/menu_separator.png');
+  menu_separator.setAttribute('src', 'res/menu_separator.png');
   menu.appendChild(menu_separator);
 
   menu.appendChild(input_streets);
