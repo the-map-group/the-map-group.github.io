@@ -7,6 +7,7 @@ function custom() {
   addBmcLogo();
   createOverlay();
   createNavButton();
+  createMapStyleMenu();
   fitBoundingBox(current_bbox);
 
   window.onkeyup = function (event) {
@@ -397,6 +398,93 @@ function createNavButton() {
   document.body.append(div_nav_button);
 }
 
+function createMapStyleMenu() {
+  // construct menu on full window map
+  var input_map = document.createElement('INPUT');
+  input_map.setAttribute('id', 'mercator');
+  input_map.setAttribute('type', 'radio');
+  input_map.setAttribute('style', 'height:10px');
+  input_map.setAttribute('name', 'mtoggle');
+  input_map.setAttribute('value', 'mercator');
+  input_map.setAttribute('checked', 'checked');
+  input_map.onclick = switchProjection;
+  var label_map = document.createElement('LABEL');
+  label_map.setAttribute('for', 'mercator');
+  label_map.innerText = 'map';
+  var input_globe = document.createElement('INPUT');
+  input_globe.setAttribute('id', 'globe');
+  input_globe.setAttribute('type', 'radio');
+  input_globe.setAttribute('style', 'height:10px');
+  input_globe.setAttribute('name', 'mtoggle');
+  input_globe.setAttribute('value', 'globe');
+  input_globe.onclick = switchProjection;
+  var label_globe = document.createElement('LABEL');
+  label_globe.setAttribute('for', 'globe-v11');
+  label_globe.innerText = 'globe';
+  var input_streets = document.createElement('INPUT');
+  input_streets.setAttribute('id', 'streets-v11');
+  input_streets.setAttribute('type', 'radio');
+  input_streets.setAttribute('style', 'height:10px');
+  input_streets.setAttribute('name', 'rtoggle');
+  input_streets.setAttribute('value', 'streets');
+  input_streets.setAttribute('checked', 'checked');
+  input_streets.onclick = switchProjection;
+  var label_streets = document.createElement('LABEL');
+  label_streets.setAttribute('for', 'streets-v11');
+  label_streets.innerText = 'streets';
+  var input_outdoors = document.createElement('INPUT');
+  input_outdoors.setAttribute('id', 'outdoors-v11');
+  input_outdoors.setAttribute('type', 'radio');
+  input_outdoors.setAttribute('style', 'height:10px');
+  input_outdoors.setAttribute('name', 'rtoggle');
+  input_outdoors.setAttribute('value', 'outdoors');
+  input_outdoors.onclick = switchProjection;
+  var label_outdoors = document.createElement('LABEL');
+  label_outdoors.setAttribute('for', 'outdoors-v11');
+  label_outdoors.innerText = 'elevation';
+  var input_satellite = document.createElement('INPUT');
+  input_satellite.setAttribute('id', 'satellite-v9');
+  input_satellite.setAttribute('type', 'radio');
+  input_satellite.setAttribute('style', 'height:10px');
+  input_satellite.setAttribute('name', 'rtoggle');
+  input_satellite.setAttribute('value', 'satellite');
+  input_satellite.onclick = switchProjection;
+  var label_satellite = document.createElement('LABEL');
+  label_satellite.setAttribute('for', 'satellite-v9');
+  label_satellite.innerText = 'satellite';
+
+  var menu = document.getElementById('menu');
+
+  menu.appendChild(input_map);
+  menu.appendChild(label_map);
+  menu.appendChild(input_globe);
+  menu.appendChild(label_globe);
+
+  var menu_separator = document.createElement('IMG');
+  menu_separator.setAttribute('class', 'menu_separator');
+  menu_separator.setAttribute('src', 'icons/menu_separator.png');
+  menu.appendChild(menu_separator);
+
+  menu.appendChild(input_streets);
+  menu.appendChild(label_streets);
+  menu.appendChild(input_outdoors);
+  menu.appendChild(label_outdoors);
+  menu.appendChild(input_satellite);
+  menu.appendChild(label_satellite);
+}
+
+function switchProjection(projection) {
+  var projId = projection.target.id;
+  current_map_projection = projId;
+  map.setProjection(current_map_projection);
+  if (current_map_projection == 'globe') {
+    spinEnabled = true;
+    spinGlobe();
+  } else {
+    spinEnabled = false;
+  }
+}
+
 function createOverlay() {
 
   // Group Container
@@ -497,6 +585,8 @@ function createOverlay() {
 
   document.body.append(div_overlay);
 
+  document.getElementById("menu").style.display = "block";
+
   setBmcLogoPosition();
   setSelectorPosition();
 
@@ -515,7 +605,7 @@ function toggleOverlay() {
 
 function openOverlay() {
   document.getElementById("overlay").style.width = "400px";
-  document.getElementById("menu").style.display = "none";
+  document.getElementById("menu").style.margin = "5px 5px 5px 405px";
   document.getElementById("nav-button").style.margin = "60px 0 0 400px";
   setBmcLogoPosition();
   setSelectorPosition();
@@ -524,7 +614,7 @@ function openOverlay() {
 
 function closeOverlay() {
   document.getElementById("overlay").style.width = "0%";
-  document.getElementById("menu").style.display = "block";
+  document.getElementById("menu").style.margin = "5px 5px 5px 5px";
   document.getElementById("nav-button").style.display = "block";
   document.getElementById("nav-button").style.margin = "60px 0 0 0";
   setBmcLogoPosition();
