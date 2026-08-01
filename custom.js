@@ -428,7 +428,7 @@ function createMapStyleMenu() {
   input_streets.setAttribute('name', 'rtoggle');
   input_streets.setAttribute('value', 'streets');
   input_streets.setAttribute('checked', 'checked');
-  input_streets.onclick = switchProjection;
+  input_streets.onclick = switchLayer;
   var label_streets = document.createElement('LABEL');
   label_streets.setAttribute('for', 'streets-v11');
   label_streets.innerText = 'streets';
@@ -438,7 +438,7 @@ function createMapStyleMenu() {
   input_outdoors.setAttribute('style', 'height:10px');
   input_outdoors.setAttribute('name', 'rtoggle');
   input_outdoors.setAttribute('value', 'outdoors');
-  input_outdoors.onclick = switchProjection;
+  input_outdoors.onclick = switchLayer;
   var label_outdoors = document.createElement('LABEL');
   label_outdoors.setAttribute('for', 'outdoors-v11');
   label_outdoors.innerText = 'elevation';
@@ -448,7 +448,7 @@ function createMapStyleMenu() {
   input_satellite.setAttribute('style', 'height:10px');
   input_satellite.setAttribute('name', 'rtoggle');
   input_satellite.setAttribute('value', 'satellite');
-  input_satellite.onclick = switchProjection;
+  input_satellite.onclick = switchLayer;
   var label_satellite = document.createElement('LABEL');
   label_satellite.setAttribute('for', 'satellite-v9');
   label_satellite.innerText = 'satellite';
@@ -483,6 +483,12 @@ function switchProjection(projection) {
   } else {
     spinEnabled = false;
   }
+}
+
+function switchLayer(layer) {
+  var layerId = layer.target.id;
+  current_map_style = 'mapbox://styles/mapbox/' + layerId;
+  map_fullwindow.setStyle(current_map_style);
 }
 
 function createOverlay() {
