@@ -1,9 +1,9 @@
 countries_dict = {
-  'IT': ['Italy', 655, 662],
+  'IT': ['Italy', 652, 659],
   'UA': ['Ukraine', 2, 2],
   'GB': ['United Kingdom', 20, 20],
   'RU': ['Russia', 21, 21],
-  'DE': ['Germany', 24, 24],
+  'DE': ['Germany', 25, 25],
   'AM': ['Armenia', 31, 33],
   'JO': ['Jordan', 12, 12],
   'AE': ['United Arab Emirates', 13, 13],
