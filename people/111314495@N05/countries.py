@@ -4,7 +4,7 @@ countries_dict = {
   'GB': ['United Kingdom', 178, 319],
   'ZA': ['South Africa', 125, 276],
   'PE': ['Peru', 66, 167],
-  'ES': ['Spain', 443, 669],
+  'ES': ['Spain', 452, 679],
   'BE': ['Belgium', 50, 76],
   'CA': ['Canada', 43, 116],
   'AR': ['Argentina', 89, 126],
