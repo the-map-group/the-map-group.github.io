@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) c68409c] Backup commit
- 5226 files changed, 1370461 insertions(+)
+[main (root-commit) e6e5c7a] Backup commit
+ 5227 files changed, 1363596 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -5220,6 +5220,7 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100755 people/zimwiz/update-countries-map-data.py
  create mode 100644 people/zimwiz/user.py
  create mode 100644 res/bmc-button.svg
+ create mode 100644 res/menu_separator.png
  create mode 100644 reset.py
  create mode 100755 run-update-maps.sh
  create mode 100755 show-repo-size.sh
