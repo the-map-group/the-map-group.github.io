@@ -13,7 +13,7 @@ countries_dict = {
   'LV': ['Latvia', 42, 43],
   'EE': ['Estonia', 29, 31],
   'IE': ['Ireland', 148, 151],
-  'AT': ['Austria', 89, 91],
+  'AT': ['Austria', 90, 92],
   'SG': ['Singapore', 117, 124],
   'DK': ['Denmark', 132, 134],
   'PL': ['Poland', 24, 26],
