@@ -10,7 +10,7 @@ countries_dict = {
   'VN': ['Vietnam', 9, 32],
   'GR': ['Greece', 6, 9],
   'SE': ['Sweden', 3, 4],
-  'TR': ['Turkey', 3, 8],
+  'TR': ['Turkey', 4, 9],
   'PT': ['Portugal', 3, 6],
   'NO': ['Norway', 6, 11],
   'BR': ['Brazil', 4, 15],
