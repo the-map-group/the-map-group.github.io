@@ -7,5 +7,5 @@ user_info = {
   'location': 'Kilwinning',
   'countries': 12,
   'markers': 516,
-  'photos': 14519
+  'photos': 14524
 }
