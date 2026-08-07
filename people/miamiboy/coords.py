@@ -7321,5 +7321,14 @@ coords_dict = {
   '26.141363,-81.798431': ['US', 'United States'],
   '26.65843,-81.88417': ['US', 'United States'],
   '26.658424,-81.883903': ['US', 'United States'],
-  '26.658761,-81.883981': ['US', 'United States']
+  '26.658761,-81.883981': ['US', 'United States'],
+  '26.336402,-81.438125': ['US', 'United States'],
+  '26.336988,-81.437762': ['US', 'United States'],
+  '26.336577,-81.438148': ['US', 'United States'],
+  '26.336419,-81.438134': ['US', 'United States'],
+  '26.336297,-81.438134': ['US', 'United States'],
+  '26.336949,-81.436592': ['US', 'United States'],
+  '26.33623,-81.437112': ['US', 'United States'],
+  '26.646384,-81.869316': ['US', 'United States'],
+  '26.337,-81.437753': ['US', 'United States']
 }
