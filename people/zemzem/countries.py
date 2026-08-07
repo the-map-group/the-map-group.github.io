@@ -6,7 +6,7 @@ countries_dict = {
   'MX': ['Mexico', 2, 2],
   'JO': ['Jordan', 4, 5],
   'AU': ['Australia', 8, 9],
-  'ES': ['Spain', 34, 38],
+  'ES': ['Spain', 35, 39],
   'DE': ['Germany', 3, 3],
   'GB': ['United Kingdom', 1, 1]
 }
