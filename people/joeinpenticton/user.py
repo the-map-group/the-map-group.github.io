@@ -1,11 +1,11 @@
 user_info = {
   'id': '23349126@N08',
   'alias': 'joeinpenticton',
-  'name': 'Joe (Josè) Garcia',
+  'name': 'Joe (José) Garcia',
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/23349126@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/joeinpenticton/',
   'location': 'Penticton, British Columbia, Canada',
   'countries': 7,
-  'markers': 865,
-  'photos': 876
+  'markers': 866,
+  'photos': 877
 }
