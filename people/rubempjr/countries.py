@@ -11,5 +11,6 @@ countries_dict = {
   'US': ['United States', 50, 172],
   'CL': ['Chile', 1, 1],
   'RU': ['Russia', 1, 1],
-  'MX': ['Mexico', 208, 693]
+  'MX': ['Mexico', 208, 693],
+  'GT': ['Guatemala', 1, 1]
 }
