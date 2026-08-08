@@ -9,7 +9,7 @@ countries_dict = {
   'ZA': ['South Africa', 226, 318],
   'IN': ['India', 133, 239],
   'PW': ['Palau', 129, 138],
-  'GL': ['Greenland', 129, 161],
+  'GL': ['Greenland', 130, 164],
   'FM': ['Micronesia', 162, 170],
   'KG': ['Kyrgyzstan', 73, 79],
   'AR': ['Argentina', 78, 96],
