@@ -9,7 +9,7 @@ countries_dict = {
   'US': ['United States', 245, 251],
   'TR': ['Turkey', 173, 185],
   'FR': ['France', 249, 268],
-  'MT': ['Malta', 167, 171],
+  'MT': ['Malta', 167, 172],
   'LV': ['Latvia', 42, 43],
   'EE': ['Estonia', 29, 31],
   'IE': ['Ireland', 148, 151],
