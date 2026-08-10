@@ -4,7 +4,7 @@ countries_dict = {
   'EG': ['Egypt', 34, 397],
   'GB': ['United Kingdom', 58, 366],
   'FR': ['France', 2, 2],
-  'US': ['United States', 256, 1524],
+  'US': ['United States', 257, 1532],
   'VA': ['Vatican City', 16, 207],
   'TR': ['Turkey', 40, 549],
   'MA': ['Morocco', 119, 592],
