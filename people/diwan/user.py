@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm8.staticflickr.com/7442/buddyicons/81504125@N00_r.jpg',
   'url': 'https://www.flickr.com/photos/diwan/',
   'location': 'Magdeburg, Germany',
-  'countries': 25,
-  'markers': 8910,
-  'photos': 9478
+  'countries': 26,
+  'markers': 8913,
+  'photos': 9481
 }

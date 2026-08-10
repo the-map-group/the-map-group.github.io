@@ -1,5 +1,5 @@
 countries_dict = {
-  'DE': ['Germany', 5953, 6371],
+  'DE': ['Germany', 5954, 6372],
   'GB': ['United Kingdom', 138, 141],
   'ES': ['Spain', 471, 514],
   'IT': ['Italy', 402, 429],
@@ -13,7 +13,7 @@ countries_dict = {
   'LV': ['Latvia', 42, 43],
   'EE': ['Estonia', 29, 31],
   'IE': ['Ireland', 148, 151],
-  'AT': ['Austria', 90, 92],
+  'AT': ['Austria', 91, 93],
   'SG': ['Singapore', 117, 124],
   'DK': ['Denmark', 132, 134],
   'PL': ['Poland', 24, 26],
@@ -23,5 +23,6 @@ countries_dict = {
   'ID': ['Indonesia', 1, 1],
   'MC': ['Monaco', 21, 23],
   'SE': ['Sweden', 8, 8],
-  'CH': ['Switzerland', 5, 5]
+  'CH': ['Switzerland', 5, 5],
+  'KE': ['Kenya', 1, 1]
 }
