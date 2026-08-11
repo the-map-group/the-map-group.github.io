@@ -845,20 +845,14 @@ Finished!
 
 ##### Updating Group's Map...
 Generating map for 'The Map Group'
-73602 photos in the pool
+73603 photos in the pool
 Extracting photo coordinates and ids...
 Extracting for the last 5000 photos
-Batch 1/10 | 499 photo(s) in 436 marker(s)Batch 2/10 | 999 photo(s) in 798 marker(s)Batch 3/10 | 1499 photo(s) in 1189 marker(s)Batch 4/10 | 1999 photo(s) in 1643 marker(s)Batch 5/10 | 2444 photo(s) in 2000 marker(s)
+Batch 1/10 | 499 photo(s) in 436 marker(s)Batch 2/10 | 999 photo(s) in 798 marker(s)Batch 3/10 | 1499 photo(s) in 1189 marker(s)Batch 4/10 | 1999 photo(s) in 1644 marker(s)Batch 5/10 | 2443 photo(s) in 2000 marker(s)
 Maximum number of markers on map reached!
 Adding marker(s) to map...
 Map already has 11767 marker(s)
-Max number of markers reached. Removing 0 marker(s)...
-No new markers were added to the map
+1 new marker(s) will be added to the map
+Max number of markers reached. Removing 1 marker(s)...
+Added marker 1/1
 Finished!
-Commiting map data...
-Done!
-
-RUN ERROR: At least one FATAL ERROR ocurred during the maps updates.
-
-##### Removing members which have left the group...
-No member has left the group!
