@@ -9,7 +9,7 @@ countries_dict = {
   'GB': ['United Kingdom', 6, 6],
   'AT': ['Austria', 25, 33],
   'HR': ['Croatia', 1, 1],
-  'CH': ['Switzerland', 686, 770],
+  'CH': ['Switzerland', 689, 773],
   'DE': ['Germany', 218, 286],
   'SG': ['Singapore', 90, 532],
   'GR': ['Greece', 1, 2],
@@ -37,5 +37,6 @@ countries_dict = {
   'VN': ['Vietnam', 392, 413],
   'LI': ['Liechtenstein', 22, 23],
   'FJ': ['Fiji', 8, 9],
-  'MY': ['Malaysia', 1, 1]
+  'MY': ['Malaysia', 1, 1],
+  'WF': ['Wallis and Futuna', 1, 1]
 }
