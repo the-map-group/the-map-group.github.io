@@ -852,14 +852,6 @@ Batch 1/10 | 499 photo(s) in 437 marker(s)Batch 2/10 | 999 photo(s) in 798 mark
 Maximum number of markers on map reached!
 Adding marker(s) to map...
 Map already has 11763 marker(s)
-Added 1 new photo(s) to existing markers
 Max number of markers reached. Removing 0 marker(s)...
 No new markers were added to the map
 Finished!
-Commiting map data...
-Done!
-
-RUN ERROR: At least one FATAL ERROR ocurred during the maps updates.
-
-##### Removing members which have left the group...
-No member has left the group!
