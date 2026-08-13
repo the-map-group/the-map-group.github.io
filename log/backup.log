@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) cdf7553] Backup commit
- 5227 files changed, 1363651 insertions(+)
+[main (root-commit) 969141e] Backup commit
+ 5230 files changed, 1364030 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -474,6 +474,8 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 countries/vn/index.html
  create mode 100644 countries/vu/country_code.js
  create mode 100644 countries/vu/index.html
+ create mode 100644 countries/wf/country_code.js
+ create mode 100644 countries/wf/index.html
  create mode 100644 countries/ws/country_code.js
  create mode 100644 countries/ws/index.html
  create mode 100644 countries/xk/country_code.js
@@ -2479,6 +2481,7 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 120000 people/alestaleiro/countries_config.py
  create mode 120000 people/alestaleiro/countries_info.py
  create mode 120000 people/alestaleiro/countries_members.py
+ create mode 100644 people/alestaleiro/fatal
  create mode 100755 people/alestaleiro/generate-map-data.py
  create mode 100644 people/alestaleiro/index.html
  create mode 100644 people/alestaleiro/last_total.py
