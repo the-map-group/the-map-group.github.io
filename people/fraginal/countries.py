@@ -1,6 +1,6 @@
 countries_dict = {
   'PH': ['Philippines', 24723, 44498],
-  'AU': ['Australia', 1270, 1862],
+  'AU': ['Australia', 1290, 1885],
   'US': ['United States', 2172, 6001],
   'MY': ['Malaysia', 15, 108],
   'VN': ['Vietnam', 1076, 1472],

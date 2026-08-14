@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/fraginal/',
   'location': '',
   'countries': 23,
-  'markers': 32933,
-  'photos': 64567
+  'markers': 32953,
+  'photos': 64590
 }
