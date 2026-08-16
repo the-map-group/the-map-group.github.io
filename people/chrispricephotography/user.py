@@ -4,8 +4,8 @@ user_info = {
   'name': 'Chris Price',
   'avatar': 'https://farm3.staticflickr.com/2846/buddyicons/8121206@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/chrispricephotography/',
-  'location': 'Blacksburg, VA, USA',
+  'location': 'Orono, Maine, USA',
   'countries': 10,
-  'markers': 1244,
-  'photos': 1819
+  'markers': 1245,
+  'photos': 1820
 }
