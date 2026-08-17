@@ -1,6 +1,6 @@
 countries_dict = {
   'PE': ['Peru', 7, 12],
-  'US': ['United States', 9440, 14550],
+  'US': ['United States', 9443, 14555],
   'GT': ['Guatemala', 15, 23],
   'ES': ['Spain', 17, 32],
   'CA': ['Canada', 6, 13],
