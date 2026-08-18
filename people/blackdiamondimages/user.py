@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/blackdiamondimages/',
   'location': 'Mid North Coast, NSW, Australia',
   'countries': 40,
-  'markers': 17974,
-  'photos': 23124
+  'markers': 17978,
+  'photos': 23128
 }
