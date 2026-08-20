@@ -1,6 +1,6 @@
 countries_dict = {
   'PL': ['Poland', 14, 20],
-  'BE': ['Belgium', 626, 799],
+  'BE': ['Belgium', 627, 800],
   'MX': ['Mexico', 10, 11],
   'ID': ['Indonesia', 13, 19],
   'JM': ['Jamaica', 8, 15],
