@@ -9,5 +9,5 @@ countries_dict = {
   'ES': ['Spain', 40, 97],
   'JP': ['Japan', 43, 104],
   'KR': ['South Korea', 58, 92],
-  'GR': ['Greece', 54, 79]
+  'GR': ['Greece', 54, 81]
 }
