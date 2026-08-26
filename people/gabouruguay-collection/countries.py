@@ -3,11 +3,11 @@ countries_dict = {
   'PE': ['Peru', 40, 87],
   'MX': ['Mexico', 26, 295],
   'CL': ['Chile', 7, 15],
-  'AR': ['Argentina', 49, 142],
+  'AR': ['Argentina', 49, 143],
   'DO': ['Dominican Republic', 11, 16],
   'ZA': ['South Africa', 59, 145],
   'ES': ['Spain', 40, 97],
   'JP': ['Japan', 43, 104],
   'KR': ['South Korea', 58, 92],
-  'GR': ['Greece', 54, 81]
+  'GR': ['Greece', 56, 83]
 }
