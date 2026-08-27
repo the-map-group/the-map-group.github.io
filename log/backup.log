@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) 4f05ba5] Backup commit
- 5230 files changed, 1366589 insertions(+)
+[main (root-commit) b8d1dde] Backup commit
+ 5225 files changed, 1389346 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -1209,6 +1209,26 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/140907479@N08/photos/index.html
  create mode 100755 people/140907479@N08/update-countries-map-data.py
  create mode 100644 people/140907479@N08/user.py
+ create mode 100644 people/142678369@N04/__pycache__/countries.cpython-311.pyc
+ create mode 100644 people/142678369@N04/__pycache__/countries_members.cpython-311.pyc
+ create mode 100644 people/142678369@N04/__pycache__/user.cpython-311.pyc
+ create mode 120000 people/142678369@N04/api_credentials.py
+ create mode 100644 people/142678369@N04/config.py
+ create mode 100644 people/142678369@N04/coords.py
+ create mode 100644 people/142678369@N04/countries.py
+ create mode 120000 people/142678369@N04/countries_config.py
+ create mode 120000 people/142678369@N04/countries_info.py
+ create mode 120000 people/142678369@N04/countries_members.py
+ create mode 100755 people/142678369@N04/generate-map-data.py
+ create mode 100644 people/142678369@N04/index.html
+ create mode 100644 people/142678369@N04/last_total.py
+ create mode 100644 people/142678369@N04/locations.py
+ create mode 120000 people/142678369@N04/map.log
+ create mode 120000 people/142678369@N04/matrix.py
+ create mode 120000 people/142678369@N04/not_found.py
+ create mode 100644 people/142678369@N04/photos/index.html
+ create mode 100755 people/142678369@N04/update-countries-map-data.py
+ create mode 100644 people/142678369@N04/user.py
  create mode 100644 people/144107033@N04/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/144107033@N04/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/144107033@N04/__pycache__/user.cpython-311.pyc
@@ -2471,31 +2491,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/al_case/photos/index.html
  create mode 100755 people/al_case/update-countries-map-data.py
  create mode 100644 people/al_case/user.py
- create mode 100644 people/alestaleiro/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/alestaleiro/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/alestaleiro/__pycache__/user.cpython-311.pyc
- create mode 120000 people/alestaleiro/api_credentials.py
- create mode 100644 people/alestaleiro/config.py
- create mode 100644 people/alestaleiro/coords.py
- create mode 100644 people/alestaleiro/countries.py
- create mode 120000 people/alestaleiro/countries_config.py
- create mode 120000 people/alestaleiro/countries_info.py
- create mode 120000 people/alestaleiro/countries_members.py
- create mode 100644 people/alestaleiro/fatal
- create mode 100755 people/alestaleiro/generate-map-data.py
- create mode 100644 people/alestaleiro/index.html
- create mode 100644 people/alestaleiro/last_total.py
- create mode 100644 people/alestaleiro/locations.py
- create mode 100644 people/alestaleiro/log/countries_info.err
- create mode 100644 people/alestaleiro/log/countries_info.log
- create mode 100644 people/alestaleiro/log/countries_info.rep
- create mode 100644 people/alestaleiro/log/index.html
- create mode 120000 people/alestaleiro/map.log
- create mode 120000 people/alestaleiro/matrix.py
- create mode 120000 people/alestaleiro/not_found.py
- create mode 100644 people/alestaleiro/photos/index.html
- create mode 100755 people/alestaleiro/update-countries-map-data.py
- create mode 100644 people/alestaleiro/user.py
  create mode 100644 people/alex_premoli/__pycache__/countries.cpython-311.pyc
  create mode 100644 people/alex_premoli/__pycache__/countries_members.cpython-311.pyc
  create mode 100644 people/alex_premoli/__pycache__/user.cpython-311.pyc
