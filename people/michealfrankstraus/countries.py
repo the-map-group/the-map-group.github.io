@@ -35,6 +35,6 @@ countries_dict = {
   'SJ': ['Svalbard and Jan Mayen', 8, 8],
   'PT': ['Portugal', 116, 126],
   'EE': ['Estonia', 36, 36],
-  'LV': ['Latvia', 16, 16],
+  'LV': ['Latvia', 17, 17],
   'GR': ['Greece', 1, 1]
 }
