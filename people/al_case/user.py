@@ -7,5 +7,5 @@ user_info = {
   'location': 'Ashland, Oregon, USA',
   'countries': 19,
   'markers': 774,
-  'photos': 892
+  'photos': 893
 }
