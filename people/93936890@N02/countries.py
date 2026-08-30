@@ -1,7 +1,7 @@
 countries_dict = {
   'HR': ['Croatia', 3, 9],
   'IN': ['India', 3, 5],
-  'GB': ['United Kingdom', 330, 581],
+  'GB': ['United Kingdom', 331, 582],
   'RS': ['Serbia', 1, 1],
   'CN': ['China', 15, 18],
   'MY': ['Malaysia', 5, 5],
