@@ -11,7 +11,7 @@ countries_dict = {
   'FR': ['France', 8, 13],
   'KH': ['Cambodia', 112, 358],
   'EG': ['Egypt', 18, 29],
-  'PL': ['Poland', 4, 6],
+  'PL': ['Poland', 5, 7],
   'IT': ['Italy', 101, 160],
   'VA': ['Vatican City', 10, 117],
   'AT': ['Austria', 25, 27],
@@ -37,8 +37,8 @@ countries_dict = {
   'CR': ['Costa Rica', 4, 4],
   'ZA': ['South Africa', 21, 26],
   'SZ': ['Eswatini', 2, 2],
-  'ID': ['Indonesia', 5, 7],
-  'SG': ['Singapore', 2, 2],
+  'ID': ['Indonesia', 6, 9],
+  'SG': ['Singapore', 2, 4],
   'NO': ['Norway', 5, 7],
-  'NA': ['Namibia', 1, 1]
+  'NA': ['Namibia', 2, 2]
 }

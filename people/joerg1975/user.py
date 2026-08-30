@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/joerg1975/',
   'location': 'Germany',
   'countries': 42,
-  'markers': 3644,
-  'photos': 8009
+  'markers': 3647,
+  'photos': 8015
 }
