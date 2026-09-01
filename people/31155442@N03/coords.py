@@ -10921,5 +10921,14 @@ coords_dict = {
   '35.154652,129.15081': ['KR', 'South Korea'],
   '35.078626,129.08001': ['KR', 'South Korea'],
   '35.080303,129.092359': ['KR', 'South Korea'],
-  '35.076352,129.086973': ['KR', 'South Korea']
+  '35.076352,129.086973': ['KR', 'South Korea'],
+  '-51.758623,-58.074746': ['FK', 'Falkland Islands'],
+  '-51.261914,-58.179931': ['FK', 'Falkland Islands'],
+  '-51.623025,-57.749233': ['FK', 'Falkland Islands'],
+  '-51.642204,-57.732696': ['FK', 'Falkland Islands'],
+  '-51.644015,-57.720336': ['FK', 'Falkland Islands'],
+  '-51.552739,-58.058338': ['FK', 'Falkland Islands'],
+  '-51.693183,-57.832721': ['FK', 'Falkland Islands'],
+  '-51.682161,-57.831745': ['FK', 'Falkland Islands'],
+  '-51.692338,-57.856736': ['FK', 'Falkland Islands']
 }
