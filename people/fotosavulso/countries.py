@@ -8,5 +8,6 @@ countries_dict = {
   'US': ['United States', 4, 4],
   'IT': ['Italy', 1, 1],
   'CV': ['Cape Verde', 36, 40],
-  'GR': ['Greece', 1, 1]
+  'GR': ['Greece', 1, 1],
+  'CN': ['China', 1, 1]
 }
