@@ -11,7 +11,7 @@ countries_dict = {
   'FR': ['France', 8, 13],
   'KH': ['Cambodia', 112, 358],
   'EG': ['Egypt', 18, 29],
-  'PL': ['Poland', 5, 7],
+  'PL': ['Poland', 6, 8],
   'IT': ['Italy', 101, 160],
   'VA': ['Vatican City', 10, 117],
   'AT': ['Austria', 25, 27],
