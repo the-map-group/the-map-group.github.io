@@ -5205,5 +5205,16 @@ coords_dict = {
   '-51.278786,-59.727921': ['FK', 'Falkland Islands'],
   '53.969856,-10.174806': ['IE', 'Ireland'],
   '53.970866,-10.183733': ['IE', 'Ireland'],
-  '53.963798,-10.191629': ['IE', 'Ireland']
+  '53.963798,-10.191629': ['IE', 'Ireland'],
+  '53.013168,-4.1028': ['GB', 'United Kingdom'],
+  '53.013994,-4.106577': ['GB', 'United Kingdom'],
+  '53.012961,-4.10589': ['GB', 'United Kingdom'],
+  '53.01482,-4.107263': ['GB', 'United Kingdom'],
+  '53.013788,-4.106577': ['GB', 'United Kingdom'],
+  '53.013994,-4.103487': ['GB', 'United Kingdom'],
+  '53.013581,-4.105203': ['GB', 'United Kingdom'],
+  '53.01482,-4.105203': ['GB', 'United Kingdom'],
+  '53.013374,-4.10589': ['GB', 'United Kingdom'],
+  '53.013374,-4.107607': ['GB', 'United Kingdom'],
+  '53.091175,-4.181421': ['GB', 'United Kingdom']
 }
