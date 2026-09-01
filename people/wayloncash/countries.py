@@ -11,7 +11,7 @@ countries_dict = {
   'PT': ['Portugal', 188, 339],
   'SM': ['San Marino', 6, 29],
   'GI': ['Gibraltar', 4, 104],
-  'AD': ['Andorra', 11, 22],
+  'AD': ['Andorra', 13, 24],
   'PL': ['Poland', 123, 134],
   'CZ': ['Czech Republic', 16, 140],
   'CA': ['Canada', 61, 98],
