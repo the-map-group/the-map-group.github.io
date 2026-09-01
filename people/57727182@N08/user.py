@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm8.staticflickr.com/7923/buddyicons/57727182@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/57727182@N08/',
   'location': 'Kilwinning',
-  'countries': 12,
-  'markers': 516,
-  'photos': 14525
+  'countries': 13,
+  'markers': 517,
+  'photos': 14527
 }
