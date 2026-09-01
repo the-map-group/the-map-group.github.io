@@ -10,7 +10,7 @@ countries_dict = {
   'LK': ['Sri Lanka', 1, 1],
   'IE': ['Ireland', 21, 26],
   'AT': ['Austria', 1, 1],
-  'FR': ['France', 24, 29],
+  'FR': ['France', 27, 32],
   'LV': ['Latvia', 2, 9],
   'DE': ['Germany', 11, 14],
   'LT': ['Lithuania', 1, 2],
