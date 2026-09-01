@@ -1,5 +1,5 @@
 countries_dict = {
-  'GB': ['United Kingdom', 1980, 2158],
+  'GB': ['United Kingdom', 1981, 2160],
   'MT': ['Malta', 40, 42],
   'IT': ['Italy', 31, 31],
   'GR': ['Greece', 28, 28],
@@ -14,7 +14,7 @@ countries_dict = {
   'BE': ['Belgium', 2, 2],
   'PR': ['Puerto Rico', 4, 5],
   'BS': ['Bahamas', 9, 10],
-  'ES': ['Spain', 40, 46],
+  'ES': ['Spain', 41, 47],
   'PT': ['Portugal', 3, 3],
   'GG': ['Guernsey', 5, 6],
   'LC': ['St Lucia', 3, 3],
