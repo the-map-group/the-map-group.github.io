@@ -31,7 +31,7 @@ countries_dict = {
   'KR': ['South Korea', 7040, 7782],
   'CN': ['China', 13, 13],
   'RU': ['Russia', 6, 6],
-  'EG': ['Egypt', 99, 151],
+  'EG': ['Egypt', 126, 191],
   'LT': ['Lithuania', 2, 2],
   'LV': ['Latvia', 1, 1],
   'EE': ['Estonia', 3, 3],
