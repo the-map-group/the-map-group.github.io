@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm66.staticflickr.com/65535/buddyicons/193758259@N04_r.jpg',
   'url': 'https://www.flickr.com/photos/enricoveneruso/',
   'location': 'Napoli, Italia',
-  'countries': 12,
-  'markers': 337,
-  'photos': 340
+  'countries': 13,
+  'markers': 338,
+  'photos': 341
 }
