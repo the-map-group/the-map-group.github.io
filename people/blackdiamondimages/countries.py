@@ -1,7 +1,7 @@
 countries_dict = {
   'AU': ['Australia', 13529, 16726],
   'NZ': ['New Zealand', 716, 892],
-  'IT': ['Italy', 18, 18],
+  'IT': ['Italy', 29, 29],
   'AL': ['Albania', 2, 2],
   'FR': ['France', 229, 243],
   'NL': ['Netherlands', 1, 1],
