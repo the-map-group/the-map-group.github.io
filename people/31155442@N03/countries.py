@@ -7,7 +7,7 @@ countries_dict = {
   'ES': ['Spain', 216, 308],
   'AU': ['Australia', 207, 263],
   'NZ': ['New Zealand', 271, 355],
-  'FK': ['Falkland Islands', 115, 183],
+  'FK': ['Falkland Islands', 121, 196],
   'GB': ['United Kingdom', 975, 1249],
   'EE': ['Estonia', 51, 70],
   'CO': ['Colombia', 54, 68],
