@@ -6,6 +6,6 @@ countries_dict = {
   'HR': ['Croatia', 184, 243],
   'IT': ['Italy', 77, 126],
   'VA': ['Vatican City', 22, 31],
-  'CL': ['Chile', 97, 230],
+  'CL': ['Chile', 102, 241],
   'UY': ['Uruguay', 47, 80]
 }
