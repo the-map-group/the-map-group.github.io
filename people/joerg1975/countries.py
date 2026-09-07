@@ -1,5 +1,5 @@
 countries_dict = {
-  'CN': ['China', 277, 598],
+  'CN': ['China', 277, 599],
   'MX': ['Mexico', 137, 265],
   'TH': ['Thailand', 10, 12],
   'GR': ['Greece', 24, 47],
@@ -17,7 +17,7 @@ countries_dict = {
   'AT': ['Austria', 25, 27],
   'MT': ['Malta', 89, 432],
   'TR': ['Turkey', 108, 163],
-  'IN': ['India', 437, 682],
+  'IN': ['India', 437, 683],
   'DO': ['Dominican Republic', 1, 1],
   'HR': ['Croatia', 1, 1],
   'AE': ['United Arab Emirates', 179, 288],
