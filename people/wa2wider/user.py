@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/wa2wider/',
   'location': 'canada',
   'countries': 3,
-  'markers': 237,
-  'photos': 260
+  'markers': 238,
+  'photos': 261
 }
