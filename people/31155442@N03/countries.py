@@ -20,7 +20,7 @@ countries_dict = {
   'TH': ['Thailand', 78, 88],
   'FR': ['France', 234, 294],
   'MX': ['Mexico', 61, 70],
-  'CN': ['China', 264, 412],
+  'CN': ['China', 268, 416],
   'BS': ['Bahamas', 34, 44],
   'KR': ['South Korea', 72, 104],
   'JP': ['Japan', 86, 125],
