@@ -17,11 +17,11 @@ countries_dict = {
   'KE': ['Kenya', 5, 5],
   'UG': ['Uganda', 284, 1868],
   'BE': ['Belgium', 1, 158],
-  'AR': ['Argentina', 659, 1280],
+  'AR': ['Argentina', 660, 1283],
   'CL': ['Chile', 5, 55],
   'UY': ['Uruguay', 173, 224],
   'DK': ['Denmark', 9, 12],
   'NO': ['Norway', 323, 422],
   'BR': ['Brazil', 35, 40],
-  'PE': ['Peru', 678, 2130]
+  'PE': ['Peru', 679, 2132]
 }
