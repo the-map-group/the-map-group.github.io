@@ -15,7 +15,7 @@ countries_dict = {
   'IE': ['Ireland', 18, 21],
   'NL': ['Netherlands', 53, 65],
   'GR': ['Greece', 81, 131],
-  'BE': ['Belgium', 5, 11],
+  'BE': ['Belgium', 6, 13],
   'LT': ['Lithuania', 3, 7],
   'IL': ['Israel', 5, 9],
   'HU': ['Hungary', 93, 139],
