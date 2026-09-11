@@ -33,7 +33,7 @@ countries_dict = {
   'PL': ['Poland', 3, 12],
   'MA': ['Morocco', 144, 288],
   'TW': ['Taiwan', 13, 24],
-  'PT': ['Portugal', 127, 278],
+  'PT': ['Portugal', 129, 280],
   'FO': ['Faroe Islands', 5, 12],
   'NO': ['Norway', 6, 6],
   'IS': ['Iceland', 22, 29],
