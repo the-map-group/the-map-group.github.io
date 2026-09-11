@@ -7,5 +7,5 @@ user_info = {
   'location': 'Hamm-Bockum, Germany',
   'countries': 8,
   'markers': 823,
-  'photos': 1593
+  'photos': 1594
 }
