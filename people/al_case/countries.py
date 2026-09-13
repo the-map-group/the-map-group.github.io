@@ -16,6 +16,6 @@ countries_dict = {
   'EE': ['Estonia', 5, 5],
   'RU': ['Russia', 11, 12],
   'PL': ['Poland', 3, 3],
-  'FO': ['Faroe Islands', 4, 4],
+  'FO': ['Faroe Islands', 5, 5],
   'CA': ['Canada', 3, 3]
 }
