@@ -4,7 +4,7 @@ countries_dict = {
   'TW': ['Taiwan', 5, 5],
   'SE': ['Sweden', 11, 12],
   'FR': ['France', 38, 39],
-  'PR': ['Puerto Rico', 9, 9],
+  'PR': ['Puerto Rico', 10, 10],
   'DE': ['Germany', 26, 26],
   'CN': ['China', 46, 57],
   'MT': ['Malta', 11, 13],
