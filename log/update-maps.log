@@ -2535,3 +2535,46 @@ Map already has 2202 marker(s)
 Added 2 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: kimbar/Thanks for 6....
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Kim'
+14772 photos in the photostream
+5 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 0 photo(s) in 0 marker(s)
+Adding marker(s) to map...
+Map already has 7298 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Urban Florida Photog...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Urban Florida Photographer'
+15333 photos in the photostream
+10 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 10 photo(s) in 10 marker(s)
+Adding marker(s) to map...
+Map already has 9729 marker(s)
+10 new marker(s) will be added to the map
+Added marker 1/10
+Added marker 2/10
+Added marker 3/10
+Added marker 4/10
+Added marker 5/10
+Added marker 6/10
+Added marker 7/10
+Added marker 8/10
+Added marker 9/10
+Added marker 10/10
+Finished!
