@@ -15286,5 +15286,10 @@ coords_dict = {
   '50.820984,-0.815262': ['GB', 'United Kingdom'],
   '50.822339,-0.812258': ['GB', 'United Kingdom'],
   '50.806911,-0.865859': ['GB', 'United Kingdom'],
-  '50.828845,-0.856847': ['GB', 'United Kingdom']
+  '50.828845,-0.856847': ['GB', 'United Kingdom'],
+  '50.81952,-0.816421': ['GB', 'United Kingdom'],
+  '50.804741,-0.866847': ['GB', 'United Kingdom'],
+  '50.806124,-0.864915': ['GB', 'United Kingdom'],
+  '50.828628,-0.861096': ['GB', 'United Kingdom'],
+  '50.80748,-0.865774': ['GB', 'United Kingdom']
 }
