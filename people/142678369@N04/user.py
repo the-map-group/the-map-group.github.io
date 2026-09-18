@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/142678369@N04/',
   'location': 'Torino, Italia',
   'countries': 3,
-  'markers': 7573,
-  'photos': 14246
+  'markers': 7582,
+  'photos': 14255
 }
