@@ -1,8 +1,8 @@
 countries_dict = {
   'MU': ['Mauritius', 275, 389],
-  'RE': ['Reunion', 4522, 23776],
+  'RE': ['Reunion', 4522, 23780],
   'MG': ['Madagascar', 207, 363],
-  'FR': ['France', 5010, 8521],
+  'FR': ['France', 5015, 8528],
   'AE': ['United Arab Emirates', 91, 227],
   'OM': ['Oman', 339, 722],
   'IN': ['India', 37, 87],
