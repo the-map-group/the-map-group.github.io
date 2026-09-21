@@ -37,7 +37,7 @@ countries_dict = {
   'CH': ['Switzerland', 4, 4],
   'EE': ['Estonia', 2, 2],
   'GL': ['Greenland', 1, 1],
-  'IS': ['Iceland', 3, 3],
+  'IS': ['Iceland', 4, 4],
   'BZ': ['Belize', 1, 1],
   'PA': ['Panama', 2, 2],
   'JE': ['Jersey', 1, 2],
