@@ -1,8 +1,8 @@
 countries_dict = {
-  'BR': ['Brazil', 2771, 7620],
+  'BR': ['Brazil', 2772, 7622],
   'IT': ['Italy', 324, 617],
   'ES': ['Spain', 1529, 3981],
-  'PT': ['Portugal', 2677, 6261],
+  'PT': ['Portugal', 2677, 6262],
   'AR': ['Argentina', 61, 123],
   'GB': ['United Kingdom', 893, 2473],
   'UY': ['Uruguay', 37, 270],
