@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/steveg1966/',
   'location': 'Ellisville, MS, USA',
   'countries': 1,
-  'markers': 82,
-  'photos': 129
+  'markers': 84,
+  'photos': 132
 }
