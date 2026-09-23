@@ -23,7 +23,7 @@ countries_dict = {
   'CN': ['China', 285, 456],
   'BS': ['Bahamas', 34, 44],
   'KR': ['South Korea', 72, 104],
-  'JP': ['Japan', 99, 148],
+  'JP': ['Japan', 105, 156],
   'SE': ['Sweden', 89, 129],
   'UY': ['Uruguay', 54, 95],
   'VN': ['Vietnam', 118, 218],
