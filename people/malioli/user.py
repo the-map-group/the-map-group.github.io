@@ -7,5 +7,5 @@ user_info = {
   'location': 'Karlovac, Hrvatska',
   'countries': 5,
   'markers': 2704,
-  'photos': 5636
+  'photos': 5637
 }
