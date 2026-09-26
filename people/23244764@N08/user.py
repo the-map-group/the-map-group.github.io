@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/23244764@N08/',
   'location': 'east Tennessee, USA',
   'countries': 11,
-  'markers': 310,
-  'photos': 610
+  'markers': 311,
+  'photos': 611
 }
