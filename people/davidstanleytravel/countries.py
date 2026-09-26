@@ -95,7 +95,7 @@ countries_dict = {
   'PH': ['Philippines', 86, 88],
   'BG': ['Bulgaria', 78, 81],
   'IE': ['Ireland', 80, 84],
-  'EC': ['Ecuador', 98, 151],
+  'EC': ['Ecuador', 101, 155],
   'CL': ['Chile', 99, 110],
   'GP': ['Guadeloupe', 30, 30],
   'KN': ['Saint Kitts and Nevis', 35, 35],
