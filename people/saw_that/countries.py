@@ -1,7 +1,7 @@
 countries_dict = {
   'US': ['United States', 357, 752],
   'IT': ['Italy', 40, 49],
-  'CA': ['Canada', 958, 1986],
+  'CA': ['Canada', 958, 1987],
   'GB': ['United Kingdom', 35, 56],
   'FR': ['France', 14, 19],
   'DE': ['Germany', 3, 4],
