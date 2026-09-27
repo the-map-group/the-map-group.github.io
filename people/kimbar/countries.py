@@ -39,7 +39,7 @@ countries_dict = {
   'IS': ['Iceland', 22, 29],
   'DK': ['Denmark', 20, 33],
   'BG': ['Bulgaria', 8, 9],
-  'RO': ['Romania', 25, 36],
+  'RO': ['Romania', 26, 37],
   'RS': ['Serbia', 5, 6],
   'AE': ['United Arab Emirates', 6, 8],
   'IN': ['India', 12, 27],
