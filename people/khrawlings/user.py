@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/khrawlings/',
   'location': '',
   'countries': 22,
-  'markers': 3049,
-  'photos': 3968
+  'markers': 3050,
+  'photos': 3969
 }
