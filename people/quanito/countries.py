@@ -37,7 +37,7 @@ countries_dict = {
   'ES': ['Spain', 39, 171],
   'IS': ['Iceland', 243, 1091],
   'JO': ['Jordan', 31, 401],
-  'IE': ['Ireland', 102, 226],
+  'IE': ['Ireland', 145, 325],
   'MY': ['Malaysia', 2, 6],
   'FI': ['Finland', 1, 4],
   'CR': ['Costa Rica', 57, 993],
