@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/16938270@N00/',
   'location': 'Ormiston, Australia',
   'countries': 35,
-  'markers': 1257,
-  'photos': 1358
+  'markers': 1259,
+  'photos': 1360
 }
