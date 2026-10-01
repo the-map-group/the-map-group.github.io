@@ -15,5 +15,5 @@ countries_dict = {
   'ZA': ['South Africa', 18, 18],
   'SZ': ['Eswatini', 1, 1],
   'CU': ['Cuba', 17, 17],
-  'PT': ['Portugal', 1, 1]
+  'PT': ['Portugal', 2, 2]
 }
