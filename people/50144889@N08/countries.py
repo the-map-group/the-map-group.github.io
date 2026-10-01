@@ -1,5 +1,5 @@
 countries_dict = {
-  'GB': ['United Kingdom', 1987, 2170],
+  'GB': ['United Kingdom', 1988, 2171],
   'MT': ['Malta', 40, 42],
   'IT': ['Italy', 31, 31],
   'GR': ['Greece', 28, 28],
