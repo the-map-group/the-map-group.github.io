@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/jacobblanck2000/',
   'location': '',
   'countries': 2,
-  'markers': 57,
-  'photos': 98
+  'markers': 58,
+  'photos': 99
 }
