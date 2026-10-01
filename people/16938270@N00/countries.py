@@ -26,7 +26,7 @@ countries_dict = {
   'DK': ['Denmark', 10, 10],
   'VU': ['Vanuatu', 8, 8],
   'KE': ['Kenya', 3, 3],
-  'BI': ['Burundi', 11, 11],
+  'BI': ['Burundi', 12, 12],
   'KR': ['South Korea', 3, 3],
   'ZW': ['Zimbabwe', 1, 1],
   'ZA': ['South Africa', 1, 1],
