@@ -10955,5 +10955,7 @@ coords_dict = {
   '-51.66063,-57.672843': ['FK', 'Falkland Islands'],
   '-51.679447,-57.808527': ['FK', 'Falkland Islands'],
   '-51.687137,-57.778294': ['FK', 'Falkland Islands'],
-  '-51.672475,-57.791919': ['FK', 'Falkland Islands']
+  '-51.672475,-57.791919': ['FK', 'Falkland Islands'],
+  '10.396565,-75.541062': ['CO', 'Colombia'],
+  '10.395721,-75.54305': ['CO', 'Colombia']
 }
