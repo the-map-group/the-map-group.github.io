@@ -10,7 +10,7 @@ countries_dict = {
   'FK': ['Falkland Islands', 121, 196],
   'GB': ['United Kingdom', 975, 1249],
   'EE': ['Estonia', 51, 70],
-  'CO': ['Colombia', 56, 70],
+  'CO': ['Colombia', 62, 79],
   'AT': ['Austria', 15, 23],
   'PA': ['Panama', 79, 130],
   'CR': ['Costa Rica', 62, 73],
