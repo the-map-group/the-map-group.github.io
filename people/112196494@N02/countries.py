@@ -10,6 +10,6 @@ countries_dict = {
   'HR': ['Croatia', 14, 16],
   'CH': ['Switzerland', 4, 4],
   'CZ': ['Czech Republic', 9, 11],
-  'NL': ['Netherlands', 10, 13],
+  'NL': ['Netherlands', 12, 15],
   'BE': ['Belgium', 6, 10]
 }
