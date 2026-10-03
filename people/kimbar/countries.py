@@ -45,7 +45,7 @@ countries_dict = {
   'IN': ['India', 12, 27],
   'ZA': ['South Africa', 24, 38],
   'TZ': ['Tanzania', 3, 4],
-  'MG': ['Madagascar', 9, 13],
+  'MG': ['Madagascar', 10, 14],
   'MZ': ['Mozambique', 7, 15],
   'KE': ['Kenya', 4, 6],
   'SI': ['Slovenia', 50, 68],
