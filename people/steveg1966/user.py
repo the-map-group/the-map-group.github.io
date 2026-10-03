@@ -7,5 +7,5 @@ user_info = {
   'location': 'Ellisville, MS, USA',
   'countries': 1,
   'markers': 88,
-  'photos': 139
+  'photos': 140
 }
