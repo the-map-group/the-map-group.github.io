@@ -1,12 +1,12 @@
 countries_dict = {
   'BS': ['Bahamas', 6, 6],
-  'US': ['United States', 64, 76],
+  'US': ['United States', 65, 76],
   'CA': ['Canada', 1, 1],
   'IE': ['Ireland', 6, 6],
   'CZ': ['Czech Republic', 5, 7],
   'SK': ['Slovakia', 3, 3],
   'MA': ['Morocco', 2, 6],
-  'HU': ['Hungary', 6, 8],
+  'HU': ['Hungary', 5, 6],
   'AT': ['Austria', 5, 7],
   'DE': ['Germany', 3, 5],
   'AD': ['Andorra', 3, 6],
@@ -18,5 +18,5 @@ countries_dict = {
   'GB': ['United Kingdom', 1, 1],
   'NL': ['Netherlands', 2, 3],
   'VA': ['Vatican City', 2, 4],
-  'MX': ['Mexico', 2, 4]
+  'MX': ['Mexico', 2, 3]
 }
