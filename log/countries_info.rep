@@ -454,3 +454,25 @@
 ##### Flávio Filipini:
 
 ##### Donatella Basaglia:
+
+##### The Jacob Blanck Photography:
+--> 'CZ: Czechia' = 'Czech Republic' => 'CZ: Czech Republic'
+--> 'NL: The Netherlands' = 'Netherlands' => 'NL: Netherlands'
+--> 'RE: Réunion' = 'Reunion' => 'RE: Reunion'
+--> 'NL: The Netherlands' = 'Netherlands' => 'NL: Netherlands'
+--> 'NL: The Netherlands' = 'Netherlands' => 'NL: Netherlands'
+--> 'NL: The Netherlands' = 'Netherlands' => 'NL: Netherlands'
+--> 'RE: Réunion' = 'Reunion' => 'RE: Reunion'
+--> 'RE: Réunion' = 'Reunion' => 'RE: Reunion'
+--> 'NL: The Netherlands' = 'Netherlands' => 'NL: Netherlands'
+--> 'NL: The Netherlands' = 'Netherlands' => 'NL: Netherlands'
+--> 'BQ: Bonaire, Sint Eustatius, and Saba' = 'Bonaire' => 'BQ: Bonaire'
+--> 'NL: The Netherlands' = 'Netherlands' => 'NL: Netherlands'
+---> MapBox: (48.180852, -3.807005) => 'FR: France'
+---> MapBox: (57.163996, 24.851447) => 'LV: Latvia'
+---> MapBox: (59.437538, 24.745543) => 'EE: Estonia'
+---> MapBox: (49.501468, -1.856346) => 'FR: France'
+---> MapBox: (37.46674, -81.060132) => 'US: West Virginia'
+---> 'US: West Virginia' = 'United States' => 'US: United States'
+---> MapBox: (46.485572, 9.170675) => 'CH: Switzerland'
+---> MapBox: (48.232215, 7.36942) => 'FR: France'
