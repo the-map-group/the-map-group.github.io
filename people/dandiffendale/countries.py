@@ -1,11 +1,11 @@
 countries_dict = {
-  'IT': ['Italy', 1037, 7960],
+  'IT': ['Italy', 1039, 7973],
   'GR': ['Greece', 644, 4176],
   'EG': ['Egypt', 34, 397],
   'GB': ['United Kingdom', 58, 366],
   'FR': ['France', 2, 2],
   'US': ['United States', 258, 1533],
-  'VA': ['Vatican City', 16, 207],
+  'VA': ['Vatican City', 20, 235],
   'TR': ['Turkey', 40, 549],
   'MA': ['Morocco', 119, 592],
   'BG': ['Bulgaria', 13, 109],
