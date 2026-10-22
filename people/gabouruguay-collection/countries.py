@@ -5,9 +5,9 @@ countries_dict = {
   'CL': ['Chile', 7, 15],
   'AR': ['Argentina', 50, 147],
   'DO': ['Dominican Republic', 11, 16],
-  'ZA': ['South Africa', 60, 150],
+  'ZA': ['South Africa', 61, 152],
   'ES': ['Spain', 40, 100],
-  'JP': ['Japan', 44, 108],
-  'KR': ['South Korea', 58, 95],
-  'GR': ['Greece', 61, 100]
+  'JP': ['Japan', 45, 109],
+  'KR': ['South Korea', 58, 96],
+  'GR': ['Greece', 65, 108]
 }
