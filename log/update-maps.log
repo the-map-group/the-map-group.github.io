@@ -937,3 +937,38 @@ Added marker 11/13
 Added marker 12/13
 Added marker 13/13
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: karen_ds1101...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Karends1101'
+1649 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: m01229...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'm01229'
+40055 photos in the photostream
+107 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 106 photo(s) in 24 marker(s)
+Adding marker(s) to map...
+Map already has 12438 marker(s)
+Added 93 new photo(s) to existing markers
+6 new marker(s) will be added to the map
+Added marker 1/6
+Added marker 2/6
+Added marker 3/6
+Added marker 4/6
+Added marker 5/6
+Added marker 6/6
+Finished!
