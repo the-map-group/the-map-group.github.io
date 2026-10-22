@@ -2803,3 +2803,59 @@ Added marker 6/8
 Added marker 7/8
 Added marker 8/8
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: Jo 0405...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Jo 0405'
+1870 photos in the photostream
+2 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 0 photo(s) in 0 marker(s)
+Adding marker(s) to map...
+Map already has 186 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: amalthus...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'amalthus'
+1000 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Gaz 1984...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Gary Bond'
+21357 photos in the photostream
+33 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 33 photo(s) in 19 marker(s)
+Adding marker(s) to map...
+Map already has 13043 marker(s)
+Added 14 new photo(s) to existing markers
+11 new marker(s) will be added to the map
+Added marker 1/11
+Added marker 2/11
+Added marker 3/11
+Added marker 4/11
+Added marker 5/11
+Added marker 6/11
+Added marker 7/11
+Added marker 8/11
+Added marker 9/11
+Added marker 10/11
+Added marker 11/11
+Finished!
