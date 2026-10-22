@@ -4,5 +4,6 @@ countries_dict = {
   'AR': ['Argentina', 1, 1],
   'CL': ['Chile', 9, 10],
   'CA': ['Canada', 4, 5],
-  'SJ': ['Svalbard and Jan Mayen', 19, 19]
+  'SJ': ['Svalbard and Jan Mayen', 19, 19],
+  'GB': ['United Kingdom', 6, 7]
 }

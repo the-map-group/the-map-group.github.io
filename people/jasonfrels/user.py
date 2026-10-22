@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm8.staticflickr.com/7705/buddyicons/76199006@N05_r.jpg',
   'url': 'https://www.flickr.com/photos/jasonfrels/',
   'location': 'USA',
-  'countries': 6,
-  'markers': 165,
-  'photos': 193
+  'countries': 7,
+  'markers': 171,
+  'photos': 200
 }
