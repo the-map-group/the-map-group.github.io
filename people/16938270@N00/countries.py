@@ -1,5 +1,5 @@
 countries_dict = {
-  'AU': ['Australia', 628, 682],
+  'AU': ['Australia', 638, 693],
   'TO': ['Tonga', 52, 52],
   'CN': ['China', 3, 3],
   'US': ['United States', 13, 13],
@@ -18,7 +18,7 @@ countries_dict = {
   'NF': ['Norfolk Island', 7, 7],
   'GL': ['Greenland', 2, 2],
   'ES': ['Spain', 1, 1],
-  'PK': ['Pakistan', 7, 7],
+  'PK': ['Pakistan', 8, 10],
   'AE': ['United Arab Emirates', 1, 1],
   'OM': ['Oman', 2, 2],
   'CA': ['Canada', 1, 1],
