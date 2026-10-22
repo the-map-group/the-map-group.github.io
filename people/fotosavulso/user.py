@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/fotosavulso/',
   'location': '',
   'countries': 11,
-  'markers': 587,
-  'photos': 635
+  'markers': 588,
+  'photos': 636
 }
