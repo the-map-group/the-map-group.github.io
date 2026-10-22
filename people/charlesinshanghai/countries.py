@@ -12,7 +12,7 @@ countries_dict = {
   'DE': ['Germany', 3, 5],
   'TR': ['Turkey', 2, 2],
   'US': ['United States', 2, 2],
-  'AU': ['Australia', 2, 7],
+  'AU': ['Australia', 2, 9],
   'EG': ['Egypt', 2, 2],
   'CA': ['Canada', 1, 1],
   'NO': ['Norway', 1, 3]
