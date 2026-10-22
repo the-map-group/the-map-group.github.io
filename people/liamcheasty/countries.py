@@ -1,6 +1,6 @@
 countries_dict = {
-  'IE': ['Ireland', 805, 6353],
-  'FR': ['France', 411, 1758],
+  'IE': ['Ireland', 808, 6368],
+  'FR': ['France', 412, 1771],
   'DE': ['Germany', 392, 1581],
   'ZA': ['South Africa', 8, 97],
   'CH': ['Switzerland', 105, 389],
@@ -26,6 +26,6 @@ countries_dict = {
   'LV': ['Latvia', 1, 22],
   'BE': ['Belgium', 13, 21],
   'MA': ['Morocco', 107, 299],
-  'PT': ['Portugal', 25, 131],
+  'PT': ['Portugal', 34, 160],
   'NO': ['Norway', 183, 605]
 }
