@@ -4,8 +4,8 @@ user_info = {
   'name': 'Flavio Filipini',
   'avatar': 'https://farm9.staticflickr.com/8394/buddyicons/8099310@N07_r.jpg',
   'url': 'https://www.flickr.com/photos/flaviofilipini/',
-  'location': 'São Paulo',
+  'location': 'São Paulo, Brasil',
   'countries': 4,
-  'markers': 135,
-  'photos': 159
+  'markers': 143,
+  'photos': 167
 }
