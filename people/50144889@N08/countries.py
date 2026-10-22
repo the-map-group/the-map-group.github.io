@@ -1,10 +1,10 @@
 countries_dict = {
-  'GB': ['United Kingdom', 1989, 2172],
+  'GB': ['United Kingdom', 1993, 2179],
   'MT': ['Malta', 40, 42],
   'IT': ['Italy', 31, 31],
   'GR': ['Greece', 28, 28],
   'HR': ['Croatia', 15, 15],
-  'MX': ['Mexico', 111, 124],
+  'MX': ['Mexico', 112, 125],
   'FR': ['France', 21, 24],
   'US': ['United States', 64, 72],
   'VI': ['U.S. Virgin Islands', 3, 3],
