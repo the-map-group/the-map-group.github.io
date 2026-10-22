@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/airscan/',
   'location': 'HØNEFOSS, Norway',
   'countries': 13,
-  'markers': 434,
-  'photos': 564
+  'markers': 449,
+  'photos': 579
 }
