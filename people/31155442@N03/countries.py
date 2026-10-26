@@ -11,7 +11,7 @@ countries_dict = {
   'GB': ['United Kingdom', 976, 1250],
   'EE': ['Estonia', 51, 70],
   'CO': ['Colombia', 89, 133],
-  'AT': ['Austria', 16, 25],
+  'AT': ['Austria', 16, 27],
   'PA': ['Panama', 79, 130],
   'CR': ['Costa Rica', 62, 73],
   'CL': ['Chile', 17, 39],
