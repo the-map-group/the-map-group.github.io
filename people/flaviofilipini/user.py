@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/flaviofilipini/',
   'location': 'São Paulo, Brasil',
   'countries': 4,
-  'markers': 145,
-  'photos': 169
+  'markers': 146,
+  'photos': 170
 }
