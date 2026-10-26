@@ -12961,7 +12961,7 @@ locations = [
     [[14.534666, 52.405953], 'DE', '15029120@N00', [['55272360874', 'https://live.staticflickr.com/65535/55272360874_5d6e04b2af_s.jpg']], 1],
     [[14.533496, 52.405606], 'DE', '15029120@N00', [['55271388713', 'https://live.staticflickr.com/65535/55271388713_91eba87c62_s.jpg']], 1],
     [[14.533957, 52.406018], 'DE', '15029120@N00', [['55271806375', 'https://live.staticflickr.com/65535/55271806375_fedbf89084_s.jpg']], 1],
-    [[-8.40292, 43.368432], 'ES', '51839301@N00', [['55568211099', 'https://live.staticflickr.com/65535/55568211099_5c6d274637_s.jpg']], 1],
+    [[-8.40292, 43.368432], 'ES', '51839301@N00', [['55568211099', 'https://live.staticflickr.com/65535/55568211099_5c6d274637_s.jpg'], ['55611711067', 'https://live.staticflickr.com/65535/55611711067_82e6c3b645_s.jpg']], 2],
     [[9.008205, 46.003783], 'CH', '121195437@N06', [['55557933487', 'https://live.staticflickr.com/65535/55557933487_4d98bca901_s.jpg']], 1],
     [[6.889144, 45.689208], 'IT', '121195437@N06', [['55558947196', 'https://live.staticflickr.com/65535/55558947196_b901676337_s.jpg']], 1],
     [[4.937166, 52.373383], 'NL', '121195437@N06', [['55558941341', 'https://live.staticflickr.com/65535/55558941341_02f67e7f0c_s.jpg']], 1],
@@ -13410,7 +13410,7 @@ locations = [
     [[135.501101, 34.669102], 'JP', '39908901@N06', [['55606337289', 'https://live.staticflickr.com/65535/55606337289_cd8d64acd8_s.jpg']], 1],
     [[135.496659, 34.669561], 'JP', '39908901@N06', [['55606258243', 'https://live.staticflickr.com/65535/55606258243_38497fd25c_s.jpg']], 1],
     [[8.318766, 40.569855], 'IT', '129342869@N08', [['55607728056', 'https://live.staticflickr.com/65535/55607728056_acddbb874c_s.jpg']], 1],
-    [[-7.433799, 39.291323], 'PT', '43413480@N07', [['55287122864', 'https://live.staticflickr.com/65535/55287122864_5795ed548e_s.jpg'], ['55285966402', 'https://live.staticflickr.com/65535/55285966402_86a95efd56_s.jpg'], ['55286888426', 'https://live.staticflickr.com/65535/55286888426_68bd5b2559_s.jpg'], ['55285966377', 'https://live.staticflickr.com/65535/55285966377_6d5ffa59ff_s.jpg'], ['55287296590', 'https://live.staticflickr.com/65535/55287296590_f112eb9581_s.jpg'], ['55287296585', 'https://live.staticflickr.com/65535/55287296585_de63a9f7df_s.jpg'], ['55285966332', 'https://live.staticflickr.com/65535/55285966332_143620f43c_s.jpg'], ['55287032688', 'https://live.staticflickr.com/65535/55287032688_11acc7d22b_s.jpg'], ['55285966312', 'https://live.staticflickr.com/65535/55285966312_f0d363f2b8_s.jpg'], ['55285966307', 'https://live.staticflickr.com/65535/55285966307_2c947700c5_s.jpg']], 10],
+    [[-7.433799, 39.291323], 'PT', '43413480@N07', [['55287122864', 'https://live.staticflickr.com/65535/55287122864_5795ed548e_s.jpg'], ['55285966402', 'https://live.staticflickr.com/65535/55285966402_86a95efd56_s.jpg'], ['55286888426', 'https://live.staticflickr.com/65535/55286888426_68bd5b2559_s.jpg'], ['55285966377', 'https://live.staticflickr.com/65535/55285966377_6d5ffa59ff_s.jpg'], ['55287296590', 'https://live.staticflickr.com/65535/55287296590_f112eb9581_s.jpg'], ['55287296585', 'https://live.staticflickr.com/65535/55287296585_de63a9f7df_s.jpg'], ['55285966332', 'https://live.staticflickr.com/65535/55285966332_143620f43c_s.jpg'], ['55287032688', 'https://live.staticflickr.com/65535/55287032688_11acc7d22b_s.jpg'], ['55285966312', 'https://live.staticflickr.com/65535/55285966312_f0d363f2b8_s.jpg'], ['55285966307', 'https://live.staticflickr.com/65535/55285966307_2c947700c5_s.jpg'], ['55287032643', 'https://live.staticflickr.com/65535/55287032643_701576839a_s.jpg'], ['55286888281', 'https://live.staticflickr.com/65535/55286888281_6525b9d275_s.jpg'], ['55287032593', 'https://live.staticflickr.com/65535/55287032593_03df7463d6_s.jpg'], ['55287122569', 'https://live.staticflickr.com/65535/55287122569_26548c9b62_s.jpg'], ['55285966232', 'https://live.staticflickr.com/65535/55285966232_08b3a66575_s.jpg']], 15],
     [[-5.774093, 40.388285], 'ES', '163799240@N04', [['55137694116', 'https://live.staticflickr.com/65535/55137694116_321cb15a3e_s.jpg']], 1],
     [[174.783124, -37.000787], 'NZ', '9060404@N06', [['31598347990', 'https://live.staticflickr.com/678/31598347990_855f18e7b0_s.jpg']], 1],
     [[2.152245, 41.370523], 'ES', '79721788@N00', [['55607690321', 'https://live.staticflickr.com/65535/55607690321_f213c544bf_s.jpg']], 1],
@@ -13458,5 +13458,14 @@ locations = [
     [[6.887391, 45.878788], 'FR', '121195437@N06', [['55603264829', 'https://live.staticflickr.com/65535/55603264829_4c43bf8ffc_s.jpg']], 1],
     [[9.008205, 46.003786], 'CH', '121195437@N06', [['55603473220', 'https://live.staticflickr.com/65535/55603473220_a9b06f9d14_s.jpg']], 1],
     [[3.2213, 51.206713], 'BE', '121195437@N06', [['55602045762', 'https://live.staticflickr.com/65535/55602045762_d195829dd9_s.jpg']], 1],
-    [[3.225863, 51.198666], 'BE', '121195437@N06', [['55603059831', 'https://live.staticflickr.com/65535/55603059831_94d1db1a76_s.jpg']], 1]
+    [[3.225863, 51.198666], 'BE', '121195437@N06', [['55603059831', 'https://live.staticflickr.com/65535/55603059831_94d1db1a76_s.jpg']], 1],
+    [[13.014035, 52.497792], 'DE', '15029120@N00', [['55279818081', 'https://live.staticflickr.com/65535/55279818081_85cb18f05e_s.jpg']], 1],
+    [[13.010753, 52.498275], 'DE', '15029120@N00', [['55277331387', 'https://live.staticflickr.com/65535/55277331387_0a644974c3_s.jpg']], 1],
+    [[13.017725, 52.501998], 'DE', '15029120@N00', [['55279666172', 'https://live.staticflickr.com/65535/55279666172_925860e0f3_s.jpg']], 1],
+    [[13.014358, 52.497269], 'DE', '15029120@N00', [['55279007442', 'https://live.staticflickr.com/65535/55279007442_7bb5abb5d3_s.jpg']], 1],
+    [[12.083973, 46.697051], 'IT', '162684392@N05', [['55610820678', 'https://live.staticflickr.com/65535/55610820678_a7bbcfdefe_s.jpg']], 1],
+    [[11.25628, 43.772999], 'IT', '88321829@N03', [['55610735657', 'https://live.staticflickr.com/65535/55610735657_692746fbf7_s.jpg']], 1],
+    [[152.280669, -32.059987], 'AU', '97974874@N00', [['55612379428', 'https://live.staticflickr.com/65535/55612379428_67babdb347_s.jpg']], 1],
+    [[-0.550103, 51.67953], 'GB', '14463685@N07', [['55611599903', 'https://live.staticflickr.com/65535/55611599903_b736006cb4_s.jpg']], 1],
+    [[-7.001953, 52.277295], 'IE', '43413480@N07', [['52220803584', 'https://live.staticflickr.com/65535/52220803584_2692c48994_s.jpg']], 1]
 ]
