@@ -1,9 +1,9 @@
 countries_dict = {
-  'ES': ['Spain', 772, 2986],
+  'ES': ['Spain', 773, 2988],
   'CN': ['China', 580, 2443],
   'IT': ['Italy', 204, 438],
   'VA': ['Vatican City', 33, 187],
-  'SE': ['Sweden', 616, 1284],
+  'SE': ['Sweden', 619, 1287],
   'US': ['United States', 669, 1081],
   'FI': ['Finland', 43, 65],
   'FR': ['France', 2, 257],
