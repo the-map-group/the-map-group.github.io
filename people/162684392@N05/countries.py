@@ -1,6 +1,6 @@
 countries_dict = {
   'IT': ['Italy', 214, 297],
-  'DE': ['Germany', 268, 338],
+  'DE': ['Germany', 268, 339],
   'AT': ['Austria', 100, 124],
   'GR': ['Greece', 10, 11],
   'CH': ['Switzerland', 23, 30],
