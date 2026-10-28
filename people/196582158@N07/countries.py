@@ -7,5 +7,5 @@ countries_dict = {
   'ES': ['Spain', 13, 15],
   'IT': ['Italy', 30, 36],
   'SE': ['Sweden', 1, 1],
-  'AT': ['Austria', 43, 49]
+  'AT': ['Austria', 44, 50]
 }
