@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/31155442@N03/',
   'location': 'Hamilton, Canada',
   'countries': 61,
-  'markers': 15114,
-  'photos': 23282
+  'markers': 15119,
+  'photos': 23289
 }
