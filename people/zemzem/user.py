@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/zemzem/',
   'location': 'France',
   'countries': 10,
-  'markers': 334,
-  'photos': 468
+  'markers': 335,
+  'photos': 469
 }
