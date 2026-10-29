@@ -36,7 +36,7 @@ countries_dict = {
   'GT': ['Guatemala', 80, 112],
   'HR': ['Croatia', 51, 70],
   'GR': ['Greece', 166, 266],
-  'TC': ['Turks and Caicos Islands', 62, 96],
+  'TC': ['Turks and Caicos Islands', 63, 104],
   'DO': ['Dominican Republic', 33, 64],
   'BQ': ['Bonaire', 89, 148],
   'CW': ['Curaçao', 60, 88],
