@@ -7,5 +7,5 @@ user_info = {
   'location': 'Mümliswil, Schweiz/Switzerland',
   'countries': 9,
   'markers': 777,
-  'photos': 952
+  'photos': 953
 }
