@@ -7,5 +7,5 @@ user_info = {
   'location': 'Jenison Michigan, United States',
   'countries': 11,
   'markers': 957,
-  'photos': 3254
+  'photos': 3256
 }
