@@ -7,5 +7,5 @@ user_info = {
   'location': 'Orono, Maine, USA',
   'countries': 10,
   'markers': 1274,
-  'photos': 1877
+  'photos': 1878
 }
