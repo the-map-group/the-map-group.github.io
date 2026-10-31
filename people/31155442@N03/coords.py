@@ -11020,5 +11020,9 @@ coords_dict = {
   '12.215406,-68.27588': ['BQ', 'Bonaire'],
   '12.170753,-68.277179': ['BQ', 'Bonaire'],
   '12.149294,-68.276792': ['BQ', 'Bonaire'],
-  '21.42962,-71.146456': ['TC', 'Turks and Caicos Islands']
+  '21.42962,-71.146456': ['TC', 'Turks and Caicos Islands'],
+  '21.467646,-71.141606': ['TC', 'Turks and Caicos Islands'],
+  '21.442004,-71.14829': ['TC', 'Turks and Caicos Islands'],
+  '21.430379,-71.145021': ['TC', 'Turks and Caicos Islands'],
+  '21.42963,-71.143698': ['TC', 'Turks and Caicos Islands']
 }
