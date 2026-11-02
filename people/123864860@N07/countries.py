@@ -6,7 +6,7 @@ countries_dict = {
   'MM': ['Myanmar', 468, 568],
   'CA': ['Canada', 161, 240],
   'GU': ['Guam', 35, 39],
-  'ZA': ['South Africa', 226, 318],
+  'ZA': ['South Africa', 226, 319],
   'IN': ['India', 133, 239],
   'PW': ['Palau', 129, 138],
   'GL': ['Greenland', 130, 164],
