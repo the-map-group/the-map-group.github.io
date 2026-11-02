@@ -11027,5 +11027,10 @@ coords_dict = {
   '21.42963,-71.143698': ['TC', 'Turks and Caicos Islands'],
   '21.440476,-71.138559': ['TC', 'Turks and Caicos Islands'],
   '21.425845,-71.146931': ['TC', 'Turks and Caicos Islands'],
-  '21.429411,-71.143977': ['TC', 'Turks and Caicos Islands']
+  '21.429411,-71.143977': ['TC', 'Turks and Caicos Islands'],
+  '12.511916,-70.053062': ['AW', 'Aruba'],
+  '12.503767,-70.006885': ['AW', 'Aruba'],
+  '12.566941,-70.046406': ['AW', 'Aruba'],
+  '12.573234,-70.045087': ['AW', 'Aruba'],
+  '12.576596,-70.062932': ['AW', 'Aruba']
 }
