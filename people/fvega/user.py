@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/fvega/',
   'location': 'Sa Rapita, Spain',
   'countries': 13,
-  'markers': 3845,
-  'photos': 6141
+  'markers': 3846,
+  'photos': 6143
 }
