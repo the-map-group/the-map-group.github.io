@@ -2761,3 +2761,74 @@ Map already has 261 marker(s)
 Added 1 new photo(s) to existing markers
 No new markers were added to the map
 Finished!
+Commiting map data...
+Done!
+Getting member information...
+Done!
+
+##### Updating map for member: INMSpace...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Eduard Neyburg'
+251 photos in the photostream
+2 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 0 photo(s) in 0 marker(s)
+Adding marker(s) to map...
+Map already has 106 marker(s)
+No new markers were added to the map
+Finished!
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: Wayloncash...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Wayloncash'
+73291 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: haniarodak...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'Hanna Rodak'
+12 photos in the photostream
+No changes on number of photos since last run.
+Aborted.
+Everything is up-to-date. Nothing to commit!
+Getting member information...
+Done!
+
+##### Updating map for member: spelio...
+Getting locations and countries...
+Starting 'Flickr Map' script...
+Generating map for 'spelio'
+72326 photos in the photostream
+16 new photo(s) added
+Extracting photo coordinates and ids...
+Batch 1/1 | 16 photo(s) in 16 marker(s)
+Adding marker(s) to map...
+Map already has 9957 marker(s)
+16 new marker(s) will be added to the map
+Added marker 1/16
+Added marker 2/16
+Added marker 3/16
+Added marker 4/16
+Added marker 5/16
+Added marker 6/16
+Added marker 7/16
+Added marker 8/16
+Added marker 9/16
+Added marker 10/16
+Added marker 11/16
+Added marker 12/16
+Added marker 13/16
+Added marker 14/16
+Added marker 15/16
+Added marker 16/16
+Finished!
