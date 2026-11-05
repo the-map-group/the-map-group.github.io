@@ -40,7 +40,7 @@ countries_dict = {
   'DO': ['Dominican Republic', 33, 64],
   'BQ': ['Bonaire', 89, 148],
   'CW': ['Curaçao', 60, 88],
-  'AW': ['Aruba', 68, 100],
+  'AW': ['Aruba', 71, 108],
   'IE': ['Ireland', 53, 69],
   'VA': ['Vatican City', 25, 31],
   'BE': ['Belgium', 60, 66],
