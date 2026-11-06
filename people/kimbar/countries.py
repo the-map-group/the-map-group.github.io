@@ -1,7 +1,7 @@
 countries_dict = {
   'GB': ['United Kingdom', 328, 424],
   'CH': ['Switzerland', 40, 55],
-  'US': ['United States', 4189, 5018],
+  'US': ['United States', 4193, 5023],
   'IT': ['Italy', 361, 547],
   'MX': ['Mexico', 267, 363],
   'ES': ['Spain', 154, 239],
