@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/archstanton/',
   'location': '',
   'countries': 37,
-  'markers': 46370,
-  'photos': 55529
+  'markers': 46404,
+  'photos': 55566
 }
