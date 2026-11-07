@@ -3,7 +3,7 @@ countries_dict = {
   'TH': ['Thailand', 6, 9],
   'NL': ['Netherlands', 14, 18],
   'US': ['United States', 873, 1281],
-  'CN': ['China', 373, 501],
+  'CN': ['China', 374, 502],
   'MY': ['Malaysia', 418, 558],
   'JP': ['Japan', 47, 61],
   'VA': ['Vatican City', 141, 454],
