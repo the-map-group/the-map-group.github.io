@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/renato59/',
   'location': 'Barcelona, Spain',
   'countries': 4,
-  'markers': 487,
-  'photos': 1649
+  'markers': 488,
+  'photos': 1650
 }
