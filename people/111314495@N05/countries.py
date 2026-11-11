@@ -44,7 +44,7 @@ countries_dict = {
   'CR': ['Costa Rica', 7, 67],
   'AU': ['Australia', 143, 318],
   'NZ': ['New Zealand', 21, 23],
-  'CL': ['Chile', 45, 61],
+  'CL': ['Chile', 56, 83],
   'CH': ['Switzerland', 147, 173],
   'GL': ['Greenland', 9, 14],
   'HR': ['Croatia', 139, 184],
