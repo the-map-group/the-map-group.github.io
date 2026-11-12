@@ -9,7 +9,7 @@ countries_dict = {
   'IE': ['Ireland', 209, 256],
   'NO': ['Norway', 193, 246],
   'SE': ['Sweden', 136, 172],
-  'LV': ['Latvia', 23, 30],
-  'EE': ['Estonia', 26, 29],
+  'LV': ['Latvia', 24, 31],
+  'EE': ['Estonia', 29, 32],
   'LT': ['Lithuania', 1, 1]
 }
