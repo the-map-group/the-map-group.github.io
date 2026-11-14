@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/ignaciomjimenez/',
   'location': 'Úbeda, España',
   'countries': 6,
-  'markers': 1180,
-  'photos': 1551
+  'markers': 1181,
+  'photos': 1552
 }
