@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/62425933@N04/',
   'location': 'Crystal Lake, Illinois, USA',
   'countries': 2,
-  'markers': 2447,
-  'photos': 3898
+  'markers': 2448,
+  'photos': 3899
 }
