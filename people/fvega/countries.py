@@ -10,6 +10,6 @@ countries_dict = {
   'NO': ['Norway', 193, 246],
   'SE': ['Sweden', 136, 172],
   'LV': ['Latvia', 28, 37],
-  'EE': ['Estonia', 30, 34],
+  'EE': ['Estonia', 30, 36],
   'LT': ['Lithuania', 1, 1]
 }
