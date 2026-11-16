@@ -2,8 +2,8 @@ Started backup of the new data...
 Copying data...
 Commiting data to git...
 Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
-[main (root-commit) f325de4] Backup commit
- 5225 files changed, 1385282 insertions(+)
+[main (root-commit) 3d6c50f] Backup commit
+ 5222 files changed, 1381054 insertions(+)
  create mode 100644 CNAME
  create mode 100644 README.md
  create mode 100644 _gitignore
@@ -1617,9 +1617,6 @@ Initialized empty Git repository in /home/pi/github/the-map-group.backup/.git/
  create mode 100644 people/191886689@N08/photos/index.html
  create mode 100755 people/191886689@N08/update-countries-map-data.py
  create mode 100644 people/191886689@N08/user.py
- create mode 100644 people/192276370@N06/__pycache__/countries.cpython-311.pyc
- create mode 100644 people/192276370@N06/__pycache__/countries_members.cpython-311.pyc
- create mode 100644 people/192276370@N06/__pycache__/user.cpython-311.pyc
  create mode 120000 people/192276370@N06/api_credentials.py
  create mode 100644 people/192276370@N06/config.py
  create mode 100644 people/192276370@N06/coords.py
