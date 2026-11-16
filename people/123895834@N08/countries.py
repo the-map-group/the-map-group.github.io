@@ -9,6 +9,6 @@ countries_dict = {
   'BZ': ['Belize', 6, 6],
   'MX': ['Mexico', 12, 13],
   'KY': ['Cayman Islands', 5, 5],
-  'IT': ['Italy', 165, 178],
+  'IT': ['Italy', 166, 179],
   'DE': ['Germany', 13, 14]
 }
