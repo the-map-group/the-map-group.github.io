@@ -1,13 +1,13 @@
 countries_dict = {
   'CA': ['Canada', 19, 42],
   'US': ['United States', 124, 591],
-  'FR': ['France', 694, 873],
+  'FR': ['France', 694, 874],
   'CH': ['Switzerland', 444, 584],
   'LV': ['Latvia', 2, 2],
   'EE': ['Estonia', 1, 1],
   'LT': ['Lithuania', 3, 4],
   'DE': ['Germany', 1875, 2888],
-  'IT': ['Italy', 106, 130],
+  'IT': ['Italy', 106, 131],
   'SM': ['San Marino', 1, 2],
   'MC': ['Monaco', 1, 1],
   'AT': ['Austria', 4, 4],
@@ -22,9 +22,9 @@ countries_dict = {
   'HR': ['Croatia', 4, 11],
   'GR': ['Greece', 9, 13],
   'SE': ['Sweden', 382, 486],
-  'NL': ['Netherlands', 457, 563],
+  'NL': ['Netherlands', 458, 564],
   'DK': ['Denmark', 67, 70],
   'GB': ['United Kingdom', 135, 170],
   'FI': ['Finland', 249, 313],
-  'BE': ['Belgium', 53, 73]
+  'BE': ['Belgium', 54, 74]
 }
