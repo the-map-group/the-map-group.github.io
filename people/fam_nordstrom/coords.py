@@ -5186,5 +5186,7 @@ coords_dict = {
   '36.089303,-5.7756': ['ES', 'Spain'],
   '50.082129,14.397584': ['CZ', 'Czech Republic'],
   '50.082066,14.39709': ['CZ', 'Czech Republic'],
-  '50.082218,14.398195': ['CZ', 'Czech Republic']
+  '50.082218,14.398195': ['CZ', 'Czech Republic'],
+  '50.083388,14.396393': ['CZ', 'Czech Republic'],
+  '50.083044,14.3962': ['CZ', 'Czech Republic']
 }
