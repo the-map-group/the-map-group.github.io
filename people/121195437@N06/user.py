@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/121195437@N06/',
   'location': '',
   'countries': 28,
-  'markers': 5771,
-  'photos': 8253
+  'markers': 5774,
+  'photos': 8256
 }
