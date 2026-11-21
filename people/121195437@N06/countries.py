@@ -1,8 +1,8 @@
 countries_dict = {
   'CA': ['Canada', 19, 42],
   'US': ['United States', 124, 591],
-  'FR': ['France', 697, 877],
-  'CH': ['Switzerland', 447, 587],
+  'FR': ['France', 699, 879],
+  'CH': ['Switzerland', 447, 588],
   'LV': ['Latvia', 2, 2],
   'EE': ['Estonia', 1, 1],
   'LT': ['Lithuania', 3, 4],
@@ -26,5 +26,5 @@ countries_dict = {
   'DK': ['Denmark', 67, 70],
   'GB': ['United Kingdom', 135, 170],
   'FI': ['Finland', 249, 313],
-  'BE': ['Belgium', 57, 77]
+  'BE': ['Belgium', 58, 78]
 }
