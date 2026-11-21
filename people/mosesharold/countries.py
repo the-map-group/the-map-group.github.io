@@ -28,7 +28,7 @@ countries_dict = {
   'ZA': ['South Africa', 235, 381],
   'IE': ['Ireland', 13, 16],
   'PE': ['Peru', 30, 50],
-  'CR': ['Costa Rica', 5, 15],
+  'CR': ['Costa Rica', 6, 16],
   'AS': ['American Samoa', 8, 8],
   'NA': ['Namibia', 3, 9],
   'NC': ['New Caledonia', 1, 1],
