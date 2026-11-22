@@ -4,5 +4,6 @@ countries_dict = {
   'VN': ['Vietnam', 2, 2],
   'GL': ['Greenland', 1, 1],
   'AU': ['Australia', 1, 1],
-  'JP': ['Japan', 1, 1]
+  'JP': ['Japan', 1, 1],
+  'DE': ['Germany', 1, 1]
 }
