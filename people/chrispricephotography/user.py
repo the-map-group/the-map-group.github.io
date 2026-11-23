@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/chrispricephotography/',
   'location': 'Orono, Maine, USA',
   'countries': 10,
-  'markers': 1283,
-  'photos': 1895
+  'markers': 1284,
+  'photos': 1897
 }
