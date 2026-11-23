@@ -6,6 +6,6 @@ user_info = {
   'url': 'https://www.flickr.com/photos/charlesinshanghai/',
   'location': 'The Netherlands',
   'countries': 17,
-  'markers': 261,
-  'photos': 390
+  'markers': 262,
+  'photos': 391
 }
