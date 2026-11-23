@@ -4,7 +4,7 @@ countries_dict = {
   'DO': ['Dominican Republic', 80, 152],
   'DJ': ['Djibouti', 42, 69],
   'MM': ['Myanmar', 468, 568],
-  'CA': ['Canada', 161, 240],
+  'CA': ['Canada', 168, 249],
   'GU': ['Guam', 35, 39],
   'ZA': ['South Africa', 226, 319],
   'IN': ['India', 134, 240],
