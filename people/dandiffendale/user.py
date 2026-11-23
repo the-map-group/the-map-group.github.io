@@ -5,7 +5,7 @@ user_info = {
   'avatar': 'https://farm8.staticflickr.com/7282/buddyicons/7945858@N08_r.jpg',
   'url': 'https://www.flickr.com/photos/dandiffendale/',
   'location': 'Pisa, Italy',
-  'countries': 17,
-  'markers': 2361,
-  'photos': 16813
+  'countries': 18,
+  'markers': 2363,
+  'photos': 16828
 }
