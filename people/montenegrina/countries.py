@@ -5,7 +5,7 @@ countries_dict = {
   'PT': ['Portugal', 14, 22],
   'ME': ['Montenegro', 856, 956],
   'ES': ['Spain', 117, 136],
-  'HR': ['Croatia', 56, 63],
+  'HR': ['Croatia', 57, 64],
   'CZ': ['Czech Republic', 52, 61],
   'GR': ['Greece', 86, 97],
   'AL': ['Albania', 4, 4],
