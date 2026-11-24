@@ -1,6 +1,6 @@
 countries_dict = {
   'DO': ['Dominican Republic', 4, 18],
-  'US': ['United States', 2866, 3754],
+  'US': ['United States', 2867, 3755],
   'PR': ['Puerto Rico', 60, 124],
   'VI': ['U.S. Virgin Islands', 51, 66],
   'CU': ['Cuba', 8, 9],
