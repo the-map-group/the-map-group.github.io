@@ -18,7 +18,7 @@ countries_dict = {
   'SG': ['Singapore', 86, 107],
   'RU': ['Russia', 123, 204],
   'TH': ['Thailand', 78, 88],
-  'FR': ['France', 241, 306],
+  'FR': ['France', 246, 316],
   'MX': ['Mexico', 61, 70],
   'CN': ['China', 285, 456],
   'BS': ['Bahamas', 34, 44],
