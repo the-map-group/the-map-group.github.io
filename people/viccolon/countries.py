@@ -1,7 +1,7 @@
 countries_dict = {
   'TH': ['Thailand', 17, 36],
   'ES': ['Spain', 12, 26],
-  'RU': ['Russia', 45, 108],
+  'RU': ['Russia', 46, 109],
   'HU': ['Hungary', 2, 3],
   'IT': ['Italy', 11, 30],
   'IL': ['Israel', 4, 6],
