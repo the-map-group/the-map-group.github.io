@@ -10,5 +10,5 @@ countries_dict = {
   'TR': ['Turkey', 2, 2],
   'KE': ['Kenya', 342, 635],
   'QA': ['Qatar', 6, 7],
-  'BW': ['Botswana', 6, 6]
+  'BW': ['Botswana', 9, 9]
 }
